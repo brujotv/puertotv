@@ -2,7 +2,7 @@
 
 <item>
 <title>Los 40 principales</title>        
-http://17873.live.streamtheworld.com/LOS40_SC
+#EXTINF:-1 http://17873.live.streamtheworld.com/LOS40_SC
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
