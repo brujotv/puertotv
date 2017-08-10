@@ -32,7 +32,7 @@
             <thumbnail>http://static.programacion-tdt.com/imgAPP/Antena_3.min.png</thumbnail>
         </item>
                   <item> 
-            <title>Telecinco ES</title> 
+            <title>Telecinco</title> 
             <link>plugin://plugin.video.f4mTester/?url=http://portal.geniptv.com:8080/live/julia/julia/1082.ts&amp;streamtype=TSDOWNLOADER&amp;name=Telecinco ES</link> 
             <thumbnail>http://verdirectotv.tv/logos/telecinco.png</thumbnail>
         </item> 
