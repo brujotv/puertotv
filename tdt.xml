@@ -4,133 +4,133 @@
 <title>Tve 1</title>        
 <urlsolve>http://hlsackdn_gl7-lh.akamaihd.net/i/hlslive_1@439316/index_1500_av-b.m3u8</urlsolve>
 <thumbnail>http://static.programacion-tdt.com/imgAPP/TVE1.min.png</thumbnail>
-<fanart></fanart>
+<fanart>https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/EuroEspa%C3%B1a.svg/1200px-EuroEspa%C3%B1a.svg.png</fanart>
 </item>
 
 <item>
 <title>Antena 3 HD</title>        
 <urlsolve>http://a3live-lh.akamaihd.net/i/antena3_1@35248/master.m3u8</urlsolve>
 <thumbnail>http://static.programacion-tdt.com/imgAPP/Antena_3.min.png</thumbnail>
-<fanart></fanart>
+<fanart>https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/EuroEspa%C3%B1a.svg/1200px-EuroEspa%C3%B1a.svg.png</fanart>
 </item>
 
 <item>
 <title>La sexta HD</title>        
 <urlsolve>http://a3live-lh.akamaihd.net/i/lasexta_1@35272/master.m3u8</urlsolve>
 <thumbnail>http://ocio.diariodemallorca.es/img_contenido/estaticos/canales/24.jpg</thumbnail>
-<fanart></fanart>
+<fanart>https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/EuroEspa%C3%B1a.svg/1200px-EuroEspa%C3%B1a.svg.png</fanart>
 </item>
 
 <item>
 <title>Mega HD</title>        
 <urlsolve>http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/index_2_av-b.m3u8</urlsolve>
 <thumbnail>http://static.programacion-tdt.com/imgAPP/Mega.min.png</thumbnail>
-<fanart></fanart>
+<fanart>https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/EuroEspa%C3%B1a.svg/1200px-EuroEspa%C3%B1a.svg.png</fanart>
 </item>
 
 <item>
 <title>Atreseries HD</title>        
 <urlsolve>http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/index_4_av-b.m3u8?sd=10&rebase=on</urlsolve>
 <thumbnail>http://atreseries.atresmedia.com/public/img/a3series.png</thumbnail>
-<fanart></fanart>
+<fanart>https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/EuroEspa%C3%B1a.svg/1200px-EuroEspa%C3%B1a.svg.png</fanart>
 </item>
 
 <item>
 <title>Neox HD</title>        
 <urlsolve>http://a3live-lh.akamaihd.net/i/nxhds/geoneox_1@35261/master.m3u8</urlsolve>
 <thumbnail>https://pbs.twimg.com/profile_images/509064688550694912/WY6A_PqH_normal.jpeg</thumbnail>
-<fanart></fanart>
+<fanart>https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/EuroEspa%C3%B1a.svg/1200px-EuroEspa%C3%B1a.svg.png</fanart>
 </item>
 
 <item>
 <title>Nova HD</title>        
 <urlsolvehttp://a3live-lh.akamaihd.net/i/nvhds/geonova_1@379404/index_4_av-b.m3u8?sd=10&amp;rebase=on></urlsolve>
 <thumbnail>http://www.mundoplus.tv/img/f25b812e6e6095afe68d44feb7d119ad</thumbnail>
-<fanart></fanart>
+<fanart>https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/EuroEspa%C3%B1a.svg/1200px-EuroEspa%C3%B1a.svg.png</fanart>
 </item>
 
 <item>
 <title>Life tv</title>        
 <urlsolve>http://109.236.91.150:8080/A1:LifeTV/playlist.m3u8</urlsolve>
 <thumbnail>https://i.ytimg.com/vi/CcY76rUYz2k/mqdefault.jpg</thumbnail>
-<fanart></fanart>
+<fanart>https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/EuroEspa%C3%B1a.svg/1200px-EuroEspa%C3%B1a.svg.png</fanart>
 </item>
 
 <item>
 <title>Ten</title>        
 <urlsolve>Http://88.148.69.129:9090/play/a022</urlsolve>
 <thumbnail>http://www1.movistarplus.es/recorte/m-NEO/canal/TEN</thumbnail>
-<fanart></fanart>
+<fanart>https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/EuroEspa%C3%B1a.svg/1200px-EuroEspa%C3%B1a.svg.png</fanart>
 </item>
 
 <item>
 <title>101 españa</title>        
 <urlsolve>http://cls.todostreaming.eu/101tv/livestream2/chunklist.m3u8</urlsolve>
 <thumbnail>http://directostv.teleame.com/wp-content/uploads/2016/01/101tv-en-directo-online.png</thumbnail>
-<fanart></fanart>
+<fanart>https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/EuroEspa%C3%B1a.svg/1200px-EuroEspa%C3%B1a.svg.png</fanart>
 </item>
 
 <item>
 <title>Dkiss</title>        
 <urlsolve>http://88.148.69.129:9090/play/a020</urlsolve>
 <thumbnail>http://www.dkiss.es/wp-content/uploads/DKiss-1.png</thumbnail>
-<fanart></fanart>
+<fanart>https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/EuroEspa%C3%B1a.svg/1200px-EuroEspa%C3%B1a.svg.png</fanart>
 </item>
 
 <item>
 <title>Lancelot tv</title>        
 <urlsolve>http://62.210.141.18:1935/directo/lancelot.television/live.m3u8</urlsolve>
 <thumbnail>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRONX6V4oteOIE8_uC0MqaShyw5-6ZP92XLlT5khwIvRQMDB1zpKxrQ9Mc</thumbnail>
-<fanart></fanart>
+<fanart>https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/EuroEspa%C3%B1a.svg/1200px-EuroEspa%C3%B1a.svg.png</fanart>
 </item>
 
 <item>
 <title>Andalucia TV</title>        
 <urlsolve>http://cls.todostreaming.eu/unatv/live/chunklist.m3u8</urlsolve>
 <thumbnail>http://www.blaguemultimedia.com/wp-content/uploads/2014/12/logo-Andalucia-Television.png</thumbnail>
-<fanart></fanart>
+<fanart>https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/EuroEspa%C3%B1a.svg/1200px-EuroEspa%C3%B1a.svg.png</fanart>
 </item>
 
 <item>
 <title>La Otra</title>        
 <urlsolve>http://laotra-live.hls.adaptive.level3.net/hls-live/telemadrid-laotra/_definst_/live/stream1.m3u8</urlsolve>
 <thumbnail>http://www.videocadenasur.net/images/laotra.gif</thumbnail>
-<fanart></fanart>
+<fanart>https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/EuroEspa%C3%B1a.svg/1200px-EuroEspa%C3%B1a.svg.png</fanart>
 </item>
 
 <item>
 <title>Telemadrid</title>        
 <urlsolve>http://telemadrid-live.hls.adaptive.level3.net/hls-live/telemadrid-telemadridbis/_definst_/live/stream1.m3u8</urlsolve>
 <thumbnail>http://media.tvalacarta.info/canales/256x256/telemadrid.png</thumbnail>
-<fanart></fanart>
+<fanart>https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/EuroEspa%C3%B1a.svg/1200px-EuroEspa%C3%B1a.svg.png</fanart>
 </item>
 
 <item>
 <title>8 tv</title>        
 <urlsolve>http://streaming.8tv.cat/8TV/8aldia-directe/chunklist_w1058883651.m3u8</urlsolve>
 <thumbnail>http://www.8tv.cat/wp-content/themes/8tv/_/images/apple-touch-icons/apple-touch-icon.png</thumbnail>
-<fanart></fanart>
+<fanart>https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/EuroEspa%C3%B1a.svg/1200px-EuroEspa%C3%B1a.svg.png</fanart>
 </item>
 
 <item>
 <title>Real madrid tv</title>        
 <urlsolve>http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8?sd=10&rebase=on</urlsolve>
 <thumbnail>http://puu.sh/nB5fs/d0fbb8562f.png</thumbnail>
-<fanart></fanart>
+<fanart>https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/EuroEspa%C3%B1a.svg/1200px-EuroEspa%C3%B1a.svg.png</fanart>
 </item>
 
 <item>
 <title>Betis tv</title>        
 <urlsolve>http://rbetis-hls.flumotion.com/rbetis/live/chunklist.m3u8</urlsolve>
 <thumbnail>http://www.grupocomunica.com/wp-content/uploads/2016/05/Radio-Betis-y-Betis-TV.jpg</thumbnail>
-<fanart></fanart>
+<fanart>https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/EuroEspa%C3%B1a.svg/1200px-EuroEspa%C3%B1a.svg.png</fanart>
 </item>
 
 <item>
 <title>Sevilla fc</title>        
 <urlsolve>http://sevillafc_live-lh.akamaihd.net/i/video_0@354142/index_0300_av-b.m3u8?sd=10&rebase=on</urlsolve>
 <thumbnail>https://img21.taquilla.com/data/images/t/07/sevilla-fc.jpg</thumbnail>
-<fanart></fanart>
+<fanart>https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/EuroEspa%C3%B1a.svg/1200px-EuroEspa%C3%B1a.svg.png</fanart>
 </item>
 
 <item>
