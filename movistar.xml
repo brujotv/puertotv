@@ -14,204 +14,254 @@
         </item>
 
           <item> 
-            <title>A&amp;E ES</title> 
+            <title>A&amp;E</title> 
             <link>plugin://plugin.video.f4mTester/?url=http://portal.geniptv.com:8080/live/julia/julia/1028.ts&amp;streamtype=TSDOWNLOADER&amp;name=A&amp;E ES</link> 
+            <thumbnail></thumbnail>
         </item> 
           <item> 
-            <title>AMC HD ES</title> 
+            <title>AMC HD</title> 
             <link>plugin://plugin.video.f4mTester/?url=http://portal.geniptv.com:8080/live/julia/julia/1053.ts&amp;streamtype=TSDOWNLOADER&amp;name=AMC HD ES</link> 
+            <thumbnail>https://pbs.twimg.com/profile_images/658379235116130304/0d0gse9_.jpg</thumbnail>
         </item> 
           <item> 
-            <title>AXN HD ES</title> 
+            <title>AXN HD</title> 
             <link>plugin://plugin.video.f4mTester/?url=http://portal.geniptv.com:8080/live/julia/julia/1052.ts&amp;streamtype=TSDOWNLOADER&amp;name=AXN HD ES</link> 
+             <thumbnail>http://www1.movistarplus.es/recorte/m-NEO/canal/AXN</thumbnail>
         </item> 
           <item> 
-            <title>AXN White ES</title> 
+            <title>AXN White/title> 
             <link>plugin://plugin.video.f4mTester/?url=http://portal.geniptv.com:8080/live/julia/julia/1051.ts&amp;streamtype=TSDOWNLOADER&amp;name=AXN White ES</link> 
+            <thumbnail></thumbnail>
         </item> 
           <item> 
-            <title>Extremadura TV ES</title> 
+            <title>Extremadura TV</title> 
             <link>plugin://plugin.video.f4mTester/?url=http://portal.geniptv.com:8080/live/julia/julia/1078.ts&amp;streamtype=TSDOWNLOADER&amp;name=Extremadura TV ES</link> 
+            <thumbnail></thumbnail>
         </item> 
           <item> 
-            <title>Antena 3 HD ES</title> 
+            <title>Antena 3 HD</title> 
             <link>plugin://plugin.video.f4mTester/?url=http://portal.geniptv.com:8080/live/julia/julia/1084.ts&amp;streamtype=TSDOWNLOADER&amp;name=Antena 3 HD ES</link> 
+            <thumbnail>http://static.programacion-tdt.com/imgAPP/Antena_3.min.png</thumbnail>
         </item> 
           <item> 
             <title>Lancelot TV ES</title> 
             <link>plugin://plugin.video.f4mTester/?url=http://portal.geniptv.com:8080/live/julia/julia/1022.ts&amp;streamtype=TSDOWNLOADER&amp;name=Lancelot TV ES</link> 
+            <thumbnail>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRONX6V4oteOIE8_uC0MqaShyw5-6ZP92XLlT5khwIvRQMDB1zpKxrQ9Mc</thumbnail>
         </item> 
           <item> 
-            <title>Barca TV ES</title> 
+            <title>Barca TV</title> 
             <link>plugin://plugin.video.f4mTester/?url=http://portal.geniptv.com:8080/live/julia/julia/1038.ts&amp;streamtype=TSDOWNLOADER&amp;name=Barca TV ES</link> 
+            <thumbnail>http://sportandnews.com/wp-content/uploads/2013/03/BARSA-TV.png</thumbnail>
         </item> 
           <item> 
-            <title>Boing ES</title> 
+            <title>Boing </title> 
             <link>plugin://plugin.video.f4mTester/?url=http://portal.geniptv.com:8080/live/julia/julia/1015.ts&amp;streamtype=TSDOWNLOADER&amp;name=Boing ES</link> 
-        </item> 
-          <item> 
+            <thumbnail>https://is2-ssl.mzstatic.com/image/thumb/Purple7/v4/b7/c4/17/b7c4172e-af34-3a46-4f3a-754f152be1ba/source/256x256bb.jpg</thumbnail>
+           </item> 
+        <item> 
             <title>C+ Estrellas ES</title> 
             <link>plugin://plugin.video.f4mTester/?url=http://portal.geniptv.com:8080/live/julia/julia/1046.ts&amp;streamtype=TSDOWNLOADER&amp;name=C+ Estrellas ES</link> 
+            <thumbnail></thumbnail>
         </item> 
           <item> 
             <title>Calle 13 HD ES</title> 
             <link>plugin://plugin.video.f4mTester/?url=http://portal.geniptv.com:8080/live/julia/julia/1049.ts&amp;streamtype=TSDOWNLOADER&amp;name=Calle 13 HD ES</link> 
+            <thumbnail></thumbnail>
         </item> 
           <item> 
             <title>Canal Cocina ES</title> 
             <link>plugin://plugin.video.f4mTester/?url=http://portal.geniptv.com:8080/live/julia/julia/1025.ts&amp;streamtype=TSDOWNLOADER&amp;name=Canal Cocina ES</link> 
+            <thumbnail></thumbnail>
         </item> 
           <item> 
             <title>Canal Decasa ES</title> 
             <link>plugin://plugin.video.f4mTester/?url=http://portal.geniptv.com:8080/live/julia/julia/1024.ts&amp;streamtype=TSDOWNLOADER&amp;name=Canal Decasa ES</link> 
+            <thumbnail></thumbnail>
         </item> 
           <item> 
             <title>Canal Panda ES</title> 
             <link>plugin://plugin.video.f4mTester/?url=http://portal.geniptv.com:8080/live/julia/julia/1023.ts&amp;streamtype=TSDOWNLOADER&amp;name=Canal Panda ES</link> 
+            <thumbnail></thumbnail>
         </item> 
           <item> 
             <title>Canal SUR ES</title> 
             <link>plugin://plugin.video.f4mTester/?url=http://portal.geniptv.com:8080/live/julia/julia/1057.ts&amp;streamtype=TSDOWNLOADER&amp;name=Canal SUR ES</link> 
+            <thumbnail></thumbnail>
         </item> 
           <item> 
             <title>Caza Y Pesca ES</title> 
             <link>plugin://plugin.video.f4mTester/?url=http://portal.geniptv.com:8080/live/julia/julia/1027.ts&amp;streamtype=TSDOWNLOADER&amp;name=Caza Y Pesca ES</link> 
+            <thumbnail></thumbnail>
         </item> 
           <item> 
             <title>TV3 Cat ES</title> 
             <link>plugin://plugin.video.f4mTester/?url=http://portal.geniptv.com:8080/live/julia/julia/1019.ts&amp;streamtype=TSDOWNLOADER&amp;name=TV3 Cat ES</link> 
+            <thumbnail></thumbnail>
         </item> 
           <item> 
             <title>Comedy Central HD ES</title> 
             <link>plugin://plugin.video.f4mTester/?url=http://portal.geniptv.com:8080/live/julia/julia/1048.ts&amp;streamtype=TSDOWNLOADER&amp;name=Comedy Central HD ES</link> 
+            <thumbnail></thumbnail>
         </item> 
           <item> 
             <title>Cosmos HD ES</title> 
             <link>plugin://plugin.video.f4mTester/?url=http://portal.geniptv.com:8080/live/julia/julia/1047.ts&amp;streamtype=TSDOWNLOADER&amp;name=Cosmos HD ES</link> 
+            <thumbnail></thumbnail>
         </item> 
           <item> 
             <title>Cuatro ES</title> 
             <link>plugin://plugin.video.f4mTester/?url=http://portal.geniptv.com:8080/live/julia/julia/1083.ts&amp;streamtype=TSDOWNLOADER&amp;name=Cuatro ES</link> 
+            <thumbnail></thumbnail>
         </item> 
           <item> 
             <title>Discovery HD ES</title> 
             <link>plugin://plugin.video.f4mTester/?url=http://portal.geniptv.com:8080/live/julia/julia/1030.ts&amp;streamtype=TSDOWNLOADER&amp;name=Discovery HD ES</link> 
+            <thumbnail></thumbnail>
         </item> 
           <item> 
             <title>Clan TVE ES</title> 
             <link>plugin://plugin.video.f4mTester/?url=http://portal.geniptv.com:8080/live/julia/julia/1031.ts&amp;streamtype=TSDOWNLOADER&amp;name=Clan TVE ES</link> 
+            <thumbnail></thumbnail>
         </item> 
           <item> 
             <title>Disney Channel ES</title> 
             <link>plugin://plugin.video.f4mTester/?url=http://portal.geniptv.com:8080/live/julia/julia/1017.ts&amp;streamtype=TSDOWNLOADER&amp;name=Disney Channel ES</link> 
+            <thumbnail></thumbnail>
         </item> 
           <item> 
             <title>Disney XD ES</title> 
             <link>plugin://plugin.video.f4mTester/?url=http://portal.geniptv.com:8080/live/julia/julia/1016.ts&amp;streamtype=TSDOWNLOADER&amp;name=Disney XD ES</link> 
+            <thumbnail></thumbnail>
         </item> 
           <item> 
             <title>Energy ES</title> 
             <link>plugin://plugin.video.f4mTester/?url=http://portal.geniptv.com:8080/live/julia/julia/1044.ts&amp;streamtype=TSDOWNLOADER&amp;name=Energy ES</link> 
+            <thumbnail></thumbnail>
         </item> 
           <item> 
             <title>EuroNews ES</title> 
             <link>plugin://plugin.video.f4mTester/?url=http://portal.geniptv.com:8080/live/julia/julia/1018.ts&amp;streamtype=TSDOWNLOADER&amp;name=EuroNews ES</link> 
+            <thumbnail></thumbnail>
         </item> 
           <item> 
             <title>EuroSport 1 HD ES</title> 
             <link>plugin://plugin.video.f4mTester/?url=http://portal.geniptv.com:8080/live/julia/julia/1036.ts&amp;streamtype=TSDOWNLOADER&amp;name=EuroSport 1 HD ES</link> 
+            <thumbnail></thumbnail>
         </item> 
           <item> 
             <title>Fox News ES</title> 
             <link>plugin://plugin.video.f4mTester/?url=http://portal.geniptv.com:8080/live/julia/julia/1074.ts&amp;streamtype=TSDOWNLOADER&amp;name=Fox News ES</link> 
+            <thumbnail></thumbnail>
         </item> 
           <item> 
             <title>FDF ES</title> 
             <link>plugin://plugin.video.f4mTester/?url=http://portal.geniptv.com:8080/live/julia/julia/1045.ts&amp;streamtype=TSDOWNLOADER&amp;name=FDF ES</link> 
+            <thumbnail></thumbnail>
         </item> 
           <item> 
             <title>Fox HD ES</title> 
             <link>plugin://plugin.video.f4mTester/?url=http://portal.geniptv.com:8080/live/julia/julia/1055.ts&amp;streamtype=TSDOWNLOADER&amp;name=Fox HD ES</link> 
+            <thumbnail></thumbnail>
         </item> 
           <item> 
             <title>Fox Life HD ES</title> 
             <link>plugin://plugin.video.f4mTester/?url=http://portal.geniptv.com:8080/live/julia/julia/1054.ts&amp;streamtype=TSDOWNLOADER&amp;name=Fox Life HD ES</link> 
+            <thumbnail></thumbnail>
         </item> 
           <item> 
             <title>Galicia TV ES</title> 
             <link>plugin://plugin.video.f4mTester/?url=http://portal.geniptv.com:8080/live/julia/julia/1075.ts&amp;streamtype=TSDOWNLOADER&amp;name=Galicia TV ES</link> 
+            <thumbnail></thumbnail>
         </item> 
           <item> 
             <title>Gol TV ES</title> 
             <link>plugin://plugin.video.f4mTester/?url=http://portal.geniptv.com:8080/live/julia/julia/1040.ts&amp;streamtype=TSDOWNLOADER&amp;name=Gol TV ES</link> 
+            <thumbnail></thumbnail>
         </item> 
           <item> 
             <title>Andalucia TV ES</title> 
             <link>plugin://plugin.video.f4mTester/?url=http://portal.geniptv.com:8080/live/julia/julia/1039.ts&amp;streamtype=TSDOWNLOADER&amp;name=Andalucia TV ES</link> 
+            <thumbnail></thumbnail>
         </item> 
           <item> 
             <title>Historia ES</title> 
             <link>plugin://plugin.video.f4mTester/?url=http://portal.geniptv.com:8080/live/julia/julia/1029.ts&amp;streamtype=TSDOWNLOADER&amp;name=Historia ES</link> 
+            <thumbnail></thumbnail>
         </item> 
           <item> 
             <title>Hollywood ES</title> 
             <link>plugin://plugin.video.f4mTester/?url=http://portal.geniptv.com:8080/live/julia/julia/1060.ts&amp;streamtype=TSDOWNLOADER&amp;name=Hollywood ES</link> 
+            <thumbnail></thumbnail>
         </item> 
           <item> 
             <title>La 1 ES</title> 
             <link>plugin://plugin.video.f4mTester/?url=http://portal.geniptv.com:8080/live/julia/julia/1086.ts&amp;streamtype=TSDOWNLOADER&amp;name=La 1 ES</link> 
+            <thumbnail></thumbnail>
         </item> 
           <item> 
             <title>La Sexta ES</title> 
             <link>plugin://plugin.video.f4mTester/?url=http://portal.geniptv.com:8080/live/julia/julia/1081.ts&amp;streamtype=TSDOWNLOADER&amp;name=La Sexta ES</link> 
+            <thumbnail></thumbnail>
         </item> 
           <item> 
             <title>LaLiga TV Bar ES</title> 
             <link>plugin://plugin.video.f4mTester/?url=http://portal.geniptv.com:8080/live/julia/julia/1062.ts&amp;streamtype=TSDOWNLOADER&amp;name=LaLiga TV Bar ES</link> 
+            <thumbnail></thumbnail>
         </item> 
           <item> 
             <title>Mega ES</title> 
             <link>plugin://plugin.video.f4mTester/?url=http://portal.geniptv.com:8080/live/julia/julia/1012.ts&amp;streamtype=TSDOWNLOADER&amp;name=Mega ES</link> 
+            <thumbnail></thumbnail>
         </item> 
           <item> 
             <title>MovieStar Accion ES</title> 
             <link>plugin://plugin.video.f4mTester/?url=http://portal.geniptv.com:8080/live/julia/julia/1070.ts&amp;streamtype=TSDOWNLOADER&amp;name=MovieStar Accion ES</link> 
+            <thumbnail></thumbnail>
         </item> 
           <item> 
             <title>MovieStar Comedia ES</title> 
             <link>plugin://plugin.video.f4mTester/?url=http://portal.geniptv.com:8080/live/julia/julia/1069.ts&amp;streamtype=TSDOWNLOADER&amp;name=MovieStar Comedia ES</link> 
-        </item> 
+            <thumbnail></thumbnail>
+         </item> 
           <item> 
             <title>MovieStar DCine ES</title> 
             <link>plugin://plugin.video.f4mTester/?url=http://portal.geniptv.com:8080/live/julia/julia/1068.ts&amp;streamtype=TSDOWNLOADER&amp;name=MovieStar DCine ES</link> 
+            <thumbnail></thumbnail>
         </item> 
           <item> 
             <title>MovieStar Deportes 1 ES</title> 
             <link>plugin://plugin.video.f4mTester/?url=http://portal.geniptv.com:8080/live/julia/julia/1064.ts&amp;streamtype=TSDOWNLOADER&amp;name=MovieStar Deportes 1 ES</link> 
+            <thumbnail></thumbnail>
         </item> 
           <item> 
             <title>MovieStar Deportes 2 HD ES</title> 
             <link>plugin://plugin.video.f4mTester/?url=http://portal.geniptv.com:8080/live/julia/julia/1073.ts&amp;streamtype=TSDOWNLOADER&amp;name=MovieStar Deportes 2 HD ES</link> 
+            <thumbnail></thumbnail>
         </item> 
           <item> 
             <title>MovieStar Estrenos ES</title> 
             <link>plugin://plugin.video.f4mTester/?url=http://portal.geniptv.com:8080/live/julia/julia/1072.ts&amp;streamtype=TSDOWNLOADER&amp;name=MovieStar Estrenos ES</link> 
+            <thumbnail></thumbnail>
         </item> 
           <item> 
             <title>MovieStar F1 ES</title> 
             <link>plugin://plugin.video.f4mTester/?url=http://portal.geniptv.com:8080/live/julia/julia/1035.ts&amp;streamtype=TSDOWNLOADER&amp;name=MovieStar F1 ES</link> 
-        </item> 
+            <thumbnail></thumbnail>
+        </item>
           <item> 
             <title>MovieStar Futbol ES</title> 
             <link>plugin://plugin.video.f4mTester/?url=http://portal.geniptv.com:8080/live/julia/julia/1063.ts&amp;streamtype=TSDOWNLOADER&amp;name=MovieStar Futbol ES</link> 
+            <thumbnail></thumbnail>
         </item> 
           <item> 
             <title>MovieStar Golf ES</title> 
             <link>plugin://plugin.video.f4mTester/?url=http://portal.geniptv.com:8080/live/julia/julia/1061.ts&amp;streamtype=TSDOWNLOADER&amp;name=MovieStar Golf ES</link> 
+            <thumbnail></thumbnail>
         </item> 
           <item> 
             <title>MovieStar MotoGP HD ES</title> 
             <link>plugin://plugin.video.f4mTester/?url=http://portal.geniptv.com:8080/live/julia/julia/1041.ts&amp;streamtype=TSDOWNLOADER&amp;name=MovieStar MotoGP HD ES</link> 
+            <thumbnail></thumbnail> 
         </item> 
           <item> 
             <title>MovieStar Series HD ES</title> 
