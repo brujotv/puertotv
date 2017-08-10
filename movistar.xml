@@ -50,14 +50,19 @@
             <title>Nova</title> 
             <link>plugin://plugin.video.f4mTester/?url=http://portal.geniptv.com:8080/live/julia/julia/1080.ts&amp;streamtype=TSDOWNLOADER&amp;name=Nova ES</link> 
             <thumbnail>http://www.mundoplus.tv/img/f25b812e6e6095afe68d44feb7d119ad</thumbnail>
-		</item>		
+	</item>		
 		  <item> 
             <title>Energy</title> 
             <link>plugin://plugin.video.f4mTester/?url=http://portal.geniptv.com:8080/live/julia/julia/1044.ts&amp;streamtype=TSDOWNLOADER&amp;name=Energy ES</link> 
             <thumbnail></thumbnail>
         </item>
-		  <item> 
+                <item> 
             <title>Kiss TV ES</title> 
             <link>plugin://plugin.video.f4mTester/?url=http://portal.geniptv.com:8080/live/julia/julia/6040.ts&amp;streamtype=TSDOWNLOADER&amp;name=Kiss TV ES</link> 
             <thumbnail>http://www.dkiss.es/wp-content/uploads/DKiss-1.png</thumbnail>
-		</item>
+        </item>
+                <item> 
+            <title>Galicia TV ES</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://portal.geniptv.com:8080/live/julia/julia/1075.ts&amp;streamtype=TSDOWNLOADER&amp;name=Galicia TV ES</link> 
+            <thumbnail></thumbnail>
+        </item> 
