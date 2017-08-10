@@ -15,9 +15,30 @@
 </item>
 
 <item>
-<title></title>        
-<urlsolve></urlsolve>
-<thumbnail></thumbnail>
+<title>La sexta HD</title>        
+<urlsolve>http://a3live-lh.akamaihd.net/i/lasexta_1@35272/master.m3u8</urlsolve>
+<thumbnail>http://ocio.diariodemallorca.es/img_contenido/estaticos/canales/24.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Mega HD</title>        
+<urlsolve>http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/index_2_av-b.m3u8</urlsolve>
+<thumbnail>http://static.programacion-tdt.com/imgAPP/Mega.min.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Atreseries HD</title>        
+<urlsolve>http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/index_4_av-b.m3u8?sd=10&rebase=on</urlsolve>
+<thumbnail>http://atreseries.atresmedia.com/public/img/a3series.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Neox HD</title>        
+<urlsolve>http://a3live-lh.akamaihd.net/i/nxhds/geoneox_1@35261/master.m3u8</urlsolve>
+<thumbnail>https://pbs.twimg.com/profile_images/509064688550694912/WY6A_PqH_normal.jpeg</thumbnail>
 <fanart></fanart>
 </item>
 
@@ -34,4 +55,6 @@
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
+
+
 
