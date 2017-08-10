@@ -43,9 +43,30 @@
 </item>
 
 <item>
-<title></title>        
-<urlsolve></urlsolve>
-<thumbnail></thumbnail>
+<title>Nova HD</title>        
+<urlsolvehttp://a3live-lh.akamaihd.net/i/nvhds/geonova_1@379404/index_4_av-b.m3u8?sd=10&amp;rebase=on></urlsolve>
+<thumbnail>http://www.mundoplus.tv/img/f25b812e6e6095afe68d44feb7d119ad</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Life tv</title>        
+<urlsolve>http://109.236.91.150:8080/A1:LifeTV/playlist.m3u8</urlsolve>
+<thumbnail>https://i.ytimg.com/vi/CcY76rUYz2k/mqdefault.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Ten</title>        
+<urlsolve>Http://88.148.69.129:9090/play/a022</urlsolve>
+<thumbnail>http://www1.movistarplus.es/recorte/m-NEO/canal/TEN</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>101 españa</title>        
+<urlsolve>http://cls.todostreaming.eu/101tv/livestream2/chunklist.m3u8</urlsolve>
+<thumbnail>https://101.es/img/logo_compartir.png</thumbnail>
 <fanart></fanart>
 </item>
 
@@ -55,6 +76,3 @@
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
-
-
-
