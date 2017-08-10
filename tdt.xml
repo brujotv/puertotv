@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
 <item>
-<title></title>        
-<urlsolve></urlsolve>
-<thumbnail></thumbnail>
+<title>101 España</title>        
+<urlsolve>http://cls.todostreaming.eu/101tv/livestream2/chunklist.m3u8</urlsolve>
+<thumbnail>https://101.es/img/logo_compartir.png</thumbnail>
 <fanart></fanart>
 </item>
 
