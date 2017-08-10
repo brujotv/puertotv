@@ -64,34 +64,34 @@
             <thumbnail></thumbnail>
         </item> 
           <item> 
-            <title>Calle 13 HD ES</title> 
+            <title>Calle 13 HD</title> 
             <link>plugin://plugin.video.f4mTester/?url=http://portal.geniptv.com:8080/live/julia/julia/1049.ts&amp;streamtype=TSDOWNLOADER&amp;name=Calle 13 HD ES</link> 
-            <thumbnail></thumbnail>
+            <thumbnail>http://www1.movistarplus.es/recorte/m-NEO/canal/CL13</thumbnail>
         </item> 
           <item> 
-            <title>Canal Cocina ES</title> 
+            <title>Canal Cocina</title> 
             <link>plugin://plugin.video.f4mTester/?url=http://portal.geniptv.com:8080/live/julia/julia/1025.ts&amp;streamtype=TSDOWNLOADER&amp;name=Canal Cocina ES</link> 
-            <thumbnail></thumbnail>
+            <thumbnail>http://www1.movistarplus.es/recorte/m-NEO/canal/CACOC</thumbnail>
         </item> 
           <item> 
-            <title>Canal Decasa ES</title> 
+            <title>Canal Decasa</title> 
             <link>plugin://plugin.video.f4mTester/?url=http://portal.geniptv.com:8080/live/julia/julia/1024.ts&amp;streamtype=TSDOWNLOADER&amp;name=Canal Decasa ES</link> 
             <thumbnail></thumbnail>
         </item> 
           <item> 
-            <title>Canal Panda ES</title> 
+            <title>Canal Panda</title> 
             <link>plugin://plugin.video.f4mTester/?url=http://portal.geniptv.com:8080/live/julia/julia/1023.ts&amp;streamtype=TSDOWNLOADER&amp;name=Canal Panda ES</link> 
-            <thumbnail></thumbnail>
+            <thumbnail>http://www1.movistarplus.es/recorte/m-NEO/canal/PANDA</thumbnail>
         </item> 
           <item> 
-            <title>Canal SUR ES</title> 
+            <title>Canal SUR</title> 
             <link>plugin://plugin.video.f4mTester/?url=http://portal.geniptv.com:8080/live/julia/julia/1057.ts&amp;streamtype=TSDOWNLOADER&amp;name=Canal SUR ES</link> 
-            <thumbnail></thumbnail>
+            <thumbnail>http://media.tvalacarta.info/canales/256x256/rtva.png</thumbnail>
         </item> 
           <item> 
-            <title>Caza Y Pesca ES</title> 
+            <title>Caza Y Pesca</title> 
             <link>plugin://plugin.video.f4mTester/?url=http://portal.geniptv.com:8080/live/julia/julia/1027.ts&amp;streamtype=TSDOWNLOADER&amp;name=Caza Y Pesca ES</link> 
-            <thumbnail></thumbnail>
+            <thumbnail>http://fotocite.com/caza-pesca@256.png</thumbnail>
         </item> 
           <item> 
             <title>TV3 Cat ES</title> 
