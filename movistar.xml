@@ -6,26 +6,36 @@
 
      
 
-	      <item> 
+	         <item> 
             <title>La 1</title> 
             <link>plugin://plugin.video.f4mTester/?url=http://portal.geniptv.com:8080/live/julia/julia/1086.ts&amp;streamtype=TSDOWNLOADER&amp;name=La 1 ES</link> 
             <thumbnail>http://static.programacion-tdt.com/imgAPP/TVE1.min.png</thumbnail>
         </item>
-          <item> 
+                  <item> 
+            <title>TVE LA 2 </title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://portal.geniptv.com:8080/live/julia/julia/1085.ts&amp;streamtype=TSDOWNLOADER&amp;name=TVE LA 2 ES</link> 
+            <thumbnail>https://pbs.twimg.com/profile_images/436864015785279489/o4ng_Ocd.png</thumbnail>
+        </item> 
+                  <item> 
             <title>Cuatro</title> 
             <link>plugin://plugin.video.f4mTester/?url=http://portal.geniptv.com:8080/live/julia/julia/1083.ts&amp;streamtype=TSDOWNLOADER&amp;name=Cuatro ES</link> 
-            <thumbnail>http://www.futbolprimera.es/files/cuatro.jpg</thumbnail>
+            <thumbnail>http://www.futbolprimera.es/files/cuatro.jpg</thumbnail>    
         </item>
-          <item> 
+                  <item> 
             <title>Cuatro</title> 
             <link>plugin://plugin.video.f4mTester/?url=http://portal.geniptv.com:8080/live/julia/julia/4426.ts&amp;streamtype=TSDOWNLOADER&amp;name=Cuatro FHD ES</link> 
             <thumbnail>http://www.futbolprimera.es/files/cuatro.jpg</thumbnail>
-		</item>  		
-          <item> 
+        </item>  		
+                  <item> 
             <title>Antena 3 HD</title> 
             <link>plugin://plugin.video.f4mTester/?url=http://portal.geniptv.com:8080/live/julia/julia/1084.ts&amp;streamtype=TSDOWNLOADER&amp;name=Antena 3 HD ES</link> 
             <thumbnail>http://static.programacion-tdt.com/imgAPP/Antena_3.min.png</thumbnail>
         </item>
+                  <item> 
+            <title>Telecinco ES</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://portal.geniptv.com:8080/live/julia/julia/1082.ts&amp;streamtype=TSDOWNLOADER&amp;name=Telecinco ES</link> 
+            <thumbnail>http://verdirectotv.tv/logos/telecinco.png</thumbnail>
+        </item> 
 		  <item> 
             <title>La Sexta</title> 
             <link>plugin://plugin.video.f4mTester/?url=http://portal.geniptv.com:8080/live/julia/julia/1081.ts&amp;streamtype=TSDOWNLOADER&amp;name=La Sexta ES</link> 
@@ -41,12 +51,12 @@
             <link>plugin://plugin.video.f4mTester/?url=http://portal.geniptv.com:8080/live/julia/julia/1012.ts&amp;streamtype=TSDOWNLOADER&amp;name=Mega ES</link> 
             <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/MEGA.png/250px-MEGA.png</thumbnail>
         </item>
-          <item> 
+                  <item> 
             <title>Neox</title> 
             <link>plugin://plugin.video.f4mTester/?url=http://portal.geniptv.com:8080/live/julia/julia/1079.ts&amp;streamtype=TSDOWNLOADER&amp;name=Neox ES</link> 
             <thumbnail>https://pbs.twimg.com/profile_images/509064688550694912/WY6A_PqH_normal.jpeg</thumbnail>
-		</item>
-          <item> 
+        </item>
+                  <item> 
             <title>Nova</title> 
             <link>plugin://plugin.video.f4mTester/?url=http://portal.geniptv.com:8080/live/julia/julia/1080.ts&amp;streamtype=TSDOWNLOADER&amp;name=Nova ES</link> 
             <thumbnail>http://www.mundoplus.tv/img/f25b812e6e6095afe68d44feb7d119ad</thumbnail>
@@ -57,12 +67,12 @@
             <thumbnail></thumbnail>
         </item>
                 <item> 
-            <title>Kiss TV ES</title> 
+            <title>Kiss TV</title> 
             <link>plugin://plugin.video.f4mTester/?url=http://portal.geniptv.com:8080/live/julia/julia/6040.ts&amp;streamtype=TSDOWNLOADER&amp;name=Kiss TV ES</link> 
             <thumbnail>http://www.dkiss.es/wp-content/uploads/DKiss-1.png</thumbnail>
         </item>
                 <item> 
-            <title>Galicia TV ES</title> 
+            <title>Galicia TV </title> 
             <link>plugin://plugin.video.f4mTester/?url=http://portal.geniptv.com:8080/live/julia/julia/1075.ts&amp;streamtype=TSDOWNLOADER&amp;name=Galicia TV ES</link> 
-            <thumbnail></thumbnail>
+            <thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/4/46/Television_de_Galicia.svg/1280px-Television_de_Galicia.svg.png</thumbnail>
         </item> 
