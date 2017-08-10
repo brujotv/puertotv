@@ -71,6 +71,41 @@
 </item>
 
 <item>
+<title>Dkiss</title>        
+<urlsolve>http://88.148.69.129:9090/play/a020</urlsolve>
+<thumbnail>http://www.dkiss.es/wp-content/uploads/DKiss-1.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Lancelot tv</title>        
+<urlsolve>http://62.210.141.18:1935/directo/lancelot.television/live.m3u8</urlsolve>
+<thumbnail>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRONX6V4oteOIE8_uC0MqaShyw5-6ZP92XLlT5khwIvRQMDB1zpKxrQ9Mc</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Andalucia TV</title>        
+<urlsolve>http://cls.todostreaming.eu/unatv/live/chunklist.m3u8</urlsolve>
+<thumbnail>http://www.blaguemultimedia.com/wp-content/uploads/2014/12/logo-Andalucia-Television.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title></title>        
+<urlsolve></urlsolve>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title></title>        
+<urlsolve></urlsolve>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
 <title></title>        
 <urlsolve></urlsolve>
 <thumbnail></thumbnail>
