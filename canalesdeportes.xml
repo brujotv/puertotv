@@ -1,64 +1,14 @@
+
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
-<item>
-<title>Jornada de pesca en Almería</title>        
-<urlsolve>https://www.youtube.com/watch?v=wNAcEEA50rk</urlsolve>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
 
-<item>
-<title>Jornada de pesca en Almería</title>        
-<urlsolve>https://www.youtube.com/watch?v=wNAcEEA50rk</urlsolve>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
+ 
+    
 
-<item>
-<title>Jornada de pesca en Almería</title>        
-<urlsolve>https://www.youtube.com/watch?v=wNAcEEA50rk</urlsolve>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
+     
 
-<item>
-<title>Jornada de pesca en Almería</title>        
-<urlsolve>https://www.youtube.com/watch?v=wNAcEEA50rk</urlsolve>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title>Jornada de pesca en Almería</title>        
-<urlsolve>https://www.youtube.com/watch?v=wNAcEEA50rk</urlsolve>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title>Jornada de pesca en Almería</title>        
-<urlsolve>https://www.youtube.com/watch?v=wNAcEEA50rk</urlsolve>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title>Jornada de pesca en Almería</title>        
-<urlsolve>https://www.youtube.com/watch?v=wNAcEEA50rk</urlsolve>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title>Jornada de pesca en Almería</title>        
-<urlsolve>https://www.youtube.com/watch?v=wNAcEEA50rk</urlsolve>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title>Jornada de pesca en Almería</title>        
-<urlsolve>https://www.youtube.com/watch?v=wNAcEEA50rk</urlsolve>
-<thumbnail></thumbnail>
-<fanart></fanart>
+<item> 
+      <title>La 1</title> 
+      <link>plugin://plugin.video.f4mTester/?url=http://portal.geniptv.com:8080/live/julia/julia/1086.ts&amp;streamtype=TSDOWNLOADER&amp;name=La 1 ES</link> 
+      <thumbnail>http://static.programacion-tdt.com/imgAPP/TVE1.min.png</thumbnail>
 </item>
