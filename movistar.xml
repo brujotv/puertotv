@@ -8,9 +8,11 @@
 
  
           <item> 
-            <title>#0 HD ES</title> 
+            <title>#0 HD </title> 
             <link>plugin://plugin.video.f4mTester/?url=http://portal.geniptv.com:8080/live/julia/julia/1056.ts&amp;streamtype=TSDOWNLOADER&amp;name=#0 HD ES</link> 
-        </item> 
+            <thumbnail>http://www.movistarplus.es/assets/images/logo-cero-desk.png</thumbnail>
+        </item>
+
           <item> 
             <title>A&amp;E ES</title> 
             <link>plugin://plugin.video.f4mTester/?url=http://portal.geniptv.com:8080/live/julia/julia/1028.ts&amp;streamtype=TSDOWNLOADER&amp;name=A&amp;E ES</link> 
