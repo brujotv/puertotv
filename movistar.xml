@@ -17,7 +17,7 @@
             <thumbnail>http://www.futbolprimera.es/files/cuatro.jpg</thumbnail>
         </item>
           <item> 
-            <title>Cuatro FHD ES</title> 
+            <title>Cuatro</title> 
             <link>plugin://plugin.video.f4mTester/?url=http://portal.geniptv.com:8080/live/julia/julia/4426.ts&amp;streamtype=TSDOWNLOADER&amp;name=Cuatro FHD ES</link> 
             <thumbnail>http://www.futbolprimera.es/files/cuatro.jpg</thumbnail>
 		</item>  		
@@ -34,11 +34,6 @@
 		   <item> 
             <title>Andalucia TV</title> 
             <link>plugin://plugin.video.f4mTester/?url=http://portal.geniptv.com:8080/live/julia/julia/1039.ts&amp;streamtype=TSDOWNLOADER&amp;name=Andalucia TV ES</link> 
-            <thumbnail>http://media.tvalacarta.info/canales/256x256/rtva.png</thumbnail>
-        </item> 
-		  <item> 
-            <title>Canal SUR</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://portal.geniptv.com:8080/live/julia/julia/1057.ts&amp;streamtype=TSDOWNLOADER&amp;name=Canal SUR ES</link> 
             <thumbnail>http://media.tvalacarta.info/canales/256x256/rtva.png</thumbnail>
         </item>
 		  <item> 
