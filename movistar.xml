@@ -211,6 +211,16 @@
             <link>plugin://plugin.video.f4mTester/?url=http://portal.geniptv.com:8080/live/julia/julia/1074.ts&amp;streamtype=TSDOWNLOADER&amp;name=Fox News ES</link> 
             <thumbnail>http://global.fncstatic.com/static/v/all/img/fn_128x128.png</thumbnail>
                 </item> 
+ <item> 
+            <title>Calle 13 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://portal.geniptv.com:8080/live/julia/julia/1049.ts&amp;streamtype=TSDOWNLOADER&amp;name=Calle 13 HD ES</link> 
+            <thumbnail>http://www1.movistarplus.es/recorte/m-NEO/canal/CL13</thumbnail>
+                </item> 
+ <item> 
+            <title>Calle 13 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://portal.geniptv.com:8080/live/julia/julia/4416.ts&amp;streamtype=TSDOWNLOADER&amp;name=Calle 13 FHD ES</link> 
+            <thumbnail>http://www1.movistarplus.es/recorte/m-NEO/canal/CL13</thumbnail>
+                </item> 
 
 
 
