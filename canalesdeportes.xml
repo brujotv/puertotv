@@ -47,6 +47,11 @@
             <thumbnail>http://www.underconsideration.com/brandnew/archives/la_liga_logo.png</thumbnail>
         </item>
  <item> 
+            <title>LaLiga TV Bar</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://portal.geniptv.com:8080/live/julia/julia/1062.ts&amp;streamtype=TSDOWNLOADER&amp;name=LaLiga TV Bar ES</link> 
+            <thumbnail>http://www.underconsideration.com/brandnew/archives/la_liga_logo.png</thumbnail>
+        </item>         
+ <item> 
             <title>MoviStar Futbol</title> 
             <link>plugin://plugin.video.f4mTester/?url=http://portal.geniptv.com:8080/live/julia/julia/1063.ts&amp;streamtype=TSDOWNLOADER&amp;name=MovieStar Futbol ES</link> 
             <thumbnail>http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/movistar-futbol.jpg</thumbnail>
