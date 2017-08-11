@@ -11,7 +11,7 @@
             <link>plugin://plugin.video.f4mTester/?url=http://portal.geniptv.com:8080/live/julia/julia/1037.ts&amp;streamtype=TSDOWNLOADER&amp;name=Real Madrid TV ES</link> 
             <thumbnail></thumbnail>
         </item>
-	<item> 
+ <item> 
             <title>Barca TV</title> 
             <link>plugin://plugin.video.f4mTester/?url=http://portal.geniptv.com:8080/live/julia/julia/1038.ts&amp;streamtype=TSDOWNLOADER&amp;name=Barca TV ES</link> 
             <thumbnail>http://sportandnews.com/wp-content/uploads/2013/03/BARSA-TV.png</thumbnail>
@@ -51,7 +51,7 @@
             <link>plugin://plugin.video.f4mTester/?url=http://portal.geniptv.com:8080/live/julia/julia/1062.ts&amp;streamtype=TSDOWNLOADER&amp;name=LaLiga TV Bar ES</link> 
             <thumbnail></thumbnail>
         </item>
-	<item> 
+ <item> 
             <title>MoviStar Futbol</title> 
             <link>plugin://plugin.video.f4mTester/?url=http://portal.geniptv.com:8080/live/julia/julia/1063.ts&amp;streamtype=TSDOWNLOADER&amp;name=MovieStar Futbol ES</link> 
             <thumbnail></thumbnail>
@@ -91,12 +91,12 @@
             <link>plugin://plugin.video.f4mTester/?url=http://portal.geniptv.com:8080/live/julia/julia/1073.ts&amp;streamtype=TSDOWNLOADER&amp;name=MovieStar Deportes 2 HD ES</link> 
             <thumbnail></thumbnail>
         </item>
-	<item> 
+ <item> 
             <title>Movistar  Deportes 1 </title> 
             <link>plugin://plugin.video.f4mTester/?url=http://portal.geniptv.com:8080/live/julia/julia/6071.ts&amp;streamtype=TSDOWNLOADER&amp;name=Movistar  Deportes 1 FHD ES</link> 
             <thumbnail></thumbnail>
         </item> 
-	<item> 
+ <item> 
             <title>C+ Dep 2 </title> 
             <link>plugin://plugin.video.f4mTester/?url=http://portal.geniptv.com:8080/live/julia/julia/4405.ts&amp;streamtype=TSDOWNLOADER&amp;name=C+ Dep 2 FHD ES</link> 
             <thumbnail></thumbnail>
@@ -106,12 +106,12 @@
             <link>plugin://plugin.video.f4mTester/?url=http://portal.geniptv.com:8080/live/julia/julia/1035.ts&amp;streamtype=TSDOWNLOADER&amp;name=MovieStar F1 ES</link> 
             <thumbnail></thumbnail>
         </item>
-	<item> 
+ <item> 
             <title>M  Formula 1 </title> 
             <link>plugin://plugin.video.f4mTester/?url=http://portal.geniptv.com:8080/live/julia/julia/4400.ts&amp;streamtype=TSDOWNLOADER&amp;name=M  Formula 1 FHD ES</link> 
             <thumbnail></thumbnail>
         </item>
-	<item> 
+ <item> 
             <title>MoviStar F1 </title> 
             <link>plugin://plugin.video.f4mTester/?url=http://portal.geniptv.com:8080/live/julia/julia/4401.ts&amp;streamtype=TSDOWNLOADER&amp;name=MoviStar F1 FHD ES</link> 
             <thumbnail></thumbnail>
@@ -125,22 +125,22 @@
             <title>M  MotoGP</title> 
             <link>plugin://plugin.video.f4mTester/?url=http://portal.geniptv.com:8080/live/julia/julia/4399.ts&amp;streamtype=TSDOWNLOADER&amp;name=M  MotoGP FHD ES</link> 
         </item> 		
-	<item> 
+ <item> 
             <title>MoviStar Golf </title> 
             <link>plugin://plugin.video.f4mTester/?url=http://portal.geniptv.com:8080/live/julia/julia/1061.ts&amp;streamtype=TSDOWNLOADER&amp;name=MovieStar Golf ES</link> 
             <thumbnail></thumbnail>
         </item> 
-	<item> 
+ <item> 
             <title>M  Golf  </title> 
             <link>plugin://plugin.video.f4mTester/?url=http://portal.geniptv.com:8080/live/julia/julia/4402.ts&amp;streamtype=TSDOWNLOADER&amp;name=M  Golf  FHD ES</link> 
             <thumbnail></thumbnail>
         </item> 
-	<item> 
+ <item> 
             <title>MoviStar Toros HD </title> 
             <link>plugin://plugin.video.f4mTester/?url=http://portal.geniptv.com:8080/live/julia/julia/1065.ts&amp;streamtype=TSDOWNLOADER&amp;name=MovieStar Toros HD ES</link> 
             <thumbnail></thumbnail>
         </item>
-	<item> 
+ <item> 
             <title>Toros TV </title> 
             <link>plugin://plugin.video.f4mTester/?url=http://portal.geniptv.com:8080/live/julia/julia/6067.ts&amp;streamtype=TSDOWNLOADER&amp;name=Toros TV FHD ES</link> 
             <thumbnail></thumbnail>
