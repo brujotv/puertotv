@@ -87,27 +87,27 @@
             <thumbnail></thumbnail>
                 </item>
    <item> 
-            <title>C+ Accion</title> 
+            <title>MoviStar Accion</title> 
             <link>plugin://plugin.video.f4mTester/?url=http://portal.geniptv.com:8080/live/julia/julia/4409.ts&amp;streamtype=TSDOWNLOADER&amp;name=C+ Accion FHD ES</link> 
             <thumbnail></thumbnail>
 		</item>
    <item> 
-            <title>C+ DCine</title> 
+            <title>MoviStar DCine</title> 
             <link>plugin://plugin.video.f4mTester/?url=http://portal.geniptv.com:8080/live/julia/julia/4407.ts&amp;streamtype=TSDOWNLOADER&amp;name=C+ DCine FHD ES</link> 
             <thumbnail></thumbnail>
 		</item> 
    <item> 
-            <title>MovieStar Series HD</title> 
+            <title>MoviStar Series HD</title> 
             <link>plugin://plugin.video.f4mTester/?url=http://portal.geniptv.com:8080/live/julia/julia/1067.ts&amp;streamtype=TSDOWNLOADER&amp;name=MovieStar Series HD ES</link> 
             <thumbnail></thumbnail>
 		</item> 
    <item> 
-            <title>MovieStar Series Xtra</title> 
+            <title>MoviStar Series Xtra</title> 
             <link>plugin://plugin.video.f4mTester/?url=http://portal.geniptv.com:8080/live/julia/julia/1066.ts&amp;streamtype=TSDOWNLOADER&amp;name=MovieStar Series Xtra ES</link> 
             <thumbnail></thumbnail>
 		</item>
    <item> 
-            <title>MovieStar Xtra</title> 
+            <title>MoviStar Xtra</title> 
             <link>plugin://plugin.video.f4mTester/?url=http://portal.geniptv.com:8080/live/julia/julia/1071.ts&amp;streamtype=TSDOWNLOADER&amp;name=MovieStar Xtra ES</link> 
             <thumbnail></thumbnail>
 		</item> 
