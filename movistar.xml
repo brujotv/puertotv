@@ -220,7 +220,84 @@
             <title>Calle 13 HD</title> 
             <link>plugin://plugin.video.f4mTester/?url=http://portal.geniptv.com:8080/live/julia/julia/4416.ts&amp;streamtype=TSDOWNLOADER&amp;name=Calle 13 FHD ES</link> 
             <thumbnail>http://www1.movistarplus.es/recorte/m-NEO/canal/CL13</thumbnail>
+                </item>
+ <item> 
+            <title>Hollywood HD </title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://portal.geniptv.com:8080/live/julia/julia/6080.ts&amp;streamtype=TSDOWNLOADER&amp;name=Hollywood FHD ES</link> 
+            <thumbnail>http://www.axartel.es/assets/img/sliders/tv-canales/canal-hollywood.jpg</thumbnail>
                 </item> 
+ <item> 
+            <title>Hollywood </title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://portal.geniptv.com:8080/live/julia/julia/1060.ts&amp;streamtype=TSDOWNLOADER&amp;name=Hollywood ES</link> 
+            <thumbnail>http://www.axartel.es/assets/img/sliders/tv-canales/canal-hollywood.jpg</thumbnail>
+                </item> 
+<item> 
+            <title>Comedy Central HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://portal.geniptv.com:8080/live/julia/julia/6073.ts&amp;streamtype=TSDOWNLOADER&amp;name=Comedy Central FHD ES</link> 
+            <thumbnail>http://www1.movistarplus.es/recorte/m-NEO/canal/PCM</thumbnail>
+                </item> 
+<item> 
+            <title>Comedy Central HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://portal.geniptv.com:8080/live/julia/julia/1048.ts&amp;streamtype=TSDOWNLOADER&amp;name=Comedy Central HD ES</link> 
+            <thumbnail>http://www1.movistarplus.es/recorte/m-NEO/canal/PCM</thumbnail>
+                </item> 
+<item> 
+            <title>TNT HD </title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://portal.geniptv.com:8080/live/julia/julia/6074.ts&amp;streamtype=TSDOWNLOADER&amp;name=TNT FHD ES</link> 
+            <thumbnail>http://www1.movistarplus.es/recorte/m-NEO/canal/TCM</thumbnail> 
+                </item> 
+<item> 
+            <title>TNT </title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://portal.geniptv.com:8080/live/julia/julia/1058.ts&amp;streamtype=TSDOWNLOADER&amp;name=TNT ES</link> 
+            <thumbnail>http://www1.movistarplus.es/recorte/m-NEO/canal/TCM</thumbnail>   
+                </item>
+<item> 
+            <title>TCM </title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://portal.geniptv.com:8080/live/julia/julia/1059.ts&amp;streamtype=TSDOWNLOADER&amp;name=TCM ES</link> 
+        
+                </item> 
+<item> 
+            <title>TCM HD </title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://portal.geniptv.com:8080/live/julia/julia/6081.ts&amp;streamtype=TSDOWNLOADER&amp;name=TCM FHD ES</link> 
+            <thumbnail></thumbnail>
+                </item>
+<item> 
+            <title>SyFy HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://portal.geniptv.com:8080/live/julia/julia/1050.ts&amp;streamtype=TSDOWNLOADER&amp;name=SyFy HD ES</link> 
+        
+                </item>
+<item> 
+            <title>SyFy HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://portal.geniptv.com:8080/live/julia/julia/4420.ts&amp;streamtype=TSDOWNLOADER&amp;name=SyFy FHD ES</link> 
+            <thumbnail></thumbnail>
+               </item>
+<item> 
+            <title>FDF </title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://portal.geniptv.com:8080/live/julia/julia/1045.ts&amp;streamtype=TSDOWNLOADER&amp;name=FDF ES</link> 
+            <thumbnail></thumbnail>
+               </item>
+<item> 
+            <title>Canal Dark </title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://portal.geniptv.com:8080/live/julia/julia/6078.ts&amp;streamtype=TSDOWNLOADER&amp;name=Canal Dark ES</link> 
+            <thumbnail></thumbnail>
+                </item> 	 
+		
+<item> 
+            <title>Cosmos HD </title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://portal.geniptv.com:8080/live/julia/julia/1047.ts&amp;streamtype=TSDOWNLOADER&amp;name=Cosmos HD ES</link> 
+            <thumbnail>https://aidengrimshawnews.files.wordpress.com/2013/10/cosmo.jpeg</thumbnail>
+                </item>
+<item> 
+            <title>Cosmo HD </title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://portal.geniptv.com:8080/live/julia/julia/4412.ts&amp;streamtype=TSDOWNLOADER&amp;name=Cosmo FHD ES</link> 
+            <thumbnail>https://aidengrimshawnews.files.wordpress.com/2013/10/cosmo.jpeg</thumbnail>
+                </item> 
+<item> 
+            <title>A&amp;E</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://portal.geniptv.com:8080/live/julia/julia/1028.ts&amp;streamtype=TSDOWNLOADER&amp;name=A&amp;E ES</link> 
+            <thumbnail></thumbnail>
+                </item>
+		
 
 
 
