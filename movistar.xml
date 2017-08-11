@@ -182,7 +182,7 @@
             <thumbnail></thumbnail>
                  </item>
   <item> 
-            <title>AXN White FHD ES</title> 
+            <title>AXN White HD</title> 
             <link>plugin://plugin.video.f4mTester/?url=http://portal.geniptv.com:8080/live/julia/julia/4413.ts&amp;streamtype=TSDOWNLOADER&amp;name=AXN White FHD ES</link> 
             <thumbnail></thumbnail>     
                  </item> 
@@ -197,7 +197,7 @@
             <thumbnail>http://www.axartel.es/assets/img/sliders/tv-canales/fox.jpg</thumbnail>
                 </item> 
   <item> 
-            <title>Fox Life HD ES</title> 
+            <title>Fox Life HD</title> 
             <link>plugin://plugin.video.f4mTester/?url=http://portal.geniptv.com:8080/live/julia/julia/1054.ts&amp;streamtype=TSDOWNLOADER&amp;name=Fox Life HD ES</link> 
             <thumbnail>http://www.axartel.es/assets/img/sliders/tv-canales/fox-life.jpg</thumbnail>
                 </item>
