@@ -75,6 +75,11 @@
             <title>Galicia TV </title> 
             <link>plugin://plugin.video.f4mTester/?url=http://portal.geniptv.com:8080/live/julia/julia/1075.ts&amp;streamtype=TSDOWNLOADER&amp;name=Galicia TV ES</link> 
             <thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/4/46/Television_de_Galicia.svg/1280px-Television_de_Galicia.svg.png</thumbnail>
+                </item>
+   <item> 
+            <title>#0 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://portal.geniptv.com:8080/live/julia/julia/6085.ts&amp;streamtype=TSDOWNLOADER&amp;name=#0 FHD ES</link> 
+            <thumbnail>http://www.movistarplus.es/assets/images/logo-cero-desk.png</thumbnail>
                 </item> 
    <item> 
             <title>#0 HD </title> 
@@ -82,12 +87,12 @@
             <thumbnail>http://www.movistarplus.es/assets/images/logo-cero-desk.png</thumbnail>
                 </item>
    <item> 
-            <title>MovieStar Estrenos</title> 
+            <title>MoviStar Estrenos</title> 
             <link>plugin://plugin.video.f4mTester/?url=http://portal.geniptv.com:8080/live/julia/julia/1072.ts&amp;streamtype=TSDOWNLOADER&amp;name=MovieStar Estrenos ES</link> 
             <thumbnail>http://www1.movistarplus.es/recorte/m-NEO/canal/MV1</thumbnail>
                 </item>
    <item> 
-            <title>MovieStar Estrenos</title> 
+            <title>MoviStar Estrenos</title> 
             <link>plugin://plugin.video.f4mTester/?url=http://portal.geniptv.com:8080/live/julia/julia/4408.ts&amp;streamtype=TSDOWNLOADER&amp;name=C+ Estrenos FHD ES</link> 
             <thumbnail>http://www1.movistarplus.es/recorte/m-NEO/canal/MV1</thumbnail>    
                 </item> 
@@ -134,8 +139,13 @@
    <item> 
             <title>MoviStar Series Xtra</title> 
             <link>plugin://plugin.video.f4mTester/?url=http://portal.geniptv.com:8080/live/julia/julia/1066.ts&amp;streamtype=TSDOWNLOADER&amp;name=MovieStar Series Xtra ES</link> 
-            <thumbnail></thumbnail>
+            <thumbnail>http://www1.movistarplus.es/recorte/m-NEO/canal/MV2</thumbnail>
 		</item>
+   <item> 
+            <title>Movistar Series Xtra HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://portal.geniptv.com:8080/live/julia/julia/6084.ts&amp;streamtype=TSDOWNLOADER&amp;name=Movistar  Series Xtra FHD ES</link> 
+            <thumbnail>http://www1.movistarplus.es/recorte/m-NEO/canal/MV2</thumbnail>
+                </item> 
    <item> 
             <title>MoviStar Xtra</title> 
             <link>plugin://plugin.video.f4mTester/?url=http://portal.geniptv.com:8080/live/julia/julia/1071.ts&amp;streamtype=TSDOWNLOADER&amp;name=MovieStar Xtra ES</link> 
@@ -146,3 +156,63 @@
             <link>plugin://plugin.video.f4mTester/?url=http://portal.geniptv.com:8080/live/julia/julia/4411.ts&amp;streamtype=TSDOWNLOADER&amp;name=C+ Xtra FHD ES</link> 
             <thumbnail>http://www1.movistarplus.es/recorte/m-NEO/canal/CPXTRA</thumbnail>
                 </item> 
+   <item> 
+            <title>AMC HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://portal.geniptv.com:8080/live/julia/julia/1053.ts&amp;streamtype=TSDOWNLOADER&amp;name=AMC HD ES</link> 
+            <thumbnail>https://pbs.twimg.com/profile_images/658379235116130304/0d0gse9_.jpg</thumbnail>
+                </item>
+   <item> 
+            <title>AMC HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://portal.geniptv.com:8080/live/julia/julia/6082.ts&amp;streamtype=TSDOWNLOADER&amp;name=AMC FHD ES</link> 
+            <thumbnail>https://pbs.twimg.com/profile_images/658379235116130304/0d0gse9_.jpg</thumbnail>    
+                </item> 
+   <item> 
+            <title>AXN HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://portal.geniptv.com:8080/live/julia/julia/1052.ts&amp;streamtype=TSDOWNLOADER&amp;name=AXN HD ES</link> 
+            <thumbnail>http://www1.movistarplus.es/recorte/m-NEO/canal/AXN</thumbnail>
+                 </item>
+   <item> 
+            <title>AXN HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://portal.geniptv.com:8080/live/julia/julia/4414.ts&amp;streamtype=TSDOWNLOADER&amp;name=AXN FHD ES</link> 
+            <thumbnail>http://www1.movistarplus.es/recorte/m-NEO/canal/AXN</thumbnail>
+                 </item> 
+   <item> 
+            <title>AXN White</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://portal.geniptv.com:8080/live/julia/julia/1051.ts&amp;streamtype=TSDOWNLOADER&amp;name=AXN White ES</link> 
+            <thumbnail></thumbnail>
+                 </item>
+  <item> 
+            <title>AXN White FHD ES</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://portal.geniptv.com:8080/live/julia/julia/4413.ts&amp;streamtype=TSDOWNLOADER&amp;name=AXN White FHD ES</link> 
+            <thumbnail></thumbnail>     
+                 </item> 
+  <item> 
+            <title>Fox HD </title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://portal.geniptv.com:8080/live/julia/julia/1055.ts&amp;streamtype=TSDOWNLOADER&amp;name=Fox HD ES</link> 
+            <thumbnail>http://www.axartel.es/assets/img/sliders/tv-canales/fox.jpg</thumbnail>
+                </item> 
+  <item> 
+            <title>Fox HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://portal.geniptv.com:8080/live/julia/julia/4415.ts&amp;streamtype=TSDOWNLOADER&amp;name=Fox FHD ES</link> 
+            <thumbnail>http://www.axartel.es/assets/img/sliders/tv-canales/fox.jpg</thumbnail>
+                </item> 
+  <item> 
+            <title>Fox Life HD ES</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://portal.geniptv.com:8080/live/julia/julia/1054.ts&amp;streamtype=TSDOWNLOADER&amp;name=Fox Life HD ES</link> 
+            <thumbnail>http://www.axartel.es/assets/img/sliders/tv-canales/fox-life.jpg</thumbnail>
+                </item>
+  <item> 
+            <title>FOX Life HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://portal.geniptv.com:8080/live/julia/julia/6075.ts&amp;streamtype=TSDOWNLOADER&amp;name=FOX Life FHD ES</link> 
+            <thumbnail>http://www.axartel.es/assets/img/sliders/tv-canales/fox-life.jpg</thumbnail>
+                </item>
+  <item> 
+            <title>Fox News</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://portal.geniptv.com:8080/live/julia/julia/1074.ts&amp;streamtype=TSDOWNLOADER&amp;name=Fox News ES</link> 
+            <thumbnail>http://global.fncstatic.com/static/v/all/img/fn_128x128.png</thumbnail>
+                </item> 
+
+
+
+   
+
