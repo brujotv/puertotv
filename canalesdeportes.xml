@@ -17,12 +17,7 @@
             <thumbnail>http://sportandnews.com/wp-content/uploads/2013/03/BARSA-TV.png</thumbnail>
         </item>
  <item> 
-            <title>Eurosport 1 </title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://portal.geniptv.com:8080/live/julia/julia/6065.ts&amp;streamtype=TSDOWNLOADER&amp;name=Eurosport 1 FHD ES</link> 
-            <thumbnail></thumbnail>
-        </item> 
- <item> 
-            <title>Eurosport 2 </title> 
+            <title>Eurosport 2 1080p </title> 
             <link>plugin://plugin.video.f4mTester/?url=http://portal.geniptv.com:8080/live/julia/julia/6064.ts&amp;streamtype=TSDOWNLOADER&amp;name=Eurosport 2 FHD ES</link> 
             <thumbnail></thumbnail>
         </item> 		
@@ -42,7 +37,7 @@
             <thumbnail></thumbnail>
         </item>
  <item> 
-            <title>LaLigaTV </title> 
+            <title>LaLigaTV HD 1080p </title> 
             <link>plugin://plugin.video.f4mTester/?url=http://portal.geniptv.com:8080/live/julia/julia/6069.ts&amp;streamtype=TSDOWNLOADER&amp;name=LaLigaTV FHD ES</link> 
             <thumbnail></thumbnail>
         </item> 
@@ -57,17 +52,17 @@
             <thumbnail></thumbnail>
         </item>
  <item> 
-            <title>M+ Futbol </title> 
+            <title>M+ Futbol 1080p </title> 
             <link>plugin://plugin.video.f4mTester/?url=http://portal.geniptv.com:8080/live/julia/julia/4406.ts&amp;streamtype=TSDOWNLOADER&amp;name=M+ Futbol FHD ES</link> 
             <thumbnail></thumbnail>
         </item>
  <item> 
-            <title>beIN LA Liga </title> 
+            <title>beIN LA Liga 1080p </title> 
             <link>plugin://plugin.video.f4mTester/?url=http://portal.geniptv.com:8080/live/julia/julia/4403.ts&amp;streamtype=TSDOWNLOADER&amp;name=beIN LA Liga FHD ES</link> 
             <thumbnail></thumbnail>
         </item> 
  <item> 
-            <title>beIN Sport </title> 
+            <title>beIN Sport 1080p </title> 
             <link>plugin://plugin.video.f4mTester/?url=http://portal.geniptv.com:8080/live/julia/julia/4404.ts&amp;streamtype=TSDOWNLOADER&amp;name=beIN Sport FHD ES</link> 
             <thumbnail></thumbnail>
         </item> 
@@ -102,17 +97,17 @@
             <thumbnail></thumbnail>
         </item> 
  <item> 
-            <title>MoviStar F1 </title> 
+            <title>MoviStar F1 1080p </title> 
             <link>plugin://plugin.video.f4mTester/?url=http://portal.geniptv.com:8080/live/julia/julia/1035.ts&amp;streamtype=TSDOWNLOADER&amp;name=MovieStar F1 ES</link> 
             <thumbnail></thumbnail>
         </item>
  <item> 
-            <title>M  Formula 1 </title> 
+            <title>M  Formula 1 1080p</title> 
             <link>plugin://plugin.video.f4mTester/?url=http://portal.geniptv.com:8080/live/julia/julia/4400.ts&amp;streamtype=TSDOWNLOADER&amp;name=M  Formula 1 FHD ES</link> 
             <thumbnail></thumbnail>
         </item>
  <item> 
-            <title>MoviStar F1 </title> 
+            <title>MoviStar F1 1080p </title> 
             <link>plugin://plugin.video.f4mTester/?url=http://portal.geniptv.com:8080/live/julia/julia/4401.ts&amp;streamtype=TSDOWNLOADER&amp;name=MoviStar F1 FHD ES</link> 
             <thumbnail></thumbnail>
         </item> 
@@ -122,7 +117,7 @@
             <thumbnail></thumbnail> 
         </item>
  <item> 
-            <title>M  MotoGP</title> 
+            <title>M  MotoGP 1080p</title> 
             <link>plugin://plugin.video.f4mTester/?url=http://portal.geniptv.com:8080/live/julia/julia/4399.ts&amp;streamtype=TSDOWNLOADER&amp;name=M  MotoGP FHD ES</link> 
         </item> 		
  <item> 
@@ -141,18 +136,8 @@
             <thumbnail></thumbnail>
         </item>
  <item> 
-            <title>Toros TV </title> 
+            <title>Toros TV 1080p </title> 
             <link>plugin://plugin.video.f4mTester/?url=http://portal.geniptv.com:8080/live/julia/julia/6067.ts&amp;streamtype=TSDOWNLOADER&amp;name=Toros TV FHD ES</link> 
-            <thumbnail></thumbnail>
-        </item> 
- <item> 
-            <title>Movistar+ Esports</title> 
-            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,Movistar+ Esports&amp;streamtype=TSDOWNLOADER&amp;name=Movistar+ Esports ES</link> 
-            <thumbnail></thumbnail>
-        </item>
- <item> 
-            <title>World Padel Tour</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://portal.geniptv.com:8080/live/julia/julia/6062.ts&amp;streamtype=TSDOWNLOADER&amp;name=World Padel Tour FHD ES</link> 
             <thumbnail></thumbnail>
         </item> 
 
