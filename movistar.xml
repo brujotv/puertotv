@@ -87,20 +87,50 @@
             <thumbnail>http://www1.movistarplus.es/recorte/m-NEO/canal/MV1</thumbnail>
                 </item>
    <item> 
+            <title>MovieStar Estrenos</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://portal.geniptv.com:8080/live/julia/julia/4408.ts&amp;streamtype=TSDOWNLOADER&amp;name=C+ Estrenos FHD ES</link> 
+            <thumbnail>http://www1.movistarplus.es/recorte/m-NEO/canal/MV1</thumbnail>    
+                </item> 
+   <item> 
             <title>MoviStar Accion</title> 
             <link>plugin://plugin.video.f4mTester/?url=http://portal.geniptv.com:8080/live/julia/julia/4409.ts&amp;streamtype=TSDOWNLOADER&amp;name=C+ Accion FHD ES</link> 
             <thumbnail>http://www1.movistarplus.es/recorte/m-NEO/canal/CPACCI</thumbnail>
 		</item>
    <item> 
+            <title>MoviStar Accion ES</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://portal.geniptv.com:8080/live/julia/julia/1070.ts&amp;streamtype=TSDOWNLOADER&amp;name=MovieStar Accion ES</link> 
+            <thumbnail>http://www1.movistarplus.es/recorte/m-NEO/canal/CPACCI</thumbnail>
+                </item> 
+   <item> 
+            <title>Movistar Comedia</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://portal.geniptv.com:8080/live/julia/julia/6083.ts&amp;streamtype=TSDOWNLOADER&amp;name=Movistar  Comedia FHD ES</link> 
+            <thumbnail>http://www1.movistarplus.es/recorte/m-NEO/canal/CPCOME</thumbnail>
+                </item> 
+   <item> 
+            <title>MoviStar Comedia </title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://portal.geniptv.com:8080/live/julia/julia/1069.ts&amp;streamtype=TSDOWNLOADER&amp;name=MovieStar Comedia ES</link> 
+            <thumbnail>http://www1.movistarplus.es/recorte/m-NEO/canal/CPCOME</thumbnail>
+                </item> 
+   <item> 
             <title>MoviStar DCine</title> 
             <link>plugin://plugin.video.f4mTester/?url=http://portal.geniptv.com:8080/live/julia/julia/4407.ts&amp;streamtype=TSDOWNLOADER&amp;name=C+ DCine FHD ES</link> 
             <thumbnail>http://www1.movistarplus.es/recorte/m-NEO/canal/CPCOLE</thumbnail>
-		</item> 
+		</item>
+   <item> 
+            <title>MoviStar DCine</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://portal.geniptv.com:8080/live/julia/julia/1068.ts&amp;streamtype=TSDOWNLOADER&amp;name=MovieStar DCine ES</link> 
+            <thumbnail>http://www1.movistarplus.es/recorte/m-NEO/canal/CPCOLE</thumbnail>
+                </item> 
    <item> 
             <title>MoviStar Series HD</title> 
             <link>plugin://plugin.video.f4mTester/?url=http://portal.geniptv.com:8080/live/julia/julia/1067.ts&amp;streamtype=TSDOWNLOADER&amp;name=MovieStar Series HD ES</link> 
             <thumbnail>http://www1.movistarplus.es/recorte/m-NEO/canal/CPSER</thumbnail>
 		</item> 
+   <item> 
+            <title>MoviStar Series HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://portal.geniptv.com:8080/live/julia/julia/4410.ts&amp;streamtype=TSDOWNLOADER&amp;name=C  Series FHD ES</link> 
+            <thumbnail>http://www1.movistarplus.es/recorte/m-NEO/canal/CPSER</thumbnail>
+                </item> 
    <item> 
             <title>MoviStar Series Xtra</title> 
             <link>plugin://plugin.video.f4mTester/?url=http://portal.geniptv.com:8080/live/julia/julia/1066.ts&amp;streamtype=TSDOWNLOADER&amp;name=MovieStar Series Xtra ES</link> 
@@ -111,3 +141,8 @@
             <link>plugin://plugin.video.f4mTester/?url=http://portal.geniptv.com:8080/live/julia/julia/1071.ts&amp;streamtype=TSDOWNLOADER&amp;name=MovieStar Xtra ES</link> 
             <thumbnail>http://www1.movistarplus.es/recorte/m-NEO/canal/CPXTRA</thumbnail>
 		</item> 
+   <item> 
+            <title>MoviStar Xtra</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://portal.geniptv.com:8080/live/julia/julia/4411.ts&amp;streamtype=TSDOWNLOADER&amp;name=C+ Xtra FHD ES</link> 
+            <thumbnail>http://www1.movistarplus.es/recorte/m-NEO/canal/CPXTRA</thumbnail>
+                </item> 
