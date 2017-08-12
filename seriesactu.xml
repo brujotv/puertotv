@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+<item>
+<title>[COLOR aquamarine][B]OFICNA DE INFILTRADOS - LE BUREAU DES LEGENDES - 2015[/B][/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+  <name>makelist</name>
+  <listrepeat><![CDATA[
+        <title>[COLOR aquamarine] [makelist.param3][/COLOR]</title>
+        <link>$doregex[getUrl]</link>
+         <thumbnail>https://pics.filmaffinity.com/le_bureau_des_legendes_tv_series-768701166-large.jpg</thumbnail>
+  <fanart>http://www.bolsamania.com/seriesadictos/wp-content/uploads/2017/01/LE-BUREAU-DES-L%C3%A9GENDES.png</fanart>
+]]></listrepeat>
+<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
+<page>http://diskokosmiko.mx/frankiepentangelli/oficina-de-infiltrados-2015-69551</page>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>getUrl</name>
+<expres>DownloadUrl":"([^"]+)<expres>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
+<rawpost>fileId=[makelist.param1]&__RequestVerificationToken=$doregex[tok]</rawpost>
+<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
+<connection>keep-alive</connection>
+<accept>*/*</accept>
+<X-Req>XMLHttpRequest</X-Req>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>tok</name>
+<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+<page>http://diskokosmiko.mx/[makelist.param2]</page>
+<referer>http://diskokosmiko.mx/frankiepentangelli/oficina-de-infiltrados-2015-69551</referer>
+<connection>keep-alive</connection>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>https://pics.filmaffinity.com/le_bureau_des_legendes_tv_series-768701166-large.jpg</thumbnail>
+  <fanart>http://www.bolsamania.com/seriesadictos/wp-content/uploads/2017/01/LE-BUREAU-DES-L%C3%A9GENDES.png</fanart>
+</item>
+
+<item>
+<title>[COLOR aquamarine][B]NARCOS - 2015[/B][/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+  <name>makelist</name>
+  <listrepeat><![CDATA[
+        <title>[COLOR aquamarine] [makelist.param3][/COLOR]</title>
+        <link>$doregex[getUrl]</link>
+        <thumbnail>http://i.imgur.com/JbCESZb.jpg</thumbnail>
+  <fanart>http://1.bp.blogspot.com/-SvCVgAbbahU/VhKneZ1XOcI/AAAAAAAAAmI/LEjr6cIjBm0/s1600/drug-lord-chart.jpg</fanart>
+]]></listrepeat>
+<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
+<page>http://diskokosmiko.mx/frankiepentangelli/narcos-2015-43572</page>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>getUrl</name>
+<expres>DownloadUrl":"([^"]+)<expres>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
+<rawpost>fileId=[makelist.param1]&__RequestVerificationToken=$doregex[tok]</rawpost>
+<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
+<connection>keep-alive</connection>
+<accept>*/*</accept>
+<X-Req>XMLHttpRequest</X-Req>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>tok</name>
+<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+<page>http://diskokosmiko.mx/[makelist.param2]</page>
+<referer>http://diskokosmiko.mx/frankiepentangelli/narcos-2015-43572</referer>
+<connection>keep-alive</connection>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://i.imgur.com/JbCESZb.jpg</thumbnail>
+  <fanart>http://1.bp.blogspot.com/-SvCVgAbbahU/VhKneZ1XOcI/AAAAAAAAAmI/LEjr6cIjBm0/s1600/drug-lord-chart.jpg</fanart>
+</item>
