@@ -107,21 +107,21 @@
 
 <item>
 <title>Taylor Swift - Shake It Off </title>        
-<link>https://www.youtube.com/watch?v=nfWlot6h_JM</link>
+<urlsolve>https://www.youtube.com/watch?v=nfWlot6h_JM</urlsolve>
 <thumbnail>https://upload.wikimedia.org/wikipedia/en/d/d1/Taylor_Swift_-_Shake_It_Off_music_video_screenshot.jpg</thumbnail>
 <fanart>http://syndic8.grantdigital.com.au/content/2014/08/22/Taylor-Swift-Shake-It-Off_22ffe.jpg</fanart>
 </item>
 
 <item>
 <title>Maroon 5 - Sugar </title>        
-<link>https://www.youtube.com/watch?v=09R8_2nJtjg</link>
+<urlsolve>https://www.youtube.com/watch?v=09R8_2nJtjg</urlsolve>
 <thumbnail>http://gruporivas.com.mx/wp-content/uploads/2015/03/Maroon-5-Sugar.jpg</thumbnail>
 <fanart>https://i.ytimg.com/vi/OxPv8mSTv9U/maxresdefault.jpg</fanart>
 </item>
 
 <item>
 <title>Major Lazer & DJ Snake - Lean On (feat. MØ) (Official Music Video) </title>        
-<link>https://www.youtube.com/watch?v=YqeW9_5kURI</link>
+<urlsolve>https://www.youtube.com/watch?v=YqeW9_5kURI</urlsolve>
 <thumbnail>http://www.songspub.com/content/songspub/news/ML%20Lean%20On%20Music%20Video%20Still_605x403.jpg</thumbnail>
 <fanart>http://elcorillord.com/wp-content/uploads/2015/11/Major-Lazer-DJ-Snake-Ft-M%C3%98-Lean-On.jpg</fanart>
 </item>
@@ -129,7 +129,7 @@
 
 <item>
 <title>Burak Yeter - Tuesday ft. Danelle Sandoval </title>        
-<link>https://www.youtube.com/watch?v=Y1_VsyLAGuk</link>
+<urlsolve>https://www.youtube.com/watch?v=Y1_VsyLAGuk</urlsolve>
 <thumbnail>https://coubsecure-s.akamaihd.net/get/b23/p/coub/simple/cw_timeline_pic/dd115d93719/8717d332cef3ad0536cda/med_1472819226_image.jpg</thumbnail>
 <fanart>https://i.ytimg.com/vi/0mPeohNu1Nw/maxresdefault.jpg</fanart>
 </item>
@@ -137,7 +137,7 @@
 
 <item>
 <title></title>        
-<link></link>
+<urlsolve></urlsolve>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
@@ -145,7 +145,7 @@
 
 <item>
 <title></title>        
-<link></link>
+<urlsolve></urlsolve>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
@@ -153,7 +153,7 @@
 
 <item>
 <title></title>        
-<link></link>
+<urlsolve></urlsolve>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
