@@ -11,7 +11,7 @@
 <item>
 <title>--- Tdt ---</title>
 <thumbnail>https://is3-ssl.mzstatic.com/image/thumb/Purple117/v4/72/23/c3/7223c36b-c93b-daf9-9563-dee000a53e1c/source/256x256bb.jpg</thumbnail>
-<fanart></fanart>
+<fanart>http://www.symcober.com/wp-content/uploads/2015/06/TDT.jpg</fanart>
 <link>http://ignoreme</link>
 <externallink>https://raw.githubusercontent.com/brujotv/puertotv/master/tdt.xml</externallink>
 </item>
@@ -19,7 +19,7 @@
 <item>
 <title>--- Movistar ---</title>
 <thumbnail>http://www.indignado.cl/wp-content/fotos/Logo-Movistar.jpg</thumbnail>
-<fanart></fanart>
+<fanart>http://www.emtstatic.com/2017/03/maxresdefault-1-1.jpg</fanart>
 <link>http://ignoreme</link>
 <externallink>https://raw.githubusercontent.com/brujotv/puertotv/master/movistar.xml</externallink>
 </item>
@@ -27,7 +27,7 @@
 <item>
 <title>--- Deportes ---</title>
 <thumbnail>http://stat1.infoguiaglobal.com/user-content/argentina/1969480/logo.jpg</thumbnail>
-<fanart></fanart>
+<fanart>http://thmbcache.com/thumbs/rack/c/be167d9ea953d44e8cbd-25e9f6b52714e6c3d4dbb7e330152014.r68.cf3.rackcdn.com/87754963.jpg</fanart>
 <link>http://ignoreme</link>
 <externallink>https://raw.githubusercontent.com/brujotv/puertotv/master/deportes.xml</externallink>
 </item>
@@ -35,7 +35,7 @@
 <item>
 <title>--- Peliculas ---</title>
 <thumbnail>http://www.yipiesrevista.com/wp-content/uploads/2016/09/pel%C3%ADcula.jpg</thumbnail>
-<fanart></fanart>
+<fanart>https://i.blogs.es/c76165/carteles-cine-terror/original.jpg</fanart>
 <link>http://ignoreme</link>
 <externallink>https://raw.githubusercontent.com/brujotv/puertotv/master/peliculas.xml</externallink>
 </item>
@@ -43,7 +43,7 @@
 <item>
 <title>--- Series ---</title>
 <thumbnail>http://tudoparahomens.com.br/wp-content/uploads/2014/02/Logo-Series.jpg</thumbnail>
-<fanart></fanart>
+<fanart>https://kingstraining.com/wp-content/uploads/2016/07/1jwwo6.jpg</fanart>
 <link>http://ignoreme</link>
 <externallink>https://raw.githubusercontent.com/brujotv/puertotv/master/index%20serie.xml</externallink>
 </item>
@@ -51,14 +51,14 @@
 <item>
 <title>--- Musica ---</title>
 <thumbnail>http://playurbano.com/wp-content/uploads/2016/12/Musica.jpg</thumbnail>
-<fanart></fanart>
+<fanart>https://tuapppara.com/wp-content/uploads/2017/05/downloadmusicfromyoutube.jpg</fanart>
 <link>http://ignoreme</link>
 <externallink>https://raw.githubusercontent.com/brujotv/puertotv/master/index%20musica.xml</externallink>
 </item>
 
 <item>
 <title>--- Caza y pesca documentales ---</title>
-<thumbnail></thumbnail>
+<thumbnail>http://static.13.cl/7/sites/default/files/13c/programas/field-imagen/documentales.jpg</thumbnail>
 <fanart></fanart>
 <link>http://ignoreme</link>
 <externallink>https://raw.githubusercontent.com/brujotv/puertotv/master/cazaypesca.xml</externallink>
@@ -66,8 +66,8 @@
 
 <item>
 <title>--- Camaras del mundo ---</title>
-<thumbnail></thumbnail>
-<fanart></fanart>
+<thumbnail>https://4.bp.blogspot.com/-2dXFqx_rNk8/V0LAiqmDYqI/AAAAAAAAACI/cfhvXFraBDE8qdd8qOy-dfAYQExQuajgwCLcB/s1600/mundo.png</thumbnail>
+<fanart>http://paisajesylugaresmashermososdelmundo.com/wp-content/uploads/2015/11/Imagenes-De-Hermosos-Paisajes-Del-Mundo-En-Hd-1.jpg</fanart>
 <link>http://ignoreme</link>
 <externallink></externallink>
 </item>
