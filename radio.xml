@@ -8,29 +8,22 @@
 </item>
 
 <item>
-<title></title>        
-
+<title>Europa FM</title>        
+<link>http://212.129.60.86:9968/stream/1/</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
 <title></title>        
-<urlsolve></urlsolve>
+<link></link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
 <title></title>        
-<urlsolve></urlsolve>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title></title>        
-<urlsolve></urlsolve>
+<link></link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
