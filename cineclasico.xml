@@ -3297,20 +3297,6 @@
 </channel>
   </channels> 
 	<item>
-<title> [COLOR lime]•[/COLOR]    [COLOR aquamarine][B] Saga Dragon Ball Z [/COLOR][COLOR aquamarine][/COLOR] [/B]</title>
-<link>http://ignora.me</link>
-<externallink>https://pastebin.com/raw/JLtymzSk</externallink>
-<thumbnail>http://www.joshborras.com/wp-content/uploads/peliculas-on-line-735x400.png</thumbnail>
-</item>
 
 
-<item>
-<title> [COLOR lime]•[/COLOR]    [COLOR aquamarine][B] Super campeones [/COLOR][COLOR aquamarine][/COLOR] [/B]</title>
-<link>$doregex[makelist]</link>
-<regex>
-  <name>makelist</name>
-  <listrepeat><![CDATA[
-        <title>[COLOR white]• [/COLOR][COLOR white] [makelist.param3][/COLOR]</title>
-        <link>$doregex[getUrl]</link>
-        <thumbnail>http://izozog.com/soyviejo/media/blogs/CAM/supercampeonesJ.jpg?mtime=1321578447</thumbnail>
-		<fanart>http://izozog.com/soyviejo/media/blogs/CAM/supercampeonesJ.jpg?mtime=1321578447</fanart>
+
