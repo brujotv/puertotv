@@ -2292,3 +2292,40 @@
   <fanart>http://ep00.epimg.net/cultura/imagenes/2013/11/14/television/1384412460_138441_1384412460_noticia_normal.jpg</fanart>
 </item>
 
+<item>
+<title>[COLOR aquamarine][B]ARRIBA y ABAJO - 1971[/B][/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+  <name>makelist</name>
+  <listrepeat><![CDATA[
+        <title>[COLOR cyan] [B] [makelist.param3][/B][/COLOR]</title>
+        <link>$doregex[getUrl]</link>
+        <thumbnail>http://filmlinks.tv/images/8/8/3/8/9/0/19.jpg</thumbnail>
+  <fanart>http://robertoggarcia.tk/wp-content/uploads/arriba-y-abajo.jpg</fanart>
+]]></listrepeat>
+<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
+<page>http://diskokosmiko.mx/frankiepentangelli/arriba-y-abajo-1971-35076/list,1,3</page>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>getUrl</name>
+<expres>DownloadUrl":"([^"]+)<expres>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
+<rawpost>fileId=[makelist.param1]&__RequestVerificationToken=$doregex[tok]</rawpost>
+<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
+<connection>keep-alive</connection>
+<accept>*/*</accept>
+<X-Req>XMLHttpRequest</X-Req>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>tok</name>
+<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+<page>http://diskokosmiko.mx/[makelist.param2]</page>
+<referer>http://diskokosmiko.mx/frankiepentangelli/arriba-y-abajo-1971-35076/list,1,3</referer>
+<connection>keep-alive</connection>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://filmlinks.tv/images/8/8/3/8/9/0/19.jpg</thumbnail>
+  <fanart>http://robertoggarcia.tk/wp-content/uploads/arriba-y-abajo.jpg</fanart>
+</item>
