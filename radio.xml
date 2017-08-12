@@ -2,14 +2,14 @@
 
 <item>
 <title>Los 40 principales</title>        
-#EXTINF:-1 http://17873.live.streamtheworld.com/LOS40_SC
+<urlsolve>http://17873.live.streamtheworld.com/LOS40_SC</urlsolve>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
 <title></title>        
-<urlsolve></urlsolve>
+
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
