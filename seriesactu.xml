@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
+
+<channels>
+  
+  
 <item>
 <title>[COLOR aquamarine][B]OFICNA DE INFILTRADOS - LE BUREAU DES LEGENDES - 2015[/B][/COLOR]</title>
 <link>$doregex[makelist]</link>
@@ -38,6 +42,9 @@
   <fanart>http://www.bolsamania.com/seriesadictos/wp-content/uploads/2017/01/LE-BUREAU-DES-L%C3%A9GENDES.png</fanart>
 </item>
 
+  <channels>
+    
+    
 <item>
 <title>[COLOR aquamarine][B]NARCOS - 2015[/B][/COLOR]</title>
 <link>$doregex[makelist]</link>
