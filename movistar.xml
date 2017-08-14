@@ -628,7 +628,7 @@
         </item> 
 <item> 
             <title>prueba</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptvskytv.ddns.net:999/live/bydomid288/1982/2.ts=La 1 ES</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptvskytv.ddns.net:999/live/bydomid288/1982/2.ts&amp;streamtype=TSDOWNLOADER&amp;name=prueba</link> 
             <thumbnail>http://static.programacion-tdt.com/imgAPP/TVE1.min.png</thumbnail>
                 </item>
           
