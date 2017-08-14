@@ -626,12 +626,7 @@
             <title>Taquilla 13 HD ES</title> 
             <link>plugin://plugin.video.f4mTester/?url=http://portal.geniptv.com:8080/live/julia/julia/999.ts&amp;streamtype=TSDOWNLOADER&amp;name=Taquilla 13 HD ES</link> 
         </item> 
-<item> 
-            <title>prueba</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptvskytv.ddns.net:999/live/bydomid288/1982/2.ts&amp;streamtype=TSDOWNLOADER&amp;name=prueba</link> 
-            <thumbnail>http://static.programacion-tdt.com/imgAPP/TVE1.min.png</thumbnail>
-                </item>
-          
+
           
         
          
