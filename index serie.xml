@@ -15,3 +15,12 @@
 <link>http://ignoreme</link>
 <externallink>https://raw.githubusercontent.com/brujotv/puertotv/master/seriesactu.xml</externallink>
 </item>
+
+<item>
+<title>Series infanteles</title>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<link>http://ignoreme</link>
+<externallink>https://raw.githubusercontent.com/brujotv/puertotv/master/serinfatiles.xml</externallink>
+</item>
+
