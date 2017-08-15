@@ -1,5 +1,14 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
+<channel>
+      <name>[COLOR darkcyan][COLOR mediumblue]•   [/COLOR] CINE INFANTIL ACESTREAM-PLEXUS[/COLOR]</name>
+  <thumbnail>https://dl.dropbox.com/s/m63srwkwtv9c2yk/Jdr63CineYaron.jpg</thumbnail>
+<fanart>http://www.actualfestival.com/wp-content/uploads/2015/11/cine-maraton1.png</fanart>
+<link>http://ignoreme</link>
+   <externallink>https://dl.dropbox.com/s/2z3vks5a9w6fc64/CineJdr63YARON.m3u</externallink>
+</channel>
+  </channels>
+
 <item>
 <title></title>        
 <urlsolve></urlsolve>
