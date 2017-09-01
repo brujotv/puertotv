@@ -7,12 +7,6 @@
 <fanart>https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/EuroEspa%C3%B1a.svg/1200px-EuroEspa%C3%B1a.svg.png</fanart>
 </item>
 
-<item>
-<title>[COLOR lightblue] QUATRO [/COLOR] [COLOR lightslategray][I]Sportsdevil[/I][/COLOR]</title>
-<sportsdevil>http://cinestrenostv.tv/canales/nacionales/la-cuatro.php</sportsdevil>
-<referer>http://cinestrenostv.tv/</referer>
-<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Logotipo_de_Cuatro.svg/1280px-Logotipo_de_Cuatro.svg.png</thumbnail>
-</item>
 
 <item>
 <title>Antena 3 HD</title>        
@@ -149,8 +143,8 @@
 </item>
 
 <item>
-<title>CASTRO</title><sportsdevil>http://aflam4you.tv/art-aflam-1-hd_23.html</sportsdevil>
-<thumbnail>http://i63.tinypic.com/2cem2w1.jpg</thumbnail>  
+<title>Canales por sportsdevil</title><sportsdevil>http://aflam4you.tv/art-aflam-1-hd_23.html</sportsdevil>
+<thumbnail></thumbnail>  
 <referer>http://aflam4you.tv</referer>
 </item>    
  
