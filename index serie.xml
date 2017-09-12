@@ -1,5 +1,10 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
  
+
+<item>
+<title>[B][COLOR red]Series[/COLOR][/B]</title>
+</item>
+
 <item>
 <title>Series retro</title>
 <thumbnail></thumbnail>
@@ -25,10 +30,7 @@
 </item>
 
 <item>
-<title>Servidores de series en internet</title>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<link>http://ignoreme</link>
+<title>[B][COLOR red]Servidores de series en internet[/COLOR][/B]</title>
 </item>
 
 <item>
