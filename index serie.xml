@@ -25,7 +25,7 @@
 </item>
 
 <item>
-<title>SERIES GNULA</title>
+<title>Series GNULA</title>
 
 <link>$doregex[makelist0]</link>
 
@@ -82,7 +82,7 @@
 <expres><![CDATA[episode-notes\">(.*?)<[\w\W\s\n]{0,400}href=\"(http://gamovideo.*?|https://vidoza.*?|https://kingvid.*?|https://openload.*?|https://streamango.*?)"[\w\W\s\n]{0,250}domain=(.*?)"[\w\W\s]{0,100}lng\/(.*?).png]]></expres>
 <page>[makelist2.param1]</page>
 </regex>
-<thumbnail>http://adryanlist.org/adryan/img/adryflix.jpg</thumbnail><fanart>http://adryanlist.org/adryan/img/fanart.jpg</fanart></item> 
+<thumbnail></fanart></item> 
 
 
 
