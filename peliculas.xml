@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
+
 <item>
 <title>Estrenos</title>
-<thumbnail></thumbnail>
+<link>http://ignora.me</link>
+<externallink>http://adryanlist.org/adryan/favoritas_esp.xml</externallink>
 <fanart></fanart>
-<link>http://ignoreme</link>
-<externallink>https://raw.githubusercontent.com/brujotv/puertotv/master/estrenos.xml</externallink>
+<thumbnail>http://omicrono.elespanol.com/wp-content/uploads/2016/05/cine.jpg</thumbnail>
 </item>
 
 <item>
