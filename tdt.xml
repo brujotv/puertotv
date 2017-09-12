@@ -2,11 +2,17 @@
 
 <item>
 <title>Tve 1</title>        
-<link>http://hlsackdn_gl7-lh.akamaihd.net/i/hlslive_1@439316/index_1500_av-b.m3u8</link>
+<link>http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIES0020</link>
 <thumbnail>http://static.programacion-tdt.com/imgAPP/TVE1.min.png</thumbnail>
 <fanart>https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/EuroEspa%C3%B1a.svg/1200px-EuroEspa%C3%B1a.svg.png</fanart>
 </item>
 
+<item>
+<title>Cuatro hd</title>        
+<link>http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIES0012</link>
+<thumbnail>http://s.libertaddigital.com/fotos/noticias/logo-cuatro-mjg.jpg</thumbnail>
+<fanart>https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/EuroEspa%C3%B1a.svg/1200px-EuroEspa%C3%B1a.svg.png</fanart>
+</item>
 
 <item>
 <title>Antena 3 HD</title>        
@@ -17,7 +23,7 @@
 
 <item>
 <title>telecinco</title>        
-<link></link>
+<link>http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIES0015</link>
 <thumbnail>http://static.programacion-tdt.com/imgAPP/Antena_3.min.png</thumbnail>
 <fanart>https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/EuroEspa%C3%B1a.svg/1200px-EuroEspa%C3%B1a.svg.png</fanart>
 </item>
