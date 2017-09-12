@@ -28,5 +28,11 @@
 <title>Extratime</title>
 <link>http://ignorame</link><thumbnail>http://adryanlist.org/adryan/img/extratime.png</thumbnail><fanart>http://adryanlist.org/adryan/img/fanart.jpg</fanart>
 <externallink>http://adryanlist.org/adryan/multicanales.xml</externallink>
-<info>Adryanlist es GRATIS</info></item>
+<info>Adryanlist</info></item>
+
+<item>
+<title>Acestreams</title>
+<link>http://ignorame</link><thumbnail>http://adryanlist.org/adryan/img/acestream.png</thumbnail><fanart>http://adryanlist.org/adryan/img/fanart.jpg</fanart>
+<externallink>http://adryanlist.org/adryan/plexus.xml</externallink>
+<info>Adryanlist</info></item>
 
