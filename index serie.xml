@@ -25,6 +25,13 @@
 </item>
 
 <item>
+<title>Servidores de series en internet</title>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<link>http://ignoreme</link>
+</item>
+
+<item>
 <title>Series GNULA</title>
 
 <link>$doregex[makelist0]</link>
