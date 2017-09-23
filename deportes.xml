@@ -30,6 +30,55 @@
  <thumbnail>https://pbs.twimg.com/profile_images/709409297952735232/kYPH0Bck.jpg</thumbnail><info></info></item>
 
 <item>
+<title>Multicanal VIP02-42- Bein ñ / EspnDeportes / Univision Deportes</title>
+ <link>http://$doregex[ip]$doregex[m3u8]$doregex[hls]</link>
+			<regex>
+			<name>ip</name>
+			<expres>redirect=(.*)</expres>
+			<page>http://cdn.mipspublisher.com:1935/loadbalancer</page>
+			</regex>
+			<regex>
+			<name>m3u8</name>
+			<expres>ea \+ "(.*?)"</expres>
+			<page>http://www.mipsplayer.net/membedplayer/max42a1/1/650/400</page>
+			<agent>Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5</agent>
+			<referer>http://www.mipsplayer.net</referer>
+			</regex> 
+			<regex>
+			<name>hls</name>
+			<expres>hlsUrl \+ \(\"(.*?)"</expres>
+			<page>http://www.mipsplayer.net/membedplayer/max42a1/1/650/400</page>
+			<agent>Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5</agent>
+			<referer>http://www.mipsplayer.net</referer>
+			</regex>
+<thumbnail>http://www.ffcm.es/pnfg/pimg/GestorContenidos/00100_0001008386_2_calendario_futbol01_0.jpg</thumbnail><info></info></item> 
+
+<item>
+ <title>Multicanal VIP03-36 - Bein ñ / EspnDeportes / Univision Deportes</title>
+ <link>http://$doregex[ip]$doregex[m3u8]$doregex[hls]</link>
+			<regex>
+			<name>ip</name>
+			<expres>redirect=(.*)</expres>
+			<page>http://cdn.mipspublisher.com:1935/loadbalancer</page>
+			</regex>
+			<regex>
+			<name>m3u8</name>
+			<expres>ea \+ "(.*?)"</expres>
+			<page>http://www.mipsplayer.net/membedplayer/max36a1/1/650/400</page>
+			<agent>Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5</agent>
+			<referer>http://www.mipsplayer.net</referer>
+			</regex> 
+			<regex>
+			<name>hls</name>
+			<expres>hlsUrl \+ \(\"(.*?)"</expres>
+			<page>http://www.mipsplayer.net/membedplayer/max36a1/1/650/400</page>
+			<agent>Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5</agent>
+			<referer>http://www.mipsplayer.net</referer>
+			</regex>
+<thumbnail>http://www.ffcm.es/pnfg/pimg/GestorContenidos/00100_0001008386_2_calendario_futbol01_0.jpg</thumbnail><info></info></item> 
+
+
+<item>
 <title>EL Goles 1</title>
   <link>http://$doregex[ip]$doregex[m3u8]$doregex[hls]</link>
 			<regex>
