@@ -67,7 +67,7 @@
 
 
  <item>
-<title>EL Goles2</title>
+<title>EL Goles 2</title>
   <link>http://$doregex[ip]$doregex[m3u8]$doregex[hls]</link>
 			<regex>
 			<name>ip</name>
