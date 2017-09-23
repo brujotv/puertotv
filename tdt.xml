@@ -72,7 +72,7 @@
 </item>
 
 <item>
-<title>[COLOR lime]•[/COLOR]Ten</title>        
+<title>[COLOR red]•[/COLOR]Ten</title>        
 <link>Http://88.148.69.129:9090/play/a022</link>
 <thumbnail>http://www1.movistarplus.es/recorte/m-NEO/canal/TEN</thumbnail>
 <fanart>https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/EuroEspa%C3%B1a.svg/1200px-EuroEspa%C3%B1a.svg.png</fanart>
@@ -86,7 +86,7 @@
 </item>
 
 <item>
-<title>[COLOR lime]•[/COLOR]Dkiss</title>        
+<title>[COLOR red]•[/COLOR]Dkiss</title>        
 <link>http://88.148.69.129:9090/play/a020</link>
 <thumbnail>http://www.dkiss.es/wp-content/uploads/DKiss-1.png</thumbnail>
 <fanart>https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/EuroEspa%C3%B1a.svg/1200px-EuroEspa%C3%B1a.svg.png</fanart>
@@ -107,14 +107,14 @@
 </item>
 
 <item>
-<title>[COLOR lime]•[/COLOR]La Otra</title>        
+<title>[COLOR red]•[/COLOR]La Otra</title>        
 <link>http://laotra-live.hls.adaptive.level3.net/hls-live/telemadrid-laotra/_definst_/live/stream1.m3u8</link>
 <thumbnail>http://www.videocadenasur.net/images/laotra.gif</thumbnail>
 <fanart>https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/EuroEspa%C3%B1a.svg/1200px-EuroEspa%C3%B1a.svg.png</fanart>
 </item>
 
 <item>
-<title>[COLOR lime]•[/COLOR]Telemadrid</title>        
+<title>[COLOR red]•[/COLOR]Telemadrid</title>        
 <link>http://telemadrid-live.hls.adaptive.level3.net/hls-live/telemadrid-telemadridbis/_definst_/live/stream1.m3u8</link>
 <thumbnail>http://media.tvalacarta.info/canales/256x256/telemadrid.png</thumbnail>
 <fanart>https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/EuroEspa%C3%B1a.svg/1200px-EuroEspa%C3%B1a.svg.png</fanart>
