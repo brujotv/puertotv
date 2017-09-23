@@ -29,7 +29,7 @@
 <info>Adryanlist</info></item>
 
   <item>
-<title>[COLOR deepskyblue]Multicanal[/COLOR] [COLOR lightblue]Revo 01 * * [/COLOR][COLOR white][I]  [/I][/COLOR]</title>
+<title>Canal vip deportes</title>
   <link>http://$doregex[ip]$doregex[m3u8]$doregex[hls]</link>
 			<regex>
 			<name>ip</name>
@@ -55,5 +55,5 @@
 			<expres>channel='(.*?)'</expres>
 			<page>http://revolucionariostv.eu/elitegol/Repros/c1.php</page>
 			</regex>	
- <thumbnail>http://adryanlist.org/adryan/img/deportes.png</thumbnail><info>Recuerda hacer tu donacion para seguir mejorando Adryanlist en     http://paypal.me/Adryanlist</info></item>
+ <thumbnail></thumbnail><info></info></item>
 
