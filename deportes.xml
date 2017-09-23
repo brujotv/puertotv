@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
   <item>
-<title>[COLOR lime]•[/COLOR][COLOR aquamarine]Canal vip deportes</title>
+<title>[COLOR lime]•[/COLOR]Canal vip deportes</title>
   <link>http://$doregex[ip]$doregex[m3u8]$doregex[hls]</link>
 			<regex>
 			<name>ip</name>
@@ -30,7 +30,7 @@
  <thumbnail>https://pbs.twimg.com/profile_images/709409297952735232/kYPH0Bck.jpg</thumbnail><info></info></item>
 
 <item>
-<title>[COLOR lime]•[/COLOR][COLOR aquamarine]Multicanal VIP02-42- Bein ñ / EspnDeportes / Univision Deportes</title>
+<title>[COLOR lime]•[/COLOR]Multicanal VIP02-42- Bein ñ / EspnDeportes / Univision Deportes</title>
  <link>http://$doregex[ip]$doregex[m3u8]$doregex[hls]</link>
 			<regex>
 			<name>ip</name>
@@ -54,7 +54,7 @@
 <thumbnail>http://www.ffcm.es/pnfg/pimg/GestorContenidos/00100_0001008386_2_calendario_futbol01_0.jpg</thumbnail><info></info></item> 
 
 <item>
- <title>[COLOR lime]•[/COLOR][COLOR aquamarine]Multicanal VIP03-36 - Bein ñ / EspnDeportes / Univision Deportes</title>
+ <title>[COLOR lime]•[/COLOR]Multicanal VIP03-36 - Bein ñ / EspnDeportes / Univision Deportes</title>
  <link>http://$doregex[ip]$doregex[m3u8]$doregex[hls]</link>
 			<regex>
 			<name>ip</name>
@@ -79,7 +79,7 @@
 
 
 <item>
-<title>[COLOR lime]•[/COLOR][COLOR aquamarine]EL Goles 1</title>
+<title>[COLOR lime]•[/COLOR]EL Goles 1</title>
   <link>http://$doregex[ip]$doregex[m3u8]$doregex[hls]</link>
 			<regex>
 			<name>ip</name>
@@ -116,7 +116,7 @@
 
 
  <item>
-<title>[COLOR lime]•[/COLOR][COLOR aquamarine]EL Goles 2</title>
+<title>[COLOR lime]•[/COLOR]EL Goles 2</title>
   <link>http://$doregex[ip]$doregex[m3u8]$doregex[hls]</link>
 			<regex>
 			<name>ip</name>
@@ -150,7 +150,7 @@
 <thumbnail>http://www.ffcm.es/pnfg/pimg/GestorContenidos/00100_0001008386_2_calendario_futbol01_0.jpg</thumbnail><info></info></item>
 
 <item>
-<title>[COLOR lime]•[/COLOR][COLOR aquamarine] LA LIGA(acestreams)</title>
+<title>[COLOR lime]•[/COLOR]LA LIGA(acestreams)</title>
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
@@ -187,7 +187,7 @@
 </item>	 
 	 
 <item>
-<title>[COLOR red]Rojadirecta:[/COLOR] [COLOR orange]SportsDevil[/COLOR]</title>
+<title>[COLOR lime]•[/COLOR][COLOR red]Rojadirecta:[/COLOR] [COLOR orange]SportsDevil[/COLOR]</title>
 <link>http://Ignoreme</link>
 <jsonrpc>plugin://plugin.video.SportsDevil/?item=url=livesports/rojadirecta.me.cfg&amp;mode=1</jsonrpc>
 <thumbnail></thumbnail>
