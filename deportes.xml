@@ -27,7 +27,7 @@
 			<expres>channel='(.*?)'</expres>
 			<page>http://revolucionariostv.eu/elitegol/Repros/c1.php</page>
 			</regex>	
- <thumbnail></thumbnail><info></info></item>
+ <thumbnail>https://pbs.twimg.com/profile_images/709409297952735232/kYPH0Bck.jpg</thumbnail><info></info></item>
 
 <item>
 <title>EL Goles 1</title>
@@ -62,7 +62,7 @@
 			<page>http://elgoles.ru/</page>
 			</regex>
 			
-<thumbnail></thumbnail><info></info></item>
+<thumbnail>http://www.ffcm.es/pnfg/pimg/GestorContenidos/00100_0001008386_2_calendario_futbol01_0.jpg</thumbnail><info></info></item>
 
 
 
@@ -98,7 +98,7 @@
 			<expres>href="(.*?)">canal-14<</expres>
 			<page>http://elgoles.ru/</page>
 			</regex>	
-<thumbnail></thumbnail><info></info></item>
+<thumbnail>http://www.ffcm.es/pnfg/pimg/GestorContenidos/00100_0001008386_2_calendario_futbol01_0.jpg</thumbnail><info></info></item>
 
 <item> 
 <title>Arenavision</title>
