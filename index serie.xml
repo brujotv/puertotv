@@ -7,7 +7,7 @@
 </item>
 
 <item>
-<title>Series retro</title>
+<title>[COLOR lime]•[/COLOR]Series retro</title>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <link>http://ignoreme</link>
@@ -15,7 +15,7 @@
 </item>
 
 <item>
-<title>Series actuales</title>
+<title>[COLOR lime]•[/COLOR]Series actuales</title>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <link>http://ignoreme</link>
@@ -23,7 +23,7 @@
 </item>
 
 <item>
-<title>Series infanteles</title>
+<title>[COLOR lime]•[/COLOR]Series infanteles</title>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <link>http://ignoreme</link>
@@ -36,7 +36,7 @@
 </item>
 
 <item>
-<title>Series GNULA</title>
+<title>[COLOR lime]•[/COLOR]Series GNULA</title>
 
 <link>$doregex[makelist0]</link>
 
