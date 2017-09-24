@@ -9,16 +9,16 @@
 </item>
 
 <item>
-<title>[COLOR lime]•[/COLOR]</title>        
-<link></link>
-<thumbnail></thumbnail>
+<title>[COLOR lime]•[/COLOR]Canal 8 ITALIA</title>        
+<link>http://wms.shared.streamshow.it/canale8/mp4:canale8/playlist.m3u8</link>
+<thumbnail>https://s29.postimg.org/gn201s4qf/tv8.jpg</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
-<title>[COLOR lime]•[/COLOR]</title>        
-<link></link>
-<thumbnail></thumbnail>
+<title>[COLOR lime]•[/COLOR]Canale 10</title>        
+<link>http://37.187.142.147:1935/ch10live/high.stream/live.m3u8</link>
+<thumbnail>http://www.canaledieci.it/wp-content/themes/Divi/images/logo.png</thumbnail>
 <fanart></fanart>
 </item>
 
