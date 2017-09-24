@@ -9,7 +9,7 @@
 </item>
 
 <item>
-<title>[COLOR lime]•[/COLOR]Canal 8 ITALIA</title>        
+<title>[COLOR lime]•[/COLOR]Canal 8 italia</title>        
 <link>http://wms.shared.streamshow.it/canale8/mp4:canale8/playlist.m3u8</link>
 <thumbnail>https://s29.postimg.org/gn201s4qf/tv8.jpg</thumbnail>
 <fanart></fanart>
@@ -72,29 +72,29 @@
 </item>
 
 <item>
-<title>[COLOR lime]•[/COLOR]</title>        
-<link></link>
-<thumbnail></thumbnail>
+<title>[COLOR lime]•[/COLOR]TeleMonteneve</title>        
+<link>http://wms.shared.streamshow.it:1935/telemonteneve/telemonteneve/live.m3u8</link>
+<thumbnail>http://www.osm1816.it/site/wp-content/uploads/2015/05/Logo_09_teleMonteneve1.jpg</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
-<title>[COLOR lime]•[/COLOR]</title>        
-<link></link>
-<thumbnail></thumbnail>
+<title>[COLOR lime]•[/COLOR]Telepavia</title>        
+<link>http://wms.shared.streamshow.it:1935/telepavia/telepavia/live.m3u8</link>
+<thumbnail>http://www.ifiodunavolta.flazio.com/public/componenti/225/f1/logo_telepavia_1474481286131.png</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
-<title>[COLOR lime]•[/COLOR]</title>        
-<link></link>
-<thumbnail></thumbnail>
+<title>[COLOR lime]•[/COLOR]Carina TV</title>        
+<link>http://wms.shared.streamshow.it/carinatv/carinatv/playlist.m3u8</link>
+<thumbnail>http://www.carinatv.it/images/ctv_radiocarina.jpg</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
-<title>[COLOR lime]•[/COLOR]</title>        
-<link></link>
-<thumbnail></thumbnail>
+<title>[COLOR lime]•[/COLOR]TSN</title>        
+<link>http://wms.shared.streamshow.it:1935/tsn2/tsn2/live.m3u8</link>
+<thumbnail>https://soombo.com/assets/images/200_1456428050.png</thumbnail>
 <fanart></fanart>
 </item>
