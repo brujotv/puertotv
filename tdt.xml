@@ -2,6 +2,10 @@
 
 <item>
 <title>[COLOR lime]•[/COLOR]Tve 1</title>        
+<link>$$LSPlayOnlyOne$$</link>
+<link>http://iphonelive.rtve.es/LA1_LV3_IPH/LA1_LV3_IPH.m3u8$$lsname=La 1</link>
+<link>http://rtve-live.hds.adaptive.level3.net/hls-live/rtvegl7-la1lv3aomgl7/_definst_/live.m3u8$$lsname=La 1</link>
+<link>http://dmtn-iptv.com:8080/live/696nad1909/N0MxSuUMZE/5160.ts$$lsname=La 1</link>
 <link>http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIES0020</link>
 <thumbnail>http://static.programacion-tdt.com/imgAPP/TVE1.min.png</thumbnail>
 <fanart>https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/EuroEspa%C3%B1a.svg/1200px-EuroEspa%C3%B1a.svg.png</fanart>
