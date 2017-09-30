@@ -5,18 +5,53 @@
     
 
      
-
-   <item> 
-            <title>AMC HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://major2.ipfox.co:8080/live/winsor_ZdtMSC/GhAUwb3w/1140.ts&amp;streamtype=TSDOWNLOADER&amp;name=AMC HD ES</link> 
-            <thumbnail>https://pbs.twimg.com/profile_images/658379235116130304/0d0gse9_.jpg</thumbnail>
-                </item>
-
 <item> 
-            <title>Antena 3 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://major2.ipfox.co:8080/live/winsor_ZdtMSC/GhAUwb3w/1139.ts&amp;streamtype=TSDOWNLOADER&amp;name=Antena 3 HD ES</link> 
+            <title>[COLOR lime]•[/COLOR]Antena 3 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://major2.ipfox.co:8080/live/winsor_ZdtMSC/GhAUwb3w/1139.ts&amp;streamtype=TSDOWNLOADER&amp;name=Antena 3 HD</link> 
             <thumbnail>http://static.programacion-tdt.com/imgAPP/Antena_3.min.png</thumbnail>
                 </item>
+<item> 
+            <title>[COLOR lime]•[/COLOR]AMC HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://major2.ipfox.co:8080/live/winsor_ZdtMSC/GhAUwb3w/1140.ts&amp;streamtype=TSDOWNLOADER&amp;name=AMC HD</link> 
+            <thumbnail>https://pbs.twimg.com/profile_images/658379235116130304/0d0gse9_.jpg</thumbnail>
+                </item>
+<item> 
+            <title>AXN HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://major2.ipfox.co:8080/live/winsor_ZdtMSC/GhAUwb3w/1138.ts&amp;streamtype=TSDOWNLOADER&amp;name=AXN HD</link> 
+            <thumbnail>http://www1.movistarplus.es/recorte/m-NEO/canal/AXN</thumbnail>
+                 </item>
+<item> 
+            <title>AXN White</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://major2.ipfox.co:8080/live/winsor_ZdtMSC/GhAUwb3w/1137.t&amp;streamtype=TSDOWNLOADER&amp;name=AXN White</link> 
+            <thumbnail></thumbnail>
+                 </item>
+ <item> 
+            <title>Hollywood HD </title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://major2.ipfox.co:8080/live/winsor_ZdtMSC/GhAUwb3w/1128.ts&amp;streamtype=TSDOWNLOADER&amp;name=Hollywood FHD</link> 
+            <thumbnail>http://www.axartel.es/assets/img/sliders/tv-canales/canal-hollywood.jpg</thumbnail>
+                </item> 
+ <item> 
+            <title>Calle 13 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://major2.ipfox.co:8080/live/winsor_ZdtMSC/GhAUwb3w/1133.ts&amp;streamtype=TSDOWNLOADER&amp;name=Calle 13 HD</link> 
+            <thumbnail>http://www1.movistarplus.es/recorte/m-NEO/canal/CL13</thumbnail>
+                </item> 
+<item> 
+            <title>Baby TV </title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://major2.ipfox.co:8080/live/winsor_ZdtMSC/GhAUwb3w/1083.ts&amp;streamtype=TSDOWNLOADER&amp;name=Baby TV</link> 
+            <thumbnail></thumbnail>
+                </item>
+<item> 
+            <title>Boing </title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://major2.ipfox.co:8080/live/winsor_ZdtMSC/GhAUwb3w/1134.ts&amp;streamtype=TSDOWNLOADER&amp;name=Boing</link> 
+            <thumbnail>https://is2-ssl.mzstatic.com/image/thumb/Purple7/v4/b7/c4/17/b7c4172e-af34-3a46-4f3a-754f152be1ba/source/256x256bb.jpg</thumbnail>
+                </item>
+<item> 
+            <title>Bein sports </title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://major2.ipfox.co:8080/live/winsor_ZdtMSC/GhAUwb3w/1135.ts&amp;streamtype=TSDOWNLOADER&amp;name=Baby TV</link> 
+            <thumbnail></thumbnail>
+                </item>
+
+
    
           
         
