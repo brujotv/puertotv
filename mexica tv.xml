@@ -30,6 +30,55 @@
 </item>
 
 <item>
+<title>[COLOR lime]•[/COLOR]TVMas</title>        
+<link>http://50.7.98.234:1935/rtv/videortv/playlist.m3u</link>
+<thumbnail>http://www.cemev.gob.mx/local1/Imagenes/tvmas1.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR lime]•[/COLOR]Gala TV</title>        
+<link>http://74.222.3.185:1935/live/ngrp:galatvmerida_all/plalist.m3u8</link>
+<thumbnail>http://y.cdn.entutele.com/media/channels/big/gala-tv.gif</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR lime]•[/COLOR]TDT</title>        
+<link>http://coracyt.mega00.com:1935/live/coracyt/coracyt/playlist.m3u8</link>
+<thumbnail>http://www.freeetv.com/images/reydddd/images2012/tdt_tv_de_tlaxcala_mx.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR lime]•[/COLOR]</title>        
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR lime]•[/COLOR]</title>        
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR lime]•[/COLOR]</title>        
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR lime]•[/COLOR]</title>        
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
 <title>[COLOR lime]•[/COLOR]</title>        
 <link></link>
 <thumbnail></thumbnail>
