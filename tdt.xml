@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
 <item>
-<title>[COLOR lime]•[/COLOR]Tve 1</title>        
+<title>[UPPERCASE][COLOR lime]•[/COLOR]Tve 1[/UPPERCASE]</title>        
 <link>$$LSPlayOnlyOne$$</link>
 <link>http://iphonelive.rtve.es/LA1_LV3_IPH/LA1_LV3_IPH.m3u8$$lsname=La 1</link>
 <link>http://rtve-live.hds.adaptive.level3.net/hls-live/rtvegl7-la1lv3aomgl7/_definst_/live.m3u8$$lsname=La 1</link>
