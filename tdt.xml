@@ -116,7 +116,7 @@
 <item>
 <title>[COLOR lime]•[/COLOR]La Otra</title>        
 <link>http://laotra-live.hls.adaptive.level3.net/hls-live/telemadrid-laotra/_definst_/live/stream1.m3u8</link>
-<thumbnail>http://www.videocadenasur.net/images/laotra.gif</thumbnail>
+<thumbnail>http://publicidadcines.com/images/logo-laotra.jpg</thumbnail>
 <fanart>https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/EuroEspa%C3%B1a.svg/1200px-EuroEspa%C3%B1a.svg.png</fanart>
 </item>
 
@@ -175,16 +175,6 @@ http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIES0006
 <thumbnail>https://img21.taquilla.com/data/images/t/07/sevilla-fc.jpg</thumbnail>
 <fanart>https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/EuroEspa%C3%B1a.svg/1200px-EuroEspa%C3%B1a.svg.png</fanart>
 </item>
-
-<item>
-        <title>[COLOR red]MOVISTAR MOTOGP[/COLOR]</title>
-        <sportsdevil>http://vergol.com/live3/motogp.php</sportsdevil>
-<referer>http://www.vercanalestv.com/ver-motogp-en-directo-y-online-24h-gratis/</referer>
-        <thumbnail>https://1.bp.blogspot.com/-iBydqF__JDQ/V6b5RrXFSiI/AAAAAAAAASw/gYVCtWPv8lcPhxbtK7Qj49p4qCR9kBswQCLcB/s1600/movistar-moto-gp.png </thumbnail>
-    </item>
-
-
-
 
 
 <item>
