@@ -195,6 +195,51 @@ http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIES0006
 <fanart>https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/EuroEspa%C3%B1a.svg/1200px-EuroEspa%C3%B1a.svg.png</fanart>
 </item>
 
+<item>
+<title>[COLOR lime]•[/COLOR]GolTV</title>
+
+  <link>$doregex[get-id]|Referer=http://verdirectotv.com/tv/digitales/plus-series.html&amp;User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64; rv:55.0) Gecko/20100101 Firefox/55.0</link>
+<regex>
+<name>get-id</name>
+<expres>source: '(.*?)'</expres>
+<page>http://vergol.com/live1/goltv.php</page>
+<referer>http://verdirectotv.com/tv/digitales/plus-series.html</referer>
+<agent>Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/48.0.2564.116 Chrome/48.0.2564.116 Safari/537.36</agent>
+</regex>
+
+<thumbnail>http://vercanalestv.com/logos/goltv.jpg</thumbnail>   </item>
+
+<item>
+<title>[COLOR lime]•[/COLOR]Moto GP</title>
+
+<link>$doregex[GetPageUrl]|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+WOW64%3B+Trident%2F7.0%3B+rv%3A11.0%29+like+Gecko</link>
+<regex>
+<name>GetPageUrl</name>
+<expres>source: '(.*?)'</expres>
+<page>http://livesports.pw/embed.php?file=motogpm&amp;width=650&amp;height=397</page>
+<cookieJar></cookieJar>
+</regex>
+
+
+<thumbnail>https://pbs.twimg.com/profile_images/894808027915853824/d-M-Og1L_400x400.jpg</thumbnail>   
+</item>
+
+
+<item>
+<title>[COLOR lime]•[/COLOR]Formula 1</title>
+
+<link>$doregex[GetPageUrl]|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+WOW64%3B+Trident%2F7.0%3B+rv%3A11.0%29+like+Gecko</link>
+<regex>
+<name>GetPageUrl</name>
+<expres>source: '(.*?)'</expres>
+<page>http://livesports.pw/embed.php?file=funoesp&amp;width=650&amp;height=397</page>
+<cookieJar></cookieJar>
+</regex>
+
+
+<thumbnail>http://todotele.com/wp-content/uploads/2017/01/MOVISTAR-F1.png</thumbnail>   
+</item>
+
 
 <item>
 <title></title>        
