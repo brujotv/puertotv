@@ -275,7 +275,7 @@ http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIES0006
 </item>
 
 <item>
-<title> [COLOR lime]•[/COLOR]    [COLOR aquamarine][B] SERVERS  [/B] [/COLOR][COLOR lightblue][I][Manually Updated][/I][/COLOR]</title>
+<title> [COLOR lime]•[/COLOR]SERVERS IPTV Manually Updated</title>
 <link>$doregex[makelist3]</link>
 <regex>
 <name>makelist3</name>
@@ -294,12 +294,12 @@ http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIES0006
  <title>Server [COLOR blue][makelist3.param1][/COLOR]  |  Status: [COLOR lime][makelist2.param1][/COLOR] |  Max_Con:[COLOR yellow][makelist2.param2] [/COLOR] </title>
  <link>NA</link>
  <externallink>http://[makelist3.param2]/get.php?username=[makelist3.param3]&amp;password=[makelist3.param4]&amp;type=m3u$$TSDOWNLOADER$$</externallink>
- <thumbnail>http://adryanlist.org/adryan/img/iptv.jpg</thumbnail>
+ <thumbnail>https://i.ytimg.com/vi/tRXIcaK-wcM/maxresdefault.jpg</thumbnail>
  ]]></listrepeat>
 <expres>status":"(.*?)".*max_connections":"(.*?)",</expres>
 <page>http://[makelist3.param2]/panel_api.php?username=[makelist3.param3]&amp;password=[makelist3.param4]</page>
 </regex>
-<thumbnail>http://adryanlist.org/adryan/img/iptv.jpg</thumbnail>
+<thumbnail>https://i.ytimg.com/vi/tRXIcaK-wcM/maxresdefault.jpg</thumbnail>
 </item>
 
 <item>
