@@ -260,11 +260,10 @@ http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIES0006
 <thumbnail>https://epg.beinsports.com/us_sports/Global.svg</thumbnail>   
 </item>
 
-
 <item>
-<title></title>        
-<link></link>
-<thumbnail></thumbnail>
+<title>Be Mad TV</title>        
+<link>http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIES0003</link>
+<thumbnail>http://www.radiosargentina.com.ar/png/ESESPANA.png</thumbnail>
 <fanart></fanart>
 </item>
 
