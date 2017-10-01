@@ -15,7 +15,7 @@
 
 
 <item>
-<title>[UPPERCASE][COLOR skyblue] LA 2[/UPPERCASE][/COLOR] </title>
+<title>[COLOR lime]•[/COLOR]tve 2</title>
 <link>$doregex[GetPageUrl]|Referer=http://livesports.pw/embedn.php?file=launotelefivegb&amp;User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64; rv:54.0) Gecko/20100101 Firefox/54.0</link>
 <regex>
 <name>GetPageUrl</name>
@@ -23,14 +23,7 @@
 <page>http://livesports.pw/embedn.php?file=tvdostelefive&amp;width=650&amp;height=397</page>
 <cookieJar></cookieJar>
 </regex>
- <thumbnail>http://adryanlist.org/adryan/img/esp.jpg</thumbnail>   
-</item>
-
-<item>
-<title>[COLOR lime]•[/COLOR]Tve 1</title>        
-<link>http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIES0020</link>
-<thumbnail>http://static.programacion-tdt.com/imgAPP/TVE1.min.png</thumbnail>
-<fanart>https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/EuroEspa%C3%B1a.svg/1200px-EuroEspa%C3%B1a.svg.png</fanart>
+ <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Logo_TVE-2.svg/1200px-Logo_TVE-2.svg.png</thumbnail>   
 </item>
 
 <item>
