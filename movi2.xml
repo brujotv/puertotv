@@ -65,18 +65,16 @@
             <thumbnail>http://todotele.com/wp-content/uploads/2017/01/MOVISTAR-F1.png</thumbnail>
                 </item>
 	
-	
 <item> 
             <title>[COLOR lime]•[/COLOR]M Moto GP</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://major2.ipfox.co:8080/live/winsor_ZdtMSC/GhAUwb3w/1073.ts&amp;streamtype=TSDOWNLOADER&amp;name=moto gp</link> 
-            <thumbnail>https://pbs.twimg.com/profile_images/894808027915853824/d-M-Og1L_400x400.jpg</thumbnail>
-                </item>
-<item> 
-            <title>[COLOR lime]•[/COLOR]M Moto GP2</title> 
             <link>plugin://plugin.video.f4mTester/?url=http://163.172.52.83:8000/live/1304169sa0W90y/326bID10042439/220.ts&amp;streamtype=TSDOWNLOADER&amp;name=moto gp</link> 
             <thumbnail>https://pbs.twimg.com/profile_images/894808027915853824/d-M-Og1L_400x400.jpg</thumbnail>
                 </item>
-
+<item> 
+            <title>[COLOR lime]•[/COLOR]La liga bar</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.52.83:8000/live/1304169sa0W90y/326bID10042439/213.ts&amp;streamtype=TSDOWNLOADER&amp;name=moto gp</link> 
+            <thumbnail></thumbnail>
+                </item>
 
 
 
