@@ -91,6 +91,13 @@
 </item>
 
 <item>
+<title>Paramount Channel</title>        
+<link>http://www.radiosargentina.com.ar/php/tvm3u.php?id=PAES0008</link>
+<thumbnail>http://www.fotogramas.es/var/ezflow_site/storage/images/noticias/paramount-channel-cambia-de-dial/7797075-1-esl-ES/Paramount-Channel-cambia-de-dial_landscape.jpg</thumbnail>
+<fanart>https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/EuroEspa%C3%B1a.svg/1200px-EuroEspa%C3%B1a.svg.png</fanart>
+</item>
+
+<item>
 <title>[COLOR lime]•[/COLOR]Life tv</title>        
 <link>http://163.172.15.219:1935/live/lifetvesp387/.m3u8</link>
 <thumbnail>https://i.ytimg.com/vi/CcY76rUYz2k/mqdefault.jpg</thumbnail>
@@ -265,13 +272,6 @@ http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIES0006
 <cookieJar></cookieJar>
 </regex>
 <thumbnail>https://epg.beinsports.com/us_sports/Global.svg</thumbnail>   
-</item>
-
-<item>
-<title>Be Mad TV</title>        
-<link>http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIES0003</link>
-<thumbnail>http://www.radiosargentina.com.ar/png/ESESPANA.png</thumbnail>
-<fanart></fanart>
 </item>
 
 <item>
