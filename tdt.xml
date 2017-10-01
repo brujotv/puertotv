@@ -15,7 +15,7 @@
 
 
 <item>
-<title>[COLOR lime]•[/COLOR]tve 2</title>
+<title>[COLOR lime]•[/COLOR]Tve 2</title>
 <link>$doregex[GetPageUrl]|Referer=http://livesports.pw/embedn.php?file=launotelefivegb&amp;User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64; rv:54.0) Gecko/20100101 Firefox/54.0</link>
 <regex>
 <name>GetPageUrl</name>
