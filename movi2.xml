@@ -25,6 +25,11 @@
             <thumbnail>http://static.programacion-tdt.com/imgAPP/Antena_3.min.png</thumbnail>
                 </item>
 <item> 
+            <title>Telecinco HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://major2.ipfox.co:8080/live/winsor_ZdtMSC/GhAUwb3w/1090.ts&amp;streamtype=TSDOWNLOADER&amp;name=Telecinco FHD ES</link> 
+            <thumbnail>http://verdirectotv.tv/logos/telecinco.png</thumbnail>
+                </item>
+<item> 
             <title>[COLOR lime]•[/COLOR]LA Sexta HD</title> 
             <link>plugin://plugin.video.f4mTester/?url=http://major2.ipfox.co:8080/live/winsor_ZdtMSC/GhAUwb3w/1106.ts&amp;streamtype=TSDOWNLOADER&amp;name=LA Sexta FHD ES</link> 
             <thumbnail>http://ocio.diariodemallorca.es/img_contenido/estaticos/canales/24.jpg</thumbnail>
@@ -252,7 +257,23 @@
             <link>plugin://plugin.video.f4mTester/?url=http://major2.ipfox.co:8080/live/winsor_ZdtMSC/GhAUwb3w/1080.ts&amp;streamtype=TSDOWNLOADER&amp;name=Disney Junior ES</link> 
             <thumbnail>https://yt3.ggpht.com/-e8lc2AnB-Z8/AAAAAAAAAAI/AAAAAAAAAAA/1kZk7GEiBxA/s900-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
                 </item> 
-
+<item> 
+            <title>[COLOR lime]•[/COLOR]Movistar Deportes 1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://major2.ipfox.co:8080/live/winsor_ZdtMSC/GhAUwb3w/1117.ts&amp;streamtype=TSDOWNLOADER&amp;name=Movistar Deportes 1</link> 
+            <thumbnail></thumbnail>
+                </item>
+				
+<item> 
+            <title>[COLOR lime]•[/COLOR]Movistar Deportes 2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://major2.ipfox.co:8080/live/winsor_ZdtMSC/GhAUwb3w/1142.ts&amp;streamtype=TSDOWNLOADER&amp;name=Movistar Deportes 2</link> 
+            <thumbnail></thumbnail>
+                </item>
+				
+<item> 
+            <title>[COLOR lime]•[/COLOR]Movistar Futbol</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://major2.ipfox.co:8080/live/winsor_ZdtMSC/GhAUwb3w/1121.ts&amp;streamtype=TSDOWNLOADER&amp;name=Movistar Futbol</link> 
+            <thumbnail></thumbnail>
+                </item>
 
 <item> 
             <title>[COLOR lime]•[/COLOR]Bein sports </title> 
@@ -265,7 +286,7 @@
             <thumbnail>http://todotele.com/wp-content/uploads/2017/01/MOVISTAR-F1.png</thumbnail>
                 </item>
 <item> 
-            <title>[COLOR lime]•[/COLOR]M Formula1 HD 2</title> 
+            <title>[COLOR lime]•[/COLOR]M Formula1 HD</title> 
             <link>plugin://plugin.video.f4mTester/?url=http://163.172.52.83:8000/live/1304169sa0W90y/326bID10042439/202.ts&amp;streamtype=TSDOWNLOADER&amp;name=Formula 1</link> 
             <thumbnail>http://todotele.com/wp-content/uploads/2017/01/MOVISTAR-F1.png</thumbnail>
                 </item>
@@ -273,6 +294,12 @@
 <item> 
             <title>[COLOR lime]•[/COLOR]M Moto GP</title> 
             <link>plugin://plugin.video.f4mTester/?url=http://163.172.52.83:8000/live/1304169sa0W90y/326bID10042439/220.ts&amp;streamtype=TSDOWNLOADER&amp;name=moto gp</link> 
+            <thumbnail>https://pbs.twimg.com/profile_images/894808027915853824/d-M-Og1L_400x400.jpg</thumbnail>
+                </item>
+
+<item> 
+            <title>[COLOR lime]•[/COLOR]M Moto GP</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://major2.ipfox.co:8080/live/winsor_ZdtMSC/GhAUwb3w/1073.ts&amp;streamtype=TSDOWNLOADER&amp;name=moto gp</link> 
             <thumbnail>https://pbs.twimg.com/profile_images/894808027915853824/d-M-Og1L_400x400.jpg</thumbnail>
                 </item>
 
