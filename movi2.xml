@@ -76,6 +76,277 @@
             <thumbnail></thumbnail>
                 </item>
 
+<item> 
+            <title>La 1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://major2.ipfox.co:8080/live/winsor_ZdtMSC/GhAUwb3w/1086.ts&amp;streamtype=TSDOWNLOADER&amp;name=La 1 ES</link> 
+            <thumbnail>http://static.programacion-tdt.com/imgAPP/TVE1.min.png</thumbnail>
+                </item>
+   <item> 
+            <title>TVE LA 2 </title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://portal.geniptv.com:8080/live/julia/julia/1085.ts&amp;streamtype=TSDOWNLOADER&amp;name=TVE LA 2 ES</link> 
+            <thumbnail>https://pbs.twimg.com/profile_images/436864015785279489/o4ng_Ocd.png</thumbnail>
+                </item> 
+   <item> 
+            <title>Cuatro</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://major2.ipfox.co:8080/live/winsor_ZdtMSC/GhAUwb3w/1114.ts&amp;streamtype=TSDOWNLOADER&amp;name=Cuatro ES</link> 
+            <thumbnail>http://www.futbolprimera.es/files/cuatro.jpg</thumbnail>    
+                </item>
+   <item> 
+            <title>Cuatro HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://major2.ipfox.co:8080/live/winsor_ZdtMSC/GhAUwb3w/1081.ts&amp;streamtype=TSDOWNLOADER&amp;name=Cuatro FHD ES</link> 
+            <thumbnail>http://www.futbolprimera.es/files/cuatro.jpg</thumbnail>
+                </item>
+
+   <item> 
+            <title>Antenna 3 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://major2.ipfox.co:8080/live/winsor_ZdtMSC/GhAUwb3w/1139.ts&amp;streamtype=TSDOWNLOADER&amp;name=Antenna 3 FHD ES</link> 
+            <thumbnail>http://static.programacion-tdt.com/imgAPP/Antena_3.min.png</thumbnail>
+                </item> 
+          
+   <item> 
+            <title>LA Sexta HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://major2.ipfox.co:8080/live/winsor_ZdtMSC/GhAUwb3w/1106.ts&amp;streamtype=TSDOWNLOADER&amp;name=LA Sexta FHD ES</link> 
+            <thumbnail>http://ocio.diariodemallorca.es/img_contenido/estaticos/canales/24.jpg</thumbnail>
+                </item>
+
+   <item> 
+            <title>Neox</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://major2.ipfox.co:8080/live/winsor_ZdtMSC/GhAUwb3w/1103.ts&amp;streamtype=TSDOWNLOADER&amp;name=Neox ES</link> 
+            <thumbnail>https://pbs.twimg.com/profile_images/509064688550694912/WY6A_PqH_normal.jpeg</thumbnail>
+                </item>
+
+   <item> 
+            <title>Nova</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://major2.ipfox.co:8080/live/winsor_ZdtMSC/GhAUwb3w/1100.ts&amp;streamtype=TSDOWNLOADER&amp;name=Nova ES</link> 
+            <thumbnail>http://www.mundoplus.tv/img/f25b812e6e6095afe68d44feb7d119ad</thumbnail>
+	        </item>		
+   <item> 
+            <title>Energy</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://major2.ipfox.co:8080/live/winsor_ZdtMSC/GhAUwb3w/1111.ts&amp;streamtype=TSDOWNLOADER&amp;name=Energy ES</link> 
+            <thumbnail></thumbnail>
+                </item>
+
+   <item> 
+            <title>MoviStar Estrenos</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://major2.ipfox.co:8080/live/winsor_ZdtMSC/GhAUwb3w/1123.ts&amp;streamtype=TSDOWNLOADER&amp;name=MovieStar Estrenos ES</link> 
+            <thumbnail>http://www1.movistarplus.es/recorte/m-NEO/canal/MV1</thumbnail>
+                </item>
+ 
+   <item> 
+            <title>MoviStar Accion</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://major2.ipfox.co:8080/live/winsor_ZdtMSC/GhAUwb3w/1126.ts&amp;streamtype=TSDOWNLOADER&amp;name=C+ Accion FHD ES</link> 
+            <thumbnail>http://www1.movistarplus.es/recorte/m-NEO/canal/CPACCI</thumbnail>
+		</item>
+
+   <item> 
+            <title>Movistar Comedia</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://major2.ipfox.co:8080/live/winsor_ZdtMSC/GhAUwb3w/1125.ts&amp;streamtype=TSDOWNLOADER&amp;name=Movistar  Comedia FHD ES</link> 
+            <thumbnail>http://www1.movistarplus.es/recorte/m-NEO/canal/CPCOME</thumbnail>
+                </item> 
+
+   <item> 
+            <title>MoviStar DCine</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://major2.ipfox.co:8080/live/winsor_ZdtMSC/GhAUwb3w/1124.ts&amp;streamtype=TSDOWNLOADER&amp;name=C+ DCine FHD ES</link> 
+            <thumbnail>http://www1.movistarplus.es/recorte/m-NEO/canal/CPCOLE</thumbnail>
+		</item>
+
+   <item> 
+            <title>MoviStar Series HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://major2.ipfox.co:8080/live/winsor_ZdtMSC/GhAUwb3w/1119.ts&amp;streamtype=TSDOWNLOADER&amp;name=MovieStar Series HD ES</link> 
+            <thumbnail>http://www1.movistarplus.es/recorte/m-NEO/canal/CPSER</thumbnail>
+		</item> 
+
+   <item> 
+            <title>Movistar Series Xtra HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://major2.ipfox.co:8080/live/winsor_ZdtMSC/GhAUwb3w/1118.ts&amp;streamtype=TSDOWNLOADER&amp;name=Movistar  Series Xtra FHD ES</link> 
+            <thumbnail>http://www1.movistarplus.es/recorte/m-NEO/canal/MV2</thumbnail>
+                </item> 
+   <item> 
+            <title>MoviStar Xtra</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://major2.ipfox.co:8080/live/winsor_ZdtMSC/GhAUwb3w/1122.ts&amp;streamtype=TSDOWNLOADER&amp;name=MovieStar Xtra ES</link> 
+            <thumbnail>http://www1.movistarplus.es/recorte/m-NEO/canal/CPXTRA</thumbnail>
+		</item> 
+
+   <item> 
+            <title>AMC HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://major2.ipfox.co:8080/live/winsor_ZdtMSC/GhAUwb3w/1140.ts&amp;streamtype=TSDOWNLOADER&amp;name=AMC HD ES</link> 
+            <thumbnail>https://pbs.twimg.com/profile_images/658379235116130304/0d0gse9_.jpg</thumbnail>
+                </item>
+
+   <item> 
+            <title>AXN HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://major2.ipfox.co:8080/live/winsor_ZdtMSC/GhAUwb3w/1138.ts&amp;streamtype=TSDOWNLOADER&amp;name=AXN FHD ES</link> 
+            <thumbnail>http://www1.movistarplus.es/recorte/m-NEO/canal/AXN</thumbnail>
+                 </item> 
+   <item> 
+            <title>AXN White</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://major2.ipfox.co:8080/live/winsor_ZdtMSC/GhAUwb3w/1137.ts&amp;streamtype=TSDOWNLOADER&amp;name=AXN White ES</link> 
+            <thumbnail></thumbnail>
+                 </item>
+
+  <item> 
+            <title>Fox HD </title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://major2.ipfox.co:8080/live/winsor_ZdtMSC/GhAUwb3w/1109.ts&amp;streamtype=TSDOWNLOADER&amp;name=Fox HD ES</link> 
+            <thumbnail>http://www.axartel.es/assets/img/sliders/tv-canales/fox.jpg</thumbnail>
+                </item> 
+
+  <item> 
+            <title>Fox Life HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://major2.ipfox.co:8080/live/winsor_ZdtMSC/GhAUwb3w/1108.ts&amp;streamtype=TSDOWNLOADER&amp;name=Fox Life HD ES</link> 
+            <thumbnail>http://www.axartel.es/assets/img/sliders/tv-canales/fox-life.jpg</thumbnail>
+                </item>
+
+ <item> 
+            <title>Calle 13 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://major2.ipfox.co:8080/live/winsor_ZdtMSC/GhAUwb3w/1133.ts&amp;streamtype=TSDOWNLOADER&amp;name=Calle 13 HD ES</link> 
+            <thumbnail>http://www1.movistarplus.es/recorte/m-NEO/canal/CL13</thumbnail>
+                </item> 
+
+ <item> 
+            <title>Hollywood HD </title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://major2.ipfox.co:8080/live/winsor_ZdtMSC/GhAUwb3w/1128.ts&amp;streamtype=TSDOWNLOADER&amp;name=Hollywood FHD ES</link> 
+            <thumbnail>http://www.axartel.es/assets/img/sliders/tv-canales/canal-hollywood.jpg</thumbnail>
+                </item> 
+
+ 
+            <title>Comedy Central HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://major2.ipfox.co:8080/live/winsor_ZdtMSC/GhAUwb3w/1115.ts&amp;streamtype=TSDOWNLOADER&amp;name=Comedy Central FHD ES</link> 
+            <thumbnail>http://www1.movistarplus.es/recorte/m-NEO/canal/PCM</thumbnail>
+                </item> 
+
+<item> 
+            <title>TNT HD </title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://major2.ipfox.co:8080/live/winsor_ZdtMSC/GhAUwb3w/1088.ts&amp;streamtype=TSDOWNLOADER&amp;name=TNT FHD ES</link> 
+            <thumbnail>http://www1.movistarplus.es/recorte/m-NEO/canal/TCM</thumbnail> 
+                </item> 
+
+<item> 
+            <title>TCM </title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://major2.ipfox.co:8080/live/winsor_ZdtMSC/GhAUwb3w/1091.ts&amp;streamtype=TSDOWNLOADER&amp;name=TCM ES</link> 
+        
+                </item> 
+
+<item> 
+            <title>SyFy HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://major2.ipfox.co:8080/live/winsor_ZdtMSC/GhAUwb3w/1097.ts&amp;streamtype=TSDOWNLOADER&amp;name=SyFy HD ES</link> 
+        
+                </item>
+
+<item> 
+            <title>FDF </title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://major2.ipfox.co:8080/live/winsor_ZdtMSC/GhAUwb3w/1110.ts&amp;streamtype=TSDOWNLOADER&amp;name=FDF ES</link> 
+            <thumbnail></thumbnail>
+               </item>	 
+		
+<item> 
+            <title>Cosmos HD </title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://major2.ipfox.co:8080/live/winsor_ZdtMSC/GhAUwb3w/1082.ts&amp;streamtype=TSDOWNLOADER&amp;name=Cosmos HD ES</link> 
+            <thumbnail>https://aidengrimshawnews.files.wordpress.com/2013/10/cosmo.jpeg</thumbnail>
+                </item>
+
+<item> 
+            <title>A&amp;E</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://major2.ipfox.co:8080/live/winsor_ZdtMSC/GhAUwb3w/1141.ts&amp;streamtype=TSDOWNLOADER&amp;name=A&amp;E ES</link> 
+            <thumbnail></thumbnail>
+                </item>
+
+ <item> 
+            <title>Nat Geo Wild HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://major2.ipfox.co:8080/live/winsor_ZdtMSC/GhAUwb3w/1104.ts&amp;streamtype=TSDOWNLOADER&amp;name=Nat Geo Wild FHD ES</link> 
+            <thumbnail>http://www1.movistarplus.es/recorte/m-NEO/canal/NATGW</thumbnail>
+                </item> 
+
+<item> 
+            <title>Nat Geo HD </title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://major2.ipfox.co:8080/live/winsor_ZdtMSC/GhAUwb3w/1105.ts&amp;streamtype=TSDOWNLOADER&amp;name=Nat Geo FHD ES</link> 
+            <thumbnail>http://www1.movistarplus.es/recorte/m-NEO/canal/NATGEO</thumbnail>
+                </item> 
+
+<item> 
+            <title>Odisea HD </title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://major2.ipfox.co:8080/live/winsor_ZdtMSC/GhAUwb3w/1127.ts&amp;streamtype=TSDOWNLOADER&amp;name=Odisea HD ES</link> 
+            <thumbnail>http://www1.movistarplus.es/recorte/m-NEO/canal/ODISEA</thumbnail>
+                </item> 
+
+<item> 
+            <title>Canal Decasa</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://major2.ipfox.co:8080/live/winsor_ZdtMSC/GhAUwb3w/1129.ts&amp;streamtype=TSDOWNLOADER&amp;name=Canal Decasa ES</link> 
+            <thumbnail>http://www1.movistarplus.es/recorte/m-NEO/canal/DECASA</thumbnail>
+                </item>
+
+<item> 
+            <title>MTV </title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://major2.ipfox.co:8080/live/winsor_ZdtMSC/GhAUwb3w/1071.ts&amp;streamtype=TSDOWNLOADER&amp;name=MTV ES</link> 
+            <thumbnail>https://superrepo.org/static/images/icons/original/xplugin.video.mdmtvuk.png.pagespeed.ic.c6kyF5yyrm.png" group-title="ESPAÑA</thumbnail>
+                </item> 
+
+<item> 
+            <title>Boing </title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://major2.ipfox.co:8080/live/winsor_ZdtMSC/GhAUwb3w/1134.ts&amp;streamtype=TSDOWNLOADER&amp;name=Boing ES</link> 
+            <thumbnail>https://is2-ssl.mzstatic.com/image/thumb/Purple7/v4/b7/c4/17/b7c4172e-af34-3a46-4f3a-754f152be1ba/source/256x256bb.jpg</thumbnail>
+                </item>
+<item> 
+            <title>Canal Panda</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://major2.ipfox.co:8080/live/winsor_ZdtMSC/GhAUwb3w/1131.ts&amp;streamtype=TSDOWNLOADER&amp;name=Canal Panda ES</link> 
+            <thumbnail>http://www1.movistarplus.es/recorte/m-NEO/canal/PANDA</thumbnail>
+                </item> 
+<item> 
+            <title>Clan TVE </title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://major2.ipfox.co:8080/live/winsor_ZdtMSC/GhAUwb3w/1116.ts&amp;streamtype=TSDOWNLOADER&amp;name=Clan TVE ES</link> 
+            <thumbnail>http://static.programacion-tdt.com/imgAPP/Clan_TV.min.png</thumbnail>
+                </item>
+<item> 
+            <title>Nick Junior </title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://major2.ipfox.co:8080/live/winsor_ZdtMSC/GhAUwb3w/1102.ts&amp;streamtype=TSDOWNLOADER&amp;name=Nick Junior ES</link> 
+            <thumbnail></thumbnail>
+                </item>
+<item> 
+            <title>Baby TV </title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://major2.ipfox.co:8080/live/winsor_ZdtMSC/GhAUwb3w/1083.ts&amp;streamtype=TSDOWNLOADER&amp;name=Baby TV ES</link> 
+            <thumbnail></thumbnail>
+                </item> 
+
+<item> 
+            <title>Nickelodeon HD </title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://major2.ipfox.co:8080/live/winsor_ZdtMSC/GhAUwb3w/1101.ts&amp;streamtype=TSDOWNLOADER&amp;name=Nickelodeon FHD ES</link> 
+            <thumbnail></thumbnail>
+                </item>
+
+<item> 
+            <title>Disney Channel</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://major2.ipfox.co:8080/live/winsor_ZdtMSC/GhAUwb3w/1112.ts&amp;streamtype=TSDOWNLOADER&amp;name=Disney Channel ES</link> 
+            <thumbnail></thumbnail>
+                </item> 
+<item> 
+            <title>Disney XD </title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://major2.ipfox.co:8080/live/winsor_ZdtMSC/GhAUwb3w/1113.ts&amp;streamtype=TSDOWNLOADER&amp;name=Disney XD ES</link> 
+            <thumbnail></thumbnail>
+                </item>
+<item> 
+            <title>Disney Junior </title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://major2.ipfox.co:8080/live/winsor_ZdtMSC/GhAUwb3w/1080.ts&amp;streamtype=TSDOWNLOADER&amp;name=Disney Junior ES</link> 
+            <thumbnail></thumbnail>
+                </item> 
+
+        <item> 
+            <title>Taquilla 2 HD ES</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://major2.ipfox.co:8080/live/winsor_ZdtMSC/GhAUwb3w/1095.ts&amp;streamtype=TSDOWNLOADER&amp;name=Taquilla 2 HD ES</link> 
+        </item> 
+          <item> 
+            <title>Taquilla 3 HD ES</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://major2.ipfox.co:8080/live/winsor_ZdtMSC/GhAUwb3w/1094.ts&amp;streamtype=TSDOWNLOADER&amp;name=Taquilla 3 HD ES</link> 
+        </item> 
+          <item> 
+            <title>Taquilla 4 HD ES</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://major2.ipfox.co:8080/live/winsor_ZdtMSC/GhAUwb3w/1093.ts&amp;streamtype=TSDOWNLOADER&amp;name=Taquilla 4 HD ES</link> 
+        </item> 
+          <item> 
+            <title>Taquilla 5 HD ES</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://major2.ipfox.co:8080/live/winsor_ZdtMSC/GhAUwb3w/1092.ts&amp;streamtype=TSDOWNLOADER&amp;name=Taquilla 5 HD ES</link> 
+        </item> 
+
+
+
 
 
 
