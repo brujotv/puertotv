@@ -1,5 +1,31 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
+
+<item>
+<title>[COLOR lime]•[/COLOR]Tve 1</title>
+<link>$doregex[GetPageUrl]|Referer=http://livesports.pw/embedn.php?file=launotelefivegb&amp;User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64; rv:54.0) Gecko/20100101 Firefox/54.0</link>
+<regex>
+<name>GetPageUrl</name>
+<expres>source: '(.*?)'</expres>
+<page>http://livesports.pw/embedn.php?file=launotelefivegb&amp;width=650&amp;height=397</page>
+<cookieJar></cookieJar>
+</regex>
+ <thumbnail>http://static.programacion-tdt.com/imgAPP/TVE1.min.png</thumbnail>   
+</item>
+
+
+<item>
+<title>[UPPERCASE][COLOR skyblue] LA 2[/UPPERCASE][/COLOR] </title>
+<link>$doregex[GetPageUrl]|Referer=http://livesports.pw/embedn.php?file=launotelefivegb&amp;User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64; rv:54.0) Gecko/20100101 Firefox/54.0</link>
+<regex>
+<name>GetPageUrl</name>
+<expres>source: '(.*?)'</expres>
+<page>http://livesports.pw/embedn.php?file=tvdostelefive&amp;width=650&amp;height=397</page>
+<cookieJar></cookieJar>
+</regex>
+ <thumbnail>http://adryanlist.org/adryan/img/esp.jpg</thumbnail>   
+</item>
+
 <item>
 <title>[COLOR lime]•[/COLOR]Tve 1</title>        
 <link>http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIES0020</link>
