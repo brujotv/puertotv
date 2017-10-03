@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
 <item>
-<title> [COLOR lime]•[/COLOR]SERVERS IPTV Manually Updated</title>
+<title>[COLOR lime]•[/COLOR]SERVERS IPTV Manually Updated</title>
 <link>$doregex[makelist3]</link>
 <regex>
 <name>makelist3</name>
