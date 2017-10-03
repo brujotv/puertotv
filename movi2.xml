@@ -50,6 +50,11 @@
             <link>plugin://plugin.video.f4mTester/?url=http://major2.ipfox.co:8080/live/winsor_ZdtMSC/GhAUwb3w/1111.ts&amp;streamtype=TSDOWNLOADER&amp;name=Energy ES</link> 
             <thumbnail>http://www.cineytele.com/wp-content/uploads/2015/11/energy-logo-mediaset-500-2.jpg</thumbnail>
                 </item>
+   <item> 
+            <title>#0 HD </title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://portal.geniptv.com:8080/live/julia/julia/1056.ts&amp;streamtype=TSDOWNLOADER&amp;name=#0 HD ES</link> 
+            <thumbnail>http://www.movistarplus.es/assets/images/logo-cero-desk.png</thumbnail>
+                </item>
 <item> 
             <title>[COLOR lime]•[/COLOR]MoviStar Estrenos</title> 
             <link>plugin://plugin.video.f4mTester/?url=http://major2.ipfox.co:8080/live/winsor_ZdtMSC/GhAUwb3w/1123.ts&amp;streamtype=TSDOWNLOADER&amp;name=MovieStar Estrenos ES</link> 
@@ -157,6 +162,12 @@
             <title>[COLOR lime]•[/COLOR]SyFy HD</title> 
             <link>plugin://plugin.video.f4mTester/?url=http://major2.ipfox.co:8080/live/winsor_ZdtMSC/GhAUwb3w/1097.ts&amp;streamtype=TSDOWNLOADER&amp;name=SyFy HD ES</link> 
             <thumbnail>http://www.syfy.com/sites/syfy/files/tve_auth2/Syfylogo.png</thumbnail>
+                </item>
+
+<item> 
+            <title>Caza Y Pesca HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.52.83:8000/live/1304169sa0W90y/326bID10042439/348.ts&amp;streamtype=TSDOWNLOADER&amp;name=Caza Y Pesca FHD ES</link> 
+            <thumbnail>http://fotocite.com/caza-pesca@256.png</thumbnail>
                 </item>
 
 <item> 
