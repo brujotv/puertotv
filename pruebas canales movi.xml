@@ -3,26 +3,26 @@
 
 
 <item> 
-            <title>[COLOR lime]•[/COLOR]p</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.52.83:8000/live/1304169sa0W90y/326bID10042439/210.ts&amp;streamtype=TSDOWNLOADER&amp;name=La 1 ES</link> 
+            <title>[COLOR lime]•[/COLOR]LA 1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.52.83:8000/live/1304169sa0W90y/326bID10042439/210.ts&amp;streamtype=TSDOWNLOADER&amp;name=La 1 SD</link> 
             <thumbnail>http://static.programacion-tdt.com/imgAPP/TVE1.min.png</thumbnail>
 </item>
 
 <item> 
             <title>[COLOR lime]•[/COLOR]p</title> 
-            <link>plugin://plugin.video.f4mTester/?url=htp://major2.ipfox.co:8080/live/winsor_ZdtMSC/GhAUwb3w/1086.ts&amp;streamtype=TSDOWNLOADER&amp;name=La 1 ES</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.52.83:8000/live/1304169sa0W90y/326bID10042439/216.ts&amp;streamtype=TSDOWNLOADER&amp;name=Antena 3</link> 
+            <thumbnail>http://static.programacion-tdt.com/imgAPP/TVE1.min.png</thumbnail>
+</item>
+
+<item> 
+            <title>[COLOR lime]•[/COLOR]Cuatro</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.52.83:8000/live/1304169sa0W90y/326bID10042439/212.ts&amp;streamtype=TSDOWNLOADER&amp;name=Cuatro</link> 
             <thumbnail>http://static.programacion-tdt.com/imgAPP/TVE1.min.png</thumbnail>
 </item>
 
 <item> 
             <title>[COLOR lime]•[/COLOR]p</title> 
-            <link>plugin://plugin.video.f4mTester/?url=htp://major2.ipfox.co:8080/live/winsor_ZdtMSC/GhAUwb3w/1086.ts&amp;streamtype=TSDOWNLOADER&amp;name=La 1 ES</link> 
-            <thumbnail>http://static.programacion-tdt.com/imgAPP/TVE1.min.png</thumbnail>
-</item>
-
-<item> 
-            <title>[COLOR lime]•[/COLOR]p</title> 
-            <link>plugin://plugin.video.f4mTester/?url=htp://major2.ipfox.co:8080/live/winsor_ZdtMSC/GhAUwb3w/1086.ts&amp;streamtype=TSDOWNLOADER&amp;name=La 1 ES</link> 
+            <link>plugin://plugin.video.f4mTester/?url=htp://major2.ipfox.co:8080/live/winsor_ZdtMSC/GhAUwb3w/1086.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
             <thumbnail>http://static.programacion-tdt.com/imgAPP/TVE1.min.png</thumbnail>
 </item>
 
