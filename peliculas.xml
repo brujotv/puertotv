@@ -2,11 +2,11 @@
 
 
 <item>
-<title>[COLOR lime]•[/COLOR]Estrenos</title>
-<link>http://ignora.me</link>
-<externallink>http://adryanlist.org/adryan/favoritas_esp.xml</externallink>
+<title>[COLOR lime]•[/COLOR]Cine estrenos</title>
+<thumbnail>http://st-listas.20minutos.es/images/2014-03/378229/list_640px.jpg?1394569675</thumbnail>
 <fanart></fanart>
-<thumbnail>http://omicrono.elespanol.com/wp-content/uploads/2016/05/cine.jpg</thumbnail>
+<link>http://ignoreme</link>
+<externallink>https://raw.githubusercontent.com/brujotv/puertotv/master/estrenos.xml</externallink>
 </item>
 
 <item>
@@ -18,9 +18,9 @@
 </item>
 
 <item>
-<title>[COLOR lime]•[/COLOR]Cine prueba</title>
-<thumbnail>http://st-listas.20minutos.es/images/2014-03/378229/list_640px.jpg?1394569675</thumbnail>
+<title>[COLOR lime]•[/COLOR]prueba</title>
+<link>http://ignora.me</link>
+<externallink>http://adryanlist.org/adryan/favoritas_esp.xml</externallink>
 <fanart></fanart>
-<link>http://ignoreme</link>
-<externallink>https://raw.githubusercontent.com/brujotv/puertotv/master/estrenos.xml</externallink>
+<thumbnail>http://omicrono.elespanol.com/wp-content/uploads/2016/05/cine.jpg</thumbnail>
 </item>
