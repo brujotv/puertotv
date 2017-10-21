@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
+https://raw.githubusercontent.com/brujotv/puertotv/master/sport365.xml
+
+
+
   <item>
 <title>[COLOR lime]•[/COLOR]Canal vip deportes</title>
   <link>http://$doregex[ip]$doregex[m3u8]$doregex[hls]</link>
