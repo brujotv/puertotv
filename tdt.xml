@@ -2,7 +2,7 @@
 
 
 <item>
-<title>[COLOR lime]•[/COLOR]Tve 1</title>
+<title>[COLOR red]•[/COLOR]Tve 1</title>
 <link>$doregex[GetPageUrl]|Referer=http://livesports.pw/embedn.php?file=launotelefivegb&amp;User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64; rv:54.0) Gecko/20100101 Firefox/54.0</link>
 <regex>
 <name>GetPageUrl</name>
@@ -15,7 +15,7 @@
 
 
 <item>
-<title>[COLOR lime]•[/COLOR]Tve 2</title>
+<title>[COLOR red]•[/COLOR]Tve 2</title>
 <link>$doregex[GetPageUrl]|Referer=http://livesports.pw/embedn.php?file=launotelefivegb&amp;User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64; rv:54.0) Gecko/20100101 Firefox/54.0</link>
 <regex>
 <name>GetPageUrl</name>
@@ -27,7 +27,7 @@
 </item>
 
 <item>
-<title>[COLOR lime]•[/COLOR]Cuatro HD</title>        
+<title>[COLOR red]•[/COLOR]Cuatro HD</title>        
 <link>http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIES0012</link>
 <thumbnail>http://s.libertaddigital.com/fotos/noticias/logo-cuatro-mjg.jpg</thumbnail>
 <fanart>https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/EuroEspa%C3%B1a.svg/1200px-EuroEspa%C3%B1a.svg.png</fanart>
@@ -41,7 +41,7 @@
 </item>
 
 <item>
-<title>[COLOR lime]•[/COLOR]Telecinco HD</title>        
+<title>[COLOR red]•[/COLOR]Telecinco HD</title>        
 <link>http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIES0015</link>
 <thumbnail>http://www.vectorlogo.es/wp-content/uploads/2016/06/logo-vector-telecinco-circular.jpg</thumbnail>
 <fanart>https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/EuroEspa%C3%B1a.svg/1200px-EuroEspa%C3%B1a.svg.png</fanart>
@@ -91,14 +91,14 @@
 </item>
 
 <item>
-<title>[COLOR lime]•[/COLOR]Paramount Channel</title>        
+<title>[COLOR red]•[/COLOR]Paramount Channel</title>        
 <link>http://www.radiosargentina.com.ar/php/tvm3u.php?id=PAES0008</link>
 <thumbnail>http://www.fotogramas.es/var/ezflow_site/storage/images/noticias/paramount-channel-cambia-de-dial/7797075-1-esl-ES/Paramount-Channel-cambia-de-dial_landscape.jpg</thumbnail>
 <fanart>https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/EuroEspa%C3%B1a.svg/1200px-EuroEspa%C3%B1a.svg.png</fanart>
 </item>
 
 <item>
-<title>[COLOR lime]•[/COLOR]Life tv</title>        
+<title>[COLOR red]•[/COLOR]Life tv</title>        
 <link>http://163.172.15.219:1935/live/lifetvesp387/.m3u8</link>
 <thumbnail>https://i.ytimg.com/vi/CcY76rUYz2k/mqdefault.jpg</thumbnail>
 <fanart>https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/EuroEspa%C3%B1a.svg/1200px-EuroEspa%C3%B1a.svg.png</fanart>
@@ -112,14 +112,14 @@
 </item>
 
 <item>
-<title>[COLOR lime]•[/COLOR]101 españa</title>        
+<title>[COLOR red]•[/COLOR]101 españa</title>        
 <link>http://cls.todostreaming.eu/101tv/livestream2/chunklist.m3u8</link>
 <thumbnail>http://directostv.teleame.com/wp-content/uploads/2016/01/101tv-en-directo-online.png</thumbnail>
 <fanart>https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/EuroEspa%C3%B1a.svg/1200px-EuroEspa%C3%B1a.svg.png</fanart>
 </item>
 
 <item>
-<title>[COLOR lime]•[/COLOR]Dkiss</title>        
+<title>[COLOR red]•[/COLOR]Dkiss</title>        
 <link>http://kisstvnacional.es.flash.glb.canalweb.com/kisstvnacional.es/mp4:9KISSTV.mp4/playlist.m3u8</link>
 <thumbnail>http://www.dkiss.es/wp-content/uploads/DKiss-1.png</thumbnail>
 <fanart>https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/EuroEspa%C3%B1a.svg/1200px-EuroEspa%C3%B1a.svg.png</fanart>
@@ -224,7 +224,7 @@ http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIES0006
 <thumbnail>http://vercanalestv.com/logos/goltv.jpg</thumbnail>   </item>
 
 <item>
-<title>[COLOR lime]•[/COLOR]Moto GP</title>
+<title>[COLOR red]•[/COLOR]Moto GP</title>
 <link>$doregex[GetPageUrl]|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+WOW64%3B+Trident%2F7.0%3B+rv%3A11.0%29+like+Gecko</link>
 <regex>
 <name>GetPageUrl</name>
@@ -237,7 +237,7 @@ http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIES0006
 
 
 <item>
-<title>[COLOR lime]•[/COLOR]Formula 1</title>
+<title>[COLOR red]•[/COLOR]Formula 1</title>
 <link>$doregex[GetPageUrl]|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+WOW64%3B+Trident%2F7.0%3B+rv%3A11.0%29+like+Gecko</link>
 <regex>
 <name>GetPageUrl</name>
