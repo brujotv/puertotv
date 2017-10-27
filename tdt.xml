@@ -1,30 +1,14 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
 
-<item>
-<title>[COLOR red]•[/COLOR]Tve 1</title>
-<link>$doregex[GetPageUrl]|Referer=http://livesports.pw/embedn.php?file=launotelefivegb&amp;User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64; rv:54.0) Gecko/20100101 Firefox/54.0</link>
-<regex>
-<name>GetPageUrl</name>
-<expres>source: '(.*?)'</expres>
-<page>http://livesports.pw/embedn.php?file=launotelefivegb&amp;width=650&amp;height=397</page>
-<cookieJar></cookieJar>
-</regex>
- <thumbnail>http://static.programacion-tdt.com/imgAPP/TVE1.min.png</thumbnail>   
-</item>
-
 
 <item>
-<title>[COLOR red]•[/COLOR]Tve 2</title>
-<link>$doregex[GetPageUrl]|Referer=http://livesports.pw/embedn.php?file=launotelefivegb&amp;User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64; rv:54.0) Gecko/20100101 Firefox/54.0</link>
-<regex>
-<name>GetPageUrl</name>
-<expres>source: '(.*?)'</expres>
-<page>http://livesports.pw/embedn.php?file=tvdostelefive&amp;width=650&amp;height=397</page>
-<cookieJar></cookieJar>
-</regex>
- <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Logo_TVE-2.svg/1200px-Logo_TVE-2.svg.png</thumbnail>   
+<title>[COLOR red]•[/COLOR]Tve 1</title>        
+<link>http://tepo4.telesport.pw/live/tve1/index.m3u8?token=hVeH6j_cUTnamc0m4JRS7w&expires=1506469220</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
 </item>
+http://tepo4.telesport.pw/live/tve1/index.m3u8?token=hVeH6j_cUTnamc0m4JRS7w&expires=1506469220
 
 <item>
 <title>[COLOR red]•[/COLOR]Cuatro HD</title>        
