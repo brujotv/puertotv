@@ -2,13 +2,13 @@
 
 
 <item> 
-            <title>[COLOR red]•[/COLOR]La 1 SD</title> 
+            <title>[COLOR lime]•[/COLOR]La 1 SD</title> 
             <link>plugin://plugin.video.f4mTester/?url=http://xtreme.webhop.me:8000/live/iFDF7hpXsC/HMTnU6Jh06/2213.ts&amp;streamtype=TSDOWNLOADER&amp;name=La 1 ES</link> 
             <thumbnail>http://static.programacion-tdt.com/imgAPP/TVE1.min.png</thumbnail>
                 </item>
 
 <item> 
-            <title>[COLOR red]•[/COLOR]Cuatro SD</title> 
+            <title>[COLOR lime]•[/COLOR]Cuatro SD</title> 
             <link>plugin://plugin.video.f4mTester/?url=http://xtreme.webhop.me:8000/live/iFDF7hpXsC/HMTnU6Jh06/2206.ts&amp;streamtype=TSDOWNLOADER&amp;name=Cuatro FHD ES</link> 
             <thumbnail>http://www.futbolprimera.es/files/cuatro.jpg</thumbnail>
                 </item> 
