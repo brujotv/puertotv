@@ -18,22 +18,6 @@
 </item>
 
 <item>
-<title>[COLOR lime]Deportes a la Carta[/COLOR][COLOR blue][I] Addon Necesario[/I][/COLOR]</title>
-<link>http://Ignoreme</link>
-<jsonrpc>plugin://plugin.video.ufc-finest/</jsonrpc>
-<thumbnail>http://i.imgur.com/2ehVI5A.png</thumbnail>
-<fanart>http://i.imgur.com/QXtE7xr.jpg</fanart>
-</item>
-
-<item>
-<title>[COLOR lime]La Videoteca[/COLOR]</title>
-<link>http://Ignoreme</link>
-<externallink>https://raw.githubusercontent.com/Carlesto/Peliculas/master/mejorsala.xml</externallink>
-<Thumbnail>http://i.imgur.com/sL2hgqO.png</thumbnail>
-<fanart>http://i.imgur.com/XtXqgzx.jpg</fanart>
-</item>
-
-<item>
 <title>[COLOR lime]ArenaVision EZY[/COLOR][COLOR blue][I] Addon ArenaVision EZY Necesario[/I][/COLOR]</title>
 <link>http://Ignoreme</link>
 <jsonrpc>plugin://plugin.video.arenavisionezy/</jsonrpc>
