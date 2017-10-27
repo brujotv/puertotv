@@ -42,7 +42,7 @@
 	        </item>		
 <item> 
             <title>[COLOR lime]•[/COLOR]Energy SD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://major2.ipfox.co:8080/live/winsor_ZdtMSC/GhAUwb3w/1111.ts&amp;streamtype=TSDOWNLOADER&amp;name=Energy ES</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://xtreme.webhop.me:8000/live/iFDF7hpXsC/HMTnU6Jh06/2201.ts&amp;streamtype=TSDOWNLOADER&amp;name=Energy ES</link> 
             <thumbnail>http://www.cineytele.com/wp-content/uploads/2015/11/energy-logo-mediaset-500-2.jpg</thumbnail>
                 </item>
    <item> 
@@ -51,7 +51,7 @@
             <thumbnail>http://www.movistarplus.es/assets/images/logo-cero-desk.png</thumbnail>
                 </item>
 <item> 
-            <title>[COLOR lime]•[/COLOR]MoviStar Estrenos SD</title> 
+            <title>[COLOR red]•[/COLOR]MoviStar Estrenos SD</title> 
             <link>plugin://plugin.video.f4mTester/?url=http://major2.ipfox.co:8080/live/winsor_ZdtMSC/GhAUwb3w/1123.ts&amp;streamtype=TSDOWNLOADER&amp;name=MovieStar Estrenos ES</link> 
             <thumbnail>http://www1.movistarplus.es/recorte/m-NEO/canal/MV1</thumbnail>
                 </item>
@@ -92,7 +92,7 @@
 		</item> 
 
 <item> 
-            <title>[COLOR lime]•[/COLOR]AMC SD</title> 
+            <title>[COLOR red]•[/COLOR]AMC SD</title> 
             <link>plugin://plugin.video.f4mTester/?url=http://major2.ipfox.co:8080/live/winsor_ZdtMSC/GhAUwb3w/1140.ts&amp;streamtype=TSDOWNLOADER&amp;name=AMC HD ES</link> 
             <thumbnail>https://pbs.twimg.com/profile_images/658379235116130304/0d0gse9_.jpg</thumbnail>
                 </item>
@@ -127,13 +127,13 @@
                 </item>
 
 <item> 
-            <title>[COLOR lime]•[/COLOR]Hollywood SD </title> 
+            <title>[COLOR red]•[/COLOR]Hollywood SD </title> 
             <link>plugin://plugin.video.f4mTester/?url=http://major2.ipfox.co:8080/live/winsor_ZdtMSC/GhAUwb3w/1128.ts&amp;streamtype=TSDOWNLOADER&amp;name=Hollywood FHD ES</link> 
             <thumbnail>http://www.axartel.es/assets/img/sliders/tv-canales/canal-hollywood.jpg</thumbnail>
                 </item>
 
 <item>
-            <title>[COLOR lime]•[/COLOR]Comedy Central SD</title> 
+            <title>[COLOR red]•[/COLOR]Comedy Central SD</title> 
             <link>plugin://plugin.video.f4mTester/?url=http://major2.ipfox.co:8080/live/winsor_ZdtMSC/GhAUwb3w/1115.ts&amp;streamtype=TSDOWNLOADER&amp;name=Comedy Central FHD ES</link> 
             <thumbnail>http://www1.movistarplus.es/recorte/m-NEO/canal/PCM</thumbnail>
                 </item> 
@@ -145,7 +145,7 @@
                 </item> 
 
 <item> 
-            <title>[COLOR lime]•[/COLOR]TCM SD</title> 
+            <title>[COLOR red]•[/COLOR]TCM SD</title> 
             <link>plugin://plugin.video.f4mTester/?url=http://major2.ipfox.co:8080/live/winsor_ZdtMSC/GhAUwb3w/1091.ts&amp;streamtype=TSDOWNLOADER&amp;name=TCM ES</link> 
             <thumbnail>http://www.brandemia.org/sites/default/files/sites/default/files/tcm_logo_antes.jpg</thumbnail>
                </item> 
@@ -167,7 +167,7 @@
 
 <item> 
             <title>[COLOR lime]•[/COLOR]FDF SD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://major2.ipfox.co:8080/live/winsor_ZdtMSC/GhAUwb3w/1110.ts&amp;streamtype=TSDOWNLOADER&amp;name=FDF ES</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://xtreme.webhop.me:8000/live/iFDF7hpXsC/HMTnU6Jh06/2202.ts&amp;streamtype=TSDOWNLOADER&amp;name=FDF ES</link> 
             <thumbnail>http://directostv.teleame.com/wp-content/uploads/2016/01/FDF-en-directo-online.png</thumbnail>
                </item>	 
 		
@@ -178,7 +178,7 @@
                 </item>
 
 <item> 
-            <title>[COLOR lime]•[/COLOR]A&amp;E SD</title> 
+            <title>[COLOR red]•[/COLOR]A&amp;E SD</title> 
             <link>plugin://plugin.video.f4mTester/?url=http://major2.ipfox.co:8080/live/winsor_ZdtMSC/GhAUwb3w/1141.ts&amp;streamtype=TSDOWNLOADER&amp;name=A&amp;E ES</link> 
             <thumbnail>https://vignette4.wikia.nocookie.net/logopedia/images/a/a4/A%26E_HD.png/revision/latest?cb=20111207180519</thumbnail>
                 </item>
@@ -190,7 +190,7 @@
                 </item> 
 
 <item> 
-            <title>[COLOR lime]•[/COLOR]Nat Geo SD</title> 
+            <title>[COLOR red]•[/COLOR]Nat Geo SD</title> 
             <link>plugin://plugin.video.f4mTester/?url=http://major2.ipfox.co:8080/live/winsor_ZdtMSC/GhAUwb3w/1105.ts&amp;streamtype=TSDOWNLOADER&amp;name=Nat Geo FHD ES</link> 
             <thumbnail>http://www1.movistarplus.es/recorte/m-NEO/canal/NATGEO</thumbnail>
                 </item> 
@@ -226,7 +226,7 @@
                 </item>
 
 <item> 
-            <title>[COLOR lime]•[/COLOR]Clan TVE SD</title> 
+            <title>[COLOR red]•[/COLOR]Clan TVE SD</title> 
             <link>plugin://plugin.video.f4mTester/?url=http://major2.ipfox.co:8080/live/winsor_ZdtMSC/GhAUwb3w/1116.ts&amp;streamtype=TSDOWNLOADER&amp;name=Clan TVE ES</link> 
             <thumbnail>http://static.programacion-tdt.com/imgAPP/Clan_TV.min.png</thumbnail>
                 </item>
@@ -237,13 +237,13 @@
             <thumbnail>http://cdn.exstreamist.com/wp-content/uploads/2016/05/streaming-nick-jr.jpg</thumbnail>
                 </item>
 <item> 
-            <title>[COLOR lime]•[/COLOR]Baby TV SD</title> 
+            <title>[COLOR red]•[/COLOR]Baby TV SD</title> 
             <link>plugin://plugin.video.f4mTester/?url=http://major2.ipfox.co:8080/live/winsor_ZdtMSC/GhAUwb3w/1083.ts&amp;streamtype=TSDOWNLOADER&amp;name=Baby TV ES</link> 
             <thumbnail>http://is2.mzstatic.com/image/thumb/Purple118/v4/a9/91/f0/a991f036-a8e0-466d-ad64-32b0b6b49fd3/source/1200x630bb.jpg</thumbnail>
                 </item>
 
 <item> 
-            <title>[COLOR lime]•[/COLOR]Nickelodeon SD</title> 
+            <title>[COLOR red]•[/COLOR]Nickelodeon SD</title> 
             <link>plugin://plugin.video.f4mTester/?url=http://major2.ipfox.co:8080/live/winsor_ZdtMSC/GhAUwb3w/1101.ts&amp;streamtype=TSDOWNLOADER&amp;name=Nickelodeon FHD ES</link> 
             <thumbnail>https://ibhuluimcom-a.akamaihd.net/ib.huluim.com/company/584?region=US&size=600x400</thumbnail>
                 </item>
@@ -282,7 +282,7 @@
                 </item>
 
 <item> 
-            <title>[COLOR lime]•[/COLOR]Bein sports SD</title> 
+            <title>[COLOR red]•[/COLOR]Bein sports SD</title> 
             <link>plugin://plugin.video.f4mTester/?url=http://major2.ipfox.co:8080/live/winsor_ZdtMSC/GhAUwb3w/1135.ts&amp;streamtype=TSDOWNLOADER&amp;name=BEIN SPORTS</link> 
             <thumbnail>http://assets.beinsports.com/3.0.50/images/beIN_SPORTS_App_Icon.svg</thumbnail>
                 </item>
