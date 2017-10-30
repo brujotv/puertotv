@@ -163,9 +163,16 @@
 </item>
 
 <item>
-<title>[COLOR lime]•[/COLOR]</title>        
-<link></link>
-<thumbnail></thumbnail>
+<title>[COLOR lime]•[/COLOR] DW LATINOAMERICA</title>        
+<link>http://www.metafilegenerator.de/DWelle/tv-latinoamerica/ios/master.m3u8</link>
+<thumbnail>https://yt3.ggpht.com/-D1Z6emsTKE0/AAAAAAAAAAI/AAAAAAAAAAA/46wxJGxiRkc/s176-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR lime]•[/COLOR] Cable NOTICIAS</title>        
+<link>http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CNOT/tu1_1.m3u8</link>
+<thumbnail>https://image.jimcdn.com/app/cms/image/transf/none/path/sb87279bb0fb4e580/image/if3837a41644e83f4/version/1476451662/image.png</thumbnail>
 <fanart></fanart>
 </item>
 
@@ -176,9 +183,4 @@
 <fanart></fanart>
 </item>
 
-<item>
-<title>[COLOR lime]•[/COLOR]</title>        
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
+
