@@ -57,95 +57,95 @@
             <thumbnail>http://www.movistarplus.es/assets/images/logo-cero-desk.png</thumbnail>
                 </item>
 <item> 
-            <title>[COLOR lime]•[/COLOR]MoviStar Estrenos HD</title> 
+            <title>[COLOR lime]•[/COLOR] MoviStar Estrenos HD</title> 
             <link>plugin://plugin.video.f4mTester/?url=http://tv2iptv.com:8000/live/pierre/12345678/3167.ts&amp;streamtype=TSDOWNLOADER&amp;name=MovieStar Estrenos ES</link> 
             <thumbnail>http://www1.movistarplus.es/recorte/m-NEO/canal/MV1</thumbnail>
                 </item>
  
 <item> 
-            <title>[COLOR lime]•[/COLOR]MoviStar Accion SD</title> 
+            <title>[COLOR lime]•[/COLOR] MoviStar Accion SD</title> 
             <link>plugin://plugin.video.f4mTester/?url=http://tv2iptv.com:8000/live/pierre/12345678/3167.ts&amp;streamtype=TSDOWNLOADER&amp;name=C+ Accion FHD ES</link> 
             <thumbnail>http://www1.movistarplus.es/recorte/m-NEO/canal/CPACCI</thumbnail>
 		</item>
 
 <item> 
-            <title>[COLOR lime]•[/COLOR]Movistar Comedia HD</title> 
+            <title>[COLOR lime]•[/COLOR] Movistar Comedia HD</title> 
             <link>plugin://plugin.video.f4mTester/?url=http://tv2iptv.com:8000/live/pierre/12345678/3166.ts&amp;streamtype=TSDOWNLOADER&amp;name=Movistar  Comedia FHD ES</link> 
             <thumbnail>http://www1.movistarplus.es/recorte/m-NEO/canal/CPCOME</thumbnail>
                 </item> 
 
 <item> 
-            <title>[COLOR lime]•[/COLOR]MoviStar DCine SD</title> 
+            <title>[COLOR lime]•[/COLOR] MoviStar DCine SD</title> 
             <link>plugin://plugin.video.f4mTester/?url=http://tv2iptv.com:8000/live/pierre/12345678/4619.ts&amp;streamtype=TSDOWNLOADER&amp;name=C+ DCine FHD ES</link> 
             <thumbnail>http://www1.movistarplus.es/recorte/m-NEO/canal/CPCOLE</thumbnail>
 		</item>
 
 <item> 
-            <title>[COLOR lime]•[/COLOR]MoviStar Series SD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://xtreme.webhop.me:8000/live/iFDF7hpXsC/HMTnU6Jh06/2143.ts&amp;streamtype=TSDOWNLOADER&amp;name=MovieStar Series HD ES</link> 
+            <title>[COLOR lime]•[/COLOR] MoviStar Series SD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv2iptv.com:8000/live/pierre/12345678/4622.ts&amp;streamtype=TSDOWNLOADER&amp;name=MovieStar Series HD ES</link> 
             <thumbnail>http://www1.movistarplus.es/recorte/m-NEO/canal/CPSER</thumbnail>
 		</item> 
 
 <item> 
-            <title>[COLOR lime]•[/COLOR]Movistar Series Xtra SD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://xtreme.webhop.me:8000/live/iFDF7hpXsC/HMTnU6Jh06/2145.ts&amp;streamtype=TSDOWNLOADER&amp;name=Movistar  Series Xtra FHD ES</link> 
+            <title>[COLOR lime]•[/COLOR] Movistar Series Xtra SD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv2iptv.com:8000/live/pierre/12345678/4623.ts&amp;streamtype=TSDOWNLOADER&amp;name=Movistar  Series Xtra FHD ES</link> 
             <thumbnail>http://www1.movistarplus.es/recorte/m-NEO/canal/MV2</thumbnail>
                 </item> 
 <item> 
-            <title>[COLOR lime]•[/COLOR]MoviStar Xtra SD</title> 
+            <title>[COLOR red]•[/COLOR] MoviStar Xtra SD</title> 
             <link>plugin://plugin.video.f4mTester/?url=http://xtreme.webhop.me:8000/live/iFDF7hpXsC/HMTnU6Jh06/2141.ts&amp;streamtype=TSDOWNLOADER&amp;name=MovieStar Xtra ES</link> 
             <thumbnail>http://www1.movistarplus.es/recorte/m-NEO/canal/CPXTRA</thumbnail>
 		</item> 
 
 <item> 
-            <title>[COLOR red]•[/COLOR]AMC SD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://major2.ipfox.co:8080/live/winsor_ZdtMSC/GhAUwb3w/1140.ts&amp;streamtype=TSDOWNLOADER&amp;name=AMC HD ES</link> 
+            <title>[COLOR red]•[/COLOR] AMC SD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv2iptv.com:8000/live/pierre/12345678/4662.ts&amp;streamtype=TSDOWNLOADER&amp;name=AMC HD ES</link> 
             <thumbnail>https://pbs.twimg.com/profile_images/658379235116130304/0d0gse9_.jpg</thumbnail>
                 </item>
 
 <item> 
-            <title>[COLOR lime]•[/COLOR]AXN SD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://xtreme.webhop.me:8000/live/iFDF7hpXsC/HMTnU6Jh06/2188.ts&amp;streamtype=TSDOWNLOADER&amp;name=AXN FHD ES</link> 
+            <title>[COLOR lime]•[/COLOR] AXN SD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv2iptv.com:8000/live/pierre/12345678/3170.ts&amp;streamtype=TSDOWNLOADER&amp;name=AXN FHD ES</link> 
             <thumbnail>http://www1.movistarplus.es/recorte/m-NEO/canal/AXN</thumbnail>
                  </item> 
 <item> 
-            <title>[COLOR lime]•[/COLOR]AXN White SD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://xtreme.webhop.me:8000/live/iFDF7hpXsC/HMTnU6Jh06/2190.ts&amp;streamtype=TSDOWNLOADER&amp;name=AXN White ES</link> 
+            <title>[COLOR lime]•[/COLOR] AXN White SD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv2iptv.com:8000/live/pierre/12345678/3169.ts&amp;streamtype=TSDOWNLOADER&amp;name=AXN White ES</link> 
             <thumbnail>http://hoycinema.abc.es/archivos/201204/axnwhite.jpg</thumbnail>
                  </item>
 
 <item> 
-            <title>[COLOR lime]•[/COLOR]Fox SD </title> 
+            <title>[COLOR red]•[/COLOR] Fox SD </title> 
             <link>plugin://plugin.video.f4mTester/?url=http://xtreme.webhop.me:8000/live/iFDF7hpXsC/HMTnU6Jh06/2196.ts&amp;streamtype=TSDOWNLOADER&amp;name=Fox HD ES</link> 
             <thumbnail>http://www.axartel.es/assets/img/sliders/tv-canales/fox.jpg</thumbnail>
                 </item> 
 
 <item> 
-            <title>[COLOR lime]•[/COLOR]Fox Life SD</title> 
+            <title>[COLOR red]•[/COLOR] Fox Life SD</title> 
             <link>plugin://plugin.video.f4mTester/?url=http://xtreme.webhop.me:8000/live/iFDF7hpXsC/HMTnU6Jh06/2194.ts&amp;streamtype=TSDOWNLOADER&amp;name=Fox Life HD ES</link> 
             <thumbnail>http://www.axartel.es/assets/img/sliders/tv-canales/fox-life.jpg</thumbnail>
                 </item>
 
 <item> 
-            <title>[COLOR lime]•[/COLOR]Calle 13 SD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://xtreme.webhop.me:8000/live/iFDF7hpXsC/HMTnU6Jh06/2172.ts&amp;streamtype=TSDOWNLOADER&amp;name=Calle 13 HD ES</link> 
+            <title>[COLOR lime]•[/COLOR] Calle 13 SD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv2iptv.com:8000/live/pierre/12345678/3155.ts&amp;streamtype=TSDOWNLOADER&amp;name=Calle 13 HD ES</link> 
             <thumbnail>http://www1.movistarplus.es/recorte/m-NEO/canal/CL13</thumbnail>
                 </item>
 
 <item> 
-            <title>[COLOR red]•[/COLOR]Hollywood SD </title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://major2.ipfox.co:8080/live/winsor_ZdtMSC/GhAUwb3w/1128.ts&amp;streamtype=TSDOWNLOADER&amp;name=Hollywood FHD ES</link> 
+            <title>[COLOR lime]•[/COLOR] Hollywood SD </title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv2iptv.com:8000/live/pierre/12345678/3134.ts&amp;streamtype=TSDOWNLOADER&amp;name=Hollywood FHD ES</link> 
             <thumbnail>http://www.axartel.es/assets/img/sliders/tv-canales/canal-hollywood.jpg</thumbnail>
                 </item>
 
 <item>
-            <title>[COLOR red]•[/COLOR]Comedy Central SD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://major2.ipfox.co:8080/live/winsor_ZdtMSC/GhAUwb3w/1115.ts&amp;streamtype=TSDOWNLOADER&amp;name=Comedy Central FHD ES</link> 
+            <title>[COLOR lime]•[/COLOR] Comedy Central SD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv2iptv.com:8000/live/pierre/12345678/3141.ts&amp;streamtype=TSDOWNLOADER&amp;name=Comedy Central FHD ES</link> 
             <thumbnail>http://www1.movistarplus.es/recorte/m-NEO/canal/PCM</thumbnail>
                 </item> 
 
 <item> 
-            <title>[COLOR lime]•[/COLOR]TNT SD</title> 
+            <title>[COLOR lime]•[/COLOR] TNT SD</title> 
             <link>plugin://plugin.video.f4mTester/?url=http://xtreme.webhop.me:8000/live/iFDF7hpXsC/HMTnU6Jh06/2185.ts&amp;streamtype=TSDOWNLOADER&amp;name=TNT FHD ES</link> 
             <thumbnail>http://www1.movistarplus.es/recorte/m-NEO/canal/TCM</thumbnail> 
                 </item> 
