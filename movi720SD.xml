@@ -2,75 +2,81 @@
 
 
 <item> 
-            <title>[COLOR lime]•[/COLOR]La 1 SD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://xtreme.webhop.me:8000/live/iFDF7hpXsC/HMTnU6Jh06/2213.ts&amp;streamtype=TSDOWNLOADER&amp;name=La 1 ES</link> 
+            <title>[COLOR lime]•[/COLOR] La 1 SD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv2iptv.com:8000/live/pierre/12345678/4617.ts&amp;streamtype=TSDOWNLOADER&amp;name=La 1 ES</link> 
             <thumbnail>http://static.programacion-tdt.com/imgAPP/TVE1.min.png</thumbnail>
                 </item>
 
 <item> 
-            <title>[COLOR lime]•[/COLOR]Cuatro SD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://xtreme.webhop.me:8000/live/iFDF7hpXsC/HMTnU6Jh06/2206.ts&amp;streamtype=TSDOWNLOADER&amp;name=Cuatro FHD ES</link> 
+            <title>[COLOR lime]•[/COLOR] La 2 SD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv2iptv.com:8000/live/pierre/12345678/4667.ts&amp;streamtype=TSDOWNLOADER&amp;name=La 2 ES</link> 
+            <thumbnail></thumbnail>
+                </item>
+
+<item> 
+            <title>[COLOR lime]•[/COLOR] Cuatro SD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv2iptv.com:8000/live/pierre/12345678/3140.ts&amp;streamtype=TSDOWNLOADER&amp;name=Cuatro FHD ES</link> 
             <thumbnail>http://www.futbolprimera.es/files/cuatro.jpg</thumbnail>
                 </item> 
 
  
 <item> 
-            <title>[COLOR lime]•[/COLOR]Antena 3 SD</title> 
+            <title>[COLOR red]•[/COLOR] Antena 3 SD</title> 
             <link>plugin://plugin.video.f4mTester/?url=http://xtreme.webhop.me:8000/live/iFDF7hpXsC/HMTnU6Jh06/2210.ts&amp;streamtype=TSDOWNLOADER&amp;name=Antena 3 HD</link> 
             <thumbnail>http://static.programacion-tdt.com/imgAPP/Antena_3.min.png</thumbnail>
                 </item>
 <item> 
-            <title>[COLOR lime]•[/COLOR]Telecinco SD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://xtreme.webhop.me:8000/live/iFDF7hpXsC/HMTnU6Jh06/2204.ts&amp;streamtype=TSDOWNLOADER&amp;name=Telecinco FHD ES</link> 
+            <title>[COLOR lime]•[/COLOR] Telecinco SD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv2iptv.com:8000/live/pierre/12345678/3126.ts&amp;streamtype=TSDOWNLOADER&amp;name=Telecinco FHD ES</link> 
             <thumbnail>http://verdirectotv.tv/logos/telecinco.png</thumbnail>
                 </item>
 <item> 
-            <title>[COLOR lime]•[/COLOR]La Sexta SD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://xtreme.webhop.me:8000/live/iFDF7hpXsC/HMTnU6Jh06/2192.ts&amp;streamtype=TSDOWNLOADER&amp;name=LA Sexta FHD ES</link> 
+            <title>[COLOR lime]•[/COLOR] La Sexta SD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv2iptv.com:8000/live/pierre/12345678/4676.ts&amp;streamtype=TSDOWNLOADER&amp;name=LA Sexta FHD ES</link> 
             <thumbnail>http://ocio.diariodemallorca.es/img_contenido/estaticos/canales/24.jpg</thumbnail>
                 </item>
 <item> 
-            <title>[COLOR lime]•[/COLOR]Neox SD</title> 
+            <title>[COLOR red]•[/COLOR] Neox SD</title> 
             <link>plugin://plugin.video.f4mTester/?url=http://xtreme.webhop.me:8000/live/iFDF7hpXsC/HMTnU6Jh06/2209.ts&amp;streamtype=TSDOWNLOADER&amp;name=Neox ES</link> 
             <thumbnail>https://pbs.twimg.com/profile_images/509064688550694912/WY6A_PqH_normal.jpeg</thumbnail>
                 </item>
 
 <item> 
-            <title>[COLOR lime]•[/COLOR]Nova SD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://xtreme.webhop.me:8000/live/iFDF7hpXsC/HMTnU6Jh06/2208.ts&amp;streamtype=TSDOWNLOADER&amp;name=Nova ES</link> 
+            <title>[COLOR lime]•[/COLOR] Nova SD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv2iptv.com:8000/live/pierre/12345678/3130.ts&amp;streamtype=TSDOWNLOADER&amp;name=Nova ES</link> 
             <thumbnail>http://www.mundoplus.tv/img/f25b812e6e6095afe68d44feb7d119ad</thumbnail>
 	        </item>		
 <item> 
-            <title>[COLOR lime]•[/COLOR]Energy SD</title> 
+            <title>[COLOR red]•[/COLOR] Energy SD</title> 
             <link>plugin://plugin.video.f4mTester/?url=http://xtreme.webhop.me:8000/live/iFDF7hpXsC/HMTnU6Jh06/2201.ts&amp;streamtype=TSDOWNLOADER&amp;name=Energy ES</link> 
             <thumbnail>http://www.cineytele.com/wp-content/uploads/2015/11/energy-logo-mediaset-500-2.jpg</thumbnail>
                 </item>
    <item> 
-            <title>[COLOR lime]•[/COLOR]#0 SD </title> 
+            <title>[COLOR red]•[/COLOR] #0 SD </title> 
             <link>plugin://plugin.video.f4mTester/?url=http://xtreme.webhop.me:8000/live/iFDF7hpXsC/HMTnU6Jh06/2092.ts&amp;streamtype=TSDOWNLOADER&amp;name=#0 HD ES</link> 
             <thumbnail>http://www.movistarplus.es/assets/images/logo-cero-desk.png</thumbnail>
                 </item>
 <item> 
-            <title>[COLOR red]•[/COLOR]MoviStar Estrenos SD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://major2.ipfox.co:8080/live/winsor_ZdtMSC/GhAUwb3w/1123.ts&amp;streamtype=TSDOWNLOADER&amp;name=MovieStar Estrenos ES</link> 
+            <title>[COLOR lime]•[/COLOR]MoviStar Estrenos HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv2iptv.com:8000/live/pierre/12345678/3167.ts&amp;streamtype=TSDOWNLOADER&amp;name=MovieStar Estrenos ES</link> 
             <thumbnail>http://www1.movistarplus.es/recorte/m-NEO/canal/MV1</thumbnail>
                 </item>
  
 <item> 
             <title>[COLOR lime]•[/COLOR]MoviStar Accion SD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://xtreme.webhop.me:8000/live/iFDF7hpXsC/HMTnU6Jh06/2147.ts&amp;streamtype=TSDOWNLOADER&amp;name=C+ Accion FHD ES</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv2iptv.com:8000/live/pierre/12345678/3167.ts&amp;streamtype=TSDOWNLOADER&amp;name=C+ Accion FHD ES</link> 
             <thumbnail>http://www1.movistarplus.es/recorte/m-NEO/canal/CPACCI</thumbnail>
 		</item>
 
 <item> 
-            <title>[COLOR lime]•[/COLOR]Movistar Comedia SD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://xtreme.webhop.me:8000/live/iFDF7hpXsC/HMTnU6Jh06/2149.ts&amp;streamtype=TSDOWNLOADER&amp;name=Movistar  Comedia FHD ES</link> 
+            <title>[COLOR lime]•[/COLOR]Movistar Comedia HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv2iptv.com:8000/live/pierre/12345678/3166.ts&amp;streamtype=TSDOWNLOADER&amp;name=Movistar  Comedia FHD ES</link> 
             <thumbnail>http://www1.movistarplus.es/recorte/m-NEO/canal/CPCOME</thumbnail>
                 </item> 
 
 <item> 
             <title>[COLOR lime]•[/COLOR]MoviStar DCine SD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://xtreme.webhop.me:8000/live/iFDF7hpXsC/HMTnU6Jh06/2151.ts&amp;streamtype=TSDOWNLOADER&amp;name=C+ DCine FHD ES</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv2iptv.com:8000/live/pierre/12345678/4619.ts&amp;streamtype=TSDOWNLOADER&amp;name=C+ DCine FHD ES</link> 
             <thumbnail>http://www1.movistarplus.es/recorte/m-NEO/canal/CPCOLE</thumbnail>
 		</item>
 
@@ -161,7 +167,7 @@
 
 <item> 
             <title>[COLOR lime]•[/COLOR]Caza Y Pesca SD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://xtreme.webhop.me:8000/live/iFDF7hpXsC/HMTnU6Jh06/2176.ts&amp;streamtype=TSDOWNLOADER&amp;name=Caza Y Pesca FHD ES</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv2iptv.com:8000/live/pierre/12345678/3143.ts&amp;streamtype=TSDOWNLOADER&amp;name=Caza Y Pesca FHD ES</link> 
             <thumbnail>http://fotocite.com/caza-pesca@256.png</thumbnail>
                 </item>
 
