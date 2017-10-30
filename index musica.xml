@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
  
 <item>
-<title>[COLOR lime]•[/COLOR]Videoclip</title>
+<title>[COLOR lime]•[/COLOR] Videoclip</title>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <link>http://ignoreme</link>
@@ -9,7 +9,7 @@
 </item>
 
 <item>
-<title>[COLOR lime]•[/COLOR]Radio</title>
+<title>[COLOR lime]•[/COLOR] Radio</title>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <link>http://ignoreme</link>
@@ -21,5 +21,5 @@
 <thumbnail></thumbnail>
 <fanart></fanart>
 <link>http://ignoreme</link>
-<externallink></externallink>
+<externallink>https://raw.githubusercontent.com/brujotv/puertotv/master/musica%20tv</externallink>
 </item>
