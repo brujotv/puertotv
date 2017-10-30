@@ -198,7 +198,42 @@
 </item>
 
 <item>
-<title>[COLOR lime]•[/COLOR]</title>        
+<title>[COLOR lime]•[/COLOR] BBC WORLD NEWS</title>        
+<link>http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/BBCW/tu1_1.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR lime]•[/COLOR] C-SPAN</title>        
+<link>http://cspan1-lh.akamaihd.net/i/cspan1_1@304727/index_1000_av-p.m3u8?sd=10&amp;rebase=on</link>
+<thumbnail>http://www.lyonspr.com/wp-content/uploads/2015/10/c-span.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR lime]•[/COLOR] C-SPAN 2</title>        
+<link>http://cspan2-lh.akamaihd.net/i/cspan2_1@304728/index_1000_av-p.m3u8?sd=10&amp;rebase=on</link>
+<thumbnail>http://www.tv14.net/wp-content/uploads/2010/09/C-SPAN-2.gif</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR lime]•[/COLOR] C-SPAN 3</title>        
+<link>http://cspan3-lh.akamaihd.net/i/cspan3_1@304729/index_1000_av-p.m3u8?sd=10&amp;rebase=on</link>
+<thumbnail>http://www.freeetv.com/images/01_logo/c-span3-tv.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR lime]•[/COLOR] DW NEWS</title>        
+<link>http://dwstream4-lh.akamaihd.net:80/i/dwstream4_live@131329/index_1_av-b.m3u8</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/240px-Deutsche_Welle_symbol_2012.svg.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR lime]•[/COLOR] FOX NEWS 23</title>        
 <link></link>
 <thumbnail></thumbnail>
 <fanart></fanart>
@@ -206,16 +241,14 @@
 
 <item>
 <title>[COLOR lime]•[/COLOR]</title>        
-<link></link>
-<thumbnail></thumbnail>
+<link>http://cmghlslive-i.akamaihd.net/hls/live/224709/KOKI/904k/prog.m3u8</link>
+<thumbnail>http://www.hardtimessundaes.com/wp-content/uploads/2015/08/imgres.jpg</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
-<title>[COLOR lime]•[/COLOR]</title>        
-<link></link>
-<thumbnail></thumbnail>
+<title>[COLOR lime]•[/COLOR] FOX 30 NEWS</title>        
+<link>http://cmghlslive-i.akamaihd.net:80/hls/live/224710/WFOX/904k/prog.m3u8</link>
+<thumbnail>http://www.hardtimessundaes.com/wp-content/uploads/2015/08/imgres.jpg</thumbnail>
 <fanart></fanart>
 </item>
-
-
