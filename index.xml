@@ -99,19 +99,9 @@
 <externallink>https://raw.githubusercontent.com/brujotv/puertotv/master/index%20adulto.xml</externallink>
 </item>
 
-
 <item>
-<title>[B][COLOR yellow]* GAMESTARTER[/B] ( CONSOLAS RETRO)[/COLOR]
-[COLOR blue][I] Addon Necesario,¡¡¡SOLO RASPBERRY!!![/I][/COLOR]</title>
-<link>http://Ignoreme</link>
-<jsonrpc>plugin://script.gamestarter/</jsonrpc>
-<thumbnail>https://img08.deviantart.net/17b9/i/2007/087/c/9/snes_logo_by_orksovaj.png</thumbnail>
-<fanart>https://cdn-images-1.medium.com/max/1400/1*vvrxNe4FPEeVmXLh5sDLDA.png</fanart>
-</item>
-
-<item>
-<title>[B][COLOR yellow]* ROM COLLECTION BROWSER[/B] ( CONSOLAS RETRO)[/COLOR]
-[COLOR blue][I] Addon Necesario,PARA PC Y ANDROID!![/I][/COLOR]</title>
+<title>[COLOR lime]•[/COLOR] ROM COLLECTION BROWSER ( CONSOLAS RETRO )
+ Addon Necesario,PARA PC Y ANDROID!!</title>
 <link>http://Ignoreme</link>
 <jsonrpc>plugin://script.games.rom.collection.browser/</jsonrpc>
 <thumbnail>https://img08.deviantart.net/17b9/i/2007/087/c/9/snes_logo_by_orksovaj.png</thumbnail>
@@ -119,7 +109,7 @@
 </item>
 
 <item>
-<title>INTERNET ARCHIVE ROM BROWSER ( CONSOLAS Retro )
+<title>[COLOR lime]•[/COLOR] INTERNET ARCHIVE ROM BROWSER ( CONSOLAS RETRO )
 Addon Necesario, RETROARCH NECESARIO.</title>
 <link>http://Ignoreme</link>
 <jsonrpc>plugin://plugin.program.iarl</jsonrpc>
