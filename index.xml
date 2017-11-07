@@ -100,8 +100,7 @@
 </item>
 
 <item>
-<title>[COLOR lime]•[/COLOR] ROM COLLECTION BROWSER ( CONSOLAS RETRO )
-[COLOR blue]Addon Necesario,PARA PC Y ANDROID!![/COLOR]</title>
+<title>[COLOR lime]•[/COLOR] ROM COLLECTION BROWSER ( CONSOLAS RETRO )[COLOR blue]Addon Necesario,PARA PC Y ANDROID!![/COLOR]</title>
 <link>http://Ignoreme</link>
 <jsonrpc>plugin://script.games.rom.collection.browser/</jsonrpc>
 <thumbnail>https://img08.deviantart.net/17b9/i/2007/087/c/9/snes_logo_by_orksovaj.png</thumbnail>
@@ -109,8 +108,7 @@
 </item>
 
 <item>
-<title>[COLOR lime]•[/COLOR] INTERNET ARCHIVE ROM BROWSER ( CONSOLAS RETRO )
-[COLOR blue]Addon Necesario, RETROARCH NECESARIO.[/COLOR]</title>
+<title>[COLOR lime]•[/COLOR] INTERNET ARCHIVE ROM BROWSER ( CONSOLAS RETRO )[COLOR blue]Addon Necesario, RETROARCH NECESARIO.[/COLOR]</title>
 <link>http://Ignoreme</link>
 <jsonrpc>plugin://plugin.program.iarl</jsonrpc>
 <thumbnail>https://img08.deviantart.net/17b9/i/2007/087/c/9/snes_logo_by_orksovaj.png</thumbnail>
