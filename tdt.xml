@@ -11,7 +11,15 @@
 
 <item>
 <title>[COLOR red]•[/COLOR] Tve 2</title>        
-<link>http://163.172.52.83:8000/live/74i47z491L27Zq/9d8m669471Z8D1/359.m3u8</link>
+<link>http://hlsackdn_gl0-lh.akamaihd.net/i/hlslive_1@439422/master.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+
+<item>
+<title>[COLOR lime]•[/COLOR] 24h </title>        
+<link>http://hlsackdn_gl8-lh.akamaihd.net/i/hlsdvrlive_1@81183/index_1500_av-b.m3u8</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
@@ -176,6 +184,13 @@ http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIES0006
 <link>http://media3.crtvg.es/live/_definst_/tvge_2/chunklist_w2133856001.m3u8</link>
 <thumbnail>https://buscador.cablevisionfibertel.com.ar/logos/65.png</thumbnail>
 <fanart>https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/EuroEspa%C3%B1a.svg/1200px-EuroEspa%C3%B1a.svg.png</fanart>
+</item>
+
+<item>
+<title>[COLOR red]•[/COLOR] TDP HD</title>        
+<link>http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl1/tdphd_lv3_aosv4_gl1/tdphd_lv3_aosv4_gl1.isml/tdphd_lv3_aosv4_gl1-audio=128000-video=1500000.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
 </item>
 
 <item>
