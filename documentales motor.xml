@@ -12,7 +12,7 @@
 <expres>title="(.*?)".*?watch\?v=(.*?)[",&amp;]</expres>
 <page>https://www.youtube.com/user/GuilleGarciaAlfonsin/videos</page>
 </regex>
-<thumbnail>https://i.ytimg.com/vi/GGgVj8x6NdQ/maxresdefault.jpg</thumbnail>
+<thumbnail></thumbnail>
 </item>
 
 
