@@ -1,2 +1,16 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
+<item><title>[COLOR lime]•[/COLOR] Monologos</title>
+<link>$doregex[makelist]</link>
+<regex><name>makelist</name>
+<listrepeat><![CDATA[
+<title>[makelist.param1]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
+<thumbnail>https://i.ytimg.com/vi/[makelist.param2]/hqdefault.jpg</thumbnail>
+]]></listrepeat>
+<expres>title="(.*?)".*?watch\?v=(.*?)[",&amp;]</expres>
+<page>https://www.youtube.com/channel/UCfs14tNr0tfJfiX5cvUsO7w/videos</page>
+</regex>
+<thumbnail>https://pbs.twimg.com/profile_images/529239174558138368/XoMw54lV.jpeg</thumbnail>
+</item>
+
