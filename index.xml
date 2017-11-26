@@ -99,18 +99,6 @@
 <externallink>https://pastebin.com/raw/tn8qMA3a</externallink>
 </item>
 
-<item><title>Documentales motor</title>
-<link>$doregex[makelist]</link>
-<regex><name>makelist</name>
-<listrepeat><![CDATA[
-<title>[makelist.param1]</title>
-<link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
-<thumbnail>https://i.ytimg.com/vi/[makelist.param2]/hqdefault.jpg</thumbnail>
-]]></listrepeat>
-<expres>title="(.*?)".*?watch\?v=(.*?)[",&amp;]</expres>
-<page>https://www.youtube.com/channel/UCcryVBRiH9575Ch0yVQc-Gw/videos</page>
-</regex>
-<thumbnail>https://yt3.ggpht.com/-FEvISSyX8H0/AAAAAAAAAAI/AAAAAAAAAAA/F5pGlJM3-R0/s240-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
-</item>
+
 
 
