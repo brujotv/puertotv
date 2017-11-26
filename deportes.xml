@@ -2,6 +2,21 @@
 
 
 
+
+<item><title>[COLOR lime]•[/COLOR] Diario AS</title>
+<link>$doregex[makelist]</link>
+<regex><name>makelist</name>
+<listrepeat><![CDATA[
+<title>[makelist.param1]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
+<thumbnail>https://i.ytimg.com/vi/[makelist.param2]/hqdefault.jpg</thumbnail>
+]]></listrepeat>
+<expres>title="(.*?)".*?watch\?v=(.*?)[",&amp;]</expres>
+<page>https://www.youtube.com/user/DIARIOAScom/videos</page>
+</regex>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Logo_diario_AS.svg/245px-Logo_diario_AS.svg.png</thumbnail>
+</item>
+
 <item><title>[COLOR lime]•[/COLOR] Diario MARCA</title>
 <link>$doregex[makelist]</link>
 <regex><name>makelist</name>
