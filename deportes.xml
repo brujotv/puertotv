@@ -1,8 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
 
+
+
+
 <item>
-<title>[COLOR lime]•[/COLOR]REPLAY FANATICS F1</title>
+<title>[COLOR lime]•[/COLOR] REPLAY FANATICS F1</title>
 <thumbnail>http://www.thesportsdb.com/images/icons/honours/FIA_Formula_1_World_Championship.png</thumbnail>
 <fanart>http://www.f1fanatic.co.uk/wp-content/uploads/2017/04/XPB_868129_HiRes-e1491629335234.jpg</fanart>
 <link>http://ignoreme</link>
@@ -10,7 +13,7 @@
 </item>
 
 <item>
-<title>[COLOR lime]•[/COLOR]REPLAY FANATICS MOTOGP </title>
+<title>[COLOR lime]•[/COLOR] REPLAY FANATICS MOTOGP </title>
 <thumbnail>https://i.imgur.com/STFpv7Z.png</thumbnail>
 <fanart>https://i.imgur.com/UlIfR3z.png</fanart>
 <link>http://ignoreme</link>
@@ -18,30 +21,7 @@
 </item>
 
 <item>
-<title>[COLOR lime]ArenaVision EZY[/COLOR][COLOR blue][I] Addon ArenaVision EZY Necesario[/I][/COLOR]</title>
-<link>http://Ignoreme</link>
-<jsonrpc>plugin://plugin.video.arenavisionezy/</jsonrpc>
-<thumbnail>http://i.imgur.com/204VXAA.png</thumbnail>
-<fanart>http://i.imgur.com/hftJKqk.jpg</fanart>
-</item>
-
-<item>
-<title>[COLOR lime]•[/COLOR][COLOR deepskyblue]  [B]Extratime[/COLOR] [COLOR lightyellow]  [/B][/COLOR]</title>
-<link>http://ignorame</link><thumbnail>http://adryantv.org/adryan/img/extratime.png</thumbnail><fanart>http://adryantv.org/adryan/img/fanart.jpg</fanart>
-<externallink>http://adryantv.org/adryan/multicanales.xml</externallink>
-</item>
-
-<channel>
-      <name>[COLOR red][COLOR  lime]•  [/COLOR] Deportes [/COLOR]</name>
-  <thumbnail>https://s5.postimg.org/8725a5scn/12742577_1687994038144436_517276981474093344_n.jpg</thumbnail>
-<fanart>https://s5.postimg.org/45xib51vr/tv_digital_0-890x4801.jpg</fanart>
-<link>http://ignoreme</link>
-   <externallink>https://goo.gl/jhQVWm</externallink>
-</channel>
-  </channels>
-
-<item>
-<title>[COLOR lime]•[/COLOR]Deportes supermopy</title>
+<title>[COLOR lime]•[/COLOR] Deportes supermopy</title>
 <fanart></fanart>
 <thumbnail></thumbnail>
 <link>http://ignoreme</link>
