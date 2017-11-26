@@ -3,41 +3,41 @@
 
 <item> 
             <title>[COLOR lime]•[/COLOR] La 1 SD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tv2iptv.com:8000/live/pierre/12345678/4617.ts&amp;streamtype=TSDOWNLOADER&amp;name=La 1 ES</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.ndasat.com:88/live/329995091896719/329995091896719/536.ts&amp;streamtype=TSDOWNLOADER&amp;name=La 1 ES</link> 
             <thumbnail>http://static.programacion-tdt.com/imgAPP/TVE1.min.png</thumbnail>
                 </item>
 
 <item> 
             <title>[COLOR lime]•[/COLOR] La 2 SD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tv2iptv.com:8000/live/pierre/12345678/4667.ts&amp;streamtype=TSDOWNLOADER&amp;name=La 2 ES</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.ndasat.com:88/live/329995091896719/329995091896719/537.ts&amp;streamtype=TSDOWNLOADER&amp;name=La 2 ES</link> 
             <thumbnail></thumbnail>
                 </item>
 
 <item> 
             <title>[COLOR lime]•[/COLOR] Cuatro SD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tv2iptv.com:8000/live/pierre/12345678/3140.ts&amp;streamtype=TSDOWNLOADER&amp;name=Cuatro FHD ES</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.ndasat.com:88/live/329995091896719/329995091896719/153.ts&amp;streamtype=TSDOWNLOADER&amp;name=Cuatro FHD ES</link> 
             <thumbnail>http://www.futbolprimera.es/files/cuatro.jpg</thumbnail>
                 </item> 
 
  
 <item> 
             <title>[COLOR red]•[/COLOR] Antena 3 SD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://xtreme.webhop.me:8000/live/iFDF7hpXsC/HMTnU6Jh06/2210.ts&amp;streamtype=TSDOWNLOADER&amp;name=Antena 3 HD</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.ndasat.com:88/live/329995091896719/329995091896719/971.ts&amp;streamtype=TSDOWNLOADER&amp;name=Antena 3 HD</link> 
             <thumbnail>http://static.programacion-tdt.com/imgAPP/Antena_3.min.png</thumbnail>
                 </item>
 <item> 
             <title>[COLOR lime]•[/COLOR] Telecinco SD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tv2iptv.com:8000/live/pierre/12345678/3126.ts&amp;streamtype=TSDOWNLOADER&amp;name=Telecinco FHD ES</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.ndasat.com:88/live/329995091896719/329995091896719/36.ts&amp;streamtype=TSDOWNLOADER&amp;name=Telecinco FHD ES</link> 
             <thumbnail>http://verdirectotv.tv/logos/telecinco.png</thumbnail>
                 </item>
 <item> 
             <title>[COLOR lime]•[/COLOR] La Sexta SD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tv2iptv.com:8000/live/pierre/12345678/4676.ts&amp;streamtype=TSDOWNLOADER&amp;name=LA Sexta FHD ES</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.ndasat.com:88/live/329995091896719/329995091896719/970.ts&amp;streamtype=TSDOWNLOADER&amp;name=LA Sexta FHD ES</link> 
             <thumbnail>http://ocio.diariodemallorca.es/img_contenido/estaticos/canales/24.jpg</thumbnail>
                 </item>
 <item> 
             <title>[COLOR red]•[/COLOR] Neox SD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://xtreme.webhop.me:8000/live/iFDF7hpXsC/HMTnU6Jh06/2209.ts&amp;streamtype=TSDOWNLOADER&amp;name=Neox ES</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.ndasat.com:88/live/329995091896719/329995091896719/930.ts&amp;streamtype=TSDOWNLOADER&amp;name=Neox ES</link> 
             <thumbnail>https://pbs.twimg.com/profile_images/509064688550694912/WY6A_PqH_normal.jpeg</thumbnail>
                 </item>
 
