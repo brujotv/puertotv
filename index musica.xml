@@ -24,7 +24,7 @@
 <externallink>https://raw.githubusercontent.com/brujotv/puertotv/master/musica%20tv.xml</externallink>
 </item>
 
-<item><title>VEVO 2017</title>
+<item><title>[COLOR lime]•[/COLOR] Vevo 2017</title>
 <link>$doregex[makelist]</link>
 <regex><name>makelist</name>
 <listrepeat><![CDATA[
