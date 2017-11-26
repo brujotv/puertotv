@@ -72,3 +72,31 @@
 <thumbnail>https://yt3.ggpht.com/-KNEEKW5V1Vg/AAAAAAAAAAI/AAAAAAAAAAA/21-FzOWNpIQ/s240-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
 </item>
 
+<item><title>[COLOR lime]•[/COLOR] El viajero feliz</title>
+<link>$doregex[makelist]</link>
+<regex><name>makelist</name>
+<listrepeat><![CDATA[
+<title>[makelist.param1]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
+<thumbnail>https://i.ytimg.com/vi/[makelist.param2]/hqdefault.jpg</thumbnail>
+]]></listrepeat>
+<expres>title="(.*?)".*?watch\?v=(.*?)[",&amp;]</expres>
+<page>https://www.youtube.com/channel/UC8AYRheaCh9eCJI-KD2vHmg</page>
+</regex>
+<thumbnail>https://yt3.ggpht.com/-3l3Gn32tgRA/AAAAAAAAAAI/AAAAAAAAAAA/cZUMPUEldFA/s240-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
+</item>
+
+<item><title>[COLOR lime]•[/COLOR] Diario de un mochilero</title>
+<link>$doregex[makelist]</link>
+<regex><name>makelist</name>
+<listrepeat><![CDATA[
+<title>[makelist.param1]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
+<thumbnail>https://i.ytimg.com/vi/[makelist.param2]/hqdefault.jpg</thumbnail>
+]]></listrepeat>
+<expres>title="(.*?)".*?watch\?v=(.*?)[",&amp;]</expres>
+<page>https://www.youtube.com/channel/UCzgebpKgM-FT6f2623u_PKg</page>
+</regex>
+<thumbnail>https://yt3.ggpht.com/-_nJblepFu5o/AAAAAAAAAAI/AAAAAAAAAAA/gDpt5sjKHtw/s240-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
+</item>
+
