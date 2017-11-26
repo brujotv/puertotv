@@ -2,7 +2,7 @@
 
 
 
-<item><title>Diario MARCA</title>
+<item><title>[COLOR lime]•[/COLOR] Diario MARCA</title>
 <link>$doregex[makelist]</link>
 <regex><name>makelist</name>
 <listrepeat><![CDATA[
