@@ -23,3 +23,17 @@
 <link>http://ignoreme</link>
 <externallink>https://raw.githubusercontent.com/brujotv/puertotv/master/musica%20tv.xml</externallink>
 </item>
+
+<item><title>VEVO 2017</title>
+<link>$doregex[makelist]</link>
+<regex><name>makelist</name>
+<listrepeat><![CDATA[
+<title>[makelist.param1]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
+<thumbnail>https://i.ytimg.com/vi/[makelist.param2]/hqdefault.jpg</thumbnail>
+]]></listrepeat>
+<expres>title="(.*?)".*?watch\?v=(.*?)[",&amp;]</expres>
+<page>https://www.youtube.com/watch?v=2Vv-BfVoq4g&list=PL3oW2tjiIxvQ1BZS58qtot3-p-lD32oWT</page>
+</regex>
+<thumbnail>http://www.tubefilter.com/wp-content/uploads/2014/05/vevo-newfronts.jpg</thumbnail>
+</item>
