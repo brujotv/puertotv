@@ -87,12 +87,12 @@
 		</item> 
 
 <item> 
-            <title>[COLOR lime]•[/COLOR] Movistar Series Xtra SD</title> 
+            <title>[COLOR red]•[/COLOR] Movistar Series Xtra SD</title> 
             <link>plugin://plugin.video.f4mTester/?url=http://4462.ipfox.co:8080/live/winsor_zqAq2S/dsD2rGJS/1072.ts&amp;streamtype=TSDOWNLOADER&amp;name=Movistar  Series Xtra </link> 
             <thumbnail>http://www1.movistarplus.es/recorte/m-NEO/canal/MV2</thumbnail>
                 </item> 
 <item> 
-            <title>[COLOR lime]•[/COLOR] MoviStar Xtra SD</title> 
+            <title>[COLOR red]•[/COLOR] MoviStar Xtra SD</title> 
             <link>plugin://plugin.video.f4mTester/?url=http://xtreme.webhop.me:8000/live/iFDF7hpXsC/HMTnU6Jh06/2141.ts&amp;streamtype=TSDOWNLOADER&amp;name=MovieStar Xtra </link> 
             <thumbnail>http://www1.movistarplus.es/recorte/m-NEO/canal/CPXTRA</thumbnail>
 		</item> 
@@ -105,11 +105,11 @@
 
 <item> 
             <title>[COLOR lime]•[/COLOR] AXN SD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.ndasat.com:88/live/329995091896719/329995091896719/1601.ts&amp;streamtype=TSDOWNLOADER&amp;name=AXN FHD </link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.ndasat.com:88/live/329995091896719/329995091896719/1601.ts&amp;streamtype=TSDOWNLOADER&amp;name=AXN  </link> 
             <thumbnail>http://www1.movistarplus.es/recorte/m-NEO/canal/AXN</thumbnail>
                  </item> 
 <item> 
-            <title>[COLOR lime]•[/COLOR] AXN White SD</title> 
+            <title>[COLOR red]•[/COLOR] AXN White SD</title> 
             <link>plugin://plugin.video.f4mTester/?url=http://4462.ipfox.co:8080/live/winsor_zqAq2S/dsD2rGJS/1137.ts&amp;streamtype=TSDOWNLOADER&amp;name=AXN White </link> 
             <thumbnail>http://hoycinema.abc.es/archivos/201204/axnwhite.jpg</thumbnail>
                  </item>
@@ -151,7 +151,7 @@
                 </item> 
 
 <item> 
-            <title>[COLOR lime]•[/COLOR] TCM SD</title> 
+            <title>[COLOR red]•[/COLOR] TCM SD</title> 
             <link>plugin://plugin.video.f4mTester/?url=http://tv2iptv.com:8000/live/pierre/12345678/3127.ts&amp;streamtype=TSDOWNLOADER&amp;name=TCM </link> 
             <thumbnail>http://www.brandemia.org/sites/default/files/sites/default/files/tcm_logo_antes.jpg</thumbnail>
                </item> 
@@ -172,7 +172,7 @@
                 </item>
 
 <item> 
-            <title>[COLOR lime]•[/COLOR] FDF SD</title> 
+            <title>[COLOR red]•[/COLOR] FDF SD</title> 
             <link>plugin://plugin.video.f4mTester/?url=http://iptv.ndasat.com:88/live/329995091896719/329995091896719/2754.ts&amp;streamtype=TSDOWNLOADER&amp;name=FDF </link> 
             <thumbnail>http://directostv.teleame.com/wp-content/uploads/2016/01/FDF-en-directo-online.png</thumbnail>
                </item>	 
@@ -184,7 +184,7 @@
                 </item>
 
 <item> 
-            <title>[COLOR lime]•[/COLOR] A&amp;E SD</title> 
+            <title>[COLOR red]•[/COLOR] A&amp;E SD</title> 
             <link>plugin://plugin.video.f4mTester/?url=http://4462.ipfox.co:8080/live/winsor_zqAq2S/dsD2rGJS/1141.ts&amp;streamtype=TSDOWNLOADER&amp;name=A&amp;E </link> 
             <thumbnail>https://vignette4.wikia.nocookie.net/logopedia/images/a/a4/A%26E_HD.png/revision/latest?cb=20111207180519</thumbnail>
                 </item>
@@ -226,7 +226,7 @@
                 </item>
 
 <item> 
-            <title>[COLOR lime]•[/COLOR] Canal Panda SD</title> 
+            <title>[COLOR red]•[/COLOR] Canal Panda SD</title> 
             <link>plugin://plugin.video.f4mTester/?url=http://4462.ipfox.co:8080/live/winsor_zqAq2S/dsD2rGJS/1131.ts&amp;streamtype=TSDOWNLOADER&amp;name=Canal Panda </link> 
             <thumbnail>http://www1.movistarplus.es/recorte/m-NEO/canal/PANDA</thumbnail>
                 </item>
@@ -238,18 +238,18 @@
                 </item>
 
 <item> 
-            <title>[COLOR lime]•[/COLOR] Nick Junior SD</title> 
+            <title>[COLOR red]•[/COLOR] Nick Junior SD</title> 
             <link>plugin://plugin.video.f4mTester/?url=http://xtreme.webhop.me:8000/live/iFDF7hpXsC/HMTnU6Jh06/2160.ts&amp;streamtype=TSDOWNLOADER&amp;name=Nick Junior </link> 
             <thumbnail>http://cdn.exstreamist.com/wp-content/uploads/2016/05/streaming-nick-jr.jpg</thumbnail>
                 </item>
 <item> 
-            <title>[COLOR lime]•[/COLOR] Baby TV SD</title> 
+            <title>[COLOR red]•[/COLOR] Baby TV SD</title> 
             <link>plugin://plugin.video.f4mTester/?url=http://4462.ipfox.co:8080/live/winsor_zqAq2S/dsD2rGJS/1083.ts&amp;streamtype=TSDOWNLOADER&amp;name=Baby TV </link> 
             <thumbnail>http://is2.mzstatic.com/image/thumb/Purple118/v4/a9/91/f0/a991f036-a8e0-466d-ad64-32b0b6b49fd3/source/1200x630bb.jpg</thumbnail>
                 </item>
 
 <item> 
-            <title>[COLOR lime]•[/COLOR] Nickelodeon SD</title> 
+            <title>[COLOR red]•[/COLOR] Nickelodeon SD</title> 
             <link>plugin://plugin.video.f4mTester/?url=http://iptv.ndasat.com:88/live/329995091896719/329995091896719/1536.ts&amp;streamtype=TSDOWNLOADER&amp;name=Nickelodeon </link> 
             <thumbnail>https://ibhuluimcom-a.akamaihd.net/ib.huluim.com/company/584?region=US&size=600x400</thumbnail>
                 </item>
@@ -270,13 +270,13 @@
             <thumbnail>https://yt3.ggpht.com/-e8lc2AnB-Z8/AAAAAAAAAAI/AAAAAAAAAAA/1kZk7GEiBxA/s900-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
                 </item> 
 <item> 
-            <title>[COLOR lime]•[/COLOR] Movistar Deportes 1 SD</title> 
+            <title>[COLOR red]•[/COLOR] Movistar Deportes 1 SD</title> 
             <link>plugin://plugin.video.f4mTester/?url=http://iptv.ndasat.com:88/live/329995091896719/329995091896719/34.ts&amp;streamtype=TSDOWNLOADER&amp;name=Movistar Deportes 1</link> 
             <thumbnail>https://www.andorratelecom.ad/documents/33347/112493/movistar+deportes+1-01.png/3d3cef65-7bb9-fb65-6d68-517fe5a3d073?t=1487255284346</thumbnail>
                 </item>
 				
 <item> 
-            <title>[COLOR lime]•[/COLOR] Movistar Deportes 2 SD</title> 
+            <title>[COLOR red]•[/COLOR] Movistar Deportes 2 SD</title> 
             <link>plugin://plugin.video.f4mTester/?url=http://iptv.ndasat.com:88/live/329995091896719/329995091896719/1591.ts&amp;streamtype=TSDOWNLOADER&amp;name=Movistar Deportes 2</link> 
             <thumbnail>http://estaticos.elmundo.es/television/programacion-tv/img/programas/20/1355296.png</thumbnail>
                 </item>
@@ -288,7 +288,7 @@
                 </item>
 
 <item> 
-            <title>[COLOR lime]•[/COLOR] Bein sports SD</title> 
+            <title>[COLOR red]•[/COLOR] Bein sports SD</title> 
             <link>plugin://plugin.video.f4mTester/?url=http://iptv.ndasat.com:88/live/329995091896719/329995091896719/578.ts&amp;streamtype=TSDOWNLOADER&amp;name=BEIN SPORTS</link> 
             <thumbnail>http://assets.beinsports.com/3.0.50/images/beIN_SPORTS_App_Icon.svg</thumbnail>
                 </item>
@@ -323,15 +323,6 @@
             <link>plugin://plugin.video.f4mTester/?url=http://iptv.ndasat.com:88/live/329995091896719/329995091896719/1594.ts&amp;streamtype=TSDOWNLOADER&amp;name=moto gp</link> 
             <thumbnail>https://pbs.twimg.com/profile_images/894808027915853824/d-M-Og1L_400x400.jpg</thumbnail>
                 </item>
-
-
-
-
-
-
-
-
-
 
 
 
