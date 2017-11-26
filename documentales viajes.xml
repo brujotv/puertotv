@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
-<item><title>MOLA VIAJAR</title>
+<item><title>[COLOR lime]•[/COLOR] Mola viajar</title>
 <link>$doregex[makelist]</link>
 <regex><name>makelist</name>
 <listrepeat><![CDATA[
@@ -15,7 +15,7 @@
 </item>
 
 
-<item><title>NOS VAMOS A VIAJAR</title>
+<item><title>[COLOR lime]•[/COLOR] Nos vamos a viajar</title>
 <link>$doregex[makelist]</link>
 <regex><name>makelist</name>
 <listrepeat><![CDATA[
@@ -30,7 +30,7 @@
 </item>
 
 
-<item><title>VIAJAR ES VOLAR</title>
+<item><title>[COLOR lime]•[/COLOR] Viajar es volar</title>
 <link>$doregex[makelist]</link>
 <regex><name>makelist</name>
 <listrepeat><![CDATA[
@@ -44,7 +44,7 @@
 <thumbnail>https://yt3.ggpht.com/-awv65eF19EU/AAAAAAAAAAI/AAAAAAAAAAA/v5wn-LRdQ80/s240-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
 </item>
 
-<item><title>MUNDO X DESCUBRIR</title>
+<item><title>[COLOR lime]•[/COLOR] Mundo x descubir</title>
 <link>$doregex[makelist]</link>
 <regex><name>makelist</name>
 <listrepeat><![CDATA[
@@ -58,7 +58,7 @@
 <thumbnail>https://yt3.ggpht.com/-uE5tf6usKPA/AAAAAAAAAAI/AAAAAAAAAAA/_GsE4ayx94c/s240-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
 </item>
 
-<item><title>JONY PLANET</title>
+<item><title>[COLOR lime]•[/COLOR] Jony planet</title>
 <link>$doregex[makelist]</link>
 <regex><name>makelist</name>
 <listrepeat><![CDATA[
