@@ -56,19 +56,7 @@
 <thumbnail>https://yt3.ggpht.com/-BXdEOAnxqBE/AAAAAAAAAAI/AAAAAAAAAAA/SuCIOn5QgBg/s240-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
 </item>
 
-<item><title>DOCUMANIA HD</title>
-<link>$doregex[makelist]</link>
-<regex><name>makelist</name>
-<listrepeat><![CDATA[
-<title>[makelist.param1]</title>
-<link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
-<thumbnail>https://i.ytimg.com/vi/[makelist.param2]/hqdefault.jpg</thumbnail>
-]]></listrepeat>
-<expres>title="(.*?)".*?watch\?v=(.*?)[",&amp;]</expres>
-<page>https://www.youtube.com/channel/UCJ7af1Qf5ng0r2HiA6ipLCQ</page>
-</regex>
-<thumbnail>https://yt3.ggpht.com/-EsmAVMz4wu0/AAAAAAAAAAI/AAAAAAAAAAA/50gYr9-KdN4/s240-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
-</item>
+
 
 <item><title>DOCUMENTALES INFO</title>
 <link>$doregex[makelist]</link>
@@ -221,22 +209,6 @@
 </item>
 
 
-
-
-
-<item><title>DOCUMENTALES DE ANIMALES SALVAJES</title>
-<link>$doregex[makelist]</link>
-<regex><name>makelist</name>
-<listrepeat><![CDATA[
-<title>[makelist.param1]</title>
-<link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
-<thumbnail>https://i.ytimg.com/vi/[makelist.param2]/hqdefault.jpg</thumbnail>
-]]></listrepeat>
-<expres>title="(.*?)".*?watch\?v=(.*?)[",&amp;]</expres>
-<page>https://www.youtube.com/channel/UCMqNZjjCbMQCAAvrAiNgQaA</page>
-</regex>
-<thumbnail>https://yt3.ggpht.com/-uKSa14SojdA/AAAAAAAAAAI/AAAAAAAAAAA/sSm_jjGjlwM/s240-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
-</item>
 
 <item><title>DOCUMENTALES DE ANIMALES Y CIENCIA</title>
 <link>$doregex[makelist]</link>
