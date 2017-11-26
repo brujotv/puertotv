@@ -33,7 +33,7 @@
 <thumbnail>https://i.ytimg.com/vi/[makelist.param2]/hqdefault.jpg</thumbnail>
 ]]></listrepeat>
 <expres>title="(.*?)".*?watch\?v=(.*?)[",&amp;]</expres>
-<page>https://www.youtube.com/watch?v=2Vv-BfVoq4g&list=PL3oW2tjiIxvQ1BZS58qtot3-p-lD32oWT</page>
+<page>https://www.youtube.com/channel/UCOI7BU2RF0O9ymZSxN6hL3g</page>
 </regex>
 <thumbnail>http://www.tubefilter.com/wp-content/uploads/2014/05/vevo-newfronts.jpg</thumbnail>
 </item>
