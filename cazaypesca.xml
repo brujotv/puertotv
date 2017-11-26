@@ -348,33 +348,7 @@
 <thumbnail>https://yt3.ggpht.com/-twrS3CBfEC0/AAAAAAAAAAI/AAAAAAAAAAA/sg0nu9g2OgI/s240-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
 </item>
 
-<item><title>EL VIAJERO FELIZ</title>
-<link>$doregex[makelist]</link>
-<regex><name>makelist</name>
-<listrepeat><![CDATA[
-<title>[makelist.param1]</title>
-<link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
-<thumbnail>https://i.ytimg.com/vi/[makelist.param2]/hqdefault.jpg</thumbnail>
-]]></listrepeat>
-<expres>title="(.*?)".*?watch\?v=(.*?)[",&amp;]</expres>
-<page>https://www.youtube.com/channel/UC8AYRheaCh9eCJI-KD2vHmg</page>
-</regex>
-<thumbnail>https://yt3.ggpht.com/-3l3Gn32tgRA/AAAAAAAAAAI/AAAAAAAAAAA/cZUMPUEldFA/s240-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
-</item>
 
-<item><title>DIARIO MOCHILERO</title>
-<link>$doregex[makelist]</link>
-<regex><name>makelist</name>
-<listrepeat><![CDATA[
-<title>[makelist.param1]</title>
-<link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
-<thumbnail>https://i.ytimg.com/vi/[makelist.param2]/hqdefault.jpg</thumbnail>
-]]></listrepeat>
-<expres>title="(.*?)".*?watch\?v=(.*?)[",&amp;]</expres>
-<page>https://www.youtube.com/channel/UCzgebpKgM-FT6f2623u_PKg</page>
-</regex>
-<thumbnail>https://yt3.ggpht.com/-_nJblepFu5o/AAAAAAAAAAI/AAAAAAAAAAA/gDpt5sjKHtw/s240-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
-</item>
 
 
 <item><title>PLANET DOC</title>
