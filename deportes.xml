@@ -9,6 +9,12 @@
 <thumbnail>https://raw.githubusercontent.com/adrianhn/adryanlist/master/adryan/img/esp.jpg</thumbnail>
 </item>
 
+<item>
+<title>[COLOR lime]•[/COLOR] Extratime</title>
+<link>http://ignorame</link><thumbnail></thumbnail><fanart></fanart>
+<externallink>https://raw.githubusercontent.com/adrianhn/adryanlist/master/adryan/multicanales.xml</externallink>
+<info></info></item>
+
 <item><title>[COLOR lime]•[/COLOR] Diario AS</title>
 <link>$doregex[makelist]</link>
 <regex><name>makelist</name>
