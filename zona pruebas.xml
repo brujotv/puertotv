@@ -1,5 +1,19 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
 
+<item><title>[COLOR lime]•[/COLOR] 2017</title>
+<link>$doregex[makelist]</link>
+<regex><name>makelist</name>
+<listrepeat><![CDATA[
+<title>[makelist.param1]</title>
+<link>plugin://plugin.video.xhamster/play/?video_id=[makelist.param2]</link>
+<thumbnail>https://i.ytimg.com/vi/[makelist.param2]/hqdefault.jpg</thumbnail>
+]]></listrepeat>
+<expres>title="(.*?)".*?watch\?v=(.*?)[",&amp;]</expres>
+<page>https://es.xhamster.com/videos/fake-taxi-bisexual-blondes-hot-revenge-fuck-on-taxi-bonnet-8541825/videos</page>
+</regex>
+<thumbnail>http://www.tubefilter.com/wp-content/uploads/2014/05/vevo-newfronts.jpg</thumbnail>
+</item>
+
 
 
