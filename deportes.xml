@@ -21,7 +21,7 @@
 <thumbnail>https://raw.githubusercontent.com/adrianhn/adryanlist/master/adryan/img/esp.jpg</thumbnail><info>Recuerda hacer tu donacion para seguir mejorando Adryanlist en     http://paypal.me/Adryanlist</info></item>
 
 <item>
-<title>[UPPERCASE][COLOR  lime]• [/COLOR][COLOR red] BEIN LIGA[/UPPERCASE][/COLOR]</title>
+<title>[COLOR  lime]•[/COLOR] BEIN LIGA</title>
 <link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/48.0.2564.116 Chrome/48.0.2564.116 Safari/537.36</link>
 <regex>
 <name>GetPageUrl</name>
