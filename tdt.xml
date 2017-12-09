@@ -131,7 +131,7 @@
 </item>
 
 <item>
-<title>[COLOR lime]•[/COLOR] Andalucia TV</title>        
+<title>[COLOR red]•[/COLOR] Andalucia TV</title>        
 <link>http://cls.todostreaming.eu/unatv/live/chunklist.m3u8</link>
 <thumbnail>http://www.blaguemultimedia.com/wp-content/uploads/2014/12/logo-Andalucia-Television.png</thumbnail>
 <fanart>https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/EuroEspa%C3%B1a.svg/1200px-EuroEspa%C3%B1a.svg.png</fanart>
@@ -145,7 +145,7 @@
 </item>
 
 <item>
-<title>[COLOR lime]•[/COLOR] La Otra</title>        
+<title>[COLOR red]•[/COLOR] La Otra</title>        
 <link>http://laotrahls-live.hls.adaptive.level3.net/telemadrid/laotra1/bitrate_1.m3u8</link>
 <thumbnail>http://publicidadcines.com/images/logo-laotra.jpg</thumbnail>
 <fanart>https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/EuroEspa%C3%B1a.svg/1200px-EuroEspa%C3%B1a.svg.png</fanart>
@@ -166,14 +166,14 @@
 </item>
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIES0006
 <item>
-<title>[COLOR lime]•[/COLOR] Boing</title>        
+<title>[COLOR red]•[/COLOR] Boing</title>        
 <link>http://mset-prgb-2.live-delivery.ooyala.com/out/u/3vkkbgnvsm2r5/104951/ZvOXRpODE6c__EQ05epWGBX6530x-EhS/cn/ddf752ff80af43709eabdf84e1d65366_1.m3u8</link>
 <thumbnail>http://www.diesl.com/wp-content/uploads/2017/01/Boing_Diesl.com_.png</thumbnail>
 <fanart>https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/EuroEspa%C3%B1a.svg/1200px-EuroEspa%C3%B1a.svg.png</fanart>
 </item>
 
 <item>
-<title>[COLOR lime]•[/COLOR] ANIME TV</title>        
+<title>[COLOR lime]•[/COLOR] Anime TV</title>        
 <link>http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8?iptvgratis?chile.m3u8</link>
 <thumbnail>http://oklivetv.com/wp-content/uploads/media/a6409ac6c4c768ab0c68e38f5f8ffc1d.jpeg</thumbnail>
 <fanart>https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/EuroEspa%C3%B1a.svg/1200px-EuroEspa%C3%B1a.svg.png</fanart>
@@ -201,7 +201,7 @@ http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIES0006
 </item>
 
 <item>
-<title>[COLOR lime]•[/COLOR] Betis tv</title>        
+<title>[COLOR red]•[/COLOR] Betis tv</title>        
 <link>http://rbetis-hls.flumotion.com/rbetis/live/chunklist.m3u8</link>
 <thumbnail>http://www.grupocomunica.com/wp-content/uploads/2016/05/Radio-Betis-y-Betis-TV.jpg</thumbnail>
 <fanart>https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/EuroEspa%C3%B1a.svg/1200px-EuroEspa%C3%B1a.svg.png</fanart>
@@ -228,6 +228,24 @@ http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIES0006
 
 <thumbnail>http://vercanalestv.com/logos/goltv.jpg</thumbnail>   
 </item>
+
+<item>
+<title>[COLOR lime]•[/COLOR] prueva TV</title>
+
+  <link>$doregex[get-id]|Referer=http://verdirectotv.com/tv/digitales/plus-series.html&amp;User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64; rv:55.0) Gecko/20100101 Firefox/55.0</link>
+<regex>
+<name>get-id</name>
+<expres>source: '(.*?)'</expres>
+<page>http://vergol.com/live1/goltv.php</page>
+<referer>http://verdirectotv.com/tv/nacionales/cuatro2.html</referer>
+<agent>Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/48.0.2564.116 Chrome/48.0.2564.116 Safari/537.36</agent>
+</regex>
+
+<thumbnail>http://vercanalestv.com/logos/goltv.jpg</thumbnail>   
+</item>
+
+<iframe scrolling="no" style="margin-top: -0px; width: 650px; height: 400px; margin-left: -0px" src="http://verdirectotv.com/tv/nacionales/cuatro2.html"></iframe>
+
 
 
 <item>
