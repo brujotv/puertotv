@@ -5,14 +5,14 @@
 <item>
 <title>[COLOR lime]•[/COLOR] Tve 1</title>        
 <link>http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl7/la1_lv3_aosv4_gl7/la1_lv3_aosv4_gl7.isml/la1_lv3_aosv4_gl7-audio=128000-video=650000.m3u8</link>
-<thumbnail></thumbnail>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/8/87/TVE_La1_-_Logo_2008.png</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
 <title>[COLOR lime]•[/COLOR] Tve 2</title>        
 <link>http://hlsackdn_gl0-lh.akamaihd.net/i/hlslive_1@439422/master.m3u8</link>
-<thumbnail></thumbnail>
+<thumbnail>https://pbs.twimg.com/profile_images/899384654259736578/JcRiYU5A_400x400.jpg</thumbnail>
 <fanart></fanart>
 </item>
 
@@ -189,7 +189,7 @@ http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIES0006
 <item>
 <title>[COLOR lime]•[/COLOR] TDP HD</title>        
 <link>http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl1/tdphd_lv3_aosv4_gl1/tdphd_lv3_aosv4_gl1.isml/tdphd_lv3_aosv4_gl1-audio=128000-video=1500000.m3u8</link>
-<thumbnail></thumbnail>
+<thumbnail>https://pbs.twimg.com/profile_images/378800000825220874/9a37e1ec3b1aa0bb5aa723e43c30c8ba_400x400.png</thumbnail>
 <fanart></fanart>
 </item>
 
