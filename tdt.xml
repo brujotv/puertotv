@@ -232,7 +232,7 @@ http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIES0006
 <item>
 <title>[COLOR lime]•[/COLOR] prueva TV</title>
 
-  <link>$doregex[get-id]|Referer=http://verdirectotv.com/tv/digitales/plus-series.html&amp;User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64; rv:55.0) Gecko/20100101 Firefox/55.0</link>
+  <link>$doregex[get-id]|Referer=http://verdirectotv.tv/ver-la-cuatro-online-y-directo-gratis-las-24-horas/&amp;User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64; rv:55.0) Gecko/20100101 Firefox/55.0</link>
 <regex>
 <name>get-id</name>
 <expres>source: '(.*?)'</expres>
@@ -243,8 +243,6 @@ http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIES0006
 
 <thumbnail>http://vercanalestv.com/logos/goltv.jpg</thumbnail>   
 </item>
-
-<iframe scrolling="no" style="margin-top: -0px; width: 650px; height: 400px; margin-left: -0px" src="http://verdirectotv.com/tv/nacionales/cuatro2.html"></iframe>
 
 
 
