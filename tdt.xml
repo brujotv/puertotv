@@ -237,7 +237,7 @@ http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIES0006
 <name>get-id</name>
 <expres>source: '(.*?)'</expres>
 <page>http://vergol.com/live1/goltv.php</page>
-<referer>http://verdirectotv.com/tv/nacionales/cuatro2.html</referer>
+<referer>http://verdirectotv.com/tv/digitales/plus-series.html</referer>
 <agent>Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/48.0.2564.116 Chrome/48.0.2564.116 Safari/537.36</agent>
 </regex>
 
