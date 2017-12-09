@@ -2,7 +2,7 @@
 
 
 
-		<item>
+<item>
 <title>[COLOR lime]•[/COLOR] Canales deportes</title>
 <link>NA</link>
 <externallink>https://raw.githubusercontent.com/adrianhn/adryanlist/master/adryan/espdep.xml</externallink>
@@ -14,6 +14,14 @@
 <link>http://ignorame</link><thumbnail></thumbnail><fanart></fanart>
 <externallink>https://raw.githubusercontent.com/adrianhn/adryanlist/master/adryan/multicanales.xml</externallink>
 <info></info></item>
+
+<item>
+<title>[COLOR lime]•[/COLOR] Deportes internacional</title>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<link>http://ignoreme</link>
+<externallink>https://raw.githubusercontent.com/brujotv/puertotv/master/deportes%20internaciomales.xml</externallink>
+</item>
 
 <item><title>[COLOR lime]•[/COLOR] Diario AS</title>
 <link>$doregex[makelist]</link>
