@@ -230,23 +230,6 @@ http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIES0006
 </item>
 
 <item>
-<title>[COLOR lime]•[/COLOR] prueva TV</title>
-
-  <link>$doregex[get-id]|Referer=http://verdirectotv.com/tv/digitales/plus-series.html/&amp;User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64; rv:55.0) Gecko/20100101 Firefox/55.0</link>
-<regex>
-<name>get-id</name>
-<expres>source: '(.*?)'</expres>
-<page>http://vergol.com/live1/goltv.php</page>
-<referer>http://verdirectotv.com/tv/digitales/plus-series.html</referer>
-<agent>Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/48.0.2564.116 Chrome/48.0.2564.116 Safari/537.36</agent>
-</regex>
-
-<thumbnail>http://vercanalestv.com/logos/goltv.jpg</thumbnail>   
-</item>
-
-
-
-<item>
 <title></title>        
 <link></link>
 <thumbnail></thumbnail>
