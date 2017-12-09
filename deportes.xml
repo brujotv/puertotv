@@ -13,11 +13,12 @@
 <title>[COLOR lime]•[/COLOR] Extratime</title>
 <link>http://ignorame</link><thumbnail></thumbnail><fanart></fanart>
 <externallink>https://raw.githubusercontent.com/adrianhn/adryanlist/master/adryan/multicanales.xml</externallink>
-<info></info></item>
+<info></info>
+</item>
 
 <item>
 <title>[COLOR lime]•[/COLOR] Deportes internacional</title>
-<thumbnail></thumbnail>
+<thumbnail>https://www.ayto-villacanada.es/sites/default/files/images/imagenesbannersinf/icono2_deportes_web.jpg</thumbnail>
 <fanart></fanart>
 <link>http://ignoreme</link>
 <externallink>https://raw.githubusercontent.com/brujotv/puertotv/master/deportes%20internaciomales.xml</externallink>
