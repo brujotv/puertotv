@@ -66,3 +66,45 @@
 <link>http://ignoreme</link>
 <externallink>https://goo.gl/jhQVWm</externallink>
 </item>	
+
+<item> 
+            <title>[COLOR lime]•[/COLOR] Movistar Deportes 1 SD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://xtreme.webhop.me:8000/live/ampadu/ampadu/2107.ts&amp;streamtype=TSDOWNLOADER&amp;name=Movistar Deportes 1</link> 
+            <thumbnail>https://www.andorratelecom.ad/documents/33347/112493/movistar+deportes+1-01.png/3d3cef65-7bb9-fb65-6d68-517fe5a3d073?t=1487255284346</thumbnail>
+                </item>
+				
+<item> 
+            <title>[COLOR lime]•[/COLOR] Movistar Deportes 2 SD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://xtreme.webhop.me:8000/live/ampadu/ampadu/2105.ts&amp;streamtype=TSDOWNLOADER&amp;name=Movistar Deportes 2</link> 
+            <thumbnail>http://estaticos.elmundo.es/television/programacion-tv/img/programas/20/1355296.png</thumbnail>
+                </item>
+				
+<item> 
+            <title>[COLOR lime]•[/COLOR] Movistar Futbol SD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://xtreme.webhop.me:8000/live/ampadu/ampadu/2110.ts&amp;streamtype=TSDOWNLOADER&amp;name=Movistar Futbol</link> 
+            <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Movistar_F%C3%BAtbol.svg/1200px-Movistar_F%C3%BAtbol.svg.png</thumbnail>
+                </item>
+
+<item> 
+            <title>[COLOR lime]•[/COLOR] Bein sports SD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://xtreme.webhop.me:8000/live/ampadu/ampadu/2133.ts&amp;streamtype=TSDOWNLOADER&amp;name=BEIN SPORTS</link> 
+            <thumbnail>http://assets.beinsports.com/3.0.50/images/beIN_SPORTS_App_Icon.svg</thumbnail>
+                </item>
+
+<item> 
+            <title>[COLOR lime]•[/COLOR] Bein la liga SD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://xtreme.webhop.me:8000/live/ampadu/ampadu/2128.ts&amp;streamtype=TSDOWNLOADER&amp;name=BEIN SPORTS</link> 
+            <thumbnail>http://assets.beinsports.com/3.0.50/images/beIN_SPORTS_App_Icon.svg</thumbnail>
+                </item>
+
+<item> 
+            <title>[COLOR lime]•[/COLOR] la liga SD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://xtreme.webhop.me:8000/live/ampadu/ampadu/2122.ts&amp;streamtype=TSDOWNLOADER&amp;name=La liga</link> 
+            <thumbnail>http://assets.beinsports.com/3.0.50/images/beIN_SPORTS_App_Icon.svg</thumbnail>
+                </item>
+
+<item> 
+            <title>[COLOR red]•[/COLOR] Partidazo SD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.ndasat.com:88/live/329995091896719/329995091896719/2757.ts&amp;streamtype=TSDOWNLOADER&amp;name=Partidazo</link> 
+            <thumbnail>http://assets.beinsports.com/3.0.50/images/beIN_SPORTS_App_Icon.svg</thumbnail>
+</item>
