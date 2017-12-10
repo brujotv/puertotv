@@ -9,7 +9,7 @@
 
 <item> 
             <title>[COLOR red]•[/COLOR] La 2 SD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://xtreme.webhop.me:8000/live/ampadu/ampadu/2212.ts&amp;streamtype=TSDOWNLOADER&amp;name=La 2 </link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/tech2/tech2/8285.ts&amp;streamtype=TSDOWNLOADER&amp;name=La 2 </link> 
             <thumbnail></thumbnail>
                 </item>
 
@@ -26,13 +26,13 @@
             <thumbnail>http://static.programacion-tdt.com/imgAPP/Antena_3.min.png</thumbnail>
                 </item>
 <item> 
-            <title>[COLOR red]•[/COLOR] Telecinco SD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://xtreme.webhop.me:8000/live/ampadu/ampadu/2204.ts&amp;streamtype=TSDOWNLOADER&amp;name=Telecinco </link> 
+            <title>[COLOR lime]•[/COLOR] Telecinco SD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/tech2/tech2/8298.ts&amp;streamtype=TSDOWNLOADER&amp;name=Telecinco </link> 
             <thumbnail>http://verdirectotv.tv/logos/telecinco.png</thumbnail>
                 </item>
 <item> 
             <title>[COLOR red]•[/COLOR] La Sexta SD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://xtreme.webhop.me:8000/live/ampadu/ampadu/2192.ts&amp;streamtype=TSDOWNLOADER&amp;name=LA Sexta </link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/tech2/tech2/8284.ts&amp;streamtype=TSDOWNLOADER&amp;name=LA Sexta </link> 
             <thumbnail>http://ocio.diariodemallorca.es/img_contenido/estaticos/canales/24.jpg</thumbnail>
                 </item>
 <item> 
@@ -42,8 +42,8 @@
                 </item>
 
 <item> 
-            <title>[COLOR red]•[/COLOR] Nova SD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://xtreme.webhop.me:8000/live/ampadu/ampadu/2208.ts&amp;streamtype=TSDOWNLOADER&amp;name=Nova </link> 
+            <title>[COLOR lime]•[/COLOR] Nova SD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/tech2/tech2/8294.ts&amp;streamtype=TSDOWNLOADER&amp;name=Nova </link> 
             <thumbnail>http://www.mundoplus.tv/img/f25b812e6e6095afe68d44feb7d119ad</thumbnail>
 	        </item>		
 <item> 
@@ -57,14 +57,14 @@
             <thumbnail>http://www.movistarplus.es/assets/images/logo-cero-desk.png</thumbnail>
                 </item>
 <item> 
-            <title>[COLOR red]•[/COLOR] MoviStar Estrenos HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://xtreme.webhop.me:8000/live/ampadu/ampadu/2139.ts&amp;streamtype=TSDOWNLOADER&amp;name=MovieStar Estrenos </link> 
+            <title>[COLOR lime]•[/COLOR] MoviStar Estrenos HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/tech2/tech2/8273.ts&amp;streamtype=TSDOWNLOADER&amp;name=MovieStar Estrenos </link> 
             <thumbnail>http://www1.movistarplus.es/recorte/m-NEO/canal/MV1</thumbnail>
                 </item>
  
 <item> 
-            <title>[COLOR red]•[/COLOR] MoviStar Accion SD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://xtreme.webhop.me:8000/live/ampadu/ampadu/2147.ts&amp;streamtype=TSDOWNLOADER&amp;name=C+ Accion </link> 
+            <title>[COLOR lime]•[/COLOR] MoviStar Accion SD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/tech2/tech2/8259.ts&amp;streamtype=TSDOWNLOADER&amp;name=C+ Accion </link> 
             <thumbnail>http://www1.movistarplus.es/recorte/m-NEO/canal/CPACCI</thumbnail>
 		</item>
 
@@ -75,8 +75,8 @@
                 </item> 
 
 <item> 
-            <title>[COLOR red]•[/COLOR] MoviStar DCine SD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://xtreme.webhop.me:8000/live/ampadu/ampadu/2151.ts&amp;streamtype=TSDOWNLOADER&amp;name=C+ DCine</link> 
+            <title>[COLOR lime]•[/COLOR] MoviStar DCine SD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/tech2/tech2/8261.ts&amp;streamtype=TSDOWNLOADER&amp;name=C+ DCine</link> 
             <thumbnail>http://www1.movistarplus.es/recorte/m-NEO/canal/CPCOLE</thumbnail>
 		</item>
 
@@ -87,19 +87,19 @@
 		</item> 
 
 <item> 
-            <title>[COLOR red]•[/COLOR] Movistar Series Xtra SD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://xtreme.webhop.me:8000/live/ampadu/ampadu/2145.ts&amp;streamtype=TSDOWNLOADER&amp;name=Movistar  Series Xtra </link> 
+            <title>[COLOR lime]•[/COLOR] Movistar Series Xtra SD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/tech2/tech2/8295.ts&amp;streamtype=TSDOWNLOADER&amp;name=Movistar  Series Xtra </link> 
             <thumbnail>http://www1.movistarplus.es/recorte/m-NEO/canal/MV2</thumbnail>
                 </item> 
 <item> 
-            <title>[COLOR red]•[/COLOR] MoviStar Xtra SD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://xtreme.webhop.me:8000/live/ampadu/ampadu/2141.ts&amp;streamtype=TSDOWNLOADER&amp;name=MovieStar Xtra </link> 
+            <title>[COLOR lime]•[/COLOR] MoviStar Xtra SD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/tech2/tech2/8302.ts&amp;streamtype=TSDOWNLOADER&amp;name=MovieStar Xtra </link> 
             <thumbnail>http://www1.movistarplus.es/recorte/m-NEO/canal/CPXTRA</thumbnail>
 		</item> 
 
 <item> 
-            <title>[COLOR red]•[/COLOR] AMC SD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://xtreme.webhop.me:8000/live/ampadu/ampadu/2183.ts&amp;streamtype=TSDOWNLOADER&amp;name=AMC HD </link> 
+            <title>[COLOR lime]•[/COLOR] AMC SD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/tech2/tech2/8252.ts&amp;streamtype=TSDOWNLOADER&amp;name=AMC HD </link> 
             <thumbnail>https://pbs.twimg.com/profile_images/658379235116130304/0d0gse9_.jpg</thumbnail>
                 </item>
 
@@ -109,32 +109,32 @@
             <thumbnail>http://www1.movistarplus.es/recorte/m-NEO/canal/AXN</thumbnail>
                  </item> 
 <item> 
-            <title>[COLOR red]•[/COLOR] AXN White SD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://xtreme.webhop.me:8000/live/ampadu/ampadu/2190.ts&amp;streamtype=TSDOWNLOADER&amp;name=AXN White </link> 
+            <title>[COLOR lime]•[/COLOR] AXN White SD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/tech2/tech2/8253.ts&amp;streamtype=TSDOWNLOADER&amp;name=AXN White </link> 
             <thumbnail>http://hoycinema.abc.es/archivos/201204/axnwhite.jpg</thumbnail>
                  </item>
 
 <item> 
-            <title>[COLOR red]•[/COLOR] Fox SD </title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://xtreme.webhop.me:8000/live/ampadu/ampadu/2196.ts&amp;streamtype=TSDOWNLOADER&amp;name=Fox HD </link> 
+            <title>[COLOR lime]•[/COLOR] Fox SD </title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/tech2/tech2/8277.ts&amp;streamtype=TSDOWNLOADER&amp;name=Fox HD </link> 
             <thumbnail>http://www.axartel.es/assets/img/sliders/tv-canales/fox.jpg</thumbnail>
                 </item> 
 
 <item> 
-            <title>[COLOR red]•[/COLOR] Fox Life SD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://xtreme.webhop.me:8000/live/ampadu/ampadu/2194.ts&amp;streamtype=TSDOWNLOADER&amp;name=Fox Life HD </link> 
+            <title>[COLOR lime]•[/COLOR] Fox Life SD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/tech2/tech2/8279.ts&amp;streamtype=TSDOWNLOADER&amp;name=Fox Life HD </link> 
             <thumbnail>http://www.axartel.es/assets/img/sliders/tv-canales/fox-life.jpg</thumbnail>
                 </item>
 
 <item> 
-            <title>[COLOR red]•[/COLOR] Calle 13 SD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://xtreme.webhop.me:8000/live/ampadu/ampadu/2172.ts&amp;streamtype=TSDOWNLOADER&amp;name=Calle 13 HD </link> 
+            <title>[COLOR lime]•[/COLOR] Calle 13 SD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/tech2/tech2/8257.ts&amp;streamtype=TSDOWNLOADER&amp;name=Calle 13 HD </link> 
             <thumbnail>http://www1.movistarplus.es/recorte/m-NEO/canal/CL13</thumbnail>
                 </item>
 
 <item> 
-            <title>[COLOR red]•[/COLOR] Hollywood SD </title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://xtreme.webhop.me:8000/live/ampadu/ampadu/2136.ts&amp;streamtype=TSDOWNLOADER&amp;name=Hollywood </link> 
+            <title>[COLOR lime]•[/COLOR] Hollywood SD </title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/tech2/tech2/8282.ts&amp;streamtype=TSDOWNLOADER&amp;name=Hollywood </link> 
             <thumbnail>http://www.axartel.es/assets/img/sliders/tv-canales/canal-hollywood.jpg</thumbnail>
                 </item>
 
@@ -145,21 +145,21 @@
                 </item> 
 
 <item> 
-            <title>[COLOR red]•[/COLOR] TNT SD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://xtreme.webhop.me:8000/live/ampadu/ampadu/2185.ts&amp;streamtype=TSDOWNLOADER&amp;name=TNT </link> 
+            <title>[COLOR lime]•[/COLOR] TNT SD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/tech2/tech2/8300.ts&amp;streamtype=TSDOWNLOADER&amp;name=TNT </link> 
             <thumbnail>http://www1.movistarplus.es/recorte/m-NEO/canal/TCM</thumbnail> 
                 </item> 
 
 <item> 
-            <title>[COLOR red]•[/COLOR] TCM SD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://xtreme.webhop.me:8000/live/ampadu/ampadu/2184.ts&amp;streamtype=TSDOWNLOADER&amp;name=TCM </link> 
+            <title>[COLOR lime]•[/COLOR] TCM SD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/tech2/tech2/8297.ts&amp;streamtype=TSDOWNLOADER&amp;name=TCM </link> 
             <thumbnail>http://www.brandemia.org/sites/default/files/sites/default/files/tcm_logo_antes.jpg</thumbnail>
                </item> 
 
  
 <item> 
-            <title>[COLOR red]•[/COLOR] SyFy SD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://xtreme.webhop.me:8000/live/ampadu/ampadu/2137.ts&amp;streamtype=TSDOWNLOADER&amp;name=SyFy HD </link> 
+            <title>[COLOR lime]•[/COLOR] SyFy SD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/tech2/tech2/8296.ts&amp;streamtype=TSDOWNLOADER&amp;name=SyFy HD </link> 
             <thumbnail>http://www.syfy.com/sites/syfy/files/tve_auth2/Syfylogo.png</thumbnail>
                 </item>
 
@@ -170,8 +170,8 @@
                 </item>
 
 <item> 
-            <title>[COLOR red]•[/COLOR] FDF SD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://xtreme.webhop.me:8000/live/ampadu/ampadu/2202.ts&amp;streamtype=TSDOWNLOADER&amp;name=FDF </link> 
+            <title>[COLOR lime]•[/COLOR] FDF SD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/tech2/tech2/8276.ts&amp;streamtype=TSDOWNLOADER&amp;name=FDF </link> 
             <thumbnail>http://directostv.teleame.com/wp-content/uploads/2016/01/FDF-en-directo-online.png</thumbnail>
                </item>	 
 		
@@ -188,26 +188,26 @@
                 </item>
 
  <item> 
-            <title>[COLOR red]•[/COLOR] Nat Geo Wild SD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://xtreme.webhop.me:8000/live/ampadu/ampadu/2168.ts &amp;streamtype=TSDOWNLOADER&amp;name=Nat Geo Wild </link> 
+            <title>[COLOR lime]•[/COLOR] Nat Geo Wild SD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/tech2/tech2/8292.ts&amp;streamtype=TSDOWNLOADER&amp;name=Nat Geo Wild </link> 
             <thumbnail>http://www1.movistarplus.es/recorte/m-NEO/canal/NATGW</thumbnail>
                 </item> 
 
 <item> 
-            <title>[COLOR red]•[/COLOR] Nat Geo SD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://xtreme.webhop.me:8000/live/ampadu/ampadu/2170.ts&amp;streamtype=TSDOWNLOADER&amp;name=Nat Geo </link> 
+            <title>[COLOR lime]•[/COLOR] Nat Geo SD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/tech2/tech2/8291.ts&amp;streamtype=TSDOWNLOADER&amp;name=Nat Geo </link> 
             <thumbnail>http://www1.movistarplus.es/recorte/m-NEO/canal/NATGEO</thumbnail>
                 </item> 
 
 <item> 
-            <title>[COLOR red]•[/COLOR] Odisea SD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://xtreme.webhop.me:8000/live/ampadu/ampadu/2163.ts&amp;streamtype=TSDOWNLOADER&amp;name=Odisea HD </link> 
+            <title>[COLOR lime]•[/COLOR] Odisea SD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/tech2/tech2/8263.ts&amp;streamtype=TSDOWNLOADER&amp;name=Odisea HD </link> 
             <thumbnail>http://www1.movistarplus.es/recorte/m-NEO/canal/ODISEA</thumbnail>
                 </item> 
 
 <item> 
-            <title>[COLOR red]•[/COLOR] Canal Decasa SD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://xtreme.webhop.me:8000/live/ampadu/ampadu/2174.ts&amp;streamtype=TSDOWNLOADER&amp;name=Canal Decasa </link> 
+            <title>[COLOR lime]•[/COLOR] Canal Decasa SD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/tech2/tech2/8262.ts&amp;streamtype=TSDOWNLOADER&amp;name=Canal Decasa </link> 
             <thumbnail>http://www1.movistarplus.es/recorte/m-NEO/canal/DECASA</thumbnail>
                 </item>
 
@@ -218,8 +218,8 @@
                 </item> 
 
 <item> 
-            <title>[COLOR red]•[/COLOR] Boing SD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://xtreme.webhop.me:8000/live/ampadu/ampadu/2161.ts&amp;streamtype=TSDOWNLOADER&amp;name=Boing </link> 
+            <title>[COLOR lime]•[/COLOR] Boing SD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/tech2/tech2/8256.ts&amp;streamtype=TSDOWNLOADER&amp;name=Boing </link> 
             <thumbnail>https://is2-ssl.mzstatic.com/image/thumb/Purple7/v4/b7/c4/17/b7c4172e-af34-3a46-4f3a-754f152be1ba/source/256x256bb.jpg</thumbnail>
                 </item>
 
@@ -241,8 +241,8 @@
             <thumbnail>http://cdn.exstreamist.com/wp-content/uploads/2016/05/streaming-nick-jr.jpg</thumbnail>
                 </item>
 <item> 
-            <title>[COLOR red]•[/COLOR] Baby TV SD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://4462.ipfox.co:8080/live/winsor_zqAq2S/dsD2rGJS/1083.ts&amp;streamtype=TSDOWNLOADER&amp;name=Baby TV </link> 
+            <title>[COLOR lime]•[/COLOR] Baby TV SD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/tech2/tech2/8254.ts&amp;streamtype=TSDOWNLOADER&amp;name=Baby TV </link> 
             <thumbnail>http://is2.mzstatic.com/image/thumb/Purple118/v4/a9/91/f0/a991f036-a8e0-466d-ad64-32b0b6b49fd3/source/1200x630bb.jpg</thumbnail>
                 </item>
 
@@ -258,13 +258,13 @@
             <thumbnail>https://lumiere-a.akamaihd.net/v1/images/open-uri20160811-32147-g4tm4_61fae1fe.png?region=0%2C0%2C750%2C334</thumbnail>
                 </item> 
 <item> 
-            <title>[COLOR red]•[/COLOR] Disney XD SD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://xtreme.webhop.me:8000/live/ampadu/ampadu/2158.ts&amp;streamtype=TSDOWNLOADER&amp;name=Disney XD </link> 
+            <title>[COLOR lime]•[/COLOR] Disney XD SD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/tech2/tech2/8270.ts&amp;streamtype=TSDOWNLOADER&amp;name=Disney XD </link> 
             <thumbnail>http://vignette2.wikia.nocookie.net/mixels/images/b/b5/Disney_XD_Mixels_logo.png/revision/latest?cb=20150402231147</thumbnail>
                 </item>
 <item> 
-            <title>[COLOR red]•[/COLOR] Disney Junior SD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://xtreme.webhop.me:8000/live/ampadu/ampadu/2159.ts&amp;streamtype=TSDOWNLOADER&amp;name=Disney Junior </link> 
+            <title>[COLOR lime]•[/COLOR] Disney Junior SD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/tech2/tech2/8269.ts&amp;streamtype=TSDOWNLOADER&amp;name=Disney Junior </link> 
             <thumbnail>https://yt3.ggpht.com/-e8lc2AnB-Z8/AAAAAAAAAAI/AAAAAAAAAAA/1kZk7GEiBxA/s900-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
                 </item> 
 <item> 
@@ -280,8 +280,8 @@
                 </item>
 				
 <item> 
-            <title>[COLOR red]•[/COLOR] Movistar Futbol SD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://xtreme.webhop.me:8000/live/ampadu/ampadu/2110.ts&amp;streamtype=TSDOWNLOADER&amp;name=Movistar Futbol</link> 
+            <title>[COLOR lime]•[/COLOR] Movistar Futbol SD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/tech2/tech2/8275.ts&amp;streamtype=TSDOWNLOADER&amp;name=Movistar Futbol</link> 
             <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Movistar_F%C3%BAtbol.svg/1200px-Movistar_F%C3%BAtbol.svg.png</thumbnail>
                 </item>
 
@@ -311,14 +311,14 @@
 
 
 <item> 
-            <title>[COLOR red]•[/COLOR] M Formula1 SD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://xtreme.webhop.me:8000/live/ampadu/ampadu/2095.ts&amp;streamtype=TSDOWNLOADER&amp;name=Formula 1</link> 
+            <title>[COLOR lime]•[/COLOR] M Formula1 SD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/tech2/tech2/8289.ts&amp;streamtype=TSDOWNLOADER&amp;name=Formula 1</link> 
             <thumbnail>http://todotele.com/wp-content/uploads/2017/01/MOVISTAR-F1.png</thumbnail>
                 </item>
 	
 <item> 
-            <title>[COLOR red]•[/COLOR] M Moto GP SD S1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://xtreme.webhop.me:8000/live/ampadu/ampadu/2096.ts&amp;streamtype=TSDOWNLOADER&amp;name=moto gp</link> 
+            <title>[COLOR lime]•[/COLOR] M Moto GP SD S1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/tech2/tech2/8288.ts&amp;streamtype=TSDOWNLOADER&amp;name=moto gp</link> 
             <thumbnail>https://pbs.twimg.com/profile_images/894808027915853824/d-M-Og1L_400x400.jpg</thumbnail>
                 </item>
 
