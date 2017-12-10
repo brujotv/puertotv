@@ -36,19 +36,12 @@
 <fanart>https://www.tesla.com/tesla_theme/assets/img/models/v1.0/slideshow/Blue_Sunset-1440.jpg?20171005</fanart>
 </item>
 
-<item><title>[COLOR lime]•[/COLOR] Lamborghini - Historia de un mito - Programa Completo -Car News TV - PRMotor</title>
-<link>$doregex[makelist]</link>
-<regex><name>makelist</name>
-<listrepeat><![CDATA[
-<title>[makelist.param1]</title>
-<link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
+<item>
+<title>[COLOR lime]•[/COLOR] Lamborghini</title>        
+<urlsolve>https://www.youtube.com/watch?v=yTTlFlsIPZs&t=431s</urlsolve>
 <thumbnail>https://i.ytimg.com/vi/[makelist.param2]/hqdefault.jpg</thumbnail>
 ]]></listrepeat>
-<expres>title="(.*?)".*?watch\?v=(.*?)[",&amp;]</expres>
-<page>https://www.youtube.com/watch?v=yTTlFlsIPZs&t=431s/videos</page>
-</regex>
-<thumbnail>http://www.abc.es/Media/201509/24/117-FocusRS--644x362.jpg</thumbnail>
+<fanart></fanart>
 </item>
-
 
 
