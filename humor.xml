@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
 
-<item><title>[COLOR lime]•[/COLOR] Monologos</title>
+<item><title>[COLOR lime]•[/COLOR] Monologos varios</title>
 <link>$doregex[makelist]</link>
 <regex><name>makelist</name>
 <listrepeat><![CDATA[
@@ -24,8 +24,8 @@
 
 <item>
 <title>[COLOR lime]•[/COLOR] Berto Romero: Fallos del lenguaje - El Club de la Comedia</title>        
-<urlsolve></urlsolve>
-<thumbnail>https://www.youtube.com/watch?v=uvqx3IIyzJ8&list=PLoY_dmfGHuXbjdr7tDzOiCiSMO8GPNJm9&index=4</thumbnail>
+<urlsolve>https://www.youtube.com/watch?v=uvqx3IIyzJ8&list=PLoY_dmfGHuXbjdr7tDzOiCiSMO8GPNJm9&index=4</urlsolve>
+<thumbnail></thumbnail>
 <fanart></fanart>
 </item>
 
