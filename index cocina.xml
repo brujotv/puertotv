@@ -12,5 +12,5 @@
 <expres>title="(.*?)".*?watch\?v=(.*?)[",&amp;]</expres>
 <page>https://www.youtube.com/channel/UCoJAl712oPdoEwBjbbJPGqQ/videos</page>
 </regex>
-<thumbnail>https://yt3.ggpht.com/-BXdEOAnxqBE/AAAAAAAAAAI/AAAAAAAAAAA/SuCIOn5QgBg/s240-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
+<thumbnail>https://www.hola.com/imagenes/bloques/cocina/cocina_y_recetas/boton-cocina-definitivo.jpg</thumbnail>
 </item>
