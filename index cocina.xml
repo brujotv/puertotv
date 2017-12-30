@@ -10,7 +10,7 @@
 <thumbnail>https://i.ytimg.com/vi/[makelist.param2]/hqdefault.jpg</thumbnail>
 ]]></listrepeat>
 <expres>title="(.*?)".*?watch\?v=(.*?)[",&amp;]</expres>
-<page>https://www.youtube.com/watch?v=Pbh6u0LapHQ&list=UUoJAl712oPdoEwBjbbJPGqQ</page>
+<page>https://www.youtube.com/channel/UCoJAl712oPdoEwBjbbJPGqQ/videos</page>
 </regex>
 <thumbnail>https://www.hola.com/imagenes/bloques/cocina/cocina_y_recetas/boton-cocina-definitivo.jpg</thumbnail>
 </item>
