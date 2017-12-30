@@ -16,7 +16,7 @@
 <thumbnail></thumbnail>
 <fanart></fanart>
 <link>http://ignoreme</link>
-<externallink>https://raw.githubusercontent.com/brujotv/puertotv/master/tdt.xml</externallink>
+<externallink>tps://raw.githubusercontent.com/brujotv/puertotv/master/tdt.xml</externallink>
 </item>
 
 <item>
@@ -42,12 +42,6 @@
 <link>http://ignoreme</link>
 <externallink>https://raw.githubusercontent.com/brujotv/puertotv/master/eventos%20deportivos.xml</externallink>
 </item>
-
-<item>
-<title>[COLOR lime]•[/COLOR] Especial Navidad Peliculas Navideñas</title>
-<link>http://ignorame</link><thumbnail>https://static.guiainfantil.com/pictures/articulos/37301-3-el-reno-rudolph-leyenda-y-cuento-de-navidad-para-ninos.jpg</thumbnail><fanart>https://i.ytimg.com/vi/-wybmi7sRKI/maxresdefault.jpg</fanart>
-<externallink>https://raw.githubusercontent.com/adrianhn/adryanlist/master/adryan/navidad.xml</externallink>
-<info></info></item>
 
 <item>
 <title>[COLOR lime]•[/COLOR] Cine</title>
