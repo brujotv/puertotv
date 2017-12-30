@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
 
-<item><title> Recetas de casa LM</title>
+<item><title>[COLOR lime]•[/COLOR] Recetas de casa LM</title>
 <link>$doregex[makelist]</link>
 <regex><name>makelist</name>
 <listrepeat><![CDATA[
