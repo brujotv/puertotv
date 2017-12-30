@@ -1,7 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
 
-
-<item><title>DOCUMENTALES</title>
+<item><title> Recetas de casa LM</title>
 <link>$doregex[makelist]</link>
 <regex><name>makelist</name>
 <listrepeat><![CDATA[
@@ -10,7 +10,7 @@
 <thumbnail>https://i.ytimg.com/vi/[makelist.param2]/hqdefault.jpg</thumbnail>
 ]]></listrepeat>
 <expres>title="(.*?)".*?watch\?v=(.*?)[",&amp;]</expres>
-<page>https://www.youtube.com/channel/UC-BSVJAwzsnhfNyv1DzmLnQ</page>
+<page>https://www.youtube.com/channel/UCoJAl712oPdoEwBjbbJPGqQ/videos</page>
 </regex>
 <thumbnail>https://yt3.ggpht.com/-BXdEOAnxqBE/AAAAAAAAAAI/AAAAAAAAAAA/SuCIOn5QgBg/s240-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
 </item>
