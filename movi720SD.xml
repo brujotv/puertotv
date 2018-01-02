@@ -26,8 +26,8 @@
             <thumbnail>http://static.programacion-tdt.com/imgAPP/Antena_3.min.png</thumbnail>
                 </item>
 <item> 
-            <title>[COLOR red]•[/COLOR] Telecinco SD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/tech2/tech2/8298.ts&amp;streamtype=TSDOWNLOADER&amp;name=Telecinco </link> 
+            <title>[COLOR lime]•[/COLOR] Telecinco SD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://grouprevelation.com:8000/live/teresa/1234/8848.ts&amp;streamtype=TSDOWNLOADER&amp;name=Telecinco </link> 
             <thumbnail>http://verdirectotv.tv/logos/telecinco.png</thumbnail>
                 </item>
 <item> 
@@ -42,8 +42,8 @@
                 </item>
 
 <item> 
-            <title>[COLOR red]•[/COLOR] Nova SD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/tech2/tech2/8294.ts&amp;streamtype=TSDOWNLOADER&amp;name=Nova </link> 
+            <title>[COLOR lime]•[/COLOR] Nova SD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://grouprevelation.com:8000/live/teresa/1234/8844.ts&amp;streamtype=TSDOWNLOADER&amp;name=Nova </link> 
             <thumbnail>http://www.mundoplus.tv/img/f25b812e6e6095afe68d44feb7d119ad</thumbnail>
 	        </item>		
 <item> 
@@ -188,14 +188,14 @@
                 </item>
 
  <item> 
-            <title>[COLOR red]•[/COLOR] Nat Geo Wild SD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/tech2/tech2/8292.ts&amp;streamtype=TSDOWNLOADER&amp;name=Nat Geo Wild </link> 
+            <title>[COLOR lime]•[/COLOR] Nat Geo Wild SD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://grouprevelation.com:8000/live/teresa/1234/8841.ts&amp;streamtype=TSDOWNLOADER&amp;name=Nat Geo Wild </link> 
             <thumbnail>http://www1.movistarplus.es/recorte/m-NEO/canal/NATGW</thumbnail>
                 </item> 
 
 <item> 
-            <title>[COLOR red]•[/COLOR] Nat Geo SD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/tech2/tech2/8291.ts&amp;streamtype=TSDOWNLOADER&amp;name=Nat Geo </link> 
+            <title>[COLOR lime]•[/COLOR] Nat Geo SD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://grouprevelation.com:8000/live/teresa/1234/8842.ts&amp;streamtype=TSDOWNLOADER&amp;name=Nat Geo </link> 
             <thumbnail>http://www1.movistarplus.es/recorte/m-NEO/canal/NATGEO</thumbnail>
                 </item> 
 
