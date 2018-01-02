@@ -2,14 +2,14 @@
 
 
 <item> 
-            <title>[COLOR red]•[/COLOR] La 1 SD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://xtreme.webhop.me:8000/live/ampadu/ampadu/2213.ts&amp;streamtype=TSDOWNLOADER&amp;name=La 1 </link> 
+            <title>[COLOR lime]•[/COLOR] La 1 SD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://grouprevelation.com:8000/live/teresa/1234/8818.ts&amp;streamtype=TSDOWNLOADER&amp;name=La 1 </link> 
             <thumbnail>http://static.programacion-tdt.com/imgAPP/TVE1.min.png</thumbnail>
                 </item>
 
 <item> 
-            <title>[COLOR red]•[/COLOR] La 2 SD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/tech2/tech2/8285.ts&amp;streamtype=TSDOWNLOADER&amp;name=La 2 </link> 
+            <title>[COLOR lime]•[/COLOR] La 2 SD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://grouprevelation.com:8000/live/teresa/1234/8819.ts&amp;streamtype=TSDOWNLOADER&amp;name=La 2 </link> 
             <thumbnail></thumbnail>
                 </item>
 
@@ -31,8 +31,8 @@
             <thumbnail>http://verdirectotv.tv/logos/telecinco.png</thumbnail>
                 </item>
 <item> 
-            <title>[COLOR red]•[/COLOR] La Sexta SD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/tech2/tech2/8284.ts&amp;streamtype=TSDOWNLOADER&amp;name=LA Sexta </link> 
+            <title>[COLOR lime]•[/COLOR] La Sexta SD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://grouprevelation.com:8000/live/teresa/1234/8820.ts&amp;streamtype=TSDOWNLOADER&amp;name=LA Sexta </link> 
             <thumbnail>http://ocio.diariodemallorca.es/img_contenido/estaticos/canales/24.jpg</thumbnail>
                 </item>
 <item> 
