@@ -87,13 +87,13 @@
 		</item> 
 
 <item> 
-            <title>[COLOR red]•[/COLOR] Movistar Series Xtra SD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/tech2/tech2/8295.ts&amp;streamtype=TSDOWNLOADER&amp;name=Movistar  Series Xtra </link> 
+            <title>[COLOR lime]•[/COLOR] Movistar Series Xtra SD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://grouprevelation.com:8000/live/teresa/1234/8835.ts&amp;streamtype=TSDOWNLOADER&amp;name=Movistar  Series Xtra </link> 
             <thumbnail>http://www1.movistarplus.es/recorte/m-NEO/canal/MV2</thumbnail>
                 </item> 
 <item> 
             <title>[COLOR lime]•[/COLOR] MoviStar Xtra SD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://grouprevelation.com:8000/live/teresa/1234/8784.ts&amp;streamtype=TSDOWNLOADER&amp;name=MovieStar Xtra </link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://grouprevelation.com:8000/live/teresa/1234/8836.ts&amp;streamtype=TSDOWNLOADER&amp;name=MovieStar Xtra </link> 
             <thumbnail>http://www1.movistarplus.es/recorte/m-NEO/canal/CPXTRA</thumbnail>
 		</item> 
 
@@ -311,14 +311,14 @@
 
 
 <item> 
-            <title>[COLOR red]•[/COLOR] M Formula1 SD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/tech2/tech2/8289.ts&amp;streamtype=TSDOWNLOADER&amp;name=Formula 1</link> 
+            <title>[COLOR lime]•[/COLOR] M Formula1 SD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://grouprevelation.com:8000/live/teresa/1234/8837.ts&amp;streamtype=TSDOWNLOADER&amp;name=Formula 1</link> 
             <thumbnail>http://todotele.com/wp-content/uploads/2017/01/MOVISTAR-F1.png</thumbnail>
                 </item>
 	
 <item> 
-            <title>[COLOR red]•[/COLOR] M Moto GP SD S1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/tech2/tech2/8288.ts&amp;streamtype=TSDOWNLOADER&amp;name=moto gp</link> 
+            <title>[COLOR lime]•[/COLOR] M Moto GP SD S1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://grouprevelation.com:8000/live/teresa/1234/8834.ts&amp;streamtype=TSDOWNLOADER&amp;name=moto gp</link> 
             <thumbnail>https://pbs.twimg.com/profile_images/894808027915853824/d-M-Og1L_400x400.jpg</thumbnail>
                 </item>
 
