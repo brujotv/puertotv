@@ -1,5 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
-<item><title>[COLOR lime]•[/COLOR] PowerArt Guille García Alfonsín</title>
+
+<item><title>[COLOR lime]•[/COLOR] Top 10</title>
 <link>$doregex[makelist]</link>
 <regex><name>makelist</name>
 <listrepeat><![CDATA[
@@ -8,7 +10,7 @@
 <thumbnail>https://i.ytimg.com/vi/[makelist.param2]/hqdefault.jpg</thumbnail>
 ]]></listrepeat>
 <expres>title="(.*?)".*?watch\?v=(.*?)[",&amp;]</expres>
-<page>https://www.youtube.com/user/GuilleGarciaAlfonsin/videos</page>
+<page>https://www.youtube.com/channel/UCU4dLZPpj0hRF-P4x4snO9g/videos</page>
 </regex>
-<thumbnail>https://media.licdn.com/media-proxy/ext?w=800&h=800&hash=cND3WxJpPGMfzrAOO1KZnE%2F4XW0%3D&ora=1%2CaFBCTXdkRmpGL2lvQUFBPQ%2CxAVta5g-0R6nlh8Tw1It6a2FowGz60oISIfYC2G8G2f1spyfNT-tdoDSfbqhsgUbeyoBhlI_IfnwEXO5H9XgSvyIGtt098vhLPiRI1UkLE4QrjFM7_YQMQo38MaEIK6jRGhBwO0FPGrvELjPRXELMiE8z-GZCquKJUsg7HCufemkS-9df4F28dRdjg5n8ceWJeMR0ZRPxXp4mnGz3Zr3YQkE56GFCmqVM2IGJVbsavcerJau4R3QvAXem2PUprCvDfiB</thumbnail>
+<thumbnail>http://www.javelin-tech.com/blog/wp-content/uploads/2015/10/solidworks-top-ten-list.jpg</thumbnail>
 </item>
