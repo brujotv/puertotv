@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+ 
+
+<item>
+<title>[COLOR lime]•[/COLOR]Canale 7</title>        
+<link>http://wms.shared.streamshow.it:1935/canale7/canale7/live.m3u8</link>
+<thumbnail>http://www.sudestival.org/wp-content/uploads/2015/01/canale7.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR lime]•[/COLOR]Canal 8 italia</title>        
+<link>http://wms.shared.streamshow.it/canale8/mp4:canale8/playlist.m3u8</link>
+<thumbnail>https://s29.postimg.org/gn201s4qf/tv8.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR lime]•[/COLOR]Canale 10</title>        
+<link>http://37.187.142.147:1935/ch10live/high.stream/live.m3u8</link>
+<thumbnail>http://www.canaledieci.it/wp-content/themes/Divi/images/logo.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR lime]•[/COLOR]History Lab</title>        
+<link>http://wma10.fluidstream.net/HistoryLab/livestream/playlist.m3u8</link>
+<thumbnail>https://yt3.ggpht.com/-KwfcrSSWyh0/AAAAAAAAAAI/AAAAAAAAAAA/oQilWmEa_cw/s900-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR lime]•[/COLOR]Raiscuola</title>        
+<link>http://originstream6.rai.it/italy/smil:raiscuola.smil/chunklist_b900000.m3u8 </link>
+<thumbnail>http://www.rai.it/dl/bilancio2010/img/06rel/loghi/raiscuola.gif</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR lime]•[/COLOR]Rai5</title>        
+<link>http://stream12.rai.it/live/smil:rai5.smil/chunklist_b1200000.m3u8</link>
+<thumbnail>http://www.CULTURA.rai.it/images/logo_rai5.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR lime]•[/COLOR]Rai Movie</title>        
+<link>http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/index_1200_av-p.m3u8</link>
+<thumbnail>http://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/RAI_Movie_2010_neu_Logo.svg/500px-RAI_Movie_2010_neu_Logo.svg.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR lime]•[/COLOR]Rai Premium</title>        
+<link>http://b2everyrai-lh.akamaihd.net/i/raipremium_1@181837/index_1200_av-p.m3u8</link>
+<thumbnail>http://www.tvdream.net/immagini/rai-premium.gif</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR lime]•[/COLOR]Rai gulp</title>        
+<link>http://b2everyrai-lh.akamaihd.net/i/raigulp_1@66350/index_1200_av-p.m3u8</link>
+<thumbnail>http://www.fise.it/images/RaiGulp_logo.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR lime]•[/COLOR]SuperTV</title>        
+<link>http://wms.shared.streamshow.it:1935/supertv/supertv/live.m3u8</link>
+<thumbnail>https://3.bp.blogspot.com/-ZyKgPwkQPmQ/V53UU0Cm1rI/AAAAAAAAAxY/Dnh6rCMIFMwaIYJpjIhqh1WPK47OARrFQCLcB/s1600/supertv.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR lime]•[/COLOR]TeleMonteneve</title>        
+<link>http://wms.shared.streamshow.it:1935/telemonteneve/telemonteneve/live.m3u8</link>
+<thumbnail>http://www.osm1816.it/site/wp-content/uploads/2015/05/Logo_09_teleMonteneve1.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR lime]•[/COLOR]Telepavia</title>        
+<link>http://wms.shared.streamshow.it:1935/telepavia/telepavia/live.m3u8</link>
+<thumbnail>http://www.ifiodunavolta.flazio.com/public/componenti/225/f1/logo_telepavia_1474481286131.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR lime]•[/COLOR]Carina TV</title>        
+<link>http://wms.shared.streamshow.it/carinatv/carinatv/playlist.m3u8</link>
+<thumbnail>http://www.carinatv.it/images/ctv_radiocarina.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR lime]•[/COLOR]TSN</title>        
+<link>http://wms.shared.streamshow.it:1935/tsn2/tsn2/live.m3u8</link>
+<thumbnail>https://soombo.com/assets/images/200_1456428050.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR lime]•[/COLOR]TV Luna</title>        
+<link>http://live.streamcaster.net:1935/test_live/teleluna/livestream.m3u8</link>
+<thumbnail>https://pbs.twimg.com/profile_images/628966332944515072/Wbo1X8GM.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR lime]•[/COLOR]Videolina</title>        
+<link>http://178.33.229.111:1935/live/Videolina/livestream.m3u8</link>
+<thumbnail>http://www.dinamobasket.com/sites/default/files/styles/news_740_440/public/news/videolina.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+
+<item>
+<title>[COLOR lime]•[/COLOR]RAINEWS24</title>        
+<link>http://b2.stream8.rai.it/live/smil%3Arnews1_android.smil/playlist.m3u8</link>
+<thumbnail>http://www.netkabel.net.mk/images/sampledata/logo/crainews24.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR lime]•[/COLOR]</title>        
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR lime]•[/COLOR]</title>        
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR lime]•[/COLOR]</title>        
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR lime]•[/COLOR]</title>        
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR lime]•[/COLOR]</title>        
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR lime]•[/COLOR]</title>        
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR lime]•[/COLOR]</title>        
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR lime]•[/COLOR]</title>        
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>

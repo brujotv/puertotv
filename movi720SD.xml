@@ -1,0 +1,328 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+
+<item> 
+            <title>[COLOR lime]•[/COLOR] La 1 SD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://grouprevelation.com:8000/live/teresa/1234/8818.ts&amp;streamtype=TSDOWNLOADER&amp;name=La 1 </link> 
+            <thumbnail>http://static.programacion-tdt.com/imgAPP/TVE1.min.png</thumbnail>
+                </item>
+
+<item> 
+            <title>[COLOR lime]•[/COLOR] La 2 SD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://grouprevelation.com:8000/live/teresa/1234/8819.ts&amp;streamtype=TSDOWNLOADER&amp;name=La 2 </link> 
+            <thumbnail></thumbnail>
+                </item>
+
+<item> 
+            <title>[COLOR lime]•[/COLOR] Cuatro SD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://grouprevelation.com:8000/live/teresa/1234/8799.ts&amp;streamtype=TSDOWNLOADER&amp;name=Cuatro </link> 
+            <thumbnail>http://www.futbolprimera.es/files/cuatro.jpg</thumbnail>
+                </item> 
+
+ 
+<item> 
+            <title>[COLOR lime]•[/COLOR] Antena 3 SD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://grouprevelation.com:8000/live/teresa/1234/8783.ts&amp;streamtype=TSDOWNLOADER&amp;name=Antena 3 HD</link> 
+            <thumbnail>http://static.programacion-tdt.com/imgAPP/Antena_3.min.png</thumbnail>
+                </item>
+<item> 
+            <title>[COLOR lime]•[/COLOR] Telecinco SD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://grouprevelation.com:8000/live/teresa/1234/8848.ts&amp;streamtype=TSDOWNLOADER&amp;name=Telecinco </link> 
+            <thumbnail>http://verdirectotv.tv/logos/telecinco.png</thumbnail>
+                </item>
+<item> 
+            <title>[COLOR lime]•[/COLOR] La Sexta SD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://grouprevelation.com:8000/live/teresa/1234/8820.ts&amp;streamtype=TSDOWNLOADER&amp;name=LA Sexta </link> 
+            <thumbnail>http://ocio.diariodemallorca.es/img_contenido/estaticos/canales/24.jpg</thumbnail>
+                </item>
+<item> 
+            <title>[COLOR red]•[/COLOR] Neox SD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://xtreme.webhop.me:8000/live/ampadu/ampadu/2209.ts&amp;streamtype=TSDOWNLOADER&amp;name=Neox </link> 
+            <thumbnail>https://pbs.twimg.com/profile_images/509064688550694912/WY6A_PqH_normal.jpeg</thumbnail>
+                </item>
+
+<item> 
+            <title>[COLOR lime]•[/COLOR] Nova SD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://grouprevelation.com:8000/live/teresa/1234/8844.ts&amp;streamtype=TSDOWNLOADER&amp;name=Nova </link> 
+            <thumbnail>http://www.mundoplus.tv/img/f25b812e6e6095afe68d44feb7d119ad</thumbnail>
+	        </item>		
+<item> 
+            <title>[COLOR red]•[/COLOR] Mega SD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://xtreme.webhop.me:8000/live/ampadu/ampadu/2199.ts&amp;streamtype=TSDOWNLOADER&amp;name=Mega </link> 
+            <thumbnail>http://www.cineytele.com/wp-content/uploads/2015/11/energy-logo-mediaset-500-2.jpg</thumbnail>
+                </item>
+   <item> 
+            <title>[COLOR red]•[/COLOR] #0 SD </title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://xtreme.webhop.me:8000/live/ampadu/ampadu/2092.ts&amp;streamtype=TSDOWNLOADER&amp;name=#0 HD </link> 
+            <thumbnail>http://www.movistarplus.es/assets/images/logo-cero-desk.png</thumbnail>
+                </item>
+<item> 
+            <title>[COLOR lime]•[/COLOR] MoviStar Estrenos HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://grouprevelation.com:8000/live/teresa/1234/8830.ts&amp;streamtype=TSDOWNLOADER&amp;name=MovieStar Estrenos </link> 
+            <thumbnail>http://www1.movistarplus.es/recorte/m-NEO/canal/MV1</thumbnail>
+                </item>
+ 
+<item> 
+            <title>[COLOR lime]•[/COLOR] MoviStar Accion SD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://grouprevelation.com:8000/live/teresa/1234/8824.ts&amp;streamtype=TSDOWNLOADER&amp;name=C+ Accion </link> 
+            <thumbnail>http://www1.movistarplus.es/recorte/m-NEO/canal/CPACCI</thumbnail>
+		</item>
+
+<item> 
+            <title>[COLOR lime]•[/COLOR] Movistar Comedia HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://grouprevelation.com:8000/live/teresa/1234/8826.ts&amp;streamtype=TSDOWNLOADER&amp;name=Movistar  Comedia </link> 
+            <thumbnail>http://www1.movistarplus.es/recorte/m-NEO/canal/CPCOME</thumbnail>
+                </item> 
+
+<item> 
+            <title>[COLOR lime]•[/COLOR] MoviStar DCine SD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://grouprevelation.com:8000/live/teresa/1234/8827.ts&amp;streamtype=TSDOWNLOADER&amp;name=C+ DCine</link> 
+            <thumbnail>http://www1.movistarplus.es/recorte/m-NEO/canal/CPCOLE</thumbnail>
+		</item>
+
+<item> 
+            <title>[COLOR red]•[/COLOR] MoviStar Series SD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://xtreme.webhop.me:8000/live/ampadu/ampadu/2143.ts&amp;streamtype=TSDOWNLOADER&amp;name=MovieStar Series HD</link> 
+            <thumbnail>http://www1.movistarplus.es/recorte/m-NEO/canal/CPSER</thumbnail>
+		</item> 
+
+<item> 
+            <title>[COLOR lime]•[/COLOR] Movistar Series Xtra SD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://grouprevelation.com:8000/live/teresa/1234/8835.ts&amp;streamtype=TSDOWNLOADER&amp;name=Movistar  Series Xtra </link> 
+            <thumbnail>http://www1.movistarplus.es/recorte/m-NEO/canal/MV2</thumbnail>
+                </item> 
+<item> 
+            <title>[COLOR lime]•[/COLOR] MoviStar Xtra SD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://grouprevelation.com:8000/live/teresa/1234/8836.ts&amp;streamtype=TSDOWNLOADER&amp;name=MovieStar Xtra </link> 
+            <thumbnail>http://www1.movistarplus.es/recorte/m-NEO/canal/CPXTRA</thumbnail>
+		</item> 
+
+<item> 
+            <title>[COLOR lime]•[/COLOR] AMC SD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://grouprevelation.com:8000/live/teresa/1234/8781.ts&amp;streamtype=TSDOWNLOADER&amp;name=AMC HD </link> 
+            <thumbnail>https://pbs.twimg.com/profile_images/658379235116130304/0d0gse9_.jpg</thumbnail>
+                </item>
+
+<item> 
+            <title>[COLOR lime]•[/COLOR] AXN SD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://grouprevelation.com:8000/live/teresa/1234/8854.ts&amp;streamtype=TSDOWNLOADER&amp;name=AXN  </link> 
+            <thumbnail>http://www1.movistarplus.es/recorte/m-NEO/canal/AXN</thumbnail>
+                 </item> 
+<item> 
+            <title>[COLOR red]•[/COLOR] AXN White SD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/tech2/tech2/8253.ts&amp;streamtype=TSDOWNLOADER&amp;name=AXN White </link> 
+            <thumbnail>http://hoycinema.abc.es/archivos/201204/axnwhite.jpg</thumbnail>
+                 </item>
+
+<item> 
+            <title>[COLOR lime]•[/COLOR] Fox SD </title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://grouprevelation.com:8000/live/teresa/1234/8809.ts&amp;streamtype=TSDOWNLOADER&amp;name=Fox HD </link> 
+            <thumbnail>http://www.axartel.es/assets/img/sliders/tv-canales/fox.jpg</thumbnail>
+                </item> 
+
+<item> 
+            <title>[COLOR lime]•[/COLOR] Fox Life SD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://grouprevelation.com:8000/live/teresa/1234/8811.ts&amp;streamtype=TSDOWNLOADER&amp;name=Fox Life HD </link> 
+            <thumbnail>http://www.axartel.es/assets/img/sliders/tv-canales/fox-life.jpg</thumbnail>
+                </item>
+
+<item> 
+            <title>[COLOR lime]•[/COLOR] Calle 13 SD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://grouprevelation.com:8000/live/teresa/1234/8790.ts&amp;streamtype=TSDOWNLOADER&amp;name=Calle 13 HD </link> 
+            <thumbnail>http://www1.movistarplus.es/recorte/m-NEO/canal/CL13</thumbnail>
+                </item>
+
+<item> 
+            <title>[COLOR lime]•[/COLOR] Hollywood SD </title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://grouprevelation.com:8000/live/teresa/1234/8815.ts&amp;streamtype=TSDOWNLOADER&amp;name=Hollywood </link> 
+            <thumbnail>http://www.axartel.es/assets/img/sliders/tv-canales/canal-hollywood.jpg</thumbnail>
+                </item>
+
+<item>
+            <title>[COLOR lime]•[/COLOR] Comedy Central SD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://grouprevelation.com:8000/live/teresa/1234/8796.ts&amp;streamtype=TSDOWNLOADER&amp;name=Comedy Central </link> 
+            <thumbnail>http://www1.movistarplus.es/recorte/m-NEO/canal/PCM</thumbnail>
+                </item> 
+
+<item> 
+            <title>[COLOR lime]•[/COLOR] TNT SD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://grouprevelation.com:8000/live/teresa/1234/8851.ts&amp;streamtype=TSDOWNLOADER&amp;name=TNT </link> 
+            <thumbnail>http://www1.movistarplus.es/recorte/m-NEO/canal/TCM</thumbnail> 
+                </item> 
+
+<item> 
+            <title>[COLOR lime]•[/COLOR] TCM SD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://grouprevelation.com:8000/live/teresa/1234/8847.ts&amp;streamtype=TSDOWNLOADER&amp;name=TCM </link> 
+            <thumbnail>http://www.brandemia.org/sites/default/files/sites/default/files/tcm_logo_antes.jpg</thumbnail>
+               </item> 
+
+ 
+<item> 
+            <title>[COLOR lime]•[/COLOR] SyFy SD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://grouprevelation.com:8000/live/teresa/1234/8846.ts&amp;streamtype=TSDOWNLOADER&amp;name=SyFy HD </link> 
+            <thumbnail>http://www.syfy.com/sites/syfy/files/tve_auth2/Syfylogo.png</thumbnail>
+                </item>
+
+<item> 
+            <title>[COLOR lime]•[/COLOR] Caza Y Pesca SD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://grouprevelation.com:8000/live/teresa/1234/8794.ts&amp;streamtype=TSDOWNLOADER&amp;name=Caza Y Pesca </link> 
+            <thumbnail>http://fotocite.com/caza-pesca@256.png</thumbnail>
+                </item>
+
+<item> 
+            <title>[COLOR lime]•[/COLOR] FDF SD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://grouprevelation.com:8000/live/teresa/1234/8808.ts&amp;streamtype=TSDOWNLOADER&amp;name=FDF </link> 
+            <thumbnail>http://directostv.teleame.com/wp-content/uploads/2016/01/FDF-en-directo-online.png</thumbnail>
+               </item>	 
+		
+<item> 
+            <title>[COLOR lime]•[/COLOR] Cosmos SD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://grouprevelation.com:8000/live/teresa/1234/8797.ts&amp;streamtype=TSDOWNLOADER&amp;name=Cosmos HD </link> 
+            <thumbnail>https://aidengrimshawnews.files.wordpress.com/2013/10/cosmo.jpeg</thumbnail>
+                </item>
+
+<item> 
+            <title>[COLOR lime]•[/COLOR] A&amp;E SD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://grouprevelation.com:8000/live/teresa/1234/8780.ts&amp;streamtype=TSDOWNLOADER&amp;name=A&amp;E </link> 
+            <thumbnail>https://vignette4.wikia.nocookie.net/logopedia/images/a/a4/A%26E_HD.png/revision/latest?cb=20111207180519</thumbnail>
+                </item>
+
+ <item> 
+            <title>[COLOR lime]•[/COLOR] Nat Geo Wild SD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://grouprevelation.com:8000/live/teresa/1234/8841.ts&amp;streamtype=TSDOWNLOADER&amp;name=Nat Geo Wild </link> 
+            <thumbnail>http://www1.movistarplus.es/recorte/m-NEO/canal/NATGW</thumbnail>
+                </item> 
+
+<item> 
+            <title>[COLOR lime]•[/COLOR] Nat Geo SD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://grouprevelation.com:8000/live/teresa/1234/8842.ts&amp;streamtype=TSDOWNLOADER&amp;name=Nat Geo </link> 
+            <thumbnail>http://www1.movistarplus.es/recorte/m-NEO/canal/NATGEO</thumbnail>
+                </item> 
+
+<item> 
+            <title>[COLOR lime]•[/COLOR] Odisea SD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://grouprevelation.com:8000/live/teresa/1234/8793.ts&amp;streamtype=TSDOWNLOADER&amp;name=Odisea HD </link> 
+            <thumbnail>http://www1.movistarplus.es/recorte/m-NEO/canal/ODISEA</thumbnail>
+                </item> 
+
+<item> 
+            <title>[COLOR lime]•[/COLOR] Canal Decasa SD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://grouprevelation.com:8000/live/teresa/1234/8792.ts&amp;streamtype=TSDOWNLOADER&amp;name=Canal Decasa </link> 
+            <thumbnail>http://www1.movistarplus.es/recorte/m-NEO/canal/DECASA</thumbnail>
+                </item>
+
+<item> 
+            <title>[COLOR red]•[/COLOR] MTV SD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://4462.ipfox.co:8080/live/winsor_zqAq2S/dsD2rGJS/1071.ts&amp;streamtype=TSDOWNLOADER&amp;name=MTV </link> 
+            <thumbnail>https://superrepo.org/static/images/icons/original/xplugin.video.mdmtvuk.png.pagespeed.ic.c6kyF5yyrm.png" group-title="ESPAÑA</thumbnail>
+                </item> 
+
+<item> 
+            <title>[COLOR lime]•[/COLOR] Boing SD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://grouprevelation.com:8000/live/teresa/1234/8789.ts&amp;streamtype=TSDOWNLOADER&amp;name=Boing </link> 
+            <thumbnail>https://is2-ssl.mzstatic.com/image/thumb/Purple7/v4/b7/c4/17/b7c4172e-af34-3a46-4f3a-754f152be1ba/source/256x256bb.jpg</thumbnail>
+                </item>
+
+<item> 
+            <title>[COLOR red]•[/COLOR] Canal Panda SD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://xtreme.webhop.me:8000/live/ampadu/ampadu/2154.ts&amp;streamtype=TSDOWNLOADER&amp;name=Canal Panda </link> 
+            <thumbnail>http://www1.movistarplus.es/recorte/m-NEO/canal/PANDA</thumbnail>
+                </item>
+
+<item> 
+            <title>[COLOR lime]•[/COLOR] Clan TVE SD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://grouprevelation.com:8000/live/teresa/1234/8795.ts&amp;streamtype=TSDOWNLOADER&amp;name=Clan TVE </link> 
+            <thumbnail>http://static.programacion-tdt.com/imgAPP/Clan_TV.min.png</thumbnail>
+                </item>
+
+<item> 
+            <title>[COLOR red]•[/COLOR] Nick Junior SD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://xtreme.webhop.me:8000/live/ampadu/ampadu/2160.ts&amp;streamtype=TSDOWNLOADER&amp;name=Nick Junior </link> 
+            <thumbnail>http://cdn.exstreamist.com/wp-content/uploads/2016/05/streaming-nick-jr.jpg</thumbnail>
+                </item>
+<item> 
+            <title>[COLOR lime]•[/COLOR] Baby TV SD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://grouprevelation.com:8000/live/teresa/1234/8785.ts&amp;streamtype=TSDOWNLOADER&amp;name=Baby TV </link> 
+            <thumbnail>http://is2.mzstatic.com/image/thumb/Purple118/v4/a9/91/f0/a991f036-a8e0-466d-ad64-32b0b6b49fd3/source/1200x630bb.jpg</thumbnail>
+                </item>
+
+<item> 
+            <title>[COLOR red]•[/COLOR] Nickelodeon SD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://xtreme.webhop.me:8000/live/ampadu/ampadu/2155.ts&amp;streamtype=TSDOWNLOADER&amp;name=Nickelodeon </link> 
+            <thumbnail>https://ibhuluimcom-a.akamaihd.net/ib.huluim.com/company/584?region=US&size=600x400</thumbnail>
+                </item>
+
+<item> 
+            <title>[COLOR lime]•[/COLOR] Disney Channel SD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://grouprevelation.com:8000/live/teresa/1234/8802.ts&amp;streamtype=TSDOWNLOADER&amp;name=Disney Channel </link> 
+            <thumbnail>https://lumiere-a.akamaihd.net/v1/images/open-uri20160811-32147-g4tm4_61fae1fe.png?region=0%2C0%2C750%2C334</thumbnail>
+                </item> 
+<item> 
+            <title>[COLOR lime]•[/COLOR] Disney XD SD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://grouprevelation.com:8000/live/teresa/1234/8804.ts&amp;streamtype=TSDOWNLOADER&amp;name=Disney XD </link> 
+            <thumbnail>http://vignette2.wikia.nocookie.net/mixels/images/b/b5/Disney_XD_Mixels_logo.png/revision/latest?cb=20150402231147</thumbnail>
+                </item>
+<item> 
+            <title>[COLOR lime]•[/COLOR] Disney Junior SD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://grouprevelation.com:8000/live/teresa/1234/8803.ts&amp;streamtype=TSDOWNLOADER&amp;name=Disney Junior </link> 
+            <thumbnail>https://yt3.ggpht.com/-e8lc2AnB-Z8/AAAAAAAAAAI/AAAAAAAAAAA/1kZk7GEiBxA/s900-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
+                </item> 
+<item> 
+            <title>[COLOR lime]•[/COLOR] Movistar Deportes 1 SD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://grouprevelation.com:8000/live/teresa/1234/8829.ts&amp;streamtype=TSDOWNLOADER&amp;name=Movistar Deportes 1</link> 
+            <thumbnail>https://www.andorratelecom.ad/documents/33347/112493/movistar+deportes+1-01.png/3d3cef65-7bb9-fb65-6d68-517fe5a3d073?t=1487255284346</thumbnail>
+                </item>
+				
+<item> 
+            <title>[COLOR red]•[/COLOR] Movistar Deportes 2 SD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://xtreme.webhop.me:8000/live/ampadu/ampadu/2105.ts&amp;streamtype=TSDOWNLOADER&amp;name=Movistar Deportes 2</link> 
+            <thumbnail>http://estaticos.elmundo.es/television/programacion-tv/img/programas/20/1355296.png</thumbnail>
+                </item>
+				
+<item> 
+            <title>[COLOR lime]•[/COLOR] Movistar Futbol SD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://grouprevelation.com:8000/live/teresa/1234/8831.ts&amp;streamtype=TSDOWNLOADER&amp;name=Movistar Futbol</link> 
+            <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Movistar_F%C3%BAtbol.svg/1200px-Movistar_F%C3%BAtbol.svg.png</thumbnail>
+                </item>
+
+<item> 
+            <title>[COLOR red]•[/COLOR] Bein sports SD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://xtreme.webhop.me:8000/live/ampadu/ampadu/2133.ts&amp;streamtype=TSDOWNLOADER&amp;name=BEIN SPORTS</link> 
+            <thumbnail>http://assets.beinsports.com/3.0.50/images/beIN_SPORTS_App_Icon.svg</thumbnail>
+                </item>
+
+<item> 
+            <title>[COLOR lime]•[/COLOR] Bein la liga SD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://grouprevelation.com:8000/live/teresa/1234/8787.ts&amp;streamtype=TSDOWNLOADER&amp;name=BEIN SPORTS</link> 
+            <thumbnail>http://assets.beinsports.com/3.0.50/images/beIN_SPORTS_App_Icon.svg</thumbnail>
+                </item>
+
+<item> 
+            <title>[COLOR lime]•[/COLOR] la liga SD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://grouprevelation.com:8000/live/teresa/1234/8786.ts&amp;streamtype=TSDOWNLOADER&amp;name=La liga</link> 
+            <thumbnail>http://assets.beinsports.com/3.0.50/images/beIN_SPORTS_App_Icon.svg</thumbnail>
+                </item>
+
+<item> 
+            <title>[COLOR red]•[/COLOR] Partidazo SD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.ndasat.com:88/live/329995091896719/329995091896719/2757.ts&amp;streamtype=TSDOWNLOADER&amp;name=Partidazo</link> 
+            <thumbnail>http://assets.beinsports.com/3.0.50/images/beIN_SPORTS_App_Icon.svg</thumbnail>
+                </item>
+
+
+<item> 
+            <title>[COLOR lime]•[/COLOR] M Formula1 SD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://grouprevelation.com:8000/live/teresa/1234/8837.ts&amp;streamtype=TSDOWNLOADER&amp;name=Formula 1</link> 
+            <thumbnail>http://todotele.com/wp-content/uploads/2017/01/MOVISTAR-F1.png</thumbnail>
+                </item>
+	
+<item> 
+            <title>[COLOR lime]•[/COLOR] M Moto GP SD S1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://grouprevelation.com:8000/live/teresa/1234/8834.ts&amp;streamtype=TSDOWNLOADER&amp;name=moto gp</link> 
+            <thumbnail>https://pbs.twimg.com/profile_images/894808027915853824/d-M-Og1L_400x400.jpg</thumbnail>
+                </item>
+
+
+
+
+

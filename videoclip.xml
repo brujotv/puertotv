@@ -1,126 +1,240 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
+
+
 <item>
-<title>Calvin Harris - This Is What You Came For (Official Video) ft. Rihanna </title>        
+<title>[COLOR lime]•[/COLOR] Camila Cabello - Havana (Vertical Video) ft. Young Thug</title>        
+<urlsolve>https://www.youtube.com/watch?v=pz95u3UVpaM&list=RDQM8Bq81TzmZ1A&index=28</urlsolve>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR lime]•[/COLOR] Jennifer Lopez - Ni Tú Ni Yo (Official Video) ft. Gente de Zona</title>        
+<urlsolve>https://www.youtube.com/watch?v=V5_tnpdnNz4&index=15&list=RDQM8Bq81TzmZ1A</urlsolve>
+<thumbnail>https://lh3.googleusercontent.com/9yF7gX8UIkuGzzYRar-7a8DvgDA5JfJxvT5Mu6mC7GIlYQUYQyaEUxJZhb1bRj08bc8D=w300</thumbnail>
+<fanart>https://i.ytimg.com/vi/nWxFoucx9ug/maxresdefault.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR lime]•[/COLOR] ZAYN - Dusk Till Dawn ft. Sia</title>        
+<urlsolve>https://www.youtube.com/watch?v=tt2k8PGm-TI&list=RDQM8Bq81TzmZ1A&index=16</urlsolve>
+<thumbnail>https://i1.sndcdn.com/artworks-000241928959-rxnnv0-t500x500.jpg</thumbnail>
+<fanart>https://static.lafm.com.co/wp-content/uploads/20170908093929/zayn-ft-sia-dusk-till-down-poster.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR lime]•[/COLOR] Selena Gomez, Marshmello - Wolves</title>        
+<urlsolve>https://www.youtube.com/watch?v=cH4E_t3m3xM&index=14&list=RDQM8Bq81TzmZ1A</urlsolve>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR lime]•[/COLOR] Taylor Swift - Look What You Made Me Do</title>        
+<urlsolve>https://www.youtube.com/watch?v=3tmd-ClpJxA&index=13&list=RDQM8Bq81TzmZ1A</urlsolve>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR lime]•[/COLOR] Luis Fonsi, Demi Lovato - Échame La Culpa</title>        
+<urlsolve>https://www.youtube.com/watch?v=TyHvyGVs42U&list=RDQM8Bq81TzmZ1A&index=5</urlsolve>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR lime]•[/COLOR] Becky G - Mayores (Official Video) ft. Bad Bunny </title>        
+<urlsolve>https://www.youtube.com/watch?v=GMFewiplIbw</urlsolve>
+<thumbnail>https://i.ytimg.com/vi/Z2BKDozSclQ/hqdefault.jpg</thumbnail>
+<fanart>http://myweb.ipautainc.netdna-cdn.com/wp-content/uploads/2017/07/Becky-G-Ft.-Bad-Bunny-%E2%80%93-Mayores.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR lime]•[/COLOR] Carlos Vives - Al Filo de Tu Amor</title>        
+<urlsolve>https://www.youtube.com/watch?v=TmRWKSB5zlk</urlsolve>
+<thumbnail>https://is5-ssl.mzstatic.com/image/thumb/Music122/v4/1c/65/77/1c6577f5-d155-f34d-5260-2e87ba1bdd51/886446309569.jpg/600x600bf.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/TmRWKSB5zlk/maxresdefault.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR lime]•[/COLOR] Dua Lipa - New Rules</title>        
+<urlsolve>https://www.youtube.com/watch?v=k2qgadSvNyU</urlsolve>
+<thumbnail>http://i.imgur.com/R8qsPDX.png</thumbnail>
+<fanart>https://static.designmynight.com/uploads/2017/09/dualipa-optimised.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR lime]•[/COLOR] Shakira - Perro Fiel ft. Nicky Jam</title>        
+<urlsolve>https://www.youtube.com/watch?v=SHq2qrFUlGY</urlsolve>
+<thumbnail>http://coverlandia.net/sites/default/files/styles/music_artwork_page/public/artworks/music/287591501749027.jpg?itok=TuNbpMyw</thumbnail>
+<fanart>https://i.ytimg.com/vi/HZLALzOuxEI/maxresdefault.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR lime]•[/COLOR] DJ Khaled - Wild Thoughts ft. Rihanna, Bryson Tiller</title>        
+<urlsolve>https://www.youtube.com/watch?v=fyaI4-5849w</urlsolve>
+<thumbnail>http://www.youredm.com/wp-content/uploads/2017/07/NOTD-Wild-Thoughts-Remix-Art.jpg</thumbnail>
+<fanart>http://www.playthishiphop.com/wp-content/uploads/2017/06/DJ-Khaled-%E2%80%93-Wild-Thoughts.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR lime]•[/COLOR] Si Tú La Ves - Nicky Jam Ft Wisin</title>        
+<urlsolve>https://www.youtube.com/watch?v=mcGBVy3-W4s</urlsolve>
+<thumbnail>http://generourbano.com/wp-content/uploads/2017/01/Nicky-Jam-Si-Tu-La-Ves-Wisin.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/mcGBVy3-W4s/maxresdefault.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR lime]•[/COLOR] Danny Ocean - Me Rehúso</title>        
+<urlsolve>https://www.youtube.com/watch?v=aDCcLQto5BM</urlsolve>
+<thumbnail>http://i1.sndcdn.com/artworks-000225882830-uv51g5-t500x500.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/aDCcLQto5BM/maxresdefault.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR lime]•[/COLOR] Demarco Flamenco Feat. Maki - La isla del amor</title>        
+<urlsolve>https://www.youtube.com/watch?v=J420qbYfIX0</urlsolve>
+<thumbnail>https://i.ytimg.com/vi/Sh4oS_q_diU/hqdefault.jpg</thumbnail>
+<fanart>http://www.radiole.com/wp-content/uploads/2017/01/PORTADA-SINGLE.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR lime]•[/COLOR] Calvin Harris - This Is What You Came For (Official Video) ft. Rihanna </title>        
 <urlsolve>https://www.youtube.com/watch?v=kOkQ4T5WO9E</urlsolve>
 <thumbnail>https://i.ytimg.com/vi/kOkQ4T5WO9E/maxresdefault.jpg</thumbnail>
 <fanart>https://i.ytimg.com/vi/kOkQ4T5WO9E/maxresdefault.jpg</fanart>
 </item>
 
 <item>
-<title>Luis Fonsi - Despacito ft. Daddy Yankee </title>        
+<title>[COLOR lime]•[/COLOR] Luis Fonsi - Despacito ft. Daddy Yankee </title>        
 <urlsolve>https://www.youtube.com/watch?v=kJQP7kiw5Fk</urlsolve>
 <thumbnail>https://i.ytimg.com/vi/kJQP7kiw5Fk/maxresdefault.jpg</thumbnail>
 <fanart>http://ichord.info/wp-content/uploads/2017/07/C8X33GPXgAAUan8-e1491579314239.jpg</fanart>
 </item>
 
 <item>
-<title>El Amante - Nicky Jam (Video Oficial) (Álbum Fénix) </title>        
+<title>[COLOR lime]•[/COLOR] El Amante - Nicky Jam (Video Oficial) (Álbum Fénix) </title>        
 <urlsolve>https://www.youtube.com/watch?v=YG2p6XBuSKA</urlsolve>
 <thumbnail>https://i.ytimg.com/vi/YG2p6XBuSKA/hqdefault.jpg</thumbnail>
 <fanart>http://cdn1.ipauta.com/wp-content/uploads/2017/01/Nicky-Jam-El-Amante-Prod.-By-Saga-WhiteBlack.jpg</fanart>
 </item>
 
 <item>
-<title>CAN'T STOP THE FEELING! (From DreamWorks Animation's "Trolls") (Official Video) </title>        
+<title>[COLOR lime]•[/COLOR] CAN'T STOP THE FEELING! (From DreamWorks Animation's "Trolls") (Official Video) </title>        
 <urlsolve>https://www.youtube.com/watch?v=ru0K8uYEZWw</urlsolve>
 <thumbnail>https://i1.ytimg.com/vi/ru0K8uYEZWw/hqdefault.jpg</thumbnail>
 <fanart>https://i.ytimg.com/vi/GcSmmX9CYyc/maxresdefault.jpg</fanart>
 </item>
 
 <item>
-<title>Katy Perry - Chained To The Rhythm (Official) ft. Skip Marley</title>        
+<title>[COLOR lime]•[/COLOR] Shakira - Me Enamoré</title>        
+<urlsolve>https://www.youtube.com/watch?v=sPTn0QEhxds</urlsolve>
+<thumbnail>http://estaticos.elperiodico.com/resources/jpg/2/3/enamore-shakira-1491562426632.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/sPTn0QEhxds/maxresdefault.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR lime]•[/COLOR] Katy Perry - Chained To The Rhythm (Official) ft. Skip Marley</title>        
 <urlsolve>https://www.youtube.com/watch?v=Um7pMggPnug</urlsolve>
 <thumbnail>https://i.ytimg.com/vi/Um7pMggPnug/maxresdefault.jpg</thumbnail>
 <fanart>http://www.contactmusic.com/images/video-stills/katy-perry-chained-to-the-rhythm-920.jpg</fanart>
 </item>
 
 <item>
-<title>Ed Sheeran - Shape of You [Official Video</title>        
+<title>[COLOR lime]•[/COLOR] Ed Sheeran - Shape of You [Official Video</title>        
 <urlsolve>https://www.youtube.com/watch?v=JGwWNGJdvx8</urlsolve>
 <thumbnail>https://i.ytimg.com/vi/JGwWNGJdvx8/hqdefault.jpg</thumbnail>
 <fanart>https://images.genius.com/92f0a248f93f5113dcead2f62c1ff24d.1000x1000x1.jpg</fanart>
 </item>
 
 <item>
-<title>Jason Derulo - Swalla (feat. Nicki Minaj & Ty Dolla $ign) (Official Music Video)</title>        
+<title>[COLOR lime]•[/COLOR] Jason Derulo - Swalla (feat. Nicki Minaj & Ty Dolla $ign) (Official Music Video)</title>        
 <urlsolve>https://www.youtube.com/watch?v=NGLxoKOvzu4</urlsolve>
 <thumbnail>https://i.ytimg.com/vi/NGLxoKOvzu4/hqdefault.jpg</thumbnail>
 <fanart>https://s-media-cache-ak0.pinimg.com/originals/dc/d4/62/dcd4629829549e0c0653ba498b601230.png</fanart>
 </item>
 
 <item>
-<title>Marshmello - Summer (Official Music Video) with Lele Pons</title>        
+<title>[COLOR lime]•[/COLOR] Marshmello - Summer (Official Music Video) with Lele Pons</title>        
 <urlsolve>https://www.youtube.com/watch?v=2vMH8lITTCE</urlsolve>
 <thumbnail>https://i.ytimg.com/vi/m-taapqB0bA/maxresdefault.jpg</thumbnail>
 <fanart>https://i.ytimg.com/vi/SE502EtrlMw/maxresdefault.jpg</fanart>
 </item>
 
 <item>
-<title>Major Lazer – Light it Up (feat. Nyla & Fuse ODG) [Music Video Remix] by Method Studios</title>        
+<title>[COLOR lime]•[/COLOR] Major Lazer – Light it Up (feat. Nyla & Fuse ODG) [Music Video Remix] by Method Studios</title>        
 <urlsolve>https://www.youtube.com/watch?v=r2LpOUwca94</urlsolve>
 <thumbnail>https://i.ytimg.com/vi/8cOst8qFK6g/maxresdefault.jpg</thumbnail>
 <fanart>https://i.ytimg.com/vi/P2hLa4Ctwpo/maxresdefault.jpg</fanart>
 </item>
 
 <item>
-<title>Carlos Vives, Shakira - La Bicicleta (Official Video)</title>        
+<title>[COLOR lime]•[/COLOR] Sergio Contreras - Díselo (feat. Rafa Puas)</title>        
+<urlsolve>https://www.youtube.com/watch?v=iXWEBhjLd9w</urlsolve>
+<thumbnail>http://www.diariodehuelva.es/wp-content/uploads/2017/06/diselo-copiar.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/iXWEBhjLd9w/maxresdefault.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR lime]•[/COLOR] Carlos Vives, Shakira - La Bicicleta (Official Video)</title>        
 <urlsolve>https://www.youtube.com/watch?v=-UV0QGLmYys</urlsolve>
 <thumbnail>http://cocdn02.mundotkm.com/2016/07/Carlos-Vives-Shakira-La-Bicicleta-Official-Video.jpg</thumbnail>
 <fanart>http://cdn2.ipauta.com/wp-content/uploads/2016/08/Carlos-Vives-Ft.-Shakira-Y-Maluma-La-Bicicleta-Remix.jpg</fanart>
 </item>
 
 <item>
-<title>Ariana Grande - Side To Side ft. Nicki Minaj</title>        
+<title>[COLOR lime]•[/COLOR] Ariana Grande - Side To Side ft. Nicki Minaj</title>        
 <urlsolve>https://www.youtube.com/watch?v=SXiSVQZLje8</urlsolve>
 <thumbnail>http://elmovimientourbano.es/wp-content/uploads/2016/08/ariana-grande-ft-nicki-minaj-sid.jpg</thumbnail>
 <fanart>https://i.ytimg.com/vi/czIzBCDwT5I/maxresdefault.jpg</fanart>
 </item>
 
 <item>
-<title>Bruno Mars - 24K Magic [Official Video]</title>        
+<title>[COLOR lime]•[/COLOR] Bruno Mars - 24K Magic [Official Video]</title>        
 <urlsolve>https://www.youtube.com/watch?v=UqyT8IEBkvY</urlsolve>
 <thumbnail>https://i.ytimg.com/vi/UqyT8IEBkvY/maxresdefault.jpg</thumbnail>
 <fanart>https://images-na.ssl-images-amazon.com/images/I/71Gr9aCHQfL._SL1204_.jpg</fanart>
 </item>
 
 <item>
-<title>Maroon 5 - Don't Wanna Know</title>        
+<title>[COLOR lime]•[/COLOR] Maroon 5 - Don't Wanna Know</title>        
 <urlsolve>https://www.youtube.com/watch?v=ANS9sSJA9Yc</urlsolve>
 <thumbnail>http://www.billboard.com/files/styles/article_main_image/public/media/maroon-5-dont-wanna-know-vid-2016-billboard-1548.jpg</thumbnail>
 <fanart>https://images.genius.com/73a34d501ab0ea962a4fcda19a957f86.1000x1000x1.jpg</fanart>
 </item>
 
 <item>
-<title>Selena Gomez - Kill Em With Kindness</title>        
+<title>[COLOR lime]•[/COLOR] Selena Gomez - Kill Em With Kindness</title>        
 <urlsolve>https://www.youtube.com/watch?v=HHP5MKgK0o8</urlsolve>
 <thumbnail>http://popglitz.com/wp-content/uploads/2016/06/Selena-Gomez-Kill-Em-With-Kindness-Video.png</thumbnail>
 <fanart>http://www.vegaradio.com/media/k2/items/cache/1f77879b610476cf4577162eb46bba35_XL.jpg</fanart>
 </item>
 
 <item>
-<title>Kendrick Lamar - LOYALTY. ft. Rihanna</title>        
+<title>[COLOR lime]•[/COLOR] Kendrick Lamar - LOYALTY. ft. Rihanna</title>        
 <urlsolve>https://www.youtube.com/watch?v=Dlh-dzB2U4Y</urlsolve>
 <thumbnail>http://coverlandia.net/sites/default/files/styles/music_artwork_page/public/artworks/music/216441493541446.png?itok=LgZ7vKLL</thumbnail>
 <fanart>https://images.genius.com/039eed0758eb3aa30f050c77e7bbdc1e.1000x1000x1.jpg</fanart>
 </item>
 
 <item>
-<title>Taylor Swift - Shake It Off </title>        
+<title>[COLOR lime]•[/COLOR] Taylor Swift - Shake It Off </title>        
 <urlsolve>https://www.youtube.com/watch?v=nfWlot6h_JM</urlsolve>
 <thumbnail>https://upload.wikimedia.org/wikipedia/en/d/d1/Taylor_Swift_-_Shake_It_Off_music_video_screenshot.jpg</thumbnail>
 <fanart>http://syndic8.grantdigital.com.au/content/2014/08/22/Taylor-Swift-Shake-It-Off_22ffe.jpg</fanart>
 </item>
 
 <item>
-<title>Maroon 5 - Sugar </title>        
+<title>[COLOR lime]•[/COLOR] Maroon 5 - Sugar </title>        
 <urlsolve>https://www.youtube.com/watch?v=09R8_2nJtjg</urlsolve>
 <thumbnail>http://gruporivas.com.mx/wp-content/uploads/2015/03/Maroon-5-Sugar.jpg</thumbnail>
 <fanart>https://i.ytimg.com/vi/OxPv8mSTv9U/maxresdefault.jpg</fanart>
 </item>
 
 <item>
-<title>Major Lazer & DJ Snake - Lean On (feat. MØ) (Official Music Video) </title>        
+<title>[COLOR lime]•[/COLOR] Major Lazer & DJ Snake - Lean On (feat. MØ) (Official Music Video) </title>        
 <urlsolve>https://www.youtube.com/watch?v=YqeW9_5kURI</urlsolve>
 <thumbnail>http://www.songspub.com/content/songspub/news/ML%20Lean%20On%20Music%20Video%20Still_605x403.jpg</thumbnail>
 <fanart>http://elcorillord.com/wp-content/uploads/2015/11/Major-Lazer-DJ-Snake-Ft-M%C3%98-Lean-On.jpg</fanart>
@@ -128,7 +242,7 @@
 
 
 <item>
-<title>Burak Yeter - Tuesday ft. Danelle Sandoval </title>        
+<title>[COLOR lime]•[/COLOR] Burak Yeter - Tuesday ft. Danelle Sandoval </title>        
 <urlsolve>https://www.youtube.com/watch?v=Y1_VsyLAGuk</urlsolve>
 <thumbnail>https://coubsecure-s.akamaihd.net/get/b23/p/coub/simple/cw_timeline_pic/dd115d93719/8717d332cef3ad0536cda/med_1472819226_image.jpg</thumbnail>
 <fanart>https://i.ytimg.com/vi/0mPeohNu1Nw/maxresdefault.jpg</fanart>
@@ -136,12 +250,103 @@
 
 
 <item>
+<title>[COLOR lime]•[/COLOR] J. Balvin, Willy William - Mi Gente (Official Video)</title>        
+<urlsolve>https://www.youtube.com/watch?v=wnJ6LuUFpMo</urlsolve>
+<thumbnail>https://1.bp.blogspot.com/-vlhvU25u8JM/WVf85bHNUKI/AAAAAAAAC7U/zbEGwKM6Llw9rhBc9WiZdboBwO8iBO__ACLcBGAs/s1600/J.%2BBalvin%252C%2BWilly%2BWilliam%2B-%2BMi%2BGente.mp4_snapshot_00.32_%255B2017.07.01_15.48.54%255D.jpg</thumbnail>
+<fanart>http://generourbano.com/wp-content/uploads/2017/06/j-balvin-willy-william-mi-gente.jpg</fanart>
+</item>
+
+
+<item>
+<title>[COLOR lime]•[/COLOR] Mark Ronson - Uptown Funk ft. Bruno Mars </title>        
+<urlsolve>https://www.youtube.com/watch?v=OPf0YbXqDm0</urlsolve>
+<thumbnail>http://www.lick.fm/wp-content/uploads/2015/01/120.png</thumbnail>
+<fanart>http://d3us2i0tqwa7m7.cloudfront.net/wavo-audio/54c7d675495f299c3400014b/oG2k_54c7d675495f299c3400014b.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR lime]•[/COLOR] Calvin Harris & Disciples - How Deep Is Your Love </title>        
+<urlsolve>https://www.youtube.com/watch?v=EgqUJOudrcM</urlsolve>
+<thumbnail>https://images.rapgenius.com/fdcdfbd0559e607dce808f0886227224.600x334x1.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/qWWSM3wCiKY/maxresdefault.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR lime]•[/COLOR] Pharrell Williams - Happy (Official Music Video) </title>        
+<urlsolve>https://www.youtube.com/watch?v=y6Sxv-sUYtM</urlsolve>
+<thumbnail>http://www.mtv.co.uk/sites/default/files/styles/carousel_wide/public/mtv_uk/video/2014/09/11/pharrellwilliams_happy.jpg?itok=Wua4T_V0</thumbnail>
+<fanart>https://i.ytimg.com/vi/mhSTJkp2P9M/maxresdefault.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR lime]•[/COLOR] Jessie J, Ariana Grande, Nicki Minaj - Bang Bang ft. Ariana Grande, Nicki Minaj </title>        
+<urlsolve>https://www.youtube.com/watch?v=0HDdjwpPM3Y</urlsolve>
+<thumbnail>http://i2.esmas.com/2014/08/26/689422/nicki-minaj-ariana-grande-y-jessie-j-610x339.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/YswhUHH6Ufc/maxresdefault.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR lime]•[/COLOR] Thalía - Desde Esa Noche ft. Maluma </title>        
+<urlsolve>https://www.youtube.com/watch?v=6C_s56iscpQ</urlsolve>
+<thumbnail>https://edgecast.buscafs.com/www.metatube.com/public/uploads/images/1203397_735x390.jpeg</thumbnail>
+<fanart>https://i.ytimg.com/vi/_YgLr_nJGLs/maxresdefault.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR lime]•[/COLOR] Maluma - Felices los 4 (Official Video)</title>        
+<urlsolve>https://www.youtube.com/watch?v=t_jHrUE5IOk</urlsolve>
+<thumbnail>http://sss.moda.pe/imagen/apaisado/maluma-felices-los-4-natalia-barulich1-df0b2.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/hM5lO2PWnGk/maxresdefault.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR lime]•[/COLOR] Marc Anthony - Vivir Mi Vida </title>        
+<urlsolve>https://www.youtube.com/watch?v=YXnjy5YlDwk</urlsolve>
+<thumbnail>http://cdn.playbuzz.com/cdn/48d2068f-9dff-4f2b-9498-b7665ec1267f/9d16f9d5-7867-4f57-8c3c-3540fa51f62d.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/scYQWaT-Yjg/maxresdefault.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR lime]•[/COLOR] Pitbull & J Balvin - Hey Ma ft Camila Cabello (Spanish Version | The Fate of the Furious: The Album) </title>        
+<urlsolve>https://www.youtube.com/watch?v=UWLr2va3hu0</urlsolve>
+<thumbnail>http://m.aceshowbiz.com/webimages/news/camila-cabello-get-flirty-with-pitbull-and-j-balvin-in-hey-ma.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/WGaeqhQNt7s/maxresdefault.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR lime]•[/COLOR] Wisin - Vacaciones (Official Video) </title>        
+<urlsolve>https://www.youtube.com/watch?v=ULoXlXJOZOo</urlsolve>
+<thumbnail>https://static.diariouno.com.ar/adjuntos/212/imagenes/018/885/0018885686.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/-T8MPL9Q_m8/maxresdefault.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR lime]•[/COLOR] Ricky Martin - Vente Pa' Ca (Official Video) ft. Maluma </title>        
+<urlsolve>https://www.youtube.com/watch?v=iOe6dI2JhgU</urlsolve>
+<thumbnail>http://los40es00.epimg.net/los40/imagenes/2016/08/23/musica/1471970636_337223_1471970670_noticia_normal.jpg</thumbnail>
+<fanart>http://flowhot.me/mp3/wp-content/uploads/2017/01/Ricky%20Martin%20Ft.%20Maluma%20-%20Vente%20Pa%20Ca.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR lime]•[/COLOR] Shawn Mendes - There's Nothing Holdin' Me Back </title>        
+<urlsolve>https://www.youtube.com/watch?v=dT2owtxkU8k</urlsolve>
+<thumbnail>https://cdn.fashionmagazine.com/wp-content/uploads/2017/06/shawn-mendes-nothing-holdin-me-back-music-video-01-e1498050528676-480x320-c-top.png</thumbnail>
+<fanart>https://images.genius.com/e80305ec3a6b3a131a7ea93032a97bb8.1000x1000x1.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR lime]•[/COLOR] Si Tú La Ves - Nicky Jam Ft Wisin (Video Oficial) </title>        
+<urlsolve>https://www.youtube.com/watch?v=mcGBVy3-W4s</urlsolve>
+<thumbnail>https://i.ytimg.com/vi/UOpExzfCMJU/hqdefault.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/mcGBVy3-W4s/maxresdefault.jpg</fanart>
+</item>
+
+<item>
 <title></title>        
 <urlsolve></urlsolve>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
-
 
 <item>
 <title></title>        
@@ -151,9 +356,7 @@
 </item>
 
 
-<item>
-<title></title>        
-<urlsolve></urlsolve>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
+
+
+
+

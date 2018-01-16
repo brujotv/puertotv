@@ -1,8 +1,22 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
+<channels>
+      
+<channel>
+      <name>[COLOR darkcyan][COLOR mediumblue]•   [/COLOR] CINE INFANTIL ACESTREAM-PLEXUS[/COLOR]</name>
+  <thumbnail>https://dl.dropbox.com/s/m63srwkwtv9c2yk/Jdr63CineYaron.jpg</thumbnail>
+<fanart>http://www.actualfestival.com/wp-content/uploads/2015/11/cine-maraton1.png</fanart>
+<link>http://ignoreme</link>
+   <externallink>https://dl.dropbox.com/s/2z3vks5a9w6fc64/CineJdr63YARON.m3u</externallink>
+</channel>
+  </channels>
+
+</channels>
+
 <item>
-<title></title>        
-<urlsolve></urlsolve>
+<title>El Leon Melquiades Capitulo 01</title>
 <thumbnail></thumbnail>
 <fanart></fanart>
+<link>http://ignoreme</link>
+<externallink>http://s3.diskokosmiko.mx/preview?e=5MoOJ3ssVTZzbd3Of_xxcnOR2Y1Jiwh2vBMS1JbX5jsZ3U68f8kpYDhbFwZa3rKzkMX9Py8aKpjWum-t_j0fTnDjJHkEey2bWhUQvhkMgqVjzPDbv8Y8ZWl12XspHF7TyvRPtkZkw2GFpVOPGSPdCJ6FwQYL0Q9wZFTQgUHDAi0</externallink>
 </item>

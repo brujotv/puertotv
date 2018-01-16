@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
  
+
 <item>
-<title>Series retro</title>
+<title>[B][COLOR red]Series[/COLOR][/B]</title>
+<link>http://ignoreme</link>
+</item>
+
+<item>
+<title>[COLOR lime]•[/COLOR]Series retro</title>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <link>http://ignoreme</link>
@@ -9,9 +15,80 @@
 </item>
 
 <item>
-<title>Series actuales</title>
+<title>[COLOR lime]•[/COLOR]Series actuales</title>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <link>http://ignoreme</link>
 <externallink>https://raw.githubusercontent.com/brujotv/puertotv/master/seriesactu.xml</externallink>
 </item>
+
+
+<item>
+<title>[B][COLOR red]Servidores de series en internet[/COLOR][/B]</title>
+<link>http://ignoreme</link>
+</item>
+
+<item>
+<title>[COLOR lime]•[/COLOR]Series GNULA</title>
+
+<link>$doregex[makelist0]</link>
+
+<regex>
+<name>makelist0</name>
+<listrepeat><![CDATA[
+<SetViewMode>55</SetViewMode>
+<title>[COLOR lightblue][makelist0.param2]   [/COLOR]</title>
+<link>$doregex[makelist1]</link>
+]]></listrepeat>
+<expres><![CDATA[href=\"\/(lista-de-series.*?)">(.*?)<]]></expres>
+<page>http://gnula.se/lista-de-series/</page>
+</regex>
+
+
+
+
+<regex>
+<name>makelist1</name>
+<listrepeat><![CDATA[
+<SetViewMode>55</SetViewMode>
+<title>[COLOR lightblue][makelist1.param2]   [/COLOR]</title>
+<link>$doregex[makelist2]</link>
+]]></listrepeat>
+<expres><![CDATA[a\shref="(.*?)"\stitle="([makelist0.param2].*?)">(.*?)<]]></expres>
+<page>http://gnula.se/[makelist0.param1]</page>
+</regex>
+
+
+
+
+<regex>
+<name>makelist2</name>
+<listrepeat><![CDATA[
+<SetViewMode>55</SetViewMode>
+<title>[COLOR lightblue][makelist2.param3]  [makelist2.param2]   [/COLOR]</title>
+<link>$doregex[makelist3]</link>
+]]></listrepeat>
+<expres><![CDATA[blank\"\shref="(.*?)".*?strong>(.*?)<.*?rong>(.*?)<]]></expres>
+<page>http://gnula.se[makelist1.param1]</page>
+</regex>
+
+
+
+<regex>
+<name>makelist3</name>
+<listrepeat><![CDATA[
+<SetViewMode>55</SetViewMode>
+<title>[COLOR lightblue][makelist2.param3] [makelist2.param2] | [COLOR lightgreen]Idioma:[B][makelist3.param4][/B][/COLOR]  [COLOR lightblue]Calidad:[B][makelist3.param1][/B][/COLOR]  [COLOR lightslategray]Server:[B][makelist3.param3][/B][/COLOR]        [/COLOR]</title>
+<urlsolve>[makelist3.param2]</urlsolve>
+<thumbnail>[makelist2.param2]</thumbnail>
+<fanart>[makelist2.param2]</fanart>
+]]></listrepeat>
+<expres><![CDATA[episode-notes\">(.*?)<[\w\W\s\n]{0,400}href=\"(http://gamovideo.*?|https://vidoza.*?|https://kingvid.*?|https://openload.*?|https://streamango.*?)"[\w\W\s\n]{0,250}domain=(.*?)"[\w\W\s]{0,100}lng\/(.*?).png]]></expres>
+<page>[makelist2.param1]</page>
+</regex>
+<thumbnail></fanart></item> 
+
+
+
+
+

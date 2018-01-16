@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
  
 <item>
-<title>Videoclip</title>
+<title>[COLOR lime]•[/COLOR] Videoclip</title>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <link>http://ignoreme</link>
@@ -9,9 +9,31 @@
 </item>
 
 <item>
-<title>Radio</title>
+<title>[COLOR lime]•[/COLOR] Radio</title>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <link>http://ignoreme</link>
 <externallink>https://raw.githubusercontent.com/brujotv/puertotv/master/radio.xml</externallink>
+</item>
+
+<item>
+<title>[COLOR lime]•[/COLOR] Canales tv musica</title>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<link>http://ignoreme</link>
+<externallink>https://raw.githubusercontent.com/brujotv/puertotv/master/musica%20tv.xml</externallink>
+</item>
+
+<item><title>[COLOR lime]•[/COLOR] Vevo 2017</title>
+<link>$doregex[makelist]</link>
+<regex><name>makelist</name>
+<listrepeat><![CDATA[
+<title>[makelist.param1]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
+<thumbnail>https://i.ytimg.com/vi/[makelist.param2]/hqdefault.jpg</thumbnail>
+]]></listrepeat>
+<expres>title="(.*?)".*?watch\?v=(.*?)[",&amp;]</expres>
+<page>https://www.youtube.com/channel/UCOI7BU2RF0O9ymZSxN6hL3g/videos</page>
+</regex>
+<thumbnail>http://www.tubefilter.com/wp-content/uploads/2014/05/vevo-newfronts.jpg</thumbnail>
 </item>

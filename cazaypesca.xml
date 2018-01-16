@@ -1,25 +1,38 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
  
-<item>
-<title>Videos de pesca</title>
-<thumbnail></thumbnail>
-<fanart></fanart>
+
+
+ <item>
+<title>[COLOR lime]•[/COLOR] Motor</title>
+<thumbnail>http://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2017/11/24/15115419811654.jpg</thumbnail>
+<fanart>http://wibooprueba.com/FrontEnd/jumbok/en/wp-content/uploads/sites/2/2015/10/motor2.jpg</fanart>
 <link>http://ignoreme</link>
-<externallink>https://raw.githubusercontent.com/brujotv/puertotv/master/pesca.xml</externallink>
+<externallink>https://raw.githubusercontent.com/brujotv/puertotv/master/documentales%20motor.xml</externallink>
 </item>
 
  <item>
-<title>Videos de caza</title>
+<title>[COLOR lime]•[/COLOR] Documentales de viajes</title>
+<thumbnail>https://i.pinimg.com/736x/72/d4/af/72d4af03ded597b1fc7eabbfe5470492--travel-bug-danny.jpg</thumbnail>
+<fanart>https://vuelosviajesbaratos.files.wordpress.com/2017/02/consejos-para-viajar.jpg</fanart>
+<link>http://ignoreme</link>
+<externallink>https://raw.githubusercontent.com/brujotv/puertotv/master/documentales%20viajes.xml</externallink>
+</item>
+
+ <item>
+<title>[COLOR lime]•[/COLOR] Documentales</title>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <link>http://ignoreme</link>
-<externallink></externallink>
+<externallink>https://raw.githubusercontent.com/brujotv/puertotv/master/todo%20documentales.xml</externallink>
 </item>
 
 <item>
-<title>--- documentales ---</title>
+<title>[COLOR lime]•[/COLOR] Top 10 youtube</title>
 <thumbnail></thumbnail>
-<fanart></fanart>
+<fanart>http://www.javelin-tech.com/blog/wp-content/uploads/2015/10/solidworks-top-ten-list.jpg</fanart>
 <link>http://ignoreme</link>
-<externallink></externallink>
+<externallink>https://raw.githubusercontent.com/brujotv/puertotv/master/top10.xml</externallink>
 </item>
+
+
+

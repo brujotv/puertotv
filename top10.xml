@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+
+<item><title>[COLOR lime]•[/COLOR] Top 10</title>
+<link>$doregex[makelist]</link>
+<regex><name>makelist</name>
+<listrepeat><![CDATA[
+<title>[makelist.param1]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
+<thumbnail>https://i.ytimg.com/vi/[makelist.param2]/hqdefault.jpg</thumbnail>
+]]></listrepeat>
+<expres>title="(.*?)".*?watch\?v=(.*?)[",&amp;]</expres>
+<page>https://www.youtube.com/channel/UCU4dLZPpj0hRF-P4x4snO9g/videos</page>
+</regex>
+<thumbnail>http://www.javelin-tech.com/blog/wp-content/uploads/2015/10/solidworks-top-ten-list.jpg</thumbnail>
+</item>

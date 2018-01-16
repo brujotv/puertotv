@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+
+<item><title>[COLOR lime]•[/COLOR] Monologos varios</title>
+<link>$doregex[makelist]</link>
+<regex><name>makelist</name>
+<listrepeat><![CDATA[
+<title>[makelist.param1]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
+<thumbnail>https://i.ytimg.com/vi/[makelist.param2]/hqdefault.jpg</thumbnail>
+]]></listrepeat>
+<expres>title="(.*?)".*?watch\?v=(.*?)[",&amp;]</expres>
+<page>https://www.youtube.com/channel/UCfs14tNr0tfJfiX5cvUsO7w/videos</page>
+</regex>
+<thumbnail>https://pbs.twimg.com/profile_images/529239174558138368/XoMw54lV.jpeg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR lime]•[/COLOR] Berto Romero: Piscinas para ricos - El Club de la Comedia</title>        
+<urlsolve>https://www.youtube.com/watch?v=FtYeVs8P288&list=PLoY_dmfGHuXbjdr7tDzOiCiSMO8GPNJm9</urlsolve>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR lime]•[/COLOR] Berto Romero: Fallos del lenguaje - El Club de la Comedia</title>        
+<urlsolve>https://www.youtube.com/watch?v=uvqx3IIyzJ8&list=PLoY_dmfGHuXbjdr7tDzOiCiSMO8GPNJm9&index=4</urlsolve>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR lime]•[/COLOR] </title>        
+<urlsolve></urlsolve>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+

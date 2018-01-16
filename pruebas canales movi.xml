@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+
+<item> 
+            <title>[COLOR lime]•[/COLOR] prueba 1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://37.187.128.169:8000/live/dkkkasd4545rrrpp/akqpp33845hvnajur/12.ts&amp;streamtype=TSDOWNLOADER&amp;name=La 1 SD</link> 
+            <thumbnail>http://static.programacion-tdt.com/imgAPP/TVE1.min.png</thumbnail>
+</item>
+
+<item> 
+            <title>[COLOR lime]•[/COLOR] prueba 2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.nonoip.com:7000/live/khalidbenabdouger/6kwrt3OHP1/523.ts&amp;streamtype=TSDOWNLOADER&amp;name=Antena 3</link> 
+            <thumbnail>http://static.programacion-tdt.com/imgAPP/TVE1.min.png</thumbnail>
+</item>
+

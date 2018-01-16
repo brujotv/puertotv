@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+
+<item><title>[COLOR lime]•[/COLOR] Recetas de casa LM</title>
+<link>$doregex[makelist]</link>
+<regex><name>makelist</name>
+<listrepeat><![CDATA[
+<title>[makelist.param1]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
+<thumbnail>https://i.ytimg.com/vi/[makelist.param2]/hqdefault.jpg</thumbnail>
+]]></listrepeat>
+<expres>title="(.*?)".*?watch\?v=(.*?)[",&amp;]</expres>
+<page>https://www.youtube.com/channel/UCoJAl712oPdoEwBjbbJPGqQ/videos</page>
+</regex>
+<thumbnail>https://www.hola.com/imagenes/bloques/cocina/cocina_y_recetas/boton-cocina-definitivo.jpg</thumbnail>
+</item>
+
+<item><title>[COLOR lime]•[/COLOR] Recetas de Cocina</title>
+<link>$doregex[makelist]</link>
+<regex><name>makelist</name>
+<listrepeat><![CDATA[
+<title>[makelist.param1]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
+<thumbnail>https://i.ytimg.com/vi/[makelist.param2]/hqdefault.jpg</thumbnail>
+]]></listrepeat>
+<expres>title="(.*?)".*?watch\?v=(.*?)[",&amp;]</expres>
+<page>https://www.youtube.com/user/recetasdecocina/videos</page>
+</regex>
+<thumbnail>https://www.hola.com/imagenes/bloques/cocina/cocina_y_recetas/boton-cocina-definitivo.jpg</thumbnail>
+</item>
+
+<item><title>[COLOR lime]•[/COLOR] Cocina Para Todos</title>
+<link>$doregex[makelist]</link>
+<regex><name>makelist</name>
+<listrepeat><![CDATA[
+<title>[makelist.param1]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
+<thumbnail>https://i.ytimg.com/vi/[makelist.param2]/hqdefault.jpg</thumbnail>
+]]></listrepeat>
+<expres>title="(.*?)".*?watch\?v=(.*?)[",&amp;]</expres>
+<page>https://www.youtube.com/user/cocinatodo/videos</page>
+</regex>
+<thumbnail>https://www.hola.com/imagenes/bloques/cocina/cocina_y_recetas/boton-cocina-definitivo.jpg</thumbnail>
+</item>
+

@@ -1,9 +1,110 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
 <item>
-<title>Canales de deportes movistar</title>
-<thumbnail></thumbnail>
+<title>[COLOR lime]•[/COLOR] Ver Liga </title>
+<link>$doregex[get-id]|Referer=http://www.verliga.net/live/verliga1.php&amp;User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64; rv:55.0) Gecko/20100101 Firefox/55.0</link>
+<regex>
+<name>get-id</name>
+<expres>source: '(.*?)'</expres>
+<page>$doregex[get-url]</page>
+<referer>http://www.verliga.net/live/verliga1.php</referer>
+<agent>Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/48.0.2564.116 Chrome/48.0.2564.116 Safari/537.36</agent>
+</regex>
+<regex>
+<name>get-url</name>
+<expres>allowfullscreen\ssrc="(.*?)"</expres>
+<page>http://www.verliga.net/live/verliga1.php</page>
+<referer>http://www.verliga.net/verliga.html</referer>
+<agent>Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/48.0.2564.116 Chrome/48.0.2564.116 Safari/537.36</agent>
+</regex>
+
+<thumbnail>https://raw.githubusercontent.com/adrianhn/adryanlist/master/adryan/img/esp.jpg</thumbnail><info>Recuerda hacer tu donacion para seguir mejorando Adryanlist en     http://paypal.me/Adryanlist</info></item>
+
+<item>
+<title>[COLOR  lime]•[/COLOR] BEIN LIGA</title>
+<link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/48.0.2564.116 Chrome/48.0.2564.116 Safari/537.36</link>
+<regex>
+<name>GetPageUrl</name>
+<expres>source: '(.*?)'</expres>
+<page>http://vergol.com/live3/beinliga.php</page>
+<agent>Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/48.0.2564.116 Chrome/48.0.2564.116 Safari/537.36</agent>
+<referer>http://www.vercanalestv.com/ver-bein-sports-la-liga-en-directo-24h-gratis-online</referer>
+</regex> 
+<thumbnail>https://3.bp.blogspot.com/-_w7fnKT_BKs/V6b5Q4so3UI/AAAAAAAAASQ/EbLnk-Y4CQc87xBqklIpAWroNGJ31wWJgCLcB/s1600/bein-sport-liga.png </thumbnail>
+</item>
+
+<item>
+<title>[COLOR lime]•[/COLOR] Canales deportes</title>
+<link>NA</link>
+<externallink>https://raw.githubusercontent.com/adrianhn/adryanlist/master/adryan/espdep.xml</externallink>
+<thumbnail>https://raw.githubusercontent.com/adrianhn/adryanlist/master/adryan/img/esp.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR lime]•[/COLOR] Extratime</title>
+<link>http://ignorame</link><thumbnail></thumbnail><fanart></fanart>
+<externallink>https://raw.githubusercontent.com/adrianhn/adryanlist/master/adryan/multicanales.xml</externallink>
+<info></info>
+</item>
+
+<item>
+<title>[COLOR lime]•[/COLOR] Deportes internacional</title>
+<thumbnail>https://www.ayto-villacanada.es/sites/default/files/images/imagenesbannersinf/icono2_deportes_web.jpg</thumbnail>
 <fanart></fanart>
 <link>http://ignoreme</link>
-<externallink>https://raw.githubusercontent.com/brujotv/puertotv/master/canalesdeportes.xml</externallink>
+<externallink>https://raw.githubusercontent.com/brujotv/puertotv/master/deportes%20internaciomales.xml</externallink>
 </item>
+
+<item><title>[COLOR lime]•[/COLOR] Diario AS</title>
+<link>$doregex[makelist]</link>
+<regex><name>makelist</name>
+<listrepeat><![CDATA[
+<title>[makelist.param1]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
+<thumbnail>https://i.ytimg.com/vi/[makelist.param2]/hqdefault.jpg</thumbnail>
+]]></listrepeat>
+<expres>title="(.*?)".*?watch\?v=(.*?)[",&amp;]</expres>
+<page>https://www.youtube.com/user/DIARIOAScom/videos</page>
+</regex>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Logo_diario_AS.svg/245px-Logo_diario_AS.svg.png</thumbnail>
+</item>
+
+<item><title>[COLOR lime]•[/COLOR] Diario MARCA</title>
+<link>$doregex[makelist]</link>
+<regex><name>makelist</name>
+<listrepeat><![CDATA[
+<title>[makelist.param1]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
+<thumbnail>https://i.ytimg.com/vi/[makelist.param2]/hqdefault.jpg</thumbnail>
+]]></listrepeat>
+<expres>title="(.*?)".*?watch\?v=(.*?)[",&amp;]</expres>
+<page>https://www.youtube.com/user/Marca/videos</page>
+</regex>
+<thumbnail>http://e00-marca.uecdn.es/assets/v9/img/logo-marca.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR lime]•[/COLOR] Repeticion carreras F1</title>
+<thumbnail>http://www.thesportsdb.com/images/icons/honours/FIA_Formula_1_World_Championship.png</thumbnail>
+<fanart>http://www.f1fanatic.co.uk/wp-content/uploads/2017/04/XPB_868129_HiRes-e1491629335234.jpg</fanart>
+<link>http://ignoreme</link>
+<externallink>https://raw.githubusercontent.com/RetroBlogPi/MagicPi/master/formula1.xml</externallink>
+</item>
+
+<item>
+<title>[COLOR lime]•[/COLOR] Repeticion carreras MOTOGP </title>
+<thumbnail>https://i.imgur.com/STFpv7Z.png</thumbnail>
+<fanart>https://i.imgur.com/UlIfR3z.png</fanart>
+<link>http://ignoreme</link>
+<externallink>https://raw.githubusercontent.com/RetroBlogPi/MagicPi/master/menumotos.xml</externallink>
+</item>
+
+<item>
+<title>[COLOR lime]•[/COLOR] Deportes supermopy</title>
+<fanart></fanart>
+<thumbnail></thumbnail>
+<link>http://ignoreme</link>
+<externallink>https://goo.gl/jhQVWm</externallink>
+</item>	
+
+
