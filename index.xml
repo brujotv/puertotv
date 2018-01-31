@@ -13,7 +13,7 @@
 
 <item>
 <title>[COLOR lime]•[/COLOR] Movistar</title>
-<thumbnail>https://esports.movistar.es/static/BB3HTML/images/movistar-logo.svg?hash=645ee8a99c26e7a626fa9f3e28fb7811</thumbnail>
+<thumbnail>https://www.profesionalreview.com/wp-content/uploads/2017/11/Movistar.png</thumbnail>
 <fanart>http://as01.epimg.net/betech/imagenes/2017/10/10/portada/1507643321_673558_1507643624_noticia_normal.jpg</fanart>
 <link>http://ignoreme</link>
 <externallink>https://raw.githubusercontent.com/brujotv/puertotv/master/indexmovi.xml</externallink>
@@ -33,14 +33,6 @@
 <fanart>http://thmbcache.com/thumbs/rack/c/be167d9ea953d44e8cbd-25e9f6b52714e6c3d4dbb7e330152014.r68.cf3.rackcdn.com/87754963.jpg</fanart>
 <link>http://ignoreme</link>
 <externallink>https://raw.githubusercontent.com/brujotv/puertotv/master/deportes.xml</externallink>
-</item>
-
-<item>
-<title>[COLOR lime]•[/COLOR] Eventos deportivos</title>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<link>http://ignoreme</link>
-<externallink>https://raw.githubusercontent.com/brujotv/puertotv/master/eventos%20deportivos.xml</externallink>
 </item>
 
 <item>
@@ -69,8 +61,8 @@
 
 <item>
 <title>[COLOR lime]•[/COLOR] Carnaval de cadiz</title>
-<thumbnail></thumbnail>
-<fanart></fanart>
+<thumbnail>https://www.diariobahiadecadiz.com/noticias/wp-content/uploads/2017/09/cartelescarni18-3.jpg</thumbnail>
+<fanart>https://www.codigocarnaval.com/wp-content/uploads/2017/09/Portada-Articulo.jpg</fanart>
 <link>http://ignoreme</link>
 <externallink>https://raw.githubusercontent.com/brujotv/puertotv/master/carnaval.xml</externallink>
 </item>
