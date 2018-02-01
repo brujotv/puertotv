@@ -87,11 +87,18 @@
 <fanart></fanart>
 </item>
 
+
 <item>
-<title>[COLOR lime]•[/COLOR] Be Mad TV</title>        
-<link>https://mdslivehls-i.akamaihd.net/hls/live/571646/bemad/bitrate_1.m3u8</link>
-<thumbnail>http://lafabricadelatele.com/wp-content/uploads/2016/04/bemad.jpg</thumbnail>
-<fanart>https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/EuroEspa%C3%B1a.svg/1200px-EuroEspa%C3%B1a.svg.png</fanart>
+<title>[COLOR lime]•[/COLOR] BE MAD</title>
+<link>$doregex[GetPageUrl]|Referer=http://vercanalestv.com/tv/nacionales/be-mad.html&amp;User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64; rv:55.0) Gecko/20100101 Firefox/55.0</link>
+<regex>
+<name>GetPageUrl</name>
+<expres>source: '(.*?)'</expres>
+<page>http://vergol.com/live/bemad.php</page>
+<referer>http://vercanalestv.com/tv/nacionales/be-mad.html</referer>
+</regex>
+<thumbnail>http://zonadjjavi.webcindario.com/Kodi/logos/bemad1.jpg</thumbnail>
+<fanart></fanart>
 </item>
 
 <item>
@@ -109,10 +116,17 @@
 </item>
 
 <item>
-<title>[COLOR red]•[/COLOR] Ten</title>        
-<link>Http://88.148.69.129:9090/play/a022</link>
-<thumbnail>http://www1.movistarplus.es/recorte/m-NEO/canal/TEN</thumbnail>
-<fanart>https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/EuroEspa%C3%B1a.svg/1200px-EuroEspa%C3%B1a.svg.png</fanart>
+<title>[COLOR lime]•[/COLOR] TEN</title>
+ <link>$doregex[GetPageUrl]|Referer=http://livesports.pw/embed2.php?file=launotelefivegb&amp;User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64; rv:54.0) Gecko/20100101 Firefox/54.0</link>
+<regex>
+<name>GetPageUrl</name>
+<expres>source: '(.*?)'</expres>
+<page>http://livesports.pw/embed2.php?file=ten&amp;width=650&amp;height=397</page>
+<cookieJar></cookieJar>
+</regex>
+<referer>http://cinestrenostv.tv</referer>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Ten.svg/1200px-Ten.svg.png</thumbnail>
+<fanart></fanart>
 </item>
 
 <item>
@@ -123,10 +137,31 @@
 </item>
 
 <item>
-<title>[COLOR red]•[/COLOR] Dkiss</title>        
-<link>http://kisstvnacional.es.flash.glb.canalweb.com/kisstvnacional.es/mp4:9KISSTV.mp4/playlist.m3u8</link>
-<thumbnail>http://www.dkiss.es/wp-content/uploads/DKiss-1.png</thumbnail>
-<fanart>https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/EuroEspa%C3%B1a.svg/1200px-EuroEspa%C3%B1a.svg.png</fanart>
+<title>[COLOR red]•[/COLOR] DMAX</title>
+ <link>$doregex[GetPageUrl]|Referer=http://livesports.pw/embed2.php?file=launotelefivegb&amp;User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64; rv:54.0) Gecko/20100101 Firefox/54.0</link>
+<regex>
+<name>GetPageUrl</name>
+<expres>source: '(.*?)'</expres>
+<page>http://livesports.pw/embed2.php?file=dmax&amp;width=650&amp;height=397</page>
+<cookieJar></cookieJar>
+</regex>
+<referer>http://cinestrenostv.tv</referer>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/2/25/DMAX_Logo_16_05_2011.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR red]•[/COLOR] DKISS</title>
+ <link>$doregex[GetPageUrl]|Referer=http://livesports.pw/embed2.php?file=launotelefivegb&amp;User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64; rv:54.0) Gecko/20100101 Firefox/54.0</link>
+<regex>
+<name>GetPageUrl</name>
+<expres>source: '(.*?)'</expres>
+<page>http://livesports.pw/embed2.php?file=dkiss&amp;width=650&amp;height=397</page>
+<cookieJar></cookieJar>
+</regex>
+<referer>http://cinestrenostv.tv</referer>
+<thumbnail>http://www.formulatv.com/images/noticias/55900/55970/1_4bda286a54.jpg</thumbnail>
+<fanart></fanart>
 </item>
 
 <item>
@@ -170,12 +205,18 @@
 <thumbnail>http://www.8tv.cat/wp-content/themes/8tv/_/images/apple-touch-icons/apple-touch-icon.png</thumbnail>
 <fanart>https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/EuroEspa%C3%B1a.svg/1200px-EuroEspa%C3%B1a.svg.png</fanart>
 </item>
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIES0006
+
 <item>
-<title>[COLOR red]•[/COLOR] Boing</title>        
-<link>http://mset-prgb-2.live-delivery.ooyala.com/out/u/3vkkbgnvsm2r5/104951/ZvOXRpODE6c__EQ05epWGBX6530x-EhS/cn/ddf752ff80af43709eabdf84e1d65366_1.m3u8</link>
-<thumbnail>http://www.diesl.com/wp-content/uploads/2017/01/Boing_Diesl.com_.png</thumbnail>
-<fanart>https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/EuroEspa%C3%B1a.svg/1200px-EuroEspa%C3%B1a.svg.png</fanart>
+<title>[COLOR lime]•[/COLOR] BOING</title>
+ <link>$doregex[GetPageUrl]|Referer=http://livesports.pw/embed2.php?file=launotelefivegb&amp;User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64; rv:54.0) Gecko/20100101 Firefox/54.0</link>
+<regex>
+<name>GetPageUrl</name>
+<expres>source: '(.*?)'</expres>
+<page>http://livesports.pw/embed2.php?file=boing&amp;width=650&amp;height=397</page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://www.simbajuguetes.com/wp-content/uploads/2017/05/logo-boing.png</thumbnail>
+<fanart></fanart>
 </item>
 
 <item>
@@ -197,20 +238,6 @@ http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIES0006
 <link>http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl1/tdphd_lv3_aosv4_gl1/tdphd_lv3_aosv4_gl1.isml/tdphd_lv3_aosv4_gl1-audio=128000-video=1500000.m3u8</link>
 <thumbnail>https://pbs.twimg.com/profile_images/378800000825220874/9a37e1ec3b1aa0bb5aa723e43c30c8ba_400x400.png</thumbnail>
 <fanart></fanart>
-</item>
-
-<item>
-<title>[COLOR white][COLOR yellow] •  [/COLOR]TEN[/COLOR]</title>
- <link>$doregex[GetPageUrl]|Referer=http://livesports.pw/embed2.php?file=launotelefivegb&amp;User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64; rv:54.0) Gecko/20100101 Firefox/54.0</link>
-<regex>
-<name>GetPageUrl</name>
-<expres>source: '(.*?)'</expres>
-<page>http://livesports.pw/embed2.php?file=ten&amp;width=650&amp;height=397</page>
-<cookieJar></cookieJar>
-</regex>
-<referer>http://cinestrenostv.tv</referer>
-<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Ten.svg/1200px-Ten.svg.png</thumbnail>
-<fanart>http://zonadjjavi.webcindario.com/fanart.jpg</fanart>
 </item>
 
 <item>
