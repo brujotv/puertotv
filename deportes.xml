@@ -3,11 +3,76 @@
 
 
 <item>
-<title>[COLOR lime]•[/COLOR]SPORT365 (addon deportes a la carta necesario)</title>
+<title>[COLOR lime]•[/COLOR] SPORT365 (addon deportes a la carta necesario)</title>
 <link>ignorme</link>
 <jsonrpc>plugin://plugin.video.deportesalacarta/?ewogICAgImFjdGlvbiI6ICJtYWlubGlzdCIsIAogICAgImNhdGVnb3J5IjogImRlcG9ydCIsIAogICAgImNoYW5uZWwiOiAic3BvcnQzNjUiLCAKICAgICJmYW5hcnQiOiAiIiwgCiAgICAiaW5mb0xhYmVscyI6IHt9LCAKICAgICJsYW5ndWFnZSI6ICJlcyIsIAogICAgInRodW1ibmFpbCI6ICJodHRwOi8vaS5pbWd1ci5jb20vaEoydmhpcC5wbmciLCAKICAgICJ0aXRsZSI6ICJTcG9ydDM2NSIsIAogICAgInRvdGFsSXRlbXMiOiAwLCAKICAgICJ2aWV3bW9kZSI6ICJsaXN0Igp9</jsonrpc>
 <thumbnail>http://s1.medianetworkinternational.com/images/icons/apple-touch-icon-114x114.png</thumbnail>
 </item>
+
+<item>
+<title>[COLOR lime]•[/COLOR] TikiTaka 01 </title>
+<link>http://$doregex[ip]$doregex[m3u8]$doregex[hls]</link>
+    <regex>
+    <name>ip</name>
+    <expres>redirect=(.*)</expres>
+    <page>http://cdn.mipspublisher.com:1935/loadbalancer</page>
+    </regex>
+    <regex>
+    <name>m3u8</name>
+    <expres>ea \+ "(.*?)"</expres>
+    <page>http://www.mipsplayer.com/membedplayer/$doregex[canal]/1/750/420</page>
+    <agent>Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5</agent>
+    <referer>http://www.mipsplayer.com</referer>
+    </regex>
+    <regex>
+    <name>hls</name>
+    <expres>hlsUrl \+ \(\"(.*?)"</expres>
+    <page>http://www.mipsplayer.com/membedplayer/$doregex[canal]/1/500/400</page>
+    <agent>Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5</agent>
+    <referer>http://www.mipsplayer.com</referer>
+    </regex>
+    <regex>
+    <name>canal</name>
+    <expres>channel='(.*?)'</expres>
+    <page>http://lacasadeltikitaka.club/directo/canal1.php</page>
+    </regex>
+<thumbnail></thumbnail>
+<info></info></item>
+
+
+
+<item>
+<title>[COLOR lime]•[/COLOR] TikiTaka 02 </title>
+<link>http://$doregex[ip]$doregex[m3u8]$doregex[hls]</link>
+    <regex>
+    <name>ip</name>
+    <expres>redirect=(.*)</expres>
+    <page>http://cdn.mipspublisher.com:1935/loadbalancer</page>
+    </regex>
+    <regex>
+    <name>m3u8</name>
+    <expres>ea \+ "(.*?)"</expres>
+    <page>http://www.mipsplayer.com/membedplayer/$doregex[canal]/1/750/420</page>
+    <agent>Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5</agent>
+    <referer>http://www.mipsplayer.com</referer>
+    </regex>
+    <regex>
+    <name>hls</name>
+    <expres>hlsUrl \+ \(\"(.*?)"</expres>
+    <page>http://www.mipsplayer.com/membedplayer/$doregex[canal]/1/500/400</page>
+    <agent>Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5</agent>
+    <referer>http://www.mipsplayer.com</referer>
+    </regex>
+    <regex>
+    <name>canal</name>
+    <expres>channel='(.*?)'</expres>
+    <page>http://lacasadeltikitaka.club/directo/canal2.php</page>
+    </regex>
+<thumbnail></thumbnail>
+<info></info></item>
+
+
+
 
 <item>
 <title>[COLOR lime]•[/COLOR] Ver Liga </title>
