@@ -89,7 +89,7 @@
 
 
 <item>
-<title>[COLOR lime]•[/COLOR] BE MAD</title>
+<title>[COLOR red]•[/COLOR] BE MAD</title>
 <link>$doregex[GetPageUrl]|Referer=http://vercanalestv.com/tv/nacionales/be-mad.html&amp;User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64; rv:55.0) Gecko/20100101 Firefox/55.0</link>
 <regex>
 <name>GetPageUrl</name>
@@ -116,7 +116,7 @@
 </item>
 
 <item>
-<title>[COLOR lime]•[/COLOR] TEN</title>
+<title>[COLOR red]•[/COLOR] TEN</title>
  <link>$doregex[GetPageUrl]|Referer=http://livesports.pw/embed2.php?file=launotelefivegb&amp;User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64; rv:54.0) Gecko/20100101 Firefox/54.0</link>
 <regex>
 <name>GetPageUrl</name>
@@ -137,7 +137,7 @@
 </item>
 
 <item>
-<title>[COLOR lime]•[/COLOR] DMAX</title>
+<title>[COLOR red]•[/COLOR] DMAX</title>
  <link>$doregex[GetPageUrl]|Referer=http://livesports.pw/embed2.php?file=launotelefivegb&amp;User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64; rv:54.0) Gecko/20100101 Firefox/54.0</link>
 <regex>
 <name>GetPageUrl</name>
@@ -165,7 +165,7 @@
 </item>
 
 <item>
-<title>[COLOR lime]•[/COLOR] Lancelot TV</title>        
+<title>[COLOR red]•[/COLOR] Lancelot TV</title>        
 <link>http://62.210.141.18:1935/directo/lancelot.television/live.m3u8</link>
 <thumbnail>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRONX6V4oteOIE8_uC0MqaShyw5-6ZP92XLlT5khwIvRQMDB1zpKxrQ9Mc</thumbnail>
 <fanart>https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/EuroEspa%C3%B1a.svg/1200px-EuroEspa%C3%B1a.svg.png</fanart>
@@ -207,7 +207,7 @@
 </item>
 
 <item>
-<title>[COLOR lime]•[/COLOR] BOING</title>
+<title>[COLOR red]•[/COLOR] BOING</title>
  <link>$doregex[GetPageUrl]|Referer=http://livesports.pw/embed2.php?file=launotelefivegb&amp;User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64; rv:54.0) Gecko/20100101 Firefox/54.0</link>
 <regex>
 <name>GetPageUrl</name>
@@ -277,7 +277,7 @@
 </item>
 
 <item>
-<title>[COLOR lime]•[/COLOR] ALL SPORTS</title>        
+<title>[COLOR red]•[/COLOR] ALL SPORTS</title>        
 <link>http://173.236.10.10:1935/dgrau/dgrau/live.m3u8</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
