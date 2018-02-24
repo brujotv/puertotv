@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
 <item>
-<title> 2011 (1)</title>
+<title> 2011 [COLOR lime](1)[/COLOR]</title>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <link>http://ignoreme</link>
@@ -9,7 +9,7 @@
 </item>
 
 <item>
-<title> 2013 (1)</title>
+<title> 2013 [COLOR lime](1)[/COLOR]</title>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <link>http://ignoreme</link>
@@ -17,7 +17,7 @@
 </item>
 
 <item>
-<title> 2014 (3)</title>
+<title> 2014 [COLOR lime](3)[/COLOR]</title>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <link>http://ignoreme</link>
@@ -25,7 +25,7 @@
 </item>
 
 <item>
-<title> 2015 (5)</title>
+<title> 2015 [COLOR lime](5)[/COLOR]</title>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <link>http://ignoreme</link>
@@ -33,7 +33,7 @@
 </item>
 
 <item>
-<title> 2016 (8)</title>
+<title> 2016 [COLOR lime](8)[/COLOR]</title>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <link>http://ignoreme</link>
@@ -41,7 +41,7 @@
 </item>
 
 <item>
-<title> 2017 (27)</title>
+<title> 2017 [COLOR lime](27)[/COLOR]</title>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <link>http://ignoreme</link>
@@ -49,17 +49,10 @@
 </item>
 
 <item>
-<title> 2018 (3)</title>
+<title> 2018 [COLOR lime](3)[/COLOR]</title>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <link>http://ignoreme</link>
 <externallink>https://raw.githubusercontent.com/brujotv/puertotv/master/18.xml</externallink>
 </item>
 
-<item>
-<title></title>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<link>http://ignoreme</link>
-<externallink></externallink>
-</item>
