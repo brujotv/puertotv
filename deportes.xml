@@ -194,4 +194,27 @@
 <externallink>https://goo.gl/jhQVWm</externallink>
 </item>	
 
+<item>
+<title>[COLOR yellow] _**_  [/COLOR][COLOR  skyblue] ZONA [/COLOR][COLOR orange] UFC [/COLOR][COLOR yellow]  _**_ [/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+            <name>makelist</name>
+            <listrepeat><![CDATA[
+                        <title>[makelist.param1]</title>
+                        <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
+                        <thumbnail>https://www.spaceboxing.com/wp-content/uploads/2013/07/UFC-Logo-2-psd87648-300x300.jpg</thumbnail>
+                   
+            ]]></listrepeat>
+            <expres>data-video-title="(.*?)".*?\n.*?\n.*?\n.*?\n.*?&lt;a href="\/watch\?v=(.*?)&amp;</expres>
+            <page>https://www.youtube.com/watch?v=yAP4R5VdZlA&amp;list=PL4qLto13WOlecXPZdBDnLjHVuv6w_qsd6</page>
+             <cookieJar></cookieJar>
+</regex>
+
+ 
+    <thumbnail>https://www.spaceboxing.com/wp-content/uploads/2013/07/UFC-Logo-2-psd87648-300x300.jpg</thumbnail>
+<fanart>https://www.spaceboxing.com/wp-content/uploads/2013/07/UFC-Logo-2-psd87648-300x300.jpg</fanart>
+ 
+</item>
+
+
 
