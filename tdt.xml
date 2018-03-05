@@ -298,7 +298,7 @@
 </item>
 
 <item>
-<title>[COLOR lime]**[/COLOR] [UPPERCASE][COLOR skyblue] #Movistar + Estrenos [/UPPERCASE][/COLOR] </title>
+<title>[COLOR lime]•[/COLOR] Movistar + Estrenos </title>
 <link>$doregex[get-id]|User-Agent=iPad</link>
 <regex>
 <name>get-id</name>
