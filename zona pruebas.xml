@@ -62,17 +62,6 @@
 <thumbnail>https://www.teleadhesivo.com/es/img/mag373-png/folder/products-detalle-png/vinilos-decorativos-balon-de-futbol-bandera-de-espana.png</thumbnail>   
 </item>
 
-<item>
-<title>[COLOR lime]**[/COLOR] [UPPERCASE][COLOR skyblue] #Movistar + Estrenos [/UPPERCASE][/COLOR] </title>
-<link>$doregex[get-id]|User-Agent=iPad</link>
-<regex>
-<name>get-id</name>
-<expres>source: '(.*?)'</expres>
-<page>http://vergol.com/live/plusestrenos.php</page>
-<referer>http://www.vercanalestv.com/ver-canal-plus-estrenos-en-directo-y-online-las-24h/</referer>
-<agent>iPad</agent>
-</regex>
-<thumbnail>https://www.teleadhesivo.com/es/img/mag373-png/folder/products-detalle-png/vinilos-decorativos-balon-de-futbol-bandera-de-espana.png</thumbnail>   </item>
 
 <item>
 <title>[COLOR lime]**[/COLOR] [UPPERCASE][COLOR skyblue] #Movistar + DCine [/UPPERCASE][/COLOR] </title>
