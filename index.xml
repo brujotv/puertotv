@@ -12,6 +12,14 @@
 </item>
 
 <item>
+<title>[COLOR lime]•[/COLOR] IPTV</title>
+<thumbnail>https://i.imgur.com/6ezAMIJ.jpg</thumbnail>
+<fanart>https://i.imgur.com/CtczDLO.jpg</fanart>
+<link>http://ignoreme</link>
+<externallink>https://raw.githubusercontent.com/brujotv/puertotv/master/IPTV.xml</externallink>
+</item>
+
+<item>
 <title>[COLOR lime]•[/COLOR] Canales internacionales</title>
 <thumbnail>https://previews.123rf.com/images/alhovik/alhovik1209/alhovik120900001/15017439-Banderas-del-mundo-Europa-Foto-de-archivo.jpg</thumbnail>
 <fanart>https://previews.123rf.com/images/alhovik/alhovik1209/alhovik120900001/15017439-Banderas-del-mundo-Europa-Foto-de-archivo.jpg</fanart>
@@ -105,14 +113,6 @@
 <jsonrpc>plugin://plugin.program.iarl</jsonrpc>
 <thumbnail>https://img08.deviantart.net/17b9/i/2007/087/c/9/snes_logo_by_orksovaj.png</thumbnail>
 <fanart>https://cdn-images-1.medium.com/max/1400/1*vvrxNe4FPEeVmXLh5sDLDA.png</fanart>
-</item>
-
-<item>
-<title>[COLOR lime]•[/COLOR] IPTV</title>
-<thumbnail>https://i.imgur.com/6ezAMIJ.jpg</thumbnail>
-<fanart>https://i.imgur.com/CtczDLO.jpg</fanart>
-<link>http://ignoreme</link>
-<externallink>https://raw.githubusercontent.com/brujotv/puertotv/master/IPTV.xml</externallink>
 </item>
 
 <item>
