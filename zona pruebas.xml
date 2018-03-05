@@ -87,31 +87,6 @@
 </regex>
 <thumbnail>https://www.teleadhesivo.com/es/img/mag373-png/folder/products-detalle-png/vinilos-decorativos-balon-de-futbol-bandera-de-espana.png</thumbnail>   </item>
 
-<item>
-<title>[COLOR lime]**[/COLOR] [UPPERCASE][COLOR skyblue] #Movistar + Series[/UPPERCASE][/COLOR] </title>
-<link>$doregex[get-id]|User-Agent=iPad</link>
-<regex>
-<name>get-id</name>
-<expres>source: '(.*?)'</expres>
-<page>http://vergol.com/live1/plusseries.php</page>
-<referer>http://www.vercanalestv.com/ver-canal-plus-comedia-online-y-en-directo-gratis-las-24h-por-internet/</referer>
-<agent>iPad</agent>
-</regex>
-<thumbnail>https://www.teleadhesivo.com/es/img/mag373-png/folder/products-detalle-png/vinilos-decorativos-balon-de-futbol-bandera-de-espana.png</thumbnail>   </item>
-
-
-
-<item><title>[COLOR lime]**[/COLOR] [UPPERCASE][COLOR skyblue] #Movistar + Acción [/UPPERCASE][/COLOR] </title>
-<link>$doregex[get-id]|User-Agent=iPad</link>
-<regex>
-<name>get-id</name>
-<expres>[",\'](h.*m3u8.*?)'</expres>
-<page>http://vergol.com/live/plusaccion.php</page>
-<referer>http://www.vercanalestv.com/ver-canal-plus-accion-online-y-en-directo-gratis-las-24h-por-internet/</referer>
-<agent>iPad</agent>
-</regex>
-<thumbnail>https://www.teleadhesivo.com/es/img/mag373-png/folder/products-detalle-png/vinilos-decorativos-balon-de-futbol-bandera-de-espana.png</thumbnail>   
-</item>
 
 
 <item>
@@ -228,18 +203,6 @@
 <page>http://vergol.com/live3/beinsport.php</page>
 <referer>http://www.vertelevisor.com/bein-sport-en-directo-gratis-online-por-internet-en-vivo/</referer>
 <agent>iPad</agent>
-</regex>
-<thumbnail>https://www.teleadhesivo.com/es/img/mag373-png/folder/products-detalle-png/vinilos-decorativos-balon-de-futbol-bandera-de-espana.png</thumbnail>   </item>
-
-<item>
-<title>[COLOR lime]**[/COLOR] [UPPERCASE][COLOR skyblue] Canal Cocina [/UPPERCASE][/COLOR] </title>
-<link>$doregex[get-id]|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36</link>
-<regex>
-<name>get-id</name>
-<expres>source: '(.*?)'</expres>
-<page>http://vergol.com/live/cocina.php</page>
-<referer>http://www.vercanalestv.com/ver-canal-cocina-online-gratis-las-24h-en-vivo/</referer>
-<agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36</agent>
 </regex>
 <thumbnail>https://www.teleadhesivo.com/es/img/mag373-png/folder/products-detalle-png/vinilos-decorativos-balon-de-futbol-bandera-de-espana.png</thumbnail>   </item>
 
