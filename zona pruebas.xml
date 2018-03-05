@@ -5,20 +5,13 @@
 
 <item>
 <title>[COLOR lime]•[/COLOR] prueba 1 </title>        
-<link>http://playlist.onlybest.tv/en/channel/2874e3a9397ce975e8463c76533bcb1e/581/index.m3u8</link>
+<link></link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
 <title>[COLOR lime]•[/COLOR] prueba 2 </title>        
-<link>http://163.172.52.83:8000/live/mMM33bE62ND6hY/ULfo7BodcIpYe3/536.m3u8</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title>[COLOR lime]•[/COLOR] </title>        
 <link></link>
 <thumbnail></thumbnail>
 <fanart></fanart>
@@ -39,192 +32,12 @@
 </item>
 
 <item>
-<title>[COLOR lime]**[/COLOR] [UPPERCASE][COLOR skyblue] Calle 13[/UPPERCASE][/COLOR] </title>
-<link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36</link>
-<regex>
-<name>GetPageUrl</name>
-<expres>source: '(.*?)'</expres>
-<page>http://livesports.pw/embedn.php?file=calltrees&width=650&height=400</page>
-<cookieJar></cookieJar>
-</regex>
-<thumbnail>https://www.teleadhesivo.com/es/img/mag373-png/folder/products-detalle-png/vinilos-decorativos-balon-de-futbol-bandera-de-espana.png</thumbnail>   </item>
-
-<item>
-<title>[COLOR lime]**[/COLOR] [UPPERCASE][COLOR skyblue] #o [/UPPERCASE][/COLOR] </title>
-<link>$doregex[get-id]|User-Agent=iPad</link>
-<regex>
-<name>get-id</name>
-<expres>source: '(.*?)'</expres>
-<page>http://vergol.com/live/plus1.php</page>
-<referer>http://www.vercanalestv.com/canal-plus-hd-online-y-gratis-las-24-en-vivo/</referer>
-<agent>iPad</agent>
-</regex>
-<thumbnail>https://www.teleadhesivo.com/es/img/mag373-png/folder/products-detalle-png/vinilos-decorativos-balon-de-futbol-bandera-de-espana.png</thumbnail>   
-</item>
-
-
-<item>
-<title>[COLOR lime]**[/COLOR] [UPPERCASE][COLOR skyblue] #Movistar + DCine [/UPPERCASE][/COLOR] </title>
-<link>$doregex[get-id]|User-Agent=iPad</link>
-<regex>
-<name>get-id</name>
-<expres>source: '(.*?)'</expres>
-<page>http://vergol.com/live/dcine.php</page>
-<referer>http://www.vercanalestv.com/ver-canal-plus-dcine-en-vivo-y-online-por-internet-las-24h/</referer>
-<agent>iPad</agent>
-</regex>
-<thumbnail>https://www.teleadhesivo.com/es/img/mag373-png/folder/products-detalle-png/vinilos-decorativos-balon-de-futbol-bandera-de-espana.png</thumbnail>   </item>
-
-<item>
-<title>[COLOR lime]**[/COLOR] [UPPERCASE][COLOR skyblue] #Movistar + Comedia [/UPPERCASE][/COLOR] </title>
-<link>$doregex[get-id]|User-Agent=iPad</link>
-<regex>
-<name>get-id</name>
-<expres>source: '(.*?)'</expres>
-<page>http://vergol.com/live/comedia.php</page>
-<referer>http://www.vercanalestv.com/ver-canal-plus-comedia-online-y-en-directo-gratis-las-24h-por-internet/</referer>
-<agent>iPad</agent>
-</regex>
-<thumbnail>https://www.teleadhesivo.com/es/img/mag373-png/folder/products-detalle-png/vinilos-decorativos-balon-de-futbol-bandera-de-espana.png</thumbnail>   </item>
-
-
-
-<item>
-<title>[COLOR lime]**[/COLOR] [UPPERCASE][COLOR skyblue] Caza Y Pesca[/UPPERCASE][/COLOR] </title>
-<link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36</link>
-<regex>
-<name>GetPageUrl</name>
-<expres>source: '(.*?)'</expres>
-<page>http://livesports.pw/embedn.php?file=cazaypesca&width=650&height=400</page>
-<cookieJar></cookieJar>
-</regex>
-<thumbnail>https://www.teleadhesivo.com/es/img/mag373-png/folder/products-detalle-png/vinilos-decorativos-balon-de-futbol-bandera-de-espana.png</thumbnail>   
+<title>[COLOR lime]•[/COLOR] </title>        
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
 </item>
 
 
 
-<item>
-<title>[COLOR lime]**[/COLOR] [UPPERCASE][COLOR skyblue] AxN [/UPPERCASE][/COLOR] </title>
-<link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36</link>
-<regex>
-<name>GetPageUrl</name>
-<expres>source: '(.*?)'</expres>
-<page>http://livesports.pw/embedn.php?file=cazaypesca&amp;width=650&amp;height=400</page>
-<cookieJar></cookieJar>
-</regex>
-<thumbnail>https://www.teleadhesivo.com/es/img/mag373-png/folder/products-detalle-png/vinilos-decorativos-balon-de-futbol-bandera-de-espana.png</thumbnail>  
- </item>
-
- 
-
-<item>
-<title>[COLOR lime]**[/COLOR] [UPPERCASE][COLOR skyblue] SYFY [/UPPERCASE][/COLOR] </title>
-<link>$doregex[GetPageUrl]|User-Agent=|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+WOW64%3B+Trident%2F7.0%3B+rv%3A11.0%29+like+Gecko</link>
-<regex>
-<name>GetPageUrl</name>
-<expres>source: '(.*?)'</expres>
-<page>http://livesports.pw/embedn.php?file=sysfesp&amp;width=650&amp;height=397</page>
-<cookieJar></cookieJar>
-</regex>
-<thumbnail>https://www.teleadhesivo.com/es/img/mag373-png/folder/products-detalle-png/vinilos-decorativos-balon-de-futbol-bandera-de-espana.png</thumbnail>  
- </item>
- 
- 
- <item>
-<title>[COLOR lime]**[/COLOR] [UPPERCASE][COLOR skyblue] AMC [/UPPERCASE][/COLOR] </title>
-<link>$doregex[GetPageUrl]|User-Agent=|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+WOW64%3B+Trident%2F7.0%3B+rv%3A11.0%29+like+Gecko</link>
-<regex>
-<name>GetPageUrl</name>
-<expres>source: '(.*?)'</expres>
-<page>http://livesports.pw/embedn.php?file=amcesptele&width=650&height=397</page>
-<cookieJar></cookieJar>
-</regex>
-<thumbnail>https://www.teleadhesivo.com/es/img/mag373-png/folder/products-detalle-png/vinilos-decorativos-balon-de-futbol-bandera-de-espana.png</thumbnail>  
- </item>
-
- 
- <item>
-<title>[COLOR lime]**[/COLOR] [UPPERCASE][COLOR skyblue] HOLLYWOOD [/UPPERCASE][/COLOR] </title>
-<link>$doregex[GetPageUrl]|User-Agent=|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+WOW64%3B+Trident%2F7.0%3B+rv%3A11.0%29+like+Gecko</link>
-<regex>
-<name>GetPageUrl</name>
-<expres>source: '(.*?)'</expres>
-<page>http://livesports.pw/embedn.php?file=hollywesp&width=650&height=397</page>
-<cookieJar></cookieJar>
-</regex>
-<thumbnail>https://www.teleadhesivo.com/es/img/mag373-png/folder/products-detalle-png/vinilos-decorativos-balon-de-futbol-bandera-de-espana.png</thumbnail>  
- </item>
- 
-
-<item>
-<title>[COLOR lime]**[/COLOR] [UPPERCASE][COLOR skyblue] Fox [/UPPERCASE][/COLOR] </title>
-<link>$doregex[GetPageUrl]|User-Agent=|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+WOW64%3B+Trident%2F7.0%3B+rv%3A11.0%29+like+Gecko</link>
-<regex>
-<name>GetPageUrl</name>
-<expres>source: '(.*?)'</expres>
-<page>http://livesports.pw/embedn.php?file=foxespana&amp;width=650&amp;height=397</page>
-<cookieJar></cookieJar>
-</regex>
-<thumbnail>https://www.teleadhesivo.com/es/img/mag373-png/folder/products-detalle-png/vinilos-decorativos-balon-de-futbol-bandera-de-espana.png</thumbnail>  
- </item>
- 
- <item>
-<title>[COLOR lime]**[/COLOR] [UPPERCASE][COLOR skyblue] Boing [/UPPERCASE][/COLOR] </title>
-<link>$doregex[GetPageUrl]|User-Agent=|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+WOW64%3B+Trident%2F7.0%3B+rv%3A11.0%29+like+Gecko</link>
-<regex>
-<name>GetPageUrl</name>
-<expres>source: '(.*?)'</expres>
-<page>http://livesports.pw/embed.php?file=boing&width=650&height=400</page>
-<cookieJar></cookieJar>
-</regex>
-<thumbnail>https://www.teleadhesivo.com/es/img/mag373-png/folder/products-detalle-png/vinilos-decorativos-balon-de-futbol-bandera-de-espana.png</thumbnail>  
- </item>
-
- 
- <item>
-<title>[COLOR lime]**[/COLOR] [UPPERCASE][COLOR skyblue] Boing [/UPPERCASE][/COLOR] </title>
-<link>$doregex[GetPageUrl]|User-Agent=|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+WOW64%3B+Trident%2F7.0%3B+rv%3A11.0%29+like+Gecko</link>
-<regex>
-<name>GetPageUrl</name>
-<expres>source: '(.*?)'</expres>
-<page>http://livesports.pw/embed.php?file=boing&width=650&height=400</page>
-<cookieJar></cookieJar>
-</regex>
-<thumbnail>https://www.teleadhesivo.com/es/img/mag373-png/folder/products-detalle-png/vinilos-decorativos-balon-de-futbol-bandera-de-espana.png</thumbnail>  
- </item>
-
-
-<item>
-<title>[COLOR lime]**[/COLOR] [UPPERCASE][COLOR skyblue] #Being La Liga[/UPPERCASE][/COLOR] </title>
-<link>$doregex[get-id]|User-Agent=iPad</link>
-<regex>
-<name>get-id</name>
-<expres>source: '(.*?)'</expres>
-<page>http://vergol.com/live3/beinsport.php</page>
-<referer>http://www.vertelevisor.com/bein-sport-en-directo-gratis-online-por-internet-en-vivo/</referer>
-<agent>iPad</agent>
-</regex>
-<thumbnail>https://www.teleadhesivo.com/es/img/mag373-png/folder/products-detalle-png/vinilos-decorativos-balon-de-futbol-bandera-de-espana.png</thumbnail>   </item>
-
-
-<item>
-<title>[COLOR lime]**[/COLOR] [UPPERCASE][COLOR skyblue] Prueba[/UPPERCASE][/COLOR] </title>
-<link>$doregex[get-id]|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36</link>
-<regex>
-<name>get-id</name>
-<expres>source: '(.*?)'</expres>
-<page>http://iao.vision/share/tv-series/</page>
-<referer>http://iao.vision/share/</referer>
-<agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36</agent>
-</regex>
-<thumbnail>https://www.teleadhesivo.com/es/img/mag373-png/folder/products-detalle-png/vinilos-decorativos-balon-de-futbol-bandera-de-espana.png</thumbnail>   </item>
-
-
-<item>
-<title>[COLOR lime]•[/COLOR] Movistar</title>
-<thumbnail>https://www.profesionalreview.com/wp-content/uploads/2017/11/Movistar.png</thumbnail>
-<fanart>http://as01.epimg.net/betech/imagenes/2017/10/10/portada/1507643321_673558_1507643624_noticia_normal.jpg</fanart>
-<link>http://ignoreme</link>
-<externallink>https://raw.githubusercontent.com/brujotv/puertotv/master/indexmovi.xml</externallink>
-</item>
 
