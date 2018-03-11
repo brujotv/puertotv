@@ -4,13 +4,7 @@
 
 
 
-<item>
-<title> 1918 [COLOR lime](1)[/COLOR]</title>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<link>http://ignoreme</link>
-<externallink>https://raw.githubusercontent.com/brujotv/puertotv/master/1918.xml</externallink>
-</item>
+
 
 <item>
 <title> 1902 [COLOR lime](1)[/COLOR]</title>
@@ -26,6 +20,14 @@
 <fanart></fanart>
 <link>http://ignoreme</link>
 <externallink>https://raw.githubusercontent.com/brujotv/puertotv/master/1903.xml</externallink>
+</item>
+
+<item>
+<title> 1918 [COLOR lime](1)[/COLOR]</title>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<link>http://ignoreme</link>
+<externallink>https://raw.githubusercontent.com/brujotv/puertotv/master/1918.xml</externallink>
 </item>
 
 <item>
