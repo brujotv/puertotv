@@ -91,6 +91,15 @@
 <externallink>https://raw.githubusercontent.com/brujotv/puertotv/master/cazaypesca.xml</externallink>
 </item>
 
+ <channels>
+       <channel>
+      <name>[COLOR lime]•[/COLOR] AEROBIC JUST DANCE</name>
+      <externallink>https://raw.githubusercontent.com/Darkman2110/DarkmanList/master/menu/aerobic.xml</externallink>
+      <thumbnail>http://apk.land/images/just-dance-now-161.png</thumbnail>
+      <fanart>http://zonadjjavi.webcindario.com/fanart.jpg</fanart>
+      </channel>
+</channels>
+
 <item>
 <title>[COLOR lime]•[/COLOR][COLOR red] Zona adultos[/COLOR]</title>
 <thumbnail>http://comprarpegatinas.com/images/stories/virtuemart/product/pegatinas/pegatina_prohibido_paso.png</thumbnail>
