@@ -38,7 +38,13 @@
 <fanart></fanart>
 </item>
 
-
+<item>
+<title></title>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<link>http://ignoreme</link>
+<externallink></externallink>
+</item>
 
 <item>
 <title> cine sd</title>
