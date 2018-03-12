@@ -95,7 +95,7 @@
 </item>
 
 <item>
-<title>[COLOR lime]•[/COLOR] Ver Liga </title>
+<title>[COLOR lime]•[/COLOR][COLOR yellow] VER LIGA  0 [/COLOR] </title>
 <link>$doregex[get-id]|Referer=http://www.verliga.net/live/verliga1.php&amp;User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64; rv:55.0) Gecko/20100101 Firefox/55.0</link>
 <regex>
 <name>get-id</name>
@@ -116,7 +116,7 @@
 
 
 <item>
-<title>[COLOR yellow] VER LIGA 1  [/COLOR]</title>
+<title>[COLOR lime]•[/COLOR][COLOR yellow] VER LIGA 1  [/COLOR]</title>
 <link>$doregex[get-id]|Referer=http://www.verliga.net/live/verliga1.php&amp;User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64; rv:55.0) Gecko/20100101 Firefox/55.0</link>
 <regex>
 <name>get-id</name>
@@ -143,7 +143,7 @@
 
 
 <item>
-<title>[COLOR yellow] VER LIGA 2  [/COLOR]</title>
+<title>[COLOR lime]•[/COLOR][COLOR yellow] VER LIGA 2  [/COLOR]</title>
 <link>$doregex[get-id]|Referer=http://www.verliga.net/live/verliga1.php&amp;User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64; rv:55.0) Gecko/20100101 Firefox/55.0</link>
 <regex>
 <name>get-id</name>
@@ -164,7 +164,7 @@
 
 
   <item>
-<title>[COLOR yellow] VER LIGA  3 [/COLOR]</title>
+<title>[COLOR lime]•[/COLOR][COLOR yellow] VER LIGA  3 [/COLOR]</title>
 <link>$doregex[get-id]|Referer=http://www.verliga.net/live/verliga1.php&amp;User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64; rv:55.0) Gecko/20100101 Firefox/55.0</link>
 <regex>
 <name>get-id</name>
