@@ -3,7 +3,7 @@
 
 
 <item>	
-<title>Patrulla Canina</title>
+<title>[COLOR lime]•[/COLOR] Patrulla Canina</title>
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
@@ -41,7 +41,7 @@
 
 
 <item>
-<title>[COLOR lime]•[/COLOR] Cantajuegos</title>
+<title>[COLOR lime]•[/COLOR] </title>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <link>http://ignoreme</link>
