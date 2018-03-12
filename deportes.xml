@@ -114,6 +114,75 @@
 
 <thumbnail>https://raw.githubusercontent.com/adrianhn/adryanlist/master/adryan/img/esp.jpg</thumbnail><info>Recuerda hacer tu donacion para seguir mejorando Adryanlist en     http://paypal.me/Adryanlist</info></item>
 
+
+<item>
+<title>[COLOR yellow] VER LIGA 1  [/COLOR]</title>
+<link>$doregex[get-id]|Referer=http://www.verliga.net/live/verliga1.php&amp;User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64; rv:55.0) Gecko/20100101 Firefox/55.0</link>
+<regex>
+<name>get-id</name>
+<expres>source: '(.*?)'</expres>
+<page>$doregex[get-url]</page>
+<referer>http://www.verliga.net/live/verliga1.php</referer>
+<agent>Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/48.0.2564.116 Chrome/48.0.2564.116 Safari/537.36</agent>
+</regex>
+<regex>
+<name>get-url</name>
+<expres>allowfullscreen\ssrc="(.*?)"</expres>
+<page>http://www.verliga.net/live/verliga1.php</page>
+<referer>http://www.verliga.net/verliga.html</referer>
+<agent>Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/48.0.2564.116 Chrome/48.0.2564.116 Safari/537.36</agent>
+</regex>
+
+<thumbnail></thumbnail></item>
+
+
+
+
+
+
+
+
+<item>
+<title>[COLOR yellow] VER LIGA 2  [/COLOR]</title>
+<link>$doregex[get-id]|Referer=http://www.verliga.net/live/verliga1.php&amp;User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64; rv:55.0) Gecko/20100101 Firefox/55.0</link>
+<regex>
+<name>get-id</name>
+<expres>source: '(.*?)'</expres>
+<page>$doregex[get-url]</page>
+<referer>http://www.verliga.net/live/verliga2.php</referer>
+<agent>Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/48.0.2564.116 Chrome/48.0.2564.116 Safari/537.36</agent>
+</regex>
+<regex>
+<name>get-url</name>
+<expres>allowfullscreen\ssrc="(.*?)"</expres>
+<page>http://www.verliga.net/live/verliga2.php</page>
+<referer>http://www.verliga.net/verliga.html</referer>
+<agent>Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/48.0.2564.116 Chrome/48.0.2564.116 Safari/537.36</agent>
+</regex>
+
+<thumbnail></thumbnail></item>
+
+
+  <item>
+<title>[COLOR yellow] VER LIGA  3 [/COLOR]</title>
+<link>$doregex[get-id]|Referer=http://www.verliga.net/live/verliga1.php&amp;User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64; rv:55.0) Gecko/20100101 Firefox/55.0</link>
+<regex>
+<name>get-id</name>
+<expres>source: '(.*?)'</expres>
+<page>$doregex[get-url]</page>
+<referer>http://www.verliga.net/live/verliga3.php</referer>
+<agent>Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/48.0.2564.116 Chrome/48.0.2564.116 Safari/537.36</agent>
+</regex>
+<regex>
+<name>get-url</name>
+<expres>allowfullscreen\ssrc="(.*?)"</expres>
+<page>http://www.verliga.net/live/verliga3.php</page>
+<referer>http://www.verliga.net/verliga.html</referer>
+<agent>Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/48.0.2564.116 Chrome/48.0.2564.116 Safari/537.36</agent>
+</regex>
+
+<thumbnail></thumbnail></item>
+
 <item>
 <title>[COLOR  lime]•[/COLOR] BEIN LIGA</title>
 <link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/48.0.2564.116 Chrome/48.0.2564.116 Safari/537.36</link>
