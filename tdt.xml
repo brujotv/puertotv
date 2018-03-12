@@ -1,5 +1,23 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
+<item>
+<title>[COLOR lime]• [/COLOR][COLOR orange] Programación Tv [/COLOR]</title>
+<link>$doregex[makelist]</link>
+ 
+<regex>
+  <name>makelist</name>
+  <listrepeat><![CDATA[
+        <title>[COLOR orange][B][makelist.param1][/B] [/COLOR][COLOR gold] [makelist.param2] [/COLOR][COLOR white]  [makelist.param3][COLOR yellow] [makelist.param4][/COLOR] [COLOR yellow] [makelist.param5][/COLOR]</title>
+        <link>Ignore thisistheshit_saludos_netai!</link>
+<thumbnail>https://media.licdn.com/mpr/mpr/shrinknp_200_200/p/4/000/185/2a3/35da564.jpg</thumbnail>
+]]></listrepeat>
+<expres><![CDATA[title=.*?n\s(.*?)"|"(ahora.*?)">\n\s\s\s(.*?)\n|date">(.*?)</span>\n\s\s\s(.*)\n]]></expres>
+<page>http://www.formulatv.com/programacion/</page>
+</regex>
+<thumbnail>https://media.licdn.com/mpr/mpr/shrinknp_200_200/p/4/000/185/2a3/35da564.jpg</thumbnail>
+<info></info>
+</item>
+
 
 
 <item>
