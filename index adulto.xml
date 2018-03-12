@@ -17,6 +17,243 @@
 <externallink>https://raw.githubusercontent.com/poluxw4u/Wet4u/master/Index.xml</externallink>
 </item>
 
+<item>
+<title>[COLOR white]• [/COLOR][COLOR blue] Porno Por Categoria [/COLOR][COLOR red] [B]+ 1 8[/B]  [/COLOR]  </title>
+<link>$doregex[makelist]</link>
+<regex>
+  <name>makelist</name>
+  <listrepeat><![CDATA[
+        <title>[COLOR white][B][makelist.param2][/B][/COLOR]</title>
+        <link>$doregex[makelist2]</link>
+]]></listrepeat>
+<expres><![CDATA[<a href="(\/tags.+?)"><b>(.+?)<\/b><span]]></expres>
+<page>http://www.xvideos.com/tags</page>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+  <name>makelist2</name>
+  <listrepeat><![CDATA[
+        <title>[B][COLOR hotpink][makelist2.param3][/COLOR][/B]</title>
+        <link>$doregex[getsrcadult]</link>
+        <thumbnail>[makelist2.param2]</thumbnail>
+]]></listrepeat>
+<expres><![CDATA[div id.+<a href="(.+?)".+img src="(.+?)".+title="(.+?)">]]></expres>
+<page>http://www.xvideos.com[makelist.param1]</page>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>getsrcadult</name>
+<expres><![CDATA[setVideoUrlHigh\('(.+?)'\)]]></expres>
+<page>http://www.xvideos.com[makelist2.param1]</page>
+</regex>
+<thumbnail>https://4.bp.blogspot.com/-a4-v6Qrsfic/WZH4Tp4XsUI/AAAAAAAAAHY/1gQZjL6L0BYQFUiOg-O_Z8TV9K6LD9H8gCLcBGAs/s1600/Adultos%2B%252B18.png</thumbnail><fanart>https://4.bp.blogspot.com/-O-p7x5Unf8E/WXtZzVMfPsI/AAAAAAAAAG0/QpykrzBCQhseJ8sD3XI40FMgQJ1pCMqfQCLcBGAs/s1600/Fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR white]• [/COLOR][COLOR blue] Pelis Porno S Y X [/COLOR][COLOR red] [B]+ 1 8[/B]  [/COLOR] </title>
+<link>$doregex[makelist]</link>
+<regex>
+  <name>makelist</name>
+  <listrepeat><![CDATA[
+        <title> [makelist.param3]</title>
+        <link>$doregex[getUrl]</link>
+        <thumbnail>http://2.bp.blogspot.com/-d5BQfTualG0/U8q5n8fGU1I/AAAAAAAADcs/NdJKY1NTyqQ/s1600/anti_XXX-660x350.jpg</thumbnail>
+]]></listrepeat>
+<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
+<page>http://diskokosmiko.mx/trivianita/cine-para-adultos-s-y-x-el-rockero-38726/list,1,12</page>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>getUrl</name>
+<expres>DownloadUrl":"([^"]+)<expres>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
+<rawpost>fileId=[makelist.param1]&__RequestVerificationToken=$doregex[tok]</rawpost>
+<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
+<connection>keep-alive</connection>
+<accept>*/*</accept>
+<X-Req>XMLHttpRequest</X-Req>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>tok</name>
+<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+<page>http://diskokosmiko.mx/[makelist.param2]</page>
+<referer>http://diskokosmiko.mx/trivianita/cine-para-adultos-s-y-x-el-rockero-38726/list,1,12</referer>
+<connection>keep-alive</connection>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://2.bp.blogspot.com/-d5BQfTualG0/U8q5n8fGU1I/AAAAAAAADcs/NdJKY1NTyqQ/s1600/anti_XXX-660x350.jpg</thumbnail>
+<fanart></fanart>
+</item>
+</items>
+</channel>
+
+
+
+<item>
+<title>[COLOR white]• [/COLOR][COLOR blue] Pelis Porno XXX [/COLOR][COLOR red] [B]+ 1 8[/B]  [/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+  <name>makelist</name>
+  <listrepeat><![CDATA[
+        <title> [makelist.param3]</title>
+        <link>$doregex[getUrl]</link>
+        <thumbnail>http://2.bp.blogspot.com/-d5BQfTualG0/U8q5n8fGU1I/AAAAAAAADcs/NdJKY1NTyqQ/s1600/anti_XXX-660x350.jpg</thumbnail>
+]]></listrepeat>
+<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
+<page>http://diskokosmiko.mx/gewro/adultos-17093/list,1,2</page>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>getUrl</name>
+<expres>DownloadUrl":"([^"]+)<expres>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
+<rawpost>fileId=[makelist.param1]&__RequestVerificationToken=$doregex[tok]</rawpost>
+<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
+<connection>keep-alive</connection>
+<accept>*/*</accept>
+<X-Req>XMLHttpRequest</X-Req>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>tok</name>
+<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+<page>http://diskokosmiko.mx/[makelist.param2]</page>
+<referer>http://diskokosmiko.mx/gewro/adultos-17093/list,1,2</referer>
+<connection>keep-alive</connection>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://2.bp.blogspot.com/-d5BQfTualG0/U8q5n8fGU1I/AAAAAAAADcs/NdJKY1NTyqQ/s1600/anti_XXX-660x350.jpg</thumbnail>
+<fanart></fanart>
+</item>
+</items>
+</channel>
+
+
+
+
+
+<item>
+<title>[COLOR white]• [/COLOR][COLOR blue] Anime - Hentai XXX [/COLOR][COLOR red] [B]+ 1 8[/B]  [/COLOR] </title>
+<link>$doregex[makelist]</link>
+<regex>
+  <name>makelist</name>
+  <listrepeat><![CDATA[
+        <title> [makelist.param3]</title>
+        <link>$doregex[getUrl]</link>
+        <thumbnail>http://3.bp.blogspot.com/-yfaMW8D5ycs/Uo5wOUcxjfI/AAAAAAAAB2E/SonWevAaIHA/s1600/001_biribiri_Onii_chan_to_Nyan_Nyan_Nyan_000.jpg</thumbnail>
+]]></listrepeat>
+<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
+<page>http://diskokosmiko.mx/trivianita/xxx-anime-hentai-el-rockero-46060/list,1,11</page>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>getUrl</name>
+<expres>DownloadUrl":"([^"]+)<expres>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
+<rawpost>fileId=[makelist.param1]&__RequestVerificationToken=$doregex[tok]</rawpost>
+<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
+<connection>keep-alive</connection>
+<accept>*/*</accept>
+<X-Req>XMLHttpRequest</X-Req>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>tok</name>
+<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+<page>http://diskokosmiko.mx/[makelist.param2]</page>
+<referer>http://diskokosmiko.mx/trivianita/xxx-anime-hentai-el-rockero-46060/list,1,11</referer>
+<connection>keep-alive</connection>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://3.bp.blogspot.com/-yfaMW8D5ycs/Uo5wOUcxjfI/AAAAAAAAB2E/SonWevAaIHA/s1600/001_biribiri_Onii_chan_to_Nyan_Nyan_Nyan_000.jpg</thumbnail>
+<fanart></fanart>
+</item>
+</items>
+</channel>
+
+
+
+<item>
+<title>[COLOR white]• [/COLOR][COLOR blue] Videos XXX Anaglifo [/COLOR][COLOR red] [B]+ 1 8[/B]  [/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+  <name>makelist</name>
+  <listrepeat><![CDATA[
+        <title> [makelist.param3]</title>
+        <link>$doregex[getUrl]</link>
+        <thumbnail>http://3.bp.blogspot.com/-yfaMW8D5ycs/Uo5wOUcxjfI/AAAAAAAAB2E/SonWevAaIHA/s1600/001_biribiri_Onii_chan_to_Nyan_Nyan_Nyan_000.jpg</thumbnail>
+]]></listrepeat>
+<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
+<page>http://diskokosmiko.mx/trivianita/videos-xxx-3d-anaglifo-el-rockero-44714</page>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>getUrl</name>
+<expres>DownloadUrl":"([^"]+)<expres>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
+<rawpost>fileId=[makelist.param1]&__RequestVerificationToken=$doregex[tok]</rawpost>
+<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
+<connection>keep-alive</connection>
+<accept>*/*</accept>
+<X-Req>XMLHttpRequest</X-Req>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>tok</name>
+<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+<page>http://diskokosmiko.mx/[makelist.param2]</page>
+<referer>http://diskokosmiko.mx/trivianita/videos-xxx-3d-anaglifo-el-rockero-44714</referer>
+<connection>keep-alive</connection>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://3.bp.blogspot.com/-yfaMW8D5ycs/Uo5wOUcxjfI/AAAAAAAAB2E/SonWevAaIHA/s1600/001_biribiri_Onii_chan_to_Nyan_Nyan_Nyan_000.jpg</thumbnail>
+<fanart></fanart>
+</item>
+</items>
+</channel>
+
+
+
+<item>
+<title>[COLOR white]• [/COLOR][COLOR blue] Pelis Hentai [/COLOR][COLOR red] [B]+ 1 8[/B]  [/COLOR] </title>
+<link>$doregex[makelist]</link>
+<regex>
+  <name>makelist</name>
+  <listrepeat><![CDATA[
+        <title> [makelist.param3]</title>
+        <link>$doregex[getUrl]</link>
+        <thumbnail>http://3.bp.blogspot.com/-yfaMW8D5ycs/Uo5wOUcxjfI/AAAAAAAAB2E/SonWevAaIHA/s1600/001_biribiri_Onii_chan_to_Nyan_Nyan_Nyan_000.jpg</thumbnail>
+]]></listrepeat>
+<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
+<page>http://diskokosmiko.mx/trivianita/peliculas-hentai18-el-rockero-50858/list,1,8</page>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>getUrl</name>
+<expres>DownloadUrl":"([^"]+)<expres>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
+<rawpost>fileId=[makelist.param1]&__RequestVerificationToken=$doregex[tok]</rawpost>
+<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
+<connection>keep-alive</connection>
+<accept>*/*</accept>
+<X-Req>XMLHttpRequest</X-Req>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>tok</name>
+<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+<page>http://diskokosmiko.mx/[makelist.param2]</page>
+<referer>http://diskokosmiko.mx/trivianita/peliculas-hentai18-el-rockero-50858/list,1,8</referer>
+<connection>keep-alive</connection>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://3.bp.blogspot.com/-yfaMW8D5ycs/Uo5wOUcxjfI/AAAAAAAAB2E/SonWevAaIHA/s1600/001_biribiri_Onii_chan_to_Nyan_Nyan_Nyan_000.jpg</thumbnail>
+<fanart></fanart>
+</item>
+</items>
+</channel>
+
 
 
 
