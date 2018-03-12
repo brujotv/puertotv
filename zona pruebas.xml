@@ -53,6 +53,27 @@
 <fanart></fanart>
 </item>
 
+	<item>
+<title>TORRENT TV WORLD</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<title>[COLOR red][B]DIABLO[/B][/COLOR][COLOR green][B]5.0[/B][/COLOR] [makelist.param2]   </title>
+<link>plugin://program.plexus/?url=[makelist.param1]&amp;mode=1&amp;name=Adryanlist+[makelist.param2]</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+]]></listrepeat>
+<expres><![CDATA[location>(.*?acelive)<[\w\W\s]{0,30}title>(.*?)<]]></expres>
+<page>https://www.trambroid.com/playlist.xspf</page>
+<referer></referer>
+ 
+</regex>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info>JHGMASTER LISTAS IPTV</info>
+</item>
+	
 <item>
 <title>[COLOR lime]•[/COLOR] prueba 2 </title>        
 <link></link>
