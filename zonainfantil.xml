@@ -42,7 +42,7 @@
 
 
 <item>	
-<title>[COLOR lime]•[/COLOR] PEPA PIG</title>
+<title>[COLOR lime]•[/COLOR] Pepa pig</title>
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
