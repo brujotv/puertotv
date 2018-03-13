@@ -157,5 +157,18 @@
 <fanart>https://i.imgur.com/9nJkog1.jpg</fanart>
 </item>		
 	
-	
+	<item>
+<title>[COLOR lime]  [/COLOR] Cantajuegos</title>
+<link>$doregex[makelist]</link>
+<regex><name>makelist</name>
+<listrepeat><![CDATA[
+<title>[makelist.param1]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
+<thumbnail>https://i.ytimg.com/vi/[makelist.param2]/hqdefault.jpg</thumbnail>
+]]></listrepeat>
+<expres>title="(.*?)".*?watch\?v=(.*?)[",&amp;]</expres>
+<page>https://www.youtube.com/user/CantaJuegoVEVO/videos</page>
+</regex>
+<thumbnail>http://tv.ocadizdigital.es/sites/all/themes/ltqq/images/oc-directo-portada.jpg</thumbnail>
+</item>
 	
