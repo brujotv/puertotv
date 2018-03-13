@@ -35,8 +35,8 @@
 <connection>keep-alive</connection>
 <cookieJar></cookieJar>
 </regex>
-<thumbnail></thumbnail>
-<fanart></fanart>
+<thumbnail>https://i.imgur.com/nTHSkgm.jpg</thumbnail>
+<fanart>https://i.imgur.com/1EkEXXj.jpg</fanart>
 </item>	
 
 
