@@ -156,9 +156,10 @@
 <thumbnail>https://i.imgur.com/GpdzBfN.jpg</thumbnail>
 <fanart>https://i.imgur.com/9nJkog1.jpg</fanart>
 </item>		
+
 	
-	<item>
-<title>[COLOR lime]  [/COLOR] Cantajuegos</title>
+<item>
+<title>[COLOR lime]•[/COLOR] Cantajuegos</title>
 <link>$doregex[makelist]</link>
 <regex><name>makelist</name>
 <listrepeat><![CDATA[
