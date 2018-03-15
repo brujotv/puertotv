@@ -137,7 +137,13 @@
 <externallink>https://raw.githubusercontent.com/brujotv/puertotv/master/zona%20pruebas.xml</externallink>
 </item>
 
-
+<item>
+		<title>[B][COLOR white]+[/COLOR] [COLOR blue]NEXT[/COLOR][/B]</title>
+		<link>http://Ignoreme</link>
+		<jsonrpc>plugin://plugin.video.next/</jsonrpc>
+		<thumbnail>https://github.com/djliptv/ElRinconDelLolo/blob/master/Pics/NextThumbnail.png?raw=true</thumbnail>
+		<fanart>https://github.com/djliptv/ElRinconDelLolo/blob/master/Pics/NextFanart.jpg?raw=true</fanart>
+	</item>
 
 
 
