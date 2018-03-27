@@ -46,6 +46,31 @@
 </item>
 
 
+
+<item>
+<title>[COLOR yellow][/COLOR][COLOR skyblue] Videoteca [/COLOR][COLOR lime] alfabética[/COLOR]</title>
+<link>http://ignorame</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Video_shop.jpg/220px-Video_shop.jpg</thumbnail>
+<fanart>http://cafespont.com/wp-content/uploads/2016/11/CAFE.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/cafepepe/principal/master/pelisaz.xml</externallink>
+</item>
+
+<item>
+<title>[COLOR yellow][/COLOR][COLOR skyblue] Cine [/COLOR][COLOR lime] clásico[/COLOR]</title>
+<link>http://ignorame</link>
+<thumbnail>https://iqglobal.intel.com/es-es/wp-content/uploads/sites/24/2016/04/Lamarr-iQ-Cover-proof-2-977x653-uk.jpg</thumbnail>
+<fanart>http://cafespont.com/wp-content/uploads/2016/11/CAFE.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/cafepepe/principal/master/cclasico.xml</externallink>
+</item>
+ 
+<item>
+<title>[COLOR yellow][/COLOR][COLOR skyblue] Series [/COLOR][COLOR lime] clásicas [/COLOR]</title>
+<link>http://ignorame</link>
+<thumbnail>http://k44.kn3.net/taringa/1/5/9/8/5/0/9/renegad0/A72.jpg</thumbnail>
+<fanart>http://cafespont.com/wp-content/uploads/2016/11/CAFE.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/cafepepe/principal/master/sclasica.xml</externallink>
+</item>	
+	
 <item>
 <title>[COLOR lime]•[/COLOR] prueba 1 </title>        
 <link></link>
