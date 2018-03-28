@@ -174,44 +174,6 @@
 </item>
 
 	
-	
-<item>	
-<title>[COLOR lime]•[/COLOR] El escuadro diabolico</title>
-<link>$doregex[makelist]</link>
-<regex>
-<name>makelist</name>
-<listrepeat><![CDATA[<title>[COLOR white]  [makelist.param3][/COLOR] </title>
-    <link>$doregex[getUrl]</link>
-	<thumbnail></thumbnail>
-	<fanart></fanart>
-    ]]></listrepeat>
-<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
-<page>http://diskokosmiko.mx/naredo/el-escuadron-diabolico-20333</page>
-<cookieJar></cookieJar>
-</regex>
-<regex>
-<name>getUrl</name>
-<expres>DownloadUrl":"([^"]+)<expres>
-<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
-<rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
-<referer>http://http://kbagi.com/[makelist.param2]</referer>
-<connection>keep-alive</connection>
-<accept>*/*</accept>
-<X-Req>XMLHttpRequest</X-Req>
-<cookieJar></cookieJar>
-</regex>
-<regex>
-<name>tok</name>
-<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
-<page>http://diskokosmiko.mx/naredo/el-escuadron-diabolico-20333</page>
-<referer>http://diskokosmiko.mx/naredo/el-escuadron-diabolico-20333</referer>
-<connection>keep-alive</connection>
-<cookieJar></cookieJar>
-</regex>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item> 
-	
 <item>	
 <title>[COLOR lime]•[/COLOR] El escuadron diabolico</title>
 <link>$doregex[makelist]</link>
@@ -245,8 +207,8 @@
 <connection>keep-alive</connection>
 <cookieJar></cookieJar>
 </regex>
-<thumbnail>https://i.imgur.com/GpdzBfN.jpg</thumbnail>
-<fanart>https://i.imgur.com/9nJkog1.jpg</fanart>
+<thumbnail></thumbnail>
+<fanart></fanart>
 </item>	
 
 	
