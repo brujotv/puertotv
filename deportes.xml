@@ -41,7 +41,7 @@
 <externallink>http://oqefuh.blogspot.com.es/p/menu-listas-espana_11.html</externallink>
 </item>
 
-<item><title> [COLOR black]•[/COLOR]    [COLOR white][B]AGENDA[/COLOR][COLOR lightblue]ROJA [/COLOR][/B]  [COLOR lightslategray] [I]Sportsdevil[/I][/COLOR]</title>
+<item><title>[COLOR lime]•[/COLOR] AGENDA ROJA (Sportsdevil)</title>
 <link>ignorme</link>
 <jsonrpc>plugin://plugin.video.SportsDevil/?item=url=livesports/rojadirecta.me.cfg&amp;mode=1</jsonrpc>
 <thumbnail>https://raw.githubusercontent.com/blackghostaddon/gray/master/img/deportes.png</thumbnail>
