@@ -99,15 +99,7 @@
 </item>
 
 <item>
-<title>[COLOR red]•[/COLOR] Canal 24h OT (#OTDirecto9D)</title>        
-<urlsolve>https://www.youtube.com/watch?v=6Lzw7oYTEMo</urlsolve>
-<thumbnail>http://img.rtve.es/css/rtve.2017.television/rtve.programas/ot-2017/i/ot_2017_r_logo.png</thumbnail>
-<fanart></fanart>
-</item>
-
-
-<item>
-<title>[COLOR red]•[/COLOR] BE MAD</title>
+<title>[COLOR lime]•[/COLOR] BE MAD</title>
 <link>$doregex[GetPageUrl]|Referer=http://vercanalestv.com/tv/nacionales/be-mad.html&amp;User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64; rv:55.0) Gecko/20100101 Firefox/55.0</link>
 <regex>
 <name>GetPageUrl</name>
@@ -183,7 +175,7 @@
 </item>
 
 <item>
-<title>[COLOR red]•[/COLOR] Lancelot TV</title>        
+<title>[COLOR lime]•[/COLOR] Lancelot TV</title>        
 <link>http://62.210.141.18:1935/directo/lancelot.television/live.m3u8</link>
 <thumbnail>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRONX6V4oteOIE8_uC0MqaShyw5-6ZP92XLlT5khwIvRQMDB1zpKxrQ9Mc</thumbnail>
 <fanart>https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/EuroEspa%C3%B1a.svg/1200px-EuroEspa%C3%B1a.svg.png</fanart>
