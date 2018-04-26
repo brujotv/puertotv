@@ -29,7 +29,7 @@
 
 <item>
 <title>[COLOR red]•[/COLOR] Tve 2</title>        
-<link>http://hlsackdn_gl0-lh.akamaihd.net/i/hlslive_1@439422/master.m3u8</link>
+<link>http://hlsliveamdgl0-lh.akamaihd.net/i/hlslive_1@586367/index_0400_av-p.m3u8</link>
 <thumbnail>https://pbs.twimg.com/profile_images/899384654259736578/JcRiYU5A_400x400.jpg</thumbnail>
 <fanart></fanart>
 </item>
@@ -79,7 +79,7 @@
 
 <item>
 <title>[COLOR lime]•[/COLOR] Atreseries HD</title>        
-<link>http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/index_4_av-b.m3u8?sd=10&rebase=on</link>
+<link>http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/master.m3u8</link>
 <thumbnail>http://atreseries.atresmedia.com/public/img/a3series.png</thumbnail>
 <fanart>https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/EuroEspa%C3%B1a.svg/1200px-EuroEspa%C3%B1a.svg.png</fanart>
 </item>
@@ -266,7 +266,7 @@
 </item>
 
 <item>
-<title>[COLOR red]•[/COLOR] Betis tv</title>        
+<title>[COLOR lime]•[/COLOR] Betis tv</title>        
 <link>http://rbetis-hls.flumotion.com/rbetis/live/chunks.m3u8</link>
 <thumbnail>http://www.grupocomunica.com/wp-content/uploads/2016/05/Radio-Betis-y-Betis-TV.jpg</thumbnail>
 <fanart>https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/EuroEspa%C3%B1a.svg/1200px-EuroEspa%C3%B1a.svg.png</fanart>
@@ -294,26 +294,6 @@
 <thumbnail>http://vercanalestv.com/logos/goltv.jpg</thumbnail>   
 </item>
 
-<item>
-<title>[COLOR red]•[/COLOR] ALL SPORTS</title>        
-<link>http://173.236.10.10:1935/dgrau/dgrau/live.m3u8</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title>[COLOR lime]•[/COLOR] CHELSEA TV</title>        
-<link>http://ooyalahd2-f.akamaihd.net/i/chelsea02_delivery@145821/index_2528_av-p.m3u8</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title>[COLOR lime]•[/COLOR] SPORTS TV</title>        
-<link>http://stream.sportstv.com.tr:1935/sportstv/SportsTV3/playlist.m3u8</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
 
 <item>
 <title>[COLOR lime]•[/COLOR] Movistar + Estrenos </title>
