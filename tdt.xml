@@ -52,6 +52,7 @@
 <item>
 <title>[COLOR red]•[/COLOR] Antena 3 HD</title>        
 <link>http://a3live-lh.akamaihd.net/i/antena3_1@35248/index_3_av-p.m3u8</link>
+<link>http://cdnjs.atresmedia.com/atresmedia-js/latest/app3.js</link>
 <thumbnail>http://static.programacion-tdt.com/imgAPP/Antena_3.min.png</thumbnail>
 <fanart>https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/EuroEspa%C3%B1a.svg/1200px-EuroEspa%C3%B1a.svg.png</fanart>
 </item>
