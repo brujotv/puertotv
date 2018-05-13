@@ -50,7 +50,7 @@
 </item>
 
 <item>
-<title>[COLOR lime]•[/COLOR] Antena 3 HD</title>        
+<title>[COLOR red]•[/COLOR] Antena 3 HD</title>        
 <link>http://a3live-lh.akamaihd.net/i/antena3_1@35248/index_3_av-p.m3u8</link>
 <thumbnail>http://static.programacion-tdt.com/imgAPP/Antena_3.min.png</thumbnail>
 <fanart>https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/EuroEspa%C3%B1a.svg/1200px-EuroEspa%C3%B1a.svg.png</fanart>
@@ -64,35 +64,35 @@
 </item>
 
 <item>
-<title>[COLOR lime]•[/COLOR] La sexta HD</title>        
+<title>[COLOR red]•[/COLOR] La sexta HD</title>        
 <link>http://a3live-lh.akamaihd.net/i/lasexta_1@35272/index_4_av-b.m3u8</link>
 <thumbnail>http://ocio.diariodemallorca.es/img_contenido/estaticos/canales/24.jpg</thumbnail>
 <fanart>https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/EuroEspa%C3%B1a.svg/1200px-EuroEspa%C3%B1a.svg.png</fanart>
 </item>
 
 <item>
-<title>[COLOR lime]•[/COLOR] Mega HD</title>        
+<title>[COLOR red]•[/COLOR] Mega HD</title>        
 <link>http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/index_2_av-b.m3u8</link>
 <thumbnail>http://static.programacion-tdt.com/imgAPP/Mega.min.png</thumbnail>
 <fanart>https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/EuroEspa%C3%B1a.svg/1200px-EuroEspa%C3%B1a.svg.png</fanart>
 </item>
 
 <item>
-<title>[COLOR lime]•[/COLOR] Atreseries HD</title>        
+<title>[COLOR red]•[/COLOR] Atreseries HD</title>        
 <link>http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/master.m3u8</link>
 <thumbnail>http://atreseries.atresmedia.com/public/img/a3series.png</thumbnail>
 <fanart>https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/EuroEspa%C3%B1a.svg/1200px-EuroEspa%C3%B1a.svg.png</fanart>
 </item>
 
 <item>
-<title>[COLOR lime]•[/COLOR] Neox HD</title>        
+<title>[COLOR red]•[/COLOR] Neox HD</title>        
 <link>http://a3live-lh.akamaihd.net/i/nxhds/geoneox_1@35261/index_4_av-b.m3u8?sd=10&rebase=on</link>
 <thumbnail>https://pbs.twimg.com/profile_images/509064688550694912/WY6A_PqH_normal.jpeg</thumbnail>
 <fanart>https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/EuroEspa%C3%B1a.svg/1200px-EuroEspa%C3%B1a.svg.png</fanart>
 </item>
 
 <item>
-<title>[COLOR lime]•[/COLOR] Nova HD</title>        
+<title>[COLOR red]•[/COLOR] Nova HD</title>        
 <link>http://a3live-lh.akamaihd.net/i/nvhds/geonova_1@379404/index_4_av-b.m3u8?sd=10&amp;rebase=on</link>
 <thumbnail>http://www.mundoplus.tv/img/f25b812e6e6095afe68d44feb7d119ad</thumbnail>
 <fanart>https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/EuroEspa%C3%B1a.svg/1200px-EuroEspa%C3%B1a.svg.png</fanart>
@@ -203,7 +203,7 @@
 </item>
 
 <item>
-<title>[COLOR lime]•[/COLOR] Telemadrid</title>        
+<title>[COLOR red]•[/COLOR] Telemadrid</title>        
 <link>http://telemadridhls-live.hls.adaptive.level3.net/telemadrid/telemadrid1/bitrate_2.m3u8</link>
 <thumbnail>http://media.tvalacarta.info/canales/256x256/telemadrid.png</thumbnail>
 <fanart>https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/EuroEspa%C3%B1a.svg/1200px-EuroEspa%C3%B1a.svg.png</fanart>
@@ -272,22 +272,6 @@
 </item>
 
 <item>
-<title>[COLOR lime]•[/COLOR] GolTV</title>
-
-  <link>$doregex[get-id]|Referer=http://verdirectotv.com/tv/digitales/plus-series.html&amp;User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64; rv:55.0) Gecko/20100101 Firefox/55.0</link>
-<regex>
-<name>get-id</name>
-<expres>source: '(.*?)'</expres>
-<page>http://vergol.com/live1/goltv.php</page>
-<referer>http://verdirectotv.com/tv/digitales/plus-series.html</referer>
-<agent>Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/48.0.2564.116 Chrome/48.0.2564.116 Safari/537.36</agent>
-</regex>
-
-<thumbnail>http://vercanalestv.com/logos/goltv.jpg</thumbnail>   
-</item>
-
-
-<item>
 <title>[COLOR lime]•[/COLOR] Movistar + Estrenos </title>
 <link>$doregex[get-id]|User-Agent=iPad</link>
 <regex>
@@ -309,21 +293,8 @@
 <referer>http://www.vercanalestv.com/ver-canal-plus-dcine-en-vivo-y-online-por-internet-las-24h/</referer>
 <agent>iPad</agent>
 </regex>
-<thumbnail>https://www.teleadhesivo.com/es/img/mag373-png/folder/products-detalle-png/vinilos-decorativos-balon-de-futbol-bandera-de-espana.png</thumbnail>   </item>
-
-<item>
-<title>[COLOR lime]•[/COLOR] Movistar + Series</title>
-<link>$doregex[get-id]|User-Agent=iPad</link>
-<regex>
-<name>get-id</name>
-<expres>source: '(.*?)'</expres>
-<page>http://vergol.com/live1/plusseries.php</page>
-<referer>http://www.vercanalestv.com/ver-canal-plus-comedia-online-y-en-directo-gratis-las-24h-por-internet/</referer>
-<agent>iPad</agent>
-</regex>
-<thumbnail>https://www.teleadhesivo.com/es/img/mag373-png/folder/products-detalle-png/vinilos-decorativos-balon-de-futbol-bandera-de-espana.png</thumbnail>   </item>
-
-
+<thumbnail>https://www.teleadhesivo.com/es/img/mag373-png/folder/products-detalle-png/vinilos-decorativos-balon-de-futbol-bandera-de-espana.png</thumbnail>   
+</item>
 
 <item><title>[COLOR lime]•[/COLOR] Movistar + Acción</title>
 <link>$doregex[get-id]|User-Agent=iPad</link>
