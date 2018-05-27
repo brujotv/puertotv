@@ -90,92 +90,6 @@
 <info>LISTAS IPTV</info>
 </item>
 
-<items>
-<item>
-<title>ROJA IPTV M3U</title>
-<link>$doregex[makelist2]</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<regex>
-<name>makelist2</name>
-<listrepeat><![CDATA[
- <title>[COLOR red][B]DIABLO[/B][/COLOR][COLOR green][B]5.0[/B][/COLOR] [makelist2.param1]</title>
- <link>$doregex[makelist]</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
- <fanart></fanart>
- ]]></listrepeat>
-<expres>Server:"(.*?)" URL="(.*?)"; regex"(.*?)"</expres>
-<page>https://dl.dropbox.com/s/8gd67jk61jxi0d2/servers.txt</page>
-<agent>Kodi/15.2 (Windows NT 6.1) App_Bitness/32 Version/15.2-Git:20151019-02e7013</agent>
-</regex>
-<regex>
-<name>makelist</name>
-<listrepeat><![CDATA[
- <title>[COLOR red][B]DIABLO[/B][/COLOR][COLOR green][B]5.0[/B][/COLOR] [makelist.param1]</title>
- <link>plugin://plugin.video.f4mTester/?url=[makelist.param2]&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=[COLOR goldenrod]Jdr63[/COLOR] [makelist.param1]</link>
- <thumbnail></thumbnail>
-<fanart></fanart>
- ]]></listrepeat>
-<expres>#EXTINF:-1,[makelist2.param3](.*?)\n(.*)</expres>
-<page>[makelist2.param2]</page>
-<agent>Kodi/15.2 (Windows NT 6.1) App_Bitness/32 Version/15.2-Git:20151019-02e7013</agent>
-</regex>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-
-	
-
-
-
-
-
-
-<item>
-<title>EDOCTOR</title>
-<link>rs</link>
-<thumbnail></thumbnail>
-<externallink>https://raw.githubusercontent.com/hadjistyllis/myapp/master/TV%20category.m3u</externallink>
-<fanart></fanart>
-<info>JHGMASTER LISTAS IPTV</info>
-</item>
-
-<item>
-<title>FLUXUSTV</title>
-<link>rs</link>
-<thumbnail></thumbnail>
-<externallink>https://raw.githubusercontent.com/fluxustv/IPTV/master/list.m3u</externallink>
-<fanart></fanart>
-<info>JHGMASTER LISTAS IPTV</info>
-</item>
-
-
- 
-
-
-<item>
- <title>IPTV EMBED</title>
-<link>$doregex[makelist]</link>
-<regex>
-<name>makelist</name>
-<listrepeat><![CDATA[
-     <title>[COLOR red][B]DIABLO[/B][/COLOR][COLOR green][B]5.0[/B][/COLOR] ( [makelist.param1] )  </title>
-    <link>NA</link>
-	<thumbnail></thumbnail>
-<fanart></fanart>
-    <externallink>[makelist.param1][DE]$$TSDOWNLOADER$$</externallink>
-]]></listrepeat>
-<expres>>(http:\/\/(.*?)\/.*?get.php.*?)&lt;</expres>
-<page>http://www.iptvembed.net/liveiptv/</page>
-<referer></referer>
-<cookieJar></cookieJar>
-</regex>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info>JHGMASTER LISTAS IPTV</info>
-</item>
-
 
 <item>
 <title>DAILY IPTV M3U 2</title>
@@ -319,99 +233,6 @@ def GetLSProData(page_data,Cookie_Jar,m,url='https://beta.ustreamix.com/[makelis
 <info>JHGMASTER LISTAS IPTV</info>
 </item>
 
-
-
-
-
-<item>
-<title>M3U LIST</title>
-<link>$doregex[makelist2]</link>
-<fanart></fanart>
-
-
-<regex>
-<name>makelist2</name>
-<listrepeat><![CDATA[
- <title>[COLOR red][B]DIABLO[/B][/COLOR][COLOR green][B]5.0[/B][/COLOR] [makelist2.param1]</title>
- <link>$doregex[makelist]</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
- ]]></listrepeat>
-<expres>Server:"(.*?)" URL="(.*?)"; regex"(.*?)"</expres>
-<page>https://dl.dropbox.com/s/8gd67jk61jxi0d2/servers.txt</page>
-<agent>Kodi/15.2 (Windows NT 6.1) App_Bitness/32 Version/15.2-Git:20151019-02e7013</agent>
-</regex>
-<regex>
-<name>makelist</name>
-<listrepeat><![CDATA[
- <title>[COLOR red][B]DIABLO[/B][/COLOR][COLOR green][B]5.0[/B][/COLOR] [COLOR darkcyan][makelist.param1][/COLOR]</title>
- <link>plugin://plugin.video.f4mTester/?url=[makelist.param2]&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=[COLOR blue]RS[/COLOR]IPTV[makelist.param1]</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
- ]]></listrepeat>
-<expres>#EXTINF:-1,[makelist2.param3](.*?)\n(.*)</expres>
-<page>[makelist2.param2]</page>
-<agent>Kodi/15.2 (Windows NT 6.1) App_Bitness/32 Version/15.2-Git:20151019-02e7013</agent>
-</regex>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info>JHGMASTER LISTAS IPTV</info>
-</item>
-
-
-item>
-<title>USTREAMIX TESTE</title>
-<link>$doregex[makelist]</link>
-<regex>
-<name>makelist</name>
-<listrepeat><![CDATA[
-   <title>[COLOR red][B]DIABLO[/B][/COLOR][COLOR green][B]5.0[/B][/COLOR] [COLOR white][makelist.param2][/COLOR] [COLOR dodgerblue]([makelist.param3])[/COLOR]</title>
-   <thumbnail></thumbnail>
-<fanart></fanart>
-   <link>$doregex[getUrl]|User-Agent=iPad</link>
-]]></listrepeat>
-<expres><![CDATA[(?s)<p><a href="(.*?)".*?blank">(.*?)\s*<.*?live">(.*?)<]]></expres>
-<page>http://v2.ustreamix.com/</page>
-<agent>Mozilla/5.0 (X11; Linux i686; rv:44.0) Gecko/20100101 Firefox/44.0 Iceweasel/44.0</agent>
-<cookieJar></cookieJar>
-</regex>
-<regex>
-<name>getUrl</name>
-<expres><![CDATA[#$pyFunction
-import re, requests
-def GetLSProData(page_data,Cookie_Jar,m,):
-  first_ip = re.findall("x_first_ip.+?'(.*?)'", page_data)[0]
-  first_c = re.findall("x_first_c.+?'(.*?)'", page_data)[0]
-  ket2 = re.findall("ket2.+?'(.*?)'", page_data)[0]
-  first_ua = re.findall("x_first_ua.+?'(.*?)'", page_data)[0]
-  preurl = 'http://tmg.ustreamix.com/'   # here is the server url which changed most of time
-  url = preurl + 'stats.php?p=' + first_ip + '&C=' + first_c + '&Ket=' + ket2
-  source = requests.get(url, headers = {'Referer': 'http://www.newtvworld.com/livetv/india/DiscoveryChannel.html/[makelist.param1]', 'User-Agent': first_ua, 'Accept': '*/*'}).text
-  tok = re.findall('var jdtk="(.*?)"', source)[0]
-  return preurl + 'tmg.m3u8?' + '[makelist.param1]' + '&token=' + tok
-]]></expres>
-<page>http://v2.ustreamix.com/[makelist.param1]</page>
-<agent>Mozilla/5.0 (X11; Linux i686; rv:44.0) Gecko/20100101 Firefox/44.0 Iceweasel/44.0</agent>
-<cookieJar></cookieJar>
-</regex>
-<info>JHGMASTER LISTAS IPTV</info>
-</item>
-
-
-
-
- 
- <item>
-<title>DiarLima (IPTV) BRASIL </title>
-<link>rs</link>
-<thumbnail></thumbnail>
-<externallink>http://secretv.j2mf4.com/RSIPTV/World/brasil.html</externallink>
-<fanart></fanart>
-<info>JHGMASTER LISTAS IPTV</info>
-</item>
-
-
-
 <item>
 <title>WORLD DAILY SERVERS IPTV</title>title>
 <thumbnail></thumbnail>
@@ -433,14 +254,6 @@ def GetLSProData(page_data,Cookie_Jar,m,):
 </regex>
 <info>JHGMASTER LISTAS IPTV</info>
 </item>
-
-
-
-
-
-
-
-
 
 item>
 <title>IPTV Ultra</title>
@@ -475,34 +288,6 @@ item>
 <fanart></fanart>
 <info>JHGMASTER LISTAS IPTV</info>
 </item>
-
-
-
-
-<item>
-<title>Server Orbit</title>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<link>$doregex[makelist]</link>
-<regex>
-<name>makelist</name>
-<listrepeat><![CDATA[
-     <title>[COLOR red][B]DIABLO[/B][/COLOR][COLOR green][B]5.0[/B][/COLOR] [COLOR deepskyblue]Logins4U...[/COLOR]    [COLOR darkorange][I]([makelist.param1])[/I][/COLOR]  </title>
-	 <thumbnail></thumbnail>
-<fanart></fanart>
-    <link>NA</link>
-    <externallink>[makelist.param1][DE]$$TSDOWNLOADER$$</externallink>
-]]></listrepeat>
-<expres>(http:\/\/orbit-iptv.com:2500\/.*?get.php.*?)&lt;</expres>
-<page>http://www.m3uliste.pw/</page>
-<referer></referer>
-<cookieJar></cookieJar>
-</regex>
-<info>JHGMASTER LISTAS IPTV</info>
-</item>
-
-
-
 
 <item>
 <title>M3U LISTS Updated Daily</title>
