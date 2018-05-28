@@ -1,14 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
 
-
-
-
-
-
-
-
-
 <item>
 <title> 1902 [COLOR lime](1)[/COLOR]</title>
 <thumbnail></thumbnail>
@@ -190,7 +182,7 @@
 <thumbnail></thumbnail>
 <fanart></fanart>
 <link>http://ignoreme</link>
-<externallink></externallink>
+<externallink>https://raw.githubusercontent.com/brujotv/puertotv/master/1985.xml</externallink>
 </item> 
 
 <item>
@@ -198,7 +190,7 @@
 <thumbnail></thumbnail>
 <fanart></fanart>
 <link>http://ignoreme</link>
-<externallink></externallink>
+<externallink>https://raw.githubusercontent.com/brujotv/puertotv/master/1989.xml</externallink>
 </item>
   
 <item>
@@ -206,7 +198,7 @@
 <thumbnail></thumbnail>
 <fanart></fanart>
 <link>http://ignoreme</link>
-<externallink></externallink>
+<externallink>https://raw.githubusercontent.com/brujotv/puertotv/master/1990.xml</externallink>
 </item> 
   
 <item>
