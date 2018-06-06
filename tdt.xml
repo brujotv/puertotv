@@ -216,6 +216,13 @@
 </item>
 
 <item>
+<title>[COLOR lime]•[/COLOR] BOING</title>        
+<link>https://mdslivehlsb-i.akamaihd.net/hls/live/623616/boing/bitrate_3.m3u8</link>
+<thumbnail>http://www.simbajuguetes.com/wp-content/uploads/2017/05/logo-boing.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
 <title>[COLOR red]•[/COLOR] BOING</title>
  <link>$doregex[GetPageUrl]|Referer=http://livesports.pw/embed2.php?file=launotelefivegb&amp;User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64; rv:54.0) Gecko/20100101 Firefox/54.0</link>
 <regex>
