@@ -182,7 +182,7 @@ http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl0/la2_lv3_aosv4
 </item>
 
 <item>
-<title>[COLOR red]•[/COLOR] Andalucia TV</title>        
+<title>[COLOR lime]•[/COLOR] Andalucia TV</title>        
 <urlsolve>https://www.youtube.com/watch?v=s7CWHlY8sIQ</urlsolve>
 <thumbnail>http://www.blaguemultimedia.com/wp-content/uploads/2014/12/logo-Andalucia-Television.png</thumbnail>
 <fanart>https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/EuroEspa%C3%B1a.svg/1200px-EuroEspa%C3%B1a.svg.png</fanart>
@@ -278,76 +278,4 @@ http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl0/la2_lv3_aosv4
 <fanart>https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/EuroEspa%C3%B1a.svg/1200px-EuroEspa%C3%B1a.svg.png</fanart>
 </item>
 
-<item>
-<title>[COLOR lime]•[/COLOR] Movistar + Estrenos </title>
-<link>$doregex[get-id]|User-Agent=iPad</link>
-<regex>
-<name>get-id</name>
-<expres>source: '(.*?)'</expres>
-<page>http://vergol.com/live/plusestrenos.php</page>
-<referer>http://www.vercanalestv.com/ver-canal-plus-estrenos-en-directo-y-online-las-24h/</referer>
-<agent>iPad</agent>
-</regex>
-<thumbnail>https://www.teleadhesivo.com/es/img/mag373-png/folder/products-detalle-png/vinilos-decorativos-balon-de-futbol-bandera-de-espana.png</thumbnail>   </item>
-
-<item>
-<title>[COLOR lime]•[/COLOR] Movistar + DCine</title>
-<link>$doregex[get-id]|User-Agent=iPad</link>
-<regex>
-<name>get-id</name>
-<expres>source: '(.*?)'</expres>
-<page>http://vergol.com/live/dcine.php</page>
-<referer>http://www.vercanalestv.com/ver-canal-plus-dcine-en-vivo-y-online-por-internet-las-24h/</referer>
-<agent>iPad</agent>
-</regex>
-<thumbnail>https://www.teleadhesivo.com/es/img/mag373-png/folder/products-detalle-png/vinilos-decorativos-balon-de-futbol-bandera-de-espana.png</thumbnail>   
-</item>
-
-<item><title>[COLOR lime]•[/COLOR] Movistar + Acción</title>
-<link>$doregex[get-id]|User-Agent=iPad</link>
-<regex>
-<name>get-id</name>
-<expres>[",\'](h.*m3u8.*?)'</expres>
-<page>http://vergol.com/live/plusaccion.php</page>
-<referer>http://www.vercanalestv.com/ver-canal-plus-accion-online-y-en-directo-gratis-las-24h-por-internet/</referer>
-<agent>iPad</agent>
-</regex>
-<thumbnail>https://www.teleadhesivo.com/es/img/mag373-png/folder/products-detalle-png/vinilos-decorativos-balon-de-futbol-bandera-de-espana.png</thumbnail>   
-</item>
-
-<item>
-<title>[COLOR lime]•[/COLOR] Canal Cocina</title>
-<link>$doregex[get-id]|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36</link>
-<regex>
-<name>get-id</name>
-<expres>source: '(.*?)'</expres>
-<page>http://vergol.com/live/cocina.php</page>
-<referer>http://www.vercanalestv.com/ver-canal-cocina-online-gratis-las-24h-en-vivo/</referer>
-<agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36</agent>
-</regex>
-<thumbnail>https://www.teleadhesivo.com/es/img/mag373-png/folder/products-detalle-png/vinilos-decorativos-balon-de-futbol-bandera-de-espana.png</thumbnail>   </item>
-
-<item>
-<title>[COLOR lime]•[/COLOR] MOVISTAR DEPORTES 1 </title>
-<sportsdevil>http://vergol.com/live1/plusdeportes1.php</sportsdevil>
-<referer>http://www.vertelevisor.com/</referer>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
- 
-<item>
-<title>[COLOR lime]•[/COLOR] MOVISTAR DEPORTES 2 </title>
-<sportsdevil>http://vergol.com/live1/plusdeportes2.php</sportsdevil>
-<referer>http://www.vertelevisor.com/</referer>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title>[COLOR lime]•[/COLOR] TOROSTV </title>
-<sportsdevil>http://vergol.com/live1/toros.php</sportsdevil>
-<referer>http://www.vertelevisor.com/</referer>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
 
