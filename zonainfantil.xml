@@ -14,12 +14,12 @@
 <expres>title="(.*?)".*?watch\?v=(.*?)[",&amp;]</expres>
 <page>https://www.youtube.com/user/CantaJuegoVEVO/videos</page>
 </regex>
-<thumbnail>http://tv.ocadizdigital.es/sites/all/themes/ltqq/images/oc-directo-portada.jpg</thumbnail>
+<thumbnail>https://www.pequeocio.com/wp-content/uploads/2013/05/canciones-ninos-cantajuegos-600x404.jpg</thumbnail>
 </item>
 
 <item>
 <title>[COLOR lime]•[/COLOR] Masha y el oso</title>
-<thumbnail></thumbnail>
+<thumbnail>https://www.fiestasmix.com/4269-thickbox_default/platos-masha-y-el-oso-20-cm.jpg</thumbnail>
 <fanart></fanart>
 <link>http://ignoreme</link>
 <externallink>https://pastebin.com/raw/6KkWcwad</externallink>
