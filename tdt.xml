@@ -29,8 +29,7 @@
 
 <item>
 <title>[COLOR lime]•[/COLOR] Tve 2</title>        
-<link>	
-http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl0/la2_lv3_aosv4_gl0/la2_lv3_aosv4_gl0.isml/la2_lv3_aosv4_gl0-audio=128000-video=1500000.m3u8</link>
+<link>http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl0/la2_lv3_aosv4_gl0/la2_lv3_aosv4_gl0.isml/la2_lv3_aosv4_gl0-audio=128000-video=1500000.m3u8</link>
 <thumbnail>https://pbs.twimg.com/profile_images/899384654259736578/JcRiYU5A_400x400.jpg</thumbnail>
 <fanart></fanart>
 </item>
@@ -190,7 +189,7 @@ http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl0/la2_lv3_aosv4
 
 <item>
 <title>[COLOR lime]•[/COLOR] Andalucia turismo</title>        
-<link>http://cast.streamingconnect.com:1935/csturismo/csturismo/playlist.m3u8</link>
+<link>https://webgol-hls-live-overon.secure2.footprint.net/OveronHttpOrigin/_definst_/webgol_gol24h_MB_2896/chunklist.m3u8?secureHash=MjEzLjE0My42MC4yNg==&nva=20180607142756&token=021d01499d5d430a6d5f7</link>
 <thumbnail>http://ing-sat.what.hu/images/logo-insert/satlogos/spain/129-Canal-Andalucia-Turismo-2.jpg</thumbnail>
 <fanart>https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/EuroEspa%C3%B1a.svg/1200px-EuroEspa%C3%B1a.svg.png</fanart>
 </item>
