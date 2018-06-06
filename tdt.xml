@@ -98,6 +98,13 @@
 </item>
 
 <item>
+<title>[COLOR lime]•[/COLOR] FDF</title>        
+<link>https://mdslivehls-i.akamaihd.net/hls/live/571650/fdf/bitrate_4.m3u8</link>
+<thumbnail>https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2016/01/FDF-en-directo-online.png?fit=400%2C260</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
 <title>[COLOR lime]•[/COLOR] BE MAD</title>
 <link>$doregex[GetPageUrl]|Referer=http://vercanalestv.com/tv/nacionales/be-mad.html&amp;User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64; rv:55.0) Gecko/20100101 Firefox/55.0</link>
 <regex>
