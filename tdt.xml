@@ -112,7 +112,7 @@
 
 <item>
 <title>[COLOR red]•[/COLOR] Paramount Channel</title>        
-<link>http://www.radiosargentina.com.ar/php/tvm3u.php?id=PAES0008</link>
+<link></link>
 <thumbnail>http://www.fotogramas.es/var/ezflow_site/storage/images/noticias/paramount-channel-cambia-de-dial/7797075-1-esl-ES/Paramount-Channel-cambia-de-dial_landscape.jpg</thumbnail>
 <fanart>https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/EuroEspa%C3%B1a.svg/1200px-EuroEspa%C3%B1a.svg.png</fanart>
 </item>
@@ -125,52 +125,10 @@
 </item>
 
 <item>
-<title>[COLOR red]•[/COLOR] TEN</title>
- <link>$doregex[GetPageUrl]|Referer=http://livesports.pw/embed2.php?file=launotelefivegb&amp;User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64; rv:54.0) Gecko/20100101 Firefox/54.0</link>
-<regex>
-<name>GetPageUrl</name>
-<expres>source: '(.*?)'</expres>
-<page>http://livesports.pw/embed2.php?file=ten&amp;width=650&amp;height=397</page>
-<cookieJar></cookieJar>
-</regex>
-<referer>http://cinestrenostv.tv</referer>
-<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Ten.svg/1200px-Ten.svg.png</thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
 <title>[COLOR red]•[/COLOR] 101 españa</title>        
-<link>http://cls.todostreaming.eu/101tv/livestream2/chunklist.m3u8</link>
+<link></link>
 <thumbnail>http://directostv.teleame.com/wp-content/uploads/2016/01/101tv-en-directo-online.png</thumbnail>
 <fanart>https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/EuroEspa%C3%B1a.svg/1200px-EuroEspa%C3%B1a.svg.png</fanart>
-</item>
-
-<item>
-<title>[COLOR red]•[/COLOR] DMAX</title>
- <link>$doregex[GetPageUrl]|Referer=http://livesports.pw/embed2.php?file=launotelefivegb&amp;User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64; rv:54.0) Gecko/20100101 Firefox/54.0</link>
-<regex>
-<name>GetPageUrl</name>
-<expres>source: '(.*?)'</expres>
-<page>http://livesports.pw/embed2.php?file=dmax&amp;width=650&amp;height=397</page>
-<cookieJar></cookieJar>
-</regex>
-<referer>http://cinestrenostv.tv</referer>
-<thumbnail>https://upload.wikimedia.org/wikipedia/commons/2/25/DMAX_Logo_16_05_2011.jpg</thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title>[COLOR red]•[/COLOR] DKISS</title>
- <link>$doregex[GetPageUrl]|Referer=http://livesports.pw/embed2.php?file=launotelefivegb&amp;User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64; rv:54.0) Gecko/20100101 Firefox/54.0</link>
-<regex>
-<name>GetPageUrl</name>
-<expres>source: '(.*?)'</expres>
-<page>http://livesports.pw/embed2.php?file=dkiss&amp;width=650&amp;height=397</page>
-<cookieJar></cookieJar>
-</regex>
-<referer>http://cinestrenostv.tv</referer>
-<thumbnail>http://www.formulatv.com/images/noticias/55900/55970/1_4bda286a54.jpg</thumbnail>
-<fanart></fanart>
 </item>
 
 <item>
@@ -182,14 +140,14 @@
 
 <item>
 <title>[COLOR lime]•[/COLOR] Andalucia TV</title>        
-<link>https://r4---sn-h5q7knee.googlevideo.com/videoplayback?pl=24&compress=yes&ip=213.143.60.26&ei=JfIXW4vYIoSjxgLq-LroDA&keepalive=yes&ms=lv&live=1&mv=m&id=s7CWHlY8sIQ.0&mm=32&mn=sn-h5q7knee&mt=1528295909&key=yt6&beids=%5B9466592%5D&gir=yes&expire=1528317573&hang=1&sparams=cmbypass%2Ccompress%2Cei%2Cgcr%2Cgir%2Chang%2Cid%2Cinitcwndbps%2Cip%2Cipbits%2Citag%2Ckeepalive%2Clive%2Cmime%2Cmm%2Cmn%2Cms%2Cmv%2Cnoclen%2Cpl%2Crequiressl%2Csource%2Cexpire&gcr=es&itag=140&source=yt_live_broadcast&ipbits=0&mime=audio%2Fmp4&initcwndbps=962500&signature=767F44D2FB601C4E6C413C1BE10D1F8A82DD4365.49D94DF73BCE12F64029F7E107A0C5903EAD3111&c=WEB_EMBEDDED_PLAYER&requiressl=yes&noclen=1&cmbypass=yes&alr=yes&cpn=2gnG37NHFsqasChe&cver=20180605&sq=127067&rn=2&rbuf=0</link>
+<link></link>
 <thumbnail>http://www.blaguemultimedia.com/wp-content/uploads/2014/12/logo-Andalucia-Television.png</thumbnail>
 <fanart>https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/EuroEspa%C3%B1a.svg/1200px-EuroEspa%C3%B1a.svg.png</fanart>
 </item>
 
 <item>
 <title>[COLOR red]•[/COLOR] Andalucia turismo</title>        
-<link>https://webgol-hls-live-overon.secure2.footprint.net/OveronHttpOrigin/_definst_/webgol_gol24h_MB_3496/chunklist.m3u8?secureHash=MjEzLjE0My42MC4yNg==&nva=20180607143739&token=0be114fab67070cb24ee7</link>
+<link></link>
 <thumbnail>http://ing-sat.what.hu/images/logo-insert/satlogos/spain/129-Canal-Andalucia-Turismo-2.jpg</thumbnail>
 <fanart>https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/EuroEspa%C3%B1a.svg/1200px-EuroEspa%C3%B1a.svg.png</fanart>
 </item>
@@ -218,19 +176,6 @@
 <item>
 <title>[COLOR lime]•[/COLOR] BOING</title>        
 <link>https://mdslivehlsb-i.akamaihd.net/hls/live/623616/boing/bitrate_3.m3u8</link>
-<thumbnail>http://www.simbajuguetes.com/wp-content/uploads/2017/05/logo-boing.png</thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title>[COLOR red]•[/COLOR] BOING</title>
- <link>$doregex[GetPageUrl]|Referer=http://livesports.pw/embed2.php?file=launotelefivegb&amp;User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64; rv:54.0) Gecko/20100101 Firefox/54.0</link>
-<regex>
-<name>GetPageUrl</name>
-<expres>source: '(.*?)'</expres>
-<page>http://livesports.pw/embed2.php?file=boing&amp;width=650&amp;height=397</page>
-<cookieJar></cookieJar>
-</regex>
 <thumbnail>http://www.simbajuguetes.com/wp-content/uploads/2017/05/logo-boing.png</thumbnail>
 <fanart></fanart>
 </item>
