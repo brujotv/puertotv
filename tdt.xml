@@ -28,8 +28,9 @@
 </item>
 
 <item>
-<title>[COLOR red]•[/COLOR] Tve 2</title>        
-<link>http://hlsliveamdgl0-lh.akamaihd.net/i/hlslive_1@586367/index_0400_av-p.m3u8</link>
+<title>[COLOR lime]•[/COLOR] Tve 2</title>        
+<link>	
+http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl0/la2_lv3_aosv4_gl0/la2_lv3_aosv4_gl0.isml/la2_lv3_aosv4_gl0-audio=128000-video=1500000.m3u8</link>
 <thumbnail>https://pbs.twimg.com/profile_images/899384654259736578/JcRiYU5A_400x400.jpg</thumbnail>
 <fanart></fanart>
 </item>
@@ -195,8 +196,8 @@
 </item>
 
 <item>
-<title>[COLOR red]•[/COLOR] La Otra</title>        
-<link>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ865fEAEwfFCYITsZmN8yD6Bvw0TqvXf1GLZgA8V8jsBzRjL8_Vw</link>
+<title>[COLOR lime]•[/COLOR] La Otra</title>        
+<link>http://laotrahls-live.hls.adaptive.level3.net/telemadrid/laotra1/bitrate_1.m3u8</link>
 <thumbnail>http://publicidadcines.com/images/logo-laotra.jpg</thumbnail>
 <fanart>https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/EuroEspa%C3%B1a.svg/1200px-EuroEspa%C3%B1a.svg.png</fanart>
 </item>
