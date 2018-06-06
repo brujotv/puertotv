@@ -1,5 +1,28 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
+
+youtube lista
+
+<item><title>[COLOR lime]•[/COLOR] Vanessa Pur</title>
+<link>$doregex[makelist]</link>
+<regex><name>makelist</name>
+<listrepeat><![CDATA[
+<title>[makelist.param1]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
+<thumbnail>https://i.ytimg.com/vi/[makelist.param2]/hqdefault.jpg</thumbnail>
+]]></listrepeat>
+<expres>title="(.*?)".*?watch\?v=(.*?)[",&amp;]</expres>
+<page>https://www.youtube.com/user/vpureglam/videos</page>
+</regex>
+<thumbnail></thumbnail>
+</item>
+
+
+
+
+
+
+
 <item>
 <title> ESTRENOS ALL </title>
 <link>$doregex[makelist2]</link>
