@@ -18,6 +18,20 @@ youtube lista
 </item>
 
 
+<item><title>[COLOR lime]•[/COLOR] Shiny Clothes</title>
+<link>$doregex[makelist]</link>
+<regex><name>makelist</name>
+<listrepeat><![CDATA[
+<title>[makelist.param1]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
+<thumbnail>https://i.ytimg.com/vi/[makelist.param2]/hqdefault.jpg</thumbnail>
+]]></listrepeat>
+<expres>title="(.*?)".*?watch\?v=(.*?)[",&amp;]</expres>
+<page>https://www.youtube.com/channel/UC7hEkSQZXybSbzcm6mPrdPw/videos</page>
+</regex>
+<thumbnail>https://yt3.ggpht.com/-0xlVvFoDAVk/AAAAAAAAAAI/AAAAAAAAAAA/5xTbfY6VpIY/s288-mo-c-c0xffffffff-rj-k-no/photo.jpg</thumbnail>
+</item>
+
 
 
 
