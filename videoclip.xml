@@ -1,12 +1,32 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
 
-
 <item>
 <title>[COLOR lime]•[/COLOR] </title>        
 <urlsolve></urlsolve>
 <thumbnail></thumbnail>
 <fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR lime]•[/COLOR] ZAYN - Dusk Till Dawn ft. Sia</title>        
+<urlsolve>https://www.youtube.com/watch?time_continue=53&v=tt2k8PGm-TI</urlsolve>
+<thumbnail>https://i1.sndcdn.com/artworks-000276223535-yhobyb-t500x500.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/QWTgehY1cB8/maxresdefault.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR lime]•[/COLOR] Sofia Reyes - 1, 2, 3</title>        
+<urlsolve>https://www.youtube.com/watch?time_continue=109&v=p03TIGqEc8o</urlsolve>
+<thumbnail>http://gritaradio.com/files/2018/02/sofia-reyes.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/p03TIGqEc8o/maxresdefault.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR lime]•[/COLOR] Reyko - Spinning Over You</title>        
+<urlsolve>https://www.youtube.com/watch?time_continue=64&v=Beb7DgVGPfU</urlsolve>
+<thumbnail>https://direct.rhapsody.com/imageserver/images/Alb.271953509/500x500.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/Beb7DgVGPfU/maxresdefault.jpg</fanart>
 </item>
 
 <item>
@@ -439,12 +459,7 @@
 <fanart></fanart>
 </item>
 
-<item>
-<title>[COLOR lime]•[/COLOR] </title>        
-<urlsolve></urlsolve>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
+
 
 
 
