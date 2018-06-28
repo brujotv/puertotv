@@ -2,8 +2,15 @@
 
 
 <item>
-<title>[COLOR lime]•[/COLOR] dkiss</title>        
+<title>[COLOR lime]•[/COLOR] dkiss url</title>        
 <urlsolve>https://es.dplay.com/embed/17272/</urlsolve>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR lime]•[/COLOR] dkiss link</title>        
+<link>https://es.dplay.com/embed/17272/</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
