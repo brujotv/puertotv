@@ -2,15 +2,16 @@
 
 
 <item>
-<title>[COLOR lime]•[/COLOR] dkiss url</title>        
-<urlsolve>https://es.dplay.com/embed/17272/</urlsolve>
+<title>[COLOR lime]•[/COLOR] dkiss url 1</title>        
+<urlsolve>https://dplaysouth-vod.akamaized.net/dplaydni/24357/0/hls/924015001/exp=1530260053~acl=%2f*~data=hdntl~hmac=cbbc8ab222ee1f6ac2e93be5c0cd7e8e2d0f2b45c9650820a27283c1eb425729/818409906-1402891446-prog_index.m3u8?version_hash=9c3c77c8&mux_audio</urlsolve>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
-<title>[COLOR lime]•[/COLOR] dkiss link</title>        
-<link>https://es.dplay.com/embed/17272/</link>
+<title>[COLOR lime]•[/COLOR] dkiss link 1</title>        
+<link>	
+https://dplaysouth-vod.akamaized.net/dplaydni/24357/0/hls/924015001/exp=1530260053~acl=%2f*~data=hdntl~hmac=cbbc8ab222ee1f6ac2e93be5c0cd7e8e2d0f2b45c9650820a27283c1eb425729/818409906-1402891446-prog_index.m3u8?version_hash=9c3c77c8&mux_audio</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
