@@ -40,6 +40,19 @@
 </item>
 
 <item>
+<title>[COLOR lime]•[/COLOR] Cuatro (reserva)</title>
+<link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0</link>
+<regex>
+<name>GetPageUrl</name>
+<expres>source: '(.*?)'</expres>
+<page>http://vergol.com/live1/cuatro.php</page>
+<referer>http://verdirectotv.com/tv/nacionales2/cuatro.html</referer>
+</regex>
+<thumbnail>https://s7.postimg.cc/pv3i999bf/cuatro.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
 <title>[COLOR lime]•[/COLOR] Cuatro HD</title>        
 <link>	
 https://dai.google.com/linear/hls/p/event/2DbwX2JMQvef-4YCGEtRkQ/stream/c59f7341-2fb4-4132-89b6-2fc9dd36fd57:BRU/variant/e906182c00811a61de417e116a1c66bd/bandwidth/1564000.m3u8</link>
@@ -55,7 +68,7 @@ https://dai.google.com/linear/hls/p/event/2DbwX2JMQvef-4YCGEtRkQ/stream/c59f7341
 </item>
 
 <item>
-<title>[COLOR lime]•[/COLOR] Telecinco</title>
+<title>[COLOR lime]•[/COLOR] Telecinco (reserva)</title>
 <link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0</link>
 <regex>
 <name>GetPageUrl</name>
