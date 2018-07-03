@@ -26,4 +26,10 @@
 <externallink>https://raw.githubusercontent.com/brujotv/puertotv/master/todo%20documentales.xml</externallink>
 </item>
 
-
+<item>
+<title>[COLOR lime]•[/COLOR] Discovery Max</title>
+<link>ignore</link>
+<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=documentalesdiscovery+max&search_type=playlist</jsonrpc>
+<thumbnail>http://lh3.googleusercontent.com/7eXzTMqf-5LMBkGasoWMw5YeV8oZXKBAk1XZIc_W1GDiELhNvvcPzFiP158HXW5rww=w300</thumbnail>
+<fanart>http://1.bp.blogspot.com/-Y7IIGOMzpqY/UEEp-SKfs2I/AAAAAAAACkg/1lP8pmMMT2I/s1600/alejandria_biblioteca.jpg</fanart>
+</item>
