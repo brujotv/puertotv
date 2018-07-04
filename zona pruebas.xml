@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
 
+<item>
+<title>[COLOR lime]•[/COLOR] PRUEBA PI</title>
+<thumbnail>https://is3-ssl.mzstatic.com/image/thumb/Purple117/v4/72/23/c3/7223c36b-c93b-daf9-9563-dee000a53e1c/source/256x256bb.jpg</thumbnail>
+<fanart>http://www.symcober.com/wp-content/uploads/2015/06/TDT.jpg</fanart>
+<link>http://ignoreme</link>
+<externallink>https://github.com/RetroBlogPi/MagicPi/blob/master/empenos.xml</externallink>
+</item>
 
+<item>
+<title>[COLOR lime]•[/COLOR] PRUEBA PI2</title>
+<thumbnail>https://tecmoviles.com/wp-content/uploads/2017/01/movistar-plus-600x416.jpg</thumbnail>
+<fanart>https://www.adslzone.net/app/uploads/2018/04/movistar-plus.jpg</fanart>
+<link>http://ignoreme</link>
+<externallink>https://github.com/RetroBlogPi/MagicPi/blob/master/club.xml</externallink>
+</item>
 
 <item>
 <title>[B][COLOR lime] Canales ( se informa de los eventos en el grupo ) [/COLOR][/B]</title>
