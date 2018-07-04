@@ -17,47 +17,7 @@
 <externallink>https://github.com/RetroBlogPi/MagicPi/blob/master/club.xml</externallink>
 </item>
 
-<item>
-<title>[B][COLOR lime] Canales ( se informa de los eventos en el grupo ) [/COLOR][/B]</title>
-<link>na</link>
-<thumbnail></thumbnail>
-</item>
 
-
-<item>
-<title>[B][COLOR red] Canal 1[/COLOR][/B]</title>
-<link>http://orangesports.win/hls/1.m3u8</link>
-<thumbnail>https://i.pinimg.com/originals/9c/90/7b/9c907b42f2cdf030dad90446da82df60.jpg</thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title>[B][COLOR red] Canal 2[/COLOR][/B]</title>
-<link>http://orangesports.win/hls/2.m3u8</link>
-<thumbnail>https://24.p3k.hu/app/uploads/2015/05/tv2-logo-e1473318736645.jpg</thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title>[B][COLOR red] Canal 3[/COLOR][/B]</title>
-<link>http://orangesports.win/hls/3.m3u8</link>
-<thumbnail>https://cdn2.vectorstock.com/i/thumb-large/82/90/number-3-logo-icon-design-template-elements-vector-8948290.jpg</thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title>[B][COLOR red] Canal MotoGP[/COLOR][/B]</title>
-<link>http://orangesports.win/hls/5.m3u8</link>
-<thumbnail>https://okdiario.com/img/2016/04/moto-gp.png</thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title>[B][COLOR red] Canal F1[/COLOR][/B]</title>
-<link>http://orangesports.win/hls/4.m3u8</link>
-<thumbnail>https://cdn-3.motorsport.com/images/amp/68eyZ1B0/s6/f1-f1-logo-2017-f1-logo-6693340.jpg</thumbnail>
-<fanart></fanart>
-</item>
 
 <item>
 <title>prueba 2</title>
