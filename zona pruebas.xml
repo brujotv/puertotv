@@ -1,6 +1,17 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
 
+
+
+
+<item>
+<title>[COLOR lime]•[/COLOR] Documentales: Mas de 2400 Documentales Variados</title>
+<link>ignore</link>
+<jsonrpc>plugin://plugin.video.youtube/channel/UCWoopXUOjEGk9aOU4I71nhQ/playlist/PL7Gl77owRvTsI-JSfh9WPf-2N2Ujmh1Da/</jsonrpc>
+<thumbnail>https://1.bp.blogspot.com/-yrAzWMWuRFw/VtmSI7hXISI/AAAAAAAAAgY/KnFOA3UFVD4/s1600/12803033_827599300699787_3252258708545373766_n.png</thumbnail>
+<fanart>http://1.bp.blogspot.com/-Y7IIGOMzpqY/UEEp-SKfs2I/AAAAAAAACkg/1lP8pmMMT2I/s1600/alejandria_biblioteca.jpg</fanart>
+</item>
+
 <item>
 <title>[COLOR lime]•[/COLOR] PRUEBA PI</title>
 <thumbnail>https://is3-ssl.mzstatic.com/image/thumb/Purple117/v4/72/23/c3/7223c36b-c93b-daf9-9563-dee000a53e1c/source/256x256bb.jpg</thumbnail>
@@ -155,7 +166,7 @@
 
 youtube lista
 
-<item><title>[COLOR lime]•[/COLOR] Vanessa Pur</title>
+<item><title>[COLOR lime]•[/COLOR] Policías en acción</title>
 <link>$doregex[makelist]</link>
 <regex><name>makelist</name>
 <listrepeat><![CDATA[
@@ -164,7 +175,7 @@ youtube lista
 <thumbnail>https://i.ytimg.com/vi/[makelist.param2]/hqdefault.jpg</thumbnail>
 ]]></listrepeat>
 <expres>title="(.*?)".*?watch\?v=(.*?)[",&amp;]</expres>
-<page>https://www.youtube.com/user/vpureglam/videos</page>
+<page>https://www.youtube.com/watch?v=UG6UaYzFGbE&list=PLVUa6TIGm-qMKfLftOlDm_HH9JN9Ivp9I</page>
 </regex>
 <thumbnail>https://yt3.ggpht.com/-L5ptBTVsRkM/AAAAAAAAAAI/AAAAAAAAAAA/y5tbVlqHwb4/s288-mo-c-c0xffffffff-rj-k-no/photo.jpg</thumbnail>
 </item>
