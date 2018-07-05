@@ -6,7 +6,7 @@
 
 
 <item>
-<title>[COLOR  yellow]_**_  [/COLOR][COLOR skyblue] ZONA [/COLOR][COLOR orange] CAMARAS DEL MUNDO  [/COLOR][COLOR  yellow]  _**_ [/COLOR]</title>
+<title>ZONA CAMARAS DEL MUNDO </title>
 <link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=jid_i_N_0aA</link>
 <thumbnail>https://i.imgur.com/J0zmr7e.jpg</thumbnail>
 <fanart>https://i.imgur.com/J0zmr7e.jpg</fanart>
@@ -65,7 +65,7 @@
 
 
 <item>
-<title>[COLOR lime]•[/COLOR] Documentales: Mas de 2400 Documentales Variados</title>
+<title> Documentales: Mas de 2400 Documentales Variados</title>
 <link>ignore</link>
 <jsonrpc>plugin://plugin.video.youtube/channel/UCWoopXUOjEGk9aOU4I71nhQ/playlist/PL7Gl77owRvTsI-JSfh9WPf-2N2Ujmh1Da/</jsonrpc>
 <thumbnail>https://1.bp.blogspot.com/-yrAzWMWuRFw/VtmSI7hXISI/AAAAAAAAAgY/KnFOA3UFVD4/s1600/12803033_827599300699787_3252258708545373766_n.png</thumbnail>
@@ -73,19 +73,19 @@
 </item>
 
 <item>
-<title>[COLOR lime]•[/COLOR] PRUEBA PI</title>
-<thumbnail>https://is3-ssl.mzstatic.com/image/thumb/Purple117/v4/72/23/c3/7223c36b-c93b-daf9-9563-dee000a53e1c/source/256x256bb.jpg</thumbnail>
-<fanart>http://www.symcober.com/wp-content/uploads/2015/06/TDT.jpg</fanart>
+<title>[COLOR lime]•[/COLOR] </title>
+<thumbnail></thumbnail>
+<fanart></fanart>
 <link>http://ignoreme</link>
-<externallink>https://github.com/RetroBlogPi/ProyeckMotors/blob/master/temp2018f1.xml</externallink>
+<externallink></externallink>
 </item>
 
 <item>
-<title>[COLOR lime]•[/COLOR] PRUEBA PI2</title>
-<thumbnail>https://tecmoviles.com/wp-content/uploads/2017/01/movistar-plus-600x416.jpg</thumbnail>
-<fanart>https://www.adslzone.net/app/uploads/2018/04/movistar-plus.jpg</fanart>
+<title>[COLOR lime]•[/COLOR]</title>
+<thumbnail></thumbnail>
+<fanart></fanart>
 <link>http://ignoreme</link>
-<externallink>https://github.com/RetroBlogPi/ProyeckMotors/blob/master/drift.xml</externallink>
+<externallink></externallink>
 </item>
 
 
@@ -193,14 +193,14 @@
 
 
 <item>
-<title>[COLOR lime]•[/COLOR] dkiss url 1</title>        
+<title>[COLOR lime]•[/COLOR] url 1</title>        
 <urlsolve>http://s21.diskokosmiko.mx/preview?e=9xPO9B-VFkLat2R5FOvouxGs3B3FCcon74sh8QBH7SR6KScGQGX60CoVDvhsioLXgXS1ENlwe0NBNeQSRC7YWU6A7ZhUgr0kVKN_SEuY_BQs_RtUT1qM7cP3Xlumg0EnU8qqHeC43t1PRoTnPNXB3aeiHiUZlNxo9ul_5Syn9Kw</urlsolve>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
-<title>[COLOR lime]•[/COLOR] dkiss link 1</title>        
+<title>[COLOR lime]•[/COLOR] link 1</title>        
 <link>http://s21.diskokosmiko.mx/preview?e=9xPO9B-VFkLat2R5FOvouxGs3B3FCcon74sh8QBH7SR6KScGQGX60CoVDvhsioLXgXS1ENlwe0NBNeQSRC7YWU6A7ZhUgr0kVKN_SEuY_BQs_RtUT1qM7cP3Xlumg0EnU8qqHeC43t1PRoTnPNXB3aeiHiUZlNxo9ul_5Syn9Kw</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
