@@ -2,7 +2,13 @@
 
 
 
-
+<channel>
+		<name>[COLOR white][B]+[/B][/COLOR] [COLOR dodgerblue]ZONA[/COLOR] [COLOR skyblue]EVENTOS ESPECIALES PPV[/COLOR]</name>
+		<link>http://ignorame</link>
+		<thumbnail>https://github.com/djliptv/ElRinconDelLolo/blob/master/Pics/EEThumbnail.png?raw=true</thumbnail>
+		<fanart>https://github.com/djliptv/ElRinconDelLolo/blob/master/Pics/EEFanart.jpg?raw=true</fanart>
+		<externallink>https://raw.githubusercontent.com/djliptv/ElRinconDelLolo/master/Menu/Evento%20Especial/EEMenu.xml</externallink>
+	</channel>
 
 <item>
 <title>[COLOR=lime][B]SOLO ESTRENOS[/B][/COLOR]</title>
