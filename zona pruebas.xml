@@ -2,6 +2,24 @@
 
 
 
+
+<item>
+ 
+<title>[COLOR blue][B][COLOR deepskyblue]Lista Canales PLUS [/COLOR][/B]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<title>[COLOR blue]S[/COLOR][COLOR blue]T[/COLOR][COLOR blue]V[/COLOR] - [COLOR deepskyblue][makelist.param1][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=[makelist.param2].ts&amp;name=Catoal - [makelist.param1]</link>
+<thumbnail>NA</thumbnail>
+]]></listrepeat>
+<expres>EXTINF:-1 group-title="SERVER \d{1,2}".*?['|',]([^\(]*)\s.*\n.*(http[^\s]*)[.m3u8|.ts]</expres>
+<page>http://www.exabytetv.info/ESP.m3u</page>
+<cookieJar></cookieJar>
+</regex>
+</item>
+
 <channel>
 		<name>[COLOR white][B]+[/B][/COLOR] [COLOR dodgerblue]ZONA[/COLOR] [COLOR skyblue]EVENTOS ESPECIALES PPV[/COLOR]</name>
 		<link>http://ignorame</link>
