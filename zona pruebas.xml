@@ -4,7 +4,53 @@
 
 
 
-
+<item>
+<title>[COLOR=lime][B]SOLO ESTRENOS[/B][/COLOR]</title>
+<link>$doregex[makelist2]</link>
+ <regex>
+<name>makelist2</name>
+<listrepeat><![CDATA[
+<title>[COLOR skyblue] [makelist2.param2] [/COLOR]  [COLOR lightslategray][/COLOR]</title>
+ <link>$doregex[makelist3]</link>
+ <fanart>[makelist2.param1]</fanart>
+  <info>[makelist2.param4]</info>
+  <thumbnail>[makelist2.param1]</thumbnail>
+]]></listrepeat>
+<expres><![CDATA[poster[\w\W\s]{0,15}src="(.*?)" alt="(.*?)"[\w\W\s]{0,150}href="(.*?)"[\w\W\s]{0,550}texto">(.*?)<]]></expres>
+<page>http://bassfox.org/movies/</page>
+</regex>
+<regex>
+<name>makelist3</name>
+<listrepeat><![CDATA[
+<title>[COLOR skyblue][makelist2.param2][/COLOR]      Server:[makelist3.param1]</title>
+ <link>$doregex[id3]</link>
+ <fanart>[makelist2.param1]</fanart>
+  <info>[makelist2.param4]</info>
+  <thumbnail>[makelist2.param1]</thumbnail>
+]]></listrepeat>
+<expres><![CDATA[src=\"(https://streamango.*?|http://xvidstage.*?|http://uptobox.*?|https://openload.*?|https://userscloud.*?|https://ok.*?|https://uptostream.*?)"]]></expres>
+ <page>[makelist2.param3]</page>
+<agent>Mozilla/5.0 (Windows NT 10.0;) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.116 Safari/537.36</agent>
+</regex>
+<regex>
+<name>id3</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+    import urlresolver
+    url = '[makelist3.param1]'
+    try:
+        u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://img.fenixzone.net/i/rQ94XRG.png</thumbnail>
+<fanart>http://img.fenixzone.net/i/0NW5E31.jpeg</fanart>
+<info>PELICULAS SUBIDAS ,EL USO ES GRATIS PODES AYUDAR CON UNA DONACION UNICAMENTE POR PAYPAL A https://www.paypal.me/bassfox</info>
+</link>
+ 
+                          <item>
 
 <item> 
 <title>[COLOR  yellow]_**_  [/COLOR][COLOR skyblue] ZONA [/COLOR][COLOR orange] RADIOS ESPAÑA [/COLOR][COLOR  yellow]  _**_ [/COLOR]</title>
