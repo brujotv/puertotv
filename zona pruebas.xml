@@ -193,11 +193,11 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </item>
 
 <item>
-<title>[COLOR lime]•[/COLOR] </title>
+<title>[COLOR lime]•[/COLOR] prueba deportes</title>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <link>http://ignoreme</link>
-<externallink></externallink>
+<externallink>https://raw.githubusercontent.com/djliptv/ElRinconDelLolo/master/Menu/Evento%20Especial/EEMenu.xml</externallink>
 </item>
 
 <item>
