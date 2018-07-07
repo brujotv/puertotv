@@ -1,9 +1,16 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
 <item> 
-<title>Bricolaje</title>
+<title></title>
 <link>http://Ignoreme</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
-<externallink>https://pastebin.com/raw/kRx9wbqx</externallink>	
+<externallink></externallink>	
 </item> 
+
+
+<item>
+<title>[COLOR red]CANAL SUR[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=WMiLcYRy3M4</link>
+<thumbnail>http://s.libertaddigital.com/fotos/noticias/canalsur-mjg.jpg</thumbnail>
+</item>
