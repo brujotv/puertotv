@@ -24,7 +24,7 @@
 <link>$doregex[makelist]</link>
 <regex><name>makelist</name>
 <listrepeat><![CDATA[
-<title>[makelist.param1][COLOR yellow]*chopo*[/COLOR]</title>
+<title>[makelist.param1]</title>
 <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
 <thumbnail>https://i.ytimg.com/vi/[makelist.param2]/hqdefault.jpg</thumbnail>
 ]]></listrepeat>
