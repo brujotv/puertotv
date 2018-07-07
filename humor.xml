@@ -1,6 +1,85 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
 
+
+
+
+<item>
+<title>[COLOR lime]•[/COLOR] Los morancos</title>
+<link>$doregex[makelist]</link>
+<regex><name>makelist</name>
+<listrepeat><![CDATA[
+<title>[makelist.param1]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
+<thumbnail>https://i.ytimg.com/vi/[makelist.param2]/hqdefault.jpg</thumbnail>
+]]></listrepeat>
+<expres>title="(.*?)".*?watch\?v=(.*?)[",&amp;]</expres>
+<page>https://www.youtube.com/channel/UCpu7hTlzAJUD-_PjjiBZCZg</page>
+</regex>
+<thumbnail>https://yt3.ggpht.com/-S6Y9BU-c_so/AAAAAAAAAAI/AAAAAAAAAAA/OCab4riMvKQ/s240-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR lime]•[/COLOR] Leo harlem</title>
+<link>$doregex[makelist]</link>
+<regex><name>makelist</name>
+<listrepeat><![CDATA[
+<title>[makelist.param1][COLOR yellow]*chopo*[/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
+<thumbnail>https://i.ytimg.com/vi/[makelist.param2]/hqdefault.jpg</thumbnail>
+]]></listrepeat>
+<expres>title="(.*?)".*?watch\?v=(.*?)[",&amp;]</expres>
+<page>https://www.youtube.com/channel/UCTU-TgGJa7YSQti8Hjqdj-Q/playlist/PLwb_a0vqypdJXQAB3MDXpjW5o0DTMPG58</page>
+</regex>
+<thumbnail>https://i.ytimg.com/vi/JcCXXHknUbc/mqdefault.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR lime]•[/COLOR] Jose mota</title>
+<link>$doregex[makelist]</link>
+<regex><name>makelist</name>
+<listrepeat><![CDATA[
+<title>[makelist.param1]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
+<thumbnail>https://i.ytimg.com/vi/[makelist.param2]/hqdefault.jpg</thumbnail>
+]]></listrepeat>
+<expres>title="(.*?)".*?watch\?v=(.*?)[",&amp;]</expres>
+<page>https://www.youtube.com/channel/UCPCJV3XMMmdQ6ZJ4JPCf2jQ</page>
+</regex>
+<thumbnail>https://yt3.ggpht.com/-9BqFTiBdrdo/AAAAAAAAAAI/AAAAAAAAAAA/YdgyUuQOhQ4/s240-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
+</item>
+
+
+<item>
+<title>[COLOR lime]•[/COLOR] Jose luis moreno y sus muñecos</title>
+<link>$doregex[makelist]</link>
+<regex><name>makelist</name>
+<listrepeat><![CDATA[
+<title>[makelist.param1]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
+<thumbnail>https://i.ytimg.com/vi/[makelist.param2]/hqdefault.jpg</thumbnail>
+]]></listrepeat>
+<expres>title="(.*?)".*?watch\?v=(.*?)[",&amp;]</expres>
+<page>https://www.youtube.com/channel/UCm7zegsp9n6RXm0ekd-Lm2A</page>
+</regex>
+<thumbnail>https://i.ytimg.com/vi/IE-GuJ9g4jI/hqdefault.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR lime]•[/COLOR] Goyo jimenez</title>
+<link>$doregex[makelist]</link>
+<regex><name>makelist</name>
+<listrepeat><![CDATA[
+<title>[makelist.param1]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
+<thumbnail>https://i.ytimg.com/vi/[makelist.param2]/hqdefault.jpg</thumbnail>
+]]></listrepeat>
+<expres>title="(.*?)".*?watch\?v=(.*?)[",&amp;]</expres>
+<page>https://www.youtube.com/channel/UCNHPsCfNwlJQELUdbt7kuyw</page>
+</regex>
+<thumbnail>https://i.ytimg.com/vi/ap7F1pg5bBA/mqdefault.jpg</thumbnail>
+</item>
+
 <item><title>[COLOR lime]•[/COLOR] Monologos varios</title>
 <link>$doregex[makelist]</link>
 <regex><name>makelist</name>
