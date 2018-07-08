@@ -1,16 +1,39 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
 <item> 
-<title></title>
+<title>Carreteras infernales</title>
 <link>http://Ignoreme</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
-<externallink></externallink>	
+<externallink>https://pastebin.com/raw/pRyUrjVw</externallink>	
 </item> 
 
 
-<item>
-<title>[COLOR red]CANAL SUR[/COLOR]</title>
-<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=WMiLcYRy3M4</link>
-<thumbnail>http://s.libertaddigital.com/fotos/noticias/canalsur-mjg.jpg</thumbnail>
-</item>
+-<item>
+-<title>[COLOR yellow]TOP GEAR TODAS[/COLOR][COLOR green] LAS TEMPORADAS 6 parte[/COLOR]</title>
+-<link>$doregex[makelist]</link> 
+-
+-<regex>
+-<name>makelist</name>
+-<listrepeat><![CDATA[
+-<SetViewMode>55</SetViewMode>
+-<title>[COLOR white][makelist.param2] [/COLOR]   </title>
+-<link>http:$doregex[link]</link>
+-<thumbnail>http://culturageek.com.ar/wp-content/uploads/2014/09/Top-Gear-Temp-17.jpg</thumbnail>
+-]]></listrepeat>
+-<expres><![CDATA[h3.*?href="(.*?)".*?title="(.*?)"]]></expres>
+-<page>http://www.documaniatv.com/documentales/top-gear/page-6/</page>
+-</regex>
+ 
+-<regex>
+-<name>link</name>
+-<expres>file:\s\"(.*?)"</expres>
+-<page>http://cnubis.com/plugins/mediaplayer/embeder/_embed2.php?u=$doregex[id2]</page>
+-</regex>
+-<regex>
+-<name>id2</name>
+-<expres>embed2\.php\?u=(.*?)"</expres>
+-<page>[makelist.param1]</page>
+-</regex>
+-<thumbnail>http://culturageek.com.ar/wp-content/uploads/2014/09/Top-Gear-Temp-17.jpg</thumbnail>
+-</item>
