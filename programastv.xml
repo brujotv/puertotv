@@ -232,7 +232,7 @@
 <thumbnail>https://i.ytimg.com/vi/[makelist.param2]/hqdefault.jpg</thumbnail>
 ]]></listrepeat>
 <expres>title="(.*?)".*?watch\?v=(.*?)[",&amp;]</expres>
-<page>https://www.youtube.com/channel/UCW3iVpk5l1EuJc8p2EIAFRQ</page>
+<page>https://www.youtube.com/channel/UCvIx2Ja4RIvv92Ea33BGWdw/videos</page>
 </regex>
 <thumbnail>https://i.imgur.com/pVtBLg3.jpg</thumbnail>
  </item>
