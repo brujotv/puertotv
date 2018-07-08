@@ -2,19 +2,6 @@
 
 
 
-<item><title>[COLOR lime]•[/COLOR] MR. GRAN BOMBA (CAMARAS OCULTAS)</title>
-<link>$doregex[makelist]</link>
-<regex><name>makelist</name>
-<listrepeat><![CDATA[
-<title>[makelist.param1]</title>
-<link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
-<thumbnail>https://i.ytimg.com/vi/[makelist.param2]/hqdefault.jpg</thumbnail>
-]]></listrepeat>
-<expres>title="(.*?)".*?watch\?v=(.*?)[",&amp;]</expres>
-<page>https://www.youtube.com/channel/UC3aSZDV0BO7RnxnKiuEiduQ</page>
-</regex>
-<thumbnail>https://yt3.ggpht.com/-uewjyjsFqsU/AAAAAAAAAAI/AAAAAAAAAAA/r3nsd49SSz4/s240-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail></item>
-
 
 <item><title>[COLOR lime]•[/COLOR] TIPARRACO SA (CAMARAS OCULTAS)</title>
 <link>$doregex[makelist]</link>
@@ -95,7 +82,7 @@
 </regex>
 <thumbnail>https://yt3.ggpht.com/-m1SbjbZ4UgQ/AAAAAAAAAAI/AAAAAAAAAAA/3HxFTOprWIs/s240-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail></item>
 
-<item><title>El mundo today</title>
+<item><title>[COLOR lime]•[/COLOR] El mundo today</title>
 <link>$doregex[makelist]</link>
 <regex><name>makelist</name>
 <listrepeat><![CDATA[
