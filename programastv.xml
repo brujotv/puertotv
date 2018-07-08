@@ -223,6 +223,19 @@
 <externallink>https://pastebin.com/raw/PDhgjshG</externallink>	
 </item>
  
+<item><title>[COLOR lime]•[/COLOR] Fisrt dates uk</title>
+<link>$doregex[makelist]</link>
+<regex><name>makelist</name>
+<listrepeat><![CDATA[
+<title>[makelist.param1]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
+<thumbnail>https://i.ytimg.com/vi/[makelist.param2]/hqdefault.jpg</thumbnail>
+]]></listrepeat>
+<expres>title="(.*?)".*?watch\?v=(.*?)[",&amp;]</expres>
+<page>https://www.youtube.com/channel/UCW3iVpk5l1EuJc8p2EIAFRQ</page>
+</regex>
+<thumbnail>https://i.imgur.com/pVtBLg3.jpg</thumbnail>
+ </item>
  
  
  
