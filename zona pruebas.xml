@@ -1,5 +1,14 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
+
+<item> 
+<title>prueba pelis</title>
+<link>http://Ignoreme</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<externallink></externallink>	
+</item> 
+
 <item> 
 <title>prueba 1</title>
 <link>http://Ignoreme</link>
