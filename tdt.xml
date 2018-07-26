@@ -40,7 +40,7 @@
 </item>
 
 <item>
-<title>[COLOR lime]•[/COLOR] Cuatro (reserva)</title>
+<title>[COLOR lime]•[/COLOR] Cuatro (reserva) [COLOR lime]off line[/COLOR]</title>
 <link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0</link>
 <regex>
 <name>GetPageUrl</name>
@@ -67,7 +67,7 @@
 </item>
 
 <item>
-<title>[COLOR lime]•[/COLOR] Telecinco (reserva)</title>
+<title>[COLOR lime]•[/COLOR] Telecinco (reserva) [COLOR lime]off line[/COLOR]</title>
 <link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0</link>
 <regex>
 <name>GetPageUrl</name>
