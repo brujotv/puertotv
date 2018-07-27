@@ -1,6 +1,69 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
 
+<?xml version="1.0" encoding="iso-8859-1"?>
+<items>
+  
+<playlist_name><![CDATA[Peliculas Con Contenido Erotico]]></playlist_name>
+  
+ <channel>       
+<title><![CDATA[Nacho Vidal]]></title>
+<logo_30x30></logo_30x30>
+<description><![CDATA[<img src="https://www.dropbox.com/s/zc0huqnso2uy6mb/Portada%20Portal.png?dl=1">]]></description>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/team1515/mirame/master/peliculasadultos/nachovidal.xml]]></playlist_url>
+<buffer_kb>30000</buffer_kb>
+</channel> 
+  
+ <channel>       
+<title><![CDATA[Multiorgasmico]]></title>
+<logo_30x30></logo_30x30>
+<description><![CDATA[<img src="https://www.dropbox.com/s/zc0huqnso2uy6mb/Portada%20Portal.png?dl=1">]]></description>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/team1515/mirame/master/peliculasadultos/Multiorgasmic.xml]]></playlist_url>
+<buffer_kb>30000</buffer_kb>
+</channel> 
+  
+  <channel>       
+<title><![CDATA[Asiatico]]></title>
+<logo_30x30></logo_30x30>
+<description><![CDATA[<img src="https://www.dropbox.com/s/zc0huqnso2uy6mb/Portada%20Portal.png?dl=1">]]></description>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/team1515/mirame/master/peliculasadultos/asiatico.xml]]></playlist_url>
+<buffer_kb>30000</buffer_kb>
+</channel>
+
+<channel>       
+<title><![CDATA[Pelis Completas]]></title>
+<logo_30x30></logo_30x30>
+<description><![CDATA[<img src="https://www.dropbox.com/s/zc0huqnso2uy6mb/Portada%20Portal.png?dl=1">Portal Dedicado Al Streaming Series De Alta Calidad]]></description>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/team1515/mirame/master/peliculasadultos/PeliculasAdultosEspanol.xml]]></playlist_url>
+<buffer_kb>30000</buffer_kb>
+</channel>
+  
+  <channel>       
+<title><![CDATA[VIDEOS HD]]></title>
+<logo_30x30></logo_30x30>
+<description><![CDATA[<img src="https://www.dropbox.com/s/zc0huqnso2uy6mb/Portada%20Portal.png?dl=1">Portal Dedicado Al Streaming Series De Alta Calidad]]></description>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/team1515/mirame/master/peliculasadultos/adultos.xml]]></playlist_url>
+<buffer_kb>30000</buffer_kb>
+</channel>
+  
+    <channel>       
+<title><![CDATA[VIDEOS 4K]]></title>
+<logo_30x30></logo_30x30>
+<description><![CDATA[<img src="https://www.dropbox.com/s/zc0huqnso2uy6mb/Portada%20Portal.png?dl=1">Portal Dedicado Al Streaming Series De Alta Calidad]]></description>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/team1515/mirame/master/peliculasadultos/videosadultos4k.xml]]></playlist_url>
+<buffer_kb>30000</buffer_kb>
+</channel>
+  
+  
+  
+  
+  
+  <next_page_url text="CH+ FAVORITOS"><![CDATA[nStreamFavorites.xml]]></next_page_url>
+<prev_page_url text="CH- ATRAS"><![CDATA[nStreamVOD.xml]]></prev_page_url>
+
+</items>
+
+
 <items>
 <playlist_name><![CDATA[accion]]></playlist_name>
   
