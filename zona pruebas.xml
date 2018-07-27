@@ -1,6 +1,118 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
 
+
+<item>
+<title>TDT España</title>
+<thumbnail>http://dieslblog.files.wordpress.com/2009/03/tdt7.jpg</thumbnail>
+<fanart></fanart>
+<link>http://ignoreme</link>
+<externallink>https://raw.githubusercontent.com/mjgcamus/addons_kodi/master/TDT/TDT_Espa%C3%B1a.xml</externallink>
+</item>
+
+<item>
+<title>Programas de Television</title>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<link>http://ignoreme</link>
+<externallink>https://raw.githubusercontent.com/mjgcamus/addons_kodi/master/program_tv/programas</externallink>
+</item>
+
+<item>
+<title>TDT Portugal</title>
+<thumbnail>https://i2.wp.com/kodiportugal.pt/wp-content/uploads/2016/11/Screenshot_4-2.png</thumbnail>
+<fanart></fanart>
+<link>http://ignoreme</link>
+<externallink>https://raw.githubusercontent.com/mjgcamus/addons_kodi/master/TDT/TDT_Portugal.xml</externallink>
+</item>
+
+
+<item>
+<title>Películas de animación</title>
+<thumbnail>https://3.bp.blogspot.com/-y1be2EQlNbY/TrnzKJPL_nI/AAAAAAAADks/B1lHutPyzPk/s400/raton%2Bmickey.jpg</thumbnail>
+<fanart></fanart>
+<link>http://ignoreme</link>
+<externallink>https://raw.githubusercontent.com/mjgcamus/addons_kodi/master/peliculas/animacion.xml</externallink>
+</item>
+
+<item>
+<title>Astérix el Galo (1967)</title>
+<thumbnail>http://cdn.pordede.com/content/covers/mediacover-4796-4.png</thumbnail>
+<urlsolve>http://streamcloud.eu/8qou678zoizq/Asterix_el_galo_HDRip.avi.html</urlsolve>
+</item>
+
+<item>
+<title>Astérix y Cleopatra (1968)</title>
+<thumbnail>http://cdn.pordede.com/content/covers/mediacover-3860-4.png</thumbnail>
+<urlsolve>http://streamcloud.eu/76freidinoh9/AST3R1X_y_CL30PATRA_1968__DVDRIP__Castellano.avi.html</urlsolve>
+</item>
+
+<item>
+<title>Astérix y las doce pruebas (1976)</title>
+<thumbnail>http://cdn.pordede.com/content/covers/mediacover-3398-4.png</thumbnail>
+<urlsolve>http://streamcloud.eu/ad28sc92dwur</urlsolve>
+</item>
+
+<item>
+<title>Astérix y la sorpresa del César (1985)</title>
+<thumbnail>http://cdn.pordede.com/content/covers/mediacover-3106-4.png</thumbnail>
+<urlsolve>http://streamcloud.eu/ux6cz465rcgp/AST3R1X_y_LA_S0RPR3SA_D3L_C3SAR_1985__DVDRIP__Castellano.avi.html</urlsolve>
+</item>
+
+<item>
+<title>Astérix en Bretaña (1986)</title>
+<thumbnail>http://cdn.pordede.com/content/covers/mediacover-3344-4.png</thumbnail>
+<urlsolve>http://streamcloud.eu/rdcddwmbpbeg/AST3R1X_en_BR3TANA_1986__DVDRIP__Castellano.avi.html</urlsolve>
+</item>
+
+<item>
+<title>Astérix y el golpe del menhir (1989)</title>
+<thumbnail>http://cdn1.pordede.com/content/covers/mediacover-5277-4.png</thumbnail>
+<urlsolve>http://streamcloud.eu/yg5c77fblzho/Asterix_y_el_golpe_del_menhir_HDRip.avi.html</urlsolve>
+</item>
+
+<item>
+<title>Astérix en América (1994)</title>
+<thumbnail>http://cdn.pordede.com/content/covers/mediacover-3386-4.png</thumbnail>
+<urlsolve>http://streamcloud.eu/jrcg024c32z1/AsterixEnAmericaHDRip.avi.html</urlsolve>
+</item>
+
+<item>
+<title>Astérix y Obelix contra Cesar (1999)</title>
+<thumbnail>http://cdn.pordede.com/content/covers/mediacover-3556-4.png</thumbnail>
+<urlsolve>http://streamcloud.eu/k0vnpit30kju/Ast__rix_y_Ob__lix_contra_Cesar_MicroHD_1080p_AC3_5.1.mkv.html</urlsolve>
+</item>
+
+<item>
+<title>Asterix y Obelix: Mision Cleopatra (2002)</title>
+<thumbnail>http://cdn.pordede.com/content/covers/mediacover-1662-4.png</thumbnail>
+<urlsolve>http://streamcloud.eu/8k23o7m0a5y1</urlsolve>
+</item>
+
+<item>
+<title>Astérix y los vikingos (2006)</title>
+<thumbnail>http://cdn.pordede.com/content/covers/mediacover-3626-4.png</thumbnail>
+<urlsolve>http://streamcloud.eu/h4gtgh8g1vju/Asterix_y_los_vikingos.avi.html</urlsolve>
+</item>
+
+<item>
+<title>Asterix en los Juegos Olímpicos (2008)</title>
+<thumbnail>http://cdn.pordede.com/content/covers/mediacover-1510-4.png</thumbnail>
+<urlsolve>http://streamcloud.eu/u4ezqp9nbeke/Asterix.En.Los.Juegos.Olimpicos.avi.html</urlsolve>
+</item>
+
+<item>
+<title>Astérix y Obélix: Al servicio de su majestad (2012)</title>
+<thumbnail>http://cdn1.pordede.com/content/covers/mediacover-43279-4.png</thumbnail>
+<urlsolve>http://streamcloud.eu/dccbi22edjw8/Ast__rix___Ob__lix_Al_servicio_de_Su_Majestad_MicroHD_1080p_AC3_5.1.mkv.html</urlsolve>
+</item>
+
+<item>
+<title>Astérix y la residencia de los dioses (2014)</title>
+<thumbnail>http://cdn.pordede.com/content/covers/mediacover-60026-4.png</thumbnail>
+<urlsolve>http://streamcloud.eu/k9av71g41gps/Asterix_La_residencia_de_los_dioses__HDRip_.avi.html</urlsolve>
+</item>
+
 <item> 
 <title>prueba pelis</title>
 <link>http://Ignoreme</link>
