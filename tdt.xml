@@ -40,6 +40,15 @@
 </item>
 
 <item>
+<title>[COLOR white][COLOR blue]• [/COLOR] Canal Sur</title>
+<link>plugin://plugin.video.youtube/play/?video_id=r0EOb3O645Y</link>
+<thumbnail>http://www.elcamaleonverde.com/wp-content/uploads/2016/02/logo-medio-canalsur.png</thumbnail>
+<fanart>https://www.casascuevacazorla.com/wp-content/uploads/2018/02/Canal-sur.jpg</fanart>
+<info>Canal Sur Televisión es un canal de televisión abierta autonómico español, el canal principal de Radio y Televisión de Andalucía, la radiotelevisión autonómica de Andalucía.</info>
+</item>
+</items>
+
+<item>
 <title>[COLOR lime]•[/COLOR] Cuatro (reserva) [COLOR red](off line)[/COLOR]</title>
 <link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0</link>
 <regex>
