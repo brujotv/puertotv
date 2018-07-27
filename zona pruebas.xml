@@ -2,30 +2,41 @@
 
 
 
-<item>
-<title>TDT España</title>
-<thumbnail>http://dieslblog.files.wordpress.com/2009/03/tdt7.jpg</thumbnail>
-<fanart></fanart>
-<link>http://ignoreme</link>
-<externallink>https://raw.githubusercontent.com/mjgcamus/addons_kodi/master/TDT/TDT_Espa%C3%B1a.xml</externallink>
-</item>
+
+
+
+
+<item> 
+<title>[COLOR yellow]_**_  [/COLOR][COLOR  skyblue] ZONA [/COLOR][COLOR orange] DEPORTES [/COLOR][COLOR yellow]  _**_[/COLOR]</title>
+<link>http://Ignoreme</link>
+<thumbnail>https://i.imgur.com/16JGL5F.jpg</thumbnail>
+<fanart>https://i.imgur.com/16JGL5F.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/lokiyotnt69/TodoPlus/master/BASEDEPORTESJHG2.xml</externallink>	
+</item> 
+
+<item> 
+<title>[COLOR  yellow]_**_  [/COLOR][COLOR skyblue] ZONA [/COLOR][COLOR orange] TDT [/COLOR][COLOR  yellow]_**_ [/COLOR]</title>
+<link>http://Ignoreme</link>
+<thumbnail>https://i.imgur.com/wQMzvl6.jpg</thumbnail>
+<fanart>https://i.imgur.com/wQMzvl6.jpg</fanart>
+<externallink>https://pastebin.com/raw/U7SXbEiN</externallink>	
+</item> 
 
 <item>
-<title>Programas de Television</title>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<link>http://ignoreme</link>
-<externallink>https://raw.githubusercontent.com/mjgcamus/addons_kodi/master/program_tv/programas</externallink>
-</item>
-
+<title>[COLOR yellow]_**_  [/COLOR][COLOR  skyblue] DEPORTES [/COLOR][COLOR yellow]  _**_[/COLOR]</title>
+<link>http://Ignoreme</link>
+<thumbnail>http://www.dipuleon.es/img/File/logo_servicio_de_deportes.jpg</thumbnail>
+<fanart>http://www.dipuleon.es/img/File/logo_servicio_de_deportes.jpg<fanart>
+<externallink>https://raw.githubusercontent.com/lokiyotnt69/UFC/master/new21.xml</externallink> 
 <item>
-<title>TDT Portugal</title>
-<thumbnail>https://i2.wp.com/kodiportugal.pt/wp-content/uploads/2016/11/Screenshot_4-2.png</thumbnail>
-<fanart></fanart>
-<link>http://ignoreme</link>
-<externallink>https://raw.githubusercontent.com/mjgcamus/addons_kodi/master/TDT/TDT_Portugal.xml</externallink>
-</item>
 
+<item> 
+<title>[COLOR yellow]_**_  [/COLOR][COLOR  skyblue] ZONA [/COLOR][COLOR orange] SPORTS [/COLOR][COLOR yellow]  _**_[/COLOR]</title>
+<link>http://Ignoreme</link>
+<thumbnail>https://i.imgur.com/J0zmr7e.jpg</thumbnail>
+<fanart>https://i.imgur.com/J0zmr7e.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/lokiyotnt69/TodoPlus/master/AV%20JHG.xml</externallink>	
+</item> 
 
 <item>
 <title>Películas de animación</title>
