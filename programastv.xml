@@ -90,6 +90,13 @@
 <fanart>https://it.dplay.com/0009/static/assets/imgs/default_share_img.jpg</fanart>
 </item>
 
+ <item>
+<title>[COLOR lime]•[/COLOR] Joyas sobre ruedas</title>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<link>http://ignoreme</link>
+<externallink>https://raw.githubusercontent.com/brujotv/puertotv/master/joyassr.xml</externallink>
+</item>
 
 <item>
 <title>[COLOR lime]•[/COLOR] Cuarto Milenio</title>
@@ -108,7 +115,7 @@
 <info></info>
 </item>
 
- <item>
+<item>
 <title>[COLOR lime]•[/COLOR] Tu cara todavia no me suena</title>
 <thumbnail></thumbnail>
 <fanart></fanart>
