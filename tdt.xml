@@ -40,7 +40,7 @@
 </item>
 
 <item>
-<title>[COLOR lime]•[/COLOR] Cuatro (reserva)</title>
+<title>[COLOR lime]•[/COLOR] Cuatro (reserva) [COLOR red](off line)[/COLOR]</title>
 <link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0</link>
 <regex>
 <name>GetPageUrl</name>
@@ -54,7 +54,7 @@
 
 <item>
 <title>[COLOR lime]•[/COLOR] Cuatro HD</title>        
-<link>https://dai.google.com/linear/hls/p/event/2DbwX2JMQvef-4YCGEtRkQ/stream/d41af50e-bccf-4e72-989b-619bab9f7ed2:BRU/variant/55fab65b92e5624bc6651ff5ec9f2fc3/bandwidth/2564000.m3u8</link>
+<link>http://playlist.onlybest.tv/ru/channel/62aa43e5b3a27ee29e6680e8ae8e9c79/616/index.m3u8</link>
 <thumbnail>http://s.libertaddigital.com/fotos/noticias/logo-cuatro-mjg.jpg</thumbnail>
 <fanart>https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/EuroEspa%C3%B1a.svg/1200px-EuroEspa%C3%B1a.svg.png</fanart>
 </item>
@@ -67,7 +67,7 @@
 </item>
 
 <item>
-<title>[COLOR lime]•[/COLOR] Telecinco (reserva)</title>
+<title>[COLOR lime]•[/COLOR] Telecinco (reserva) [COLOR red](off line)[/COLOR]</title>
 <link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0</link>
 <regex>
 <name>GetPageUrl</name>
@@ -81,7 +81,7 @@
 
 <item>
 <title>[COLOR lime]•[/COLOR] Telecinco HD</title>        
-<link></link>
+<link>http://playlist.onlybest.tv/ru/channel/62aa43e5b3a27ee29e6680e8ae8e9c79/617/index.m3u8</link>
 <thumbnail>http://www.vectorlogo.es/wp-content/uploads/2016/06/logo-vector-telecinco-circular.jpg</thumbnail>
 <fanart>https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/EuroEspa%C3%B1a.svg/1200px-EuroEspa%C3%B1a.svg.png</fanart>
 </item>

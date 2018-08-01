@@ -10,19 +10,11 @@
 </item>
 
 <item>
-<title>[COLOR lime]•[/COLOR] Movistar 1</title>
+<title>[COLOR lime]•[/COLOR] Movistar </title>
 <thumbnail>https://tecmoviles.com/wp-content/uploads/2017/01/movistar-plus-600x416.jpg</thumbnail>
 <fanart>https://www.adslzone.net/app/uploads/2018/04/movistar-plus.jpg</fanart>
 <link>http://ignoreme</link>
-<externallink>http://bit.ly/2nr0OzL</externallink>
-</item>
-
-<item>
-<title>[COLOR lime]•[/COLOR] Movistar 2</title>
-<thumbnail>https://tecmoviles.com/wp-content/uploads/2017/01/movistar-plus-600x416.jpg</thumbnail>
-<fanart>https://www.adslzone.net/app/uploads/2018/04/movistar-plus.jpg</fanart>
-<link>http://ignoreme</link>
-<externallink>https://pastebin.com/raw/cNWCrAaz</externallink>
+<externallink>https://raw.githubusercontent.com/brujotv/puertotv/master/moviser.xml</externallink>
 </item>
 
 <item>
@@ -71,6 +63,14 @@
 <fanart>https://i.imgur.com/xTKspv3.jpg</fanart>
 <link>http://ignoreme</link>
 <externallink>https://raw.githubusercontent.com/brujotv/puertotv/master/zonainfantil.xml</externallink>
+</item>
+
+<item>
+<title>[COLOR lime]•[/COLOR] Series TV</title>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<link>http://ignoreme</link>
+<externallink>https://raw.githubusercontent.com/brujotv/series1/master/index.xml</externallink>
 </item>
 
 <item>
@@ -130,6 +130,15 @@
 <externallink>https://raw.githubusercontent.com/brujotv/puertotv/master/cazaypesca.xml</externallink>
 </item>
 
+
+<item>
+<title>[COLOR lime]•[/COLOR] Tesla</title>
+<thumbnail>https://i.imgur.com/zBlww2I.jpg</thumbnail>
+<fanart></fanart>
+<link>http://ignoreme</link>
+<externallink>https://bit.ly/2lqcXV2</externallink>
+</item>
+
 <item>
 <title>[COLOR lime]•[/COLOR] AEROBIC JUST DANCE</title>
 <thumbnail>http://apk.land/images/just-dance-now-161.png</thumbnail>
@@ -167,7 +176,7 @@
 <thumbnail>http://comprarpegatinas.com/images/stories/virtuemart/product/pegatinas/pegatina_prohibido_paso.png</thumbnail>
 <fanart>http://tilanotv.es/wp-content/uploads/2017/05/Carta_De_pruebas-700x400.png</fanart>
 <link>http://ignoreme</link>
-<externallink>https://raw.githubusercontent.com/brujotv/puertotv/master/zona%20pruebas.xml</externallink>
+<externallink>https://raw.githubusercontent.com/brujotv/pruebas/master/zona%20pruebas.xml</externallink>
 </item>
 
 

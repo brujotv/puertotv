@@ -2,7 +2,12 @@
 
 
 
-
+<item>
+<title> MaiamiTV </title>
+<link>http://usaserver.miamitvchannel.com/miamitv/smil:miamitv/playlist.m3u8</link>
+<thumbnail>http://www.1click3dprint.com/wp-content/uploads/2015/04/miami_tv_us.png</thumbnail>
+<fanart></fanart>
+</item>
 
 <item> 
 <title>prueba 1</title>
