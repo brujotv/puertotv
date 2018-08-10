@@ -24,6 +24,14 @@
 <externallink>https://raw.githubusercontent.com/brujotv/puertotv/master/musica%20tv.xml</externallink>
 </item>
 
+<item>
+<title>[COLOR lime]•[/COLOR] LIVE MUSIC</title>
+<link>http://ignorame</link>
+<thumbnail>https://i.imgur.com/d3Aivnb.png</thumbnail>
+<fanart>https://i.imgur.com/d3Aivnb.png</fanart>
+<externallink>https://raw.githubusercontent.com/lokiyotnt69/LIVEMUSIC/master/index.xml</externallink>
+</item> 
+
 <item><title>[COLOR lime]•[/COLOR] Vevo 2017</title>
 <link>$doregex[makelist]</link>
 <regex><name>makelist</name>
