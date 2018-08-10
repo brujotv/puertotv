@@ -40,21 +40,8 @@
 </item>
 
 <item>
-<title>[COLOR lime]•[/COLOR] Cuatro (reserva) [COLOR red](off line)[/COLOR]</title>
-<link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0</link>
-<regex>
-<name>GetPageUrl</name>
-<expres>source: '(.*?)'</expres>
-<page>http://vergol.com/live1/cuatro.php</page>
-<referer>http://verdirectotv.com/tv/nacionales2/cuatro.html</referer>
-</regex>
-<thumbnail>https://s7.postimg.cc/pv3i999bf/cuatro.png</thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
 <title>[COLOR lime]•[/COLOR] Cuatro HD</title>        
-<link>http://playlist.onlybest.tv/ru/channel/62aa43e5b3a27ee29e6680e8ae8e9c79/616/index.m3u8</link>
+<link></link>
 <thumbnail>http://s.libertaddigital.com/fotos/noticias/logo-cuatro-mjg.jpg</thumbnail>
 <fanart>https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/EuroEspa%C3%B1a.svg/1200px-EuroEspa%C3%B1a.svg.png</fanart>
 </item>
@@ -67,21 +54,8 @@
 </item>
 
 <item>
-<title>[COLOR lime]•[/COLOR] Telecinco (reserva) [COLOR red](off line)[/COLOR]</title>
-<link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0</link>
-<regex>
-<name>GetPageUrl</name>
-<expres>source: '(.*?)'</expres>
-<page>http://vergol.com/live1/telecinco.php</page>
-<referer>http://vercanalestv.com/tv/multicanal/telecinco.html</referer>
-</regex>
-<thumbnail>https://s7.postimg.cc/a9m6pectn/telecinco.png</thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
 <title>[COLOR lime]•[/COLOR] Telecinco HD</title>        
-<link>http://playlist.onlybest.tv/ru/channel/62aa43e5b3a27ee29e6680e8ae8e9c79/617/index.m3u8</link>
+<link></link>
 <thumbnail>http://www.vectorlogo.es/wp-content/uploads/2016/06/logo-vector-telecinco-circular.jpg</thumbnail>
 <fanart>https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/EuroEspa%C3%B1a.svg/1200px-EuroEspa%C3%B1a.svg.png</fanart>
 </item>
@@ -143,19 +117,6 @@
 </item>
 
 <item>
-<title>[COLOR lime]•[/COLOR] BE MAD</title>
-<link>$doregex[GetPageUrl]|Referer=http://vercanalestv.com/tv/nacionales/be-mad.html&amp;User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64; rv:55.0) Gecko/20100101 Firefox/55.0</link>
-<regex>
-<name>GetPageUrl</name>
-<expres>source: '(.*?)'</expres>
-<page>http://vergol.com/live/bemad.php</page>
-<referer>http://vercanalestv.com/tv/nacionales/be-mad.html</referer>
-</regex>
-<thumbnail>http://zonadjjavi.webcindario.com/Kodi/logos/bemad1.jpg</thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
 <title>[COLOR lime]•[/COLOR] Paramount Channel</title>        
 <link>http://paramount.live.flumotion.com/live/chunks.m3u8</link>
 <thumbnail>http://www.fotogramas.es/var/ezflow_site/storage/images/noticias/paramount-channel-cambia-de-dial/7797075-1-esl-ES/Paramount-Channel-cambia-de-dial_landscape.jpg</thumbnail>
@@ -213,7 +174,7 @@
 
 <item>
 <title>[COLOR lime]•[/COLOR] 8 tv</title>        
-<link>http://streaming.8tv.cat/8TV/8aldia-directe/chunklist_w1058883651.m3u8</link>
+<link></link>
 <thumbnail>http://www.8tv.cat/wp-content/themes/8tv/_/images/apple-touch-icons/apple-touch-icon.png</thumbnail>
 <fanart>https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/EuroEspa%C3%B1a.svg/1200px-EuroEspa%C3%B1a.svg.png</fanart>
 </item>
@@ -248,7 +209,7 @@
 
 <item>
 <title>[COLOR lime]•[/COLOR] Real madrid tv</title>        
-<link>http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8</link>
+<link></link>
 <thumbnail>http://puu.sh/nB5fs/d0fbb8562f.png</thumbnail>
 <fanart>https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/EuroEspa%C3%B1a.svg/1200px-EuroEspa%C3%B1a.svg.png</fanart>
 </item>
@@ -265,13 +226,6 @@
 <link>http://sevillafc_live-lh.akamaihd.net/i/video_0@354142/index_0300_av-b.m3u8?sd=10&rebase=on</link>
 <thumbnail>https://img21.taquilla.com/data/images/t/07/sevilla-fc.jpg</thumbnail>
 <fanart>https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/EuroEspa%C3%B1a.svg/1200px-EuroEspa%C3%B1a.svg.png</fanart>
-</item>
-
-<item>
-<title>[COLOR lime]•[/COLOR] Secrets of The Universe Live Stream Spark (Subtitulado) </title>
-<urlsolve>https://www.youtube.com/watch?v=jyzIv_uLiXs</urlsolve>
-<thumbnail>https://i.pinimg.com/originals/2a/2e/b8/2a2eb8fd66a4df06afe41ed0b1c54529.jpg</thumbnail>
-<fanart>http://1.bp.blogspot.com/-Y7IIGOMzpqY/UEEp-SKfs2I/AAAAAAAACkg/1lP8pmMMT2I/s1600/alejandria_biblioteca.jpg</fanart>
 </item>
 
 <item>
@@ -296,20 +250,6 @@
 </item>
 
 <item>
-<title>[COLOR lime]•[/COLOR] Earthquake and Volcano Live Seismic Monitor- Yellowstone- Hawaii </title>
-<urlsolve>https://www.youtube.com/watch?v=0FXfXOj_gMg</urlsolve>
-<thumbnail>http://www.noticiasusodidactico.com/wp-content/uploads/2013/07/tierra.png</thumbnail>
-<fanart>http://1.bp.blogspot.com/-Y7IIGOMzpqY/UEEp-SKfs2I/AAAAAAAACkg/1lP8pmMMT2I/s1600/alejandria_biblioteca.jpg</fanart>
-</item>
-
-<item>
-<title>[COLOR lime]•[/COLOR] DW - en vivo (Español)</title>
-<urlsolve>https://www.youtube.com/watch?v=epgADPrxYI8</urlsolve>
-<thumbnail>https://assets.nav.mtn.com.cy/mtntv/dw-jpg-H12ulft1-.jpg</thumbnail>
-<fanart>http://1.bp.blogspot.com/-Y7IIGOMzpqY/UEEp-SKfs2I/AAAAAAAACkg/1lP8pmMMT2I/s1600/alejandria_biblioteca.jpg</fanart>
-</item>
-
-<item>
 <title>[COLOR lime]•[/COLOR] GRANADA CHANNEL TV  (Español)</title>
 <urlsolve>https://www.youtube.com/watch?v=o2rViDSaRZE</urlsolve>
 <thumbnail>https://i.ytimg.com/vi/o2rViDSaRZE/hqdefault_live.jpg</thumbnail>
@@ -327,20 +267,6 @@
 <title>[COLOR lime]•[/COLOR] CGTN en Español </title>
 <urlsolve>https://www.youtube.com/watch?v=9Rd14miCPFU</urlsolve>
 <thumbnail>https://pbs.twimg.com/profile_images/814728645637849088/liai3Jbz.jpg</thumbnail>
-<fanart>http://1.bp.blogspot.com/-Y7IIGOMzpqY/UEEp-SKfs2I/AAAAAAAACkg/1lP8pmMMT2I/s1600/alejandria_biblioteca.jpg</fanart>
-</item>
-
-<item>
-<title>[COLOR lime]•[/COLOR] HispanTV </title>
-<urlsolve>https://www.youtube.com/watch?v=wTZs9zwzOmA</urlsolve>
-<thumbnail>https://yt3.ggpht.com/-v0kPF65pPCs/AAAAAAAAAAI/AAAAAAAAAAA/Kz7KQB1BtJY/s288-mo-c-c0xffffffff-rj-k-no/photo.jpg</thumbnail>
-<fanart>http://1.bp.blogspot.com/-Y7IIGOMzpqY/UEEp-SKfs2I/AAAAAAAACkg/1lP8pmMMT2I/s1600/alejandria_biblioteca.jpg</fanart>
-</item>
-
-<item>
-<title>[COLOR lime]•[/COLOR] RT en Español </title>
-<urlsolve>https://www.youtube.com/watch?v=mV8jp1N2fSw</urlsolve>
-<thumbnail>https://www.salterasradio.com/Salterasradio/wp-content/uploads/2018/03/RT-EN-ESPA%C3%91OL.jpg</thumbnail>
 <fanart>http://1.bp.blogspot.com/-Y7IIGOMzpqY/UEEp-SKfs2I/AAAAAAAACkg/1lP8pmMMT2I/s1600/alejandria_biblioteca.jpg</fanart>
 </item>
 
