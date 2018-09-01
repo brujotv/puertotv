@@ -18,3 +18,24 @@
 <link>http://ignoreme</link>
 <externallink>https://pastebin.com/raw/PkgU2MUd</externallink>
 </item>
+
+
+<item>
+        <title>prueba</title>
+        <link>http://ignorame</link>
+        <thumbnail></thumbnail>
+        <fanart></fanart>
+
+<externallink>$doregex[notice]</externallink>
+<regex>
+<name>notice</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+  import xbmc
+  xbmc.executebuiltin("XBMC.Notification(Si no te funciona esta lista,prueba con otra ,10000)")
+  return 'https://raw.githubusercontent.com/brujotv/puertotv/master/moviser.xml'
+]]></expres>
+<page></page>
+</regex>
+
+</item>
