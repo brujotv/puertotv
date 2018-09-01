@@ -25,14 +25,6 @@
 <externallink>https://pastebin.com/raw/Jvw2GNxY</externallink>
 </item> 
 
-<item>
-<title>[COLOR lime]•[/COLOR] Mongolia deportes españa</title>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<link>http://ignoreme</link>
-<externallink>http://oqefuh.blogspot.com.es/p/menu-listas-espana_11.html</externallink>
-</item>
-
 <item><title>[COLOR lime]•[/COLOR] AGENDA ROJA (Sportsdevil)</title>
 <link>ignorme</link>
 <jsonrpc>plugin://plugin.video.SportsDevil/?item=url=livesports/rojadirecta.me.cfg&amp;mode=1</jsonrpc>
@@ -64,14 +56,6 @@
 <referer>http://www.arenavision.in</referer>
 <setcookie>beget=begetok</setcookie>
 </regex><thumbnail>https://raw.githubusercontent.com/blackghostaddon/gray/master/img/deportes.png</thumbnail>
-</item>
-
-<item>
-<title>[COLOR lime]•[/COLOR] Deportes internacional</title>
-<thumbnail>https://www.ayto-villacanada.es/sites/default/files/images/imagenesbannersinf/icono2_deportes_web.jpg</thumbnail>
-<fanart></fanart>
-<link>http://ignoreme</link>
-<externallink>https://raw.githubusercontent.com/brujotv/puertotv/master/deportes%20internaciomales.xml</externallink>
 </item>
 
 <item><title>[COLOR lime]•[/COLOR] Diario AS</title>
