@@ -55,7 +55,7 @@
 
 <item>
 <title>[COLOR lime]•[/COLOR] Telecinco HD</title>        
-<link>https://dai.google.com/linear/hls/p/event/XqcS7SpLTLWIo_QetmAfnw/stream/cf4c7895-2782-46ff-a6c1-ed06306a605b:BRU/variant/12c70536e2e0db9d3dd8df66e0d3c496/bandwidth/2564000.m3u8</link>
+<link></link>
 <thumbnail>http://www.vectorlogo.es/wp-content/uploads/2016/06/logo-vector-telecinco-circular.jpg</thumbnail>
 <fanart>https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/EuroEspa%C3%B1a.svg/1200px-EuroEspa%C3%B1a.svg.png</fanart>
 </item>
@@ -125,7 +125,7 @@
 
 <item>
 <title>[COLOR lime]•[/COLOR] Life tv</title>        
-<link>http://178.132.6.97/uzivo/lifetvesp/tracks-v1a1/index.m3u8</link>
+<link></link>
 <thumbnail>https://i.ytimg.com/vi/CcY76rUYz2k/mqdefault.jpg</thumbnail>
 <fanart>https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/EuroEspa%C3%B1a.svg/1200px-EuroEspa%C3%B1a.svg.png</fanart>
 </item>
@@ -160,14 +160,14 @@
 
 <item>
 <title>[COLOR lime]•[/COLOR] La Otra</title>        
-<link>http://laotrahls-live.hls.adaptive.level3.net/telemadrid/laotra1/bitrate_1.m3u8</link>
+<link></link>
 <thumbnail>http://publicidadcines.com/images/logo-laotra.jpg</thumbnail>
 <fanart>https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/EuroEspa%C3%B1a.svg/1200px-EuroEspa%C3%B1a.svg.png</fanart>
 </item>
 
 <item>
 <title>[COLOR lime]•[/COLOR] Telemadrid</title>        
-<link>http://telemadridhls-live.hls.adaptive.level3.net/telemadrid/telemadrid1/bitrate_2.m3u8</link>
+<link></link>
 <thumbnail>http://media.tvalacarta.info/canales/256x256/telemadrid.png</thumbnail>
 <fanart>https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/EuroEspa%C3%B1a.svg/1200px-EuroEspa%C3%B1a.svg.png</fanart>
 </item>
@@ -219,55 +219,6 @@
 <link>http://rbetis-hls.flumotion.com/rbetis/live/chunks.m3u8</link>
 <thumbnail>http://www.grupocomunica.com/wp-content/uploads/2016/05/Radio-Betis-y-Betis-TV.jpg</thumbnail>
 <fanart>https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/EuroEspa%C3%B1a.svg/1200px-EuroEspa%C3%B1a.svg.png</fanart>
-</item>
-
-<item>
-<title>[COLOR lime]•[/COLOR] Sevilla fc</title>        
-<link>http://sevillafc_live-lh.akamaihd.net/i/video_0@354142/index_0300_av-b.m3u8?sd=10&rebase=on</link>
-<thumbnail>https://img21.taquilla.com/data/images/t/07/sevilla-fc.jpg</thumbnail>
-<fanart>https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/EuroEspa%C3%B1a.svg/1200px-EuroEspa%C3%B1a.svg.png</fanart>
-</item>
-
-<item>
-<title>[COLOR lime]•[/COLOR] NASA TV Public-Education (Subtitulado)</title>
-<urlsolve>https://www.youtube.com/watch?v=wwMDvPCGeE0</urlsolve>
-<thumbnail>https://pbs.twimg.com/profile_images/991065825116393472/Gbysy5gd.jpg</thumbnail>
-<fanart>http://1.bp.blogspot.com/-Y7IIGOMzpqY/UEEp-SKfs2I/AAAAAAAACkg/1lP8pmMMT2I/s1600/alejandria_biblioteca.jpg</fanart>
-</item>
-
-<item>
-<title>[COLOR lime]•[/COLOR] NASA TV Media (Subtitulado)</title>
-<urlsolve>https://www.youtube.com/watch?v=P11y8N22Rq0</urlsolve>
-<thumbnail>https://srv.latostadora.com/designall.dll/nasa_emblem_ultra-vintage--i:1413856059511413850;w:520;m:1;b:FFFFFF.jpg</thumbnail>
-<fanart>http://1.bp.blogspot.com/-Y7IIGOMzpqY/UEEp-SKfs2I/AAAAAAAACkg/1lP8pmMMT2I/s1600/alejandria_biblioteca.jpg</fanart>
-</item>
-
-<item>
-<title>[COLOR lime]•[/COLOR] Earth from space : Time Lapse Collection - Images from astronauts on the ISS</title>
-<urlsolve>https://www.youtube.com/watch?v=qyEzsAy4qeU</urlsolve>
-<thumbnail>http://es-visiontimes.com/wp-content/uploads/2014/03/contaminacion-espacio-6.jpg</thumbnail>
-<fanart>http://1.bp.blogspot.com/-Y7IIGOMzpqY/UEEp-SKfs2I/AAAAAAAACkg/1lP8pmMMT2I/s1600/alejandria_biblioteca.jpg</fanart>
-</item>
-
-<item>
-<title>[COLOR lime]•[/COLOR] GRANADA CHANNEL TV  (Español)</title>
-<urlsolve>https://www.youtube.com/watch?v=o2rViDSaRZE</urlsolve>
-<thumbnail>https://i.ytimg.com/vi/o2rViDSaRZE/hqdefault_live.jpg</thumbnail>
-<fanart>http://1.bp.blogspot.com/-Y7IIGOMzpqY/UEEp-SKfs2I/AAAAAAAACkg/1lP8pmMMT2I/s1600/alejandria_biblioteca.jpg</fanart>
-</item>
-
-<item>
-<title>[COLOR lime]•[/COLOR] Maraton de Documentales- 24Hrs/7D Discoverychann (Español)</title>
-<urlsolve>https://www.youtube.com/watch?v=YMTDlZxtVtg</urlsolve>
-<thumbnail>https://www.tecoloco.com.gt/stands.axd?image=c5cxnrs3.tct247_profilepic_tecoloco_v1.png</thumbnail>
-<fanart>http://1.bp.blogspot.com/-Y7IIGOMzpqY/UEEp-SKfs2I/AAAAAAAACkg/1lP8pmMMT2I/s1600/alejandria_biblioteca.jpg</fanart>
-</item>
-
-<item>
-<title>[COLOR lime]•[/COLOR] CGTN en Español </title>
-<urlsolve>https://www.youtube.com/watch?v=9Rd14miCPFU</urlsolve>
-<thumbnail>https://pbs.twimg.com/profile_images/814728645637849088/liai3Jbz.jpg</thumbnail>
-<fanart>http://1.bp.blogspot.com/-Y7IIGOMzpqY/UEEp-SKfs2I/AAAAAAAACkg/1lP8pmMMT2I/s1600/alejandria_biblioteca.jpg</fanart>
 </item>
 
 <item>
