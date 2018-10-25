@@ -1,32 +1,40 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
+<item>
 <plugin>
 <title>[COLOR white][B]J[COLOR gold]ust [COLOR white]S[COLOR gold]ports [COLOR white]C[COLOR gold]hannels [COLOR white]M[COLOR gold]ultilink[/B][/COLOR]</title>
 <link>plugin://script.module.dslive/list_channels/36</link>
 <thumbnail>special://home/addons/plugin.video.justsports/resources/media/icon.png</thumbnail>
 <fanart>special://home/addons/plugin.video.justsports/resources/media/fanart.jpg</fanart>
 </plugin>
+</item>
 
+<item>
 <dir>
 <title>[COLOR white][B]J[COLOR gold]ust [COLOR white][B]G[COLOR gold]ame [COLOR white][B]C[COLOR gold]enter[/B][/COLOR]</title>
 <sport_stream>games</sport_stream>
 <thumbnail>special://home/addons/plugin.video.justsports/resources/media/icon.png</thumbnail>
 <fanart>special://home/addons/plugin.video.justsports/resources/media/fanart.jpg</fanart>
 </dir>
+</item>
 
+<item>
 <dir>
 <title>[COLOR white][B]J[COLOR gold]ust [COLOR white][B]G[COLOR gold]ame [COLOR white][B]C[COLOR gold]enter 2[/B][/COLOR]</title>
 <hesgoal>games</hesgoal>
 <thumbnail>special://home/addons/plugin.video.justsports/resources/media/icon.png</thumbnail>
 <fanart>special://home/addons/plugin.video.justsports/resources/media/fanart.jpg</fanart>
 </dir>
+</item>
 
+<item>
 <dir>
 <title>[COLOR white][B]J[COLOR gold]ust [COLOR white][B]S[COLOR gold]ports [COLOR white][B]R[COLOR gold]eplay[/B][/COLOR]</title>
 <Airtable>sports_replays</Airtable>
 <thumbnail>special://home/addons/plugin.video.justsports/resources/media/icon.png</thumbnail>
 <fanart>special://home/addons/plugin.video.justsports/resources/media/fanart.jpg</fanart>
 </dir>
+</item>
 
 <item>
 <title>[COLOR lime]•[/COLOR] SPORT365 (addon deportes a la carta necesario)</title>
