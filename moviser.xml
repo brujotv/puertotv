@@ -1,6 +1,35 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
 
+<item>
+ <title>[COLOR lime]•[/COLOR] Movistar SD </title>
+ <link>$doregex[makelist2]</link>
+ <regex> 
+ <name>makelist2</name>
+ <listrepeat><![CDATA[
+ <title>[COLOR lightskyblue][CAPITALIZE][makelist2.param1][/CAPITALIZE][/COLOR]</title>
+ <link>https:$doregex[get-id]|User-Agent=iPad</link>
+ <thumbnail>[makelist2.param2]</thumbnail>
+ <fanart>http://www.arturogoga.com/wp-content/uploads/2009/12/image4.png</fanart>
+ ]]></listrepeat>
+ <expres><![CDATA[(?s)"name": "(.*?)".*?"image": "(.*?)".*?"url": "(.*?)".*?]]></expres>
+ <page>https://raw.githubusercontent.com/gaetanotv/gaetantv/master/lista%20opcional</page>
+ </regex>
+ <regex>
+ <name>get-id</name>
+ <expres>[",\'](//.*m3u8.*?)[",']</expres>
+ <rawpost>password=12345</rawpost>
+ <connection>keep-alive</connection>
+ <accept>*/*</accept>
+ <X-Req>XMLHttpRequest</X-Req>
+ <cookieJar></cookieJar>
+ <page>[makelist2.param3]</page>
+ <referer>https://verliga1.net/</referer>
+ <agent>iPad</agent>
+ </regex>
+ <thumbnail>https://i.imgur.com/yGTsSPk.jpg</thumbnail>  
+ <fanart>http://www.arturogoga.com/wp-content/uploads/2009/12/image4.png</fanart>
+</item>
 
 
 <item>
