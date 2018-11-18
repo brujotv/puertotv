@@ -56,6 +56,20 @@
 <thumbnail>https://yt3.ggpht.com/a-/AN66SAzlI1mMAt4z6XauEFaUSWLR5HkpROdSCNBi7Q=s288-mo-c-c0xffffffff-rj-k-no</thumbnail>
 </item>
 
+<item><title>[COLOR lime]•[/COLOR] Las Ratitas</title>
+<link>$doregex[makelist]</link>
+<regex><name>makelist</name>
+<listrepeat><![CDATA[
+<title>[makelist.param1]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
+<thumbnail>https://i.ytimg.com/vi/[makelist.param2]/hqdefault.jpg</thumbnail>
+]]></listrepeat>
+<expres>title="(.*?)".*?watch\?v=(.*?)[",&amp;]</expres>
+<page>https://www.youtube.com/channel/UCUY6t_N9MyEWu6I0ZXkbtKA/videos</page>
+</regex>
+<thumbnail>https://yt3.ggpht.com/a-/AN66SAzVLTPcQbSdi3E8ky8doR9HYYyegzAcmGx5=s288-mo-c-c0xffffffff-rj-k-no</thumbnail>
+</item>
+
 <item><title>[COLOR lime]•[/COLOR] Minecraft alberto</title>
 <link>$doregex[makelist]</link>
 <regex><name>makelist</name>
