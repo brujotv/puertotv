@@ -1,40 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
-<item>
-<plugin>
-<title>[COLOR white][B]J[COLOR gold]ust [COLOR white]S[COLOR gold]ports [COLOR white]C[COLOR gold]hannels [COLOR white]M[COLOR gold]ultilink[/B][/COLOR]</title>
-<link>plugin://script.module.dslive/list_channels/36</link>
-<thumbnail>special://home/addons/plugin.video.justsports/resources/media/icon.png</thumbnail>
-<fanart>special://home/addons/plugin.video.justsports/resources/media/fanart.jpg</fanart>
-</plugin>
-</item>
 
-<item>
-<dir>
-<title>[COLOR white][B]J[COLOR gold]ust [COLOR white][B]G[COLOR gold]ame [COLOR white][B]C[COLOR gold]enter[/B][/COLOR]</title>
-<sport_stream>games</sport_stream>
-<thumbnail>special://home/addons/plugin.video.justsports/resources/media/icon.png</thumbnail>
-<fanart>special://home/addons/plugin.video.justsports/resources/media/fanart.jpg</fanart>
-</dir>
-</item>
-
-<item>
-<dir>
-<title>[COLOR white][B]J[COLOR gold]ust [COLOR white][B]G[COLOR gold]ame [COLOR white][B]C[COLOR gold]enter 2[/B][/COLOR]</title>
-<hesgoal>games</hesgoal>
-<thumbnail>special://home/addons/plugin.video.justsports/resources/media/icon.png</thumbnail>
-<fanart>special://home/addons/plugin.video.justsports/resources/media/fanart.jpg</fanart>
-</dir>
-</item>
-
-<item>
-<dir>
-<title>[COLOR white][B]J[COLOR gold]ust [COLOR white][B]S[COLOR gold]ports [COLOR white][B]R[COLOR gold]eplay[/B][/COLOR]</title>
-<Airtable>sports_replays</Airtable>
-<thumbnail>special://home/addons/plugin.video.justsports/resources/media/icon.png</thumbnail>
-<fanart>special://home/addons/plugin.video.justsports/resources/media/fanart.jpg</fanart>
-</dir>
-</item>
 
 <item>
 <title>[COLOR lime]•[/COLOR] SPORT365 (addon deportes a la carta necesario)</title>
@@ -159,3 +125,118 @@
 <externallink>https://raw.githubusercontent.com/RetroBlogPi/MagicPi/master/menumotos.xml</externallink>
 </item>
 
+
+
+     <item> 
+            <title>[COLOR lime]JHGMASTER>[/COLOR][COLOR cyan]LALIGA[/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://portal.geniptv.com:8080/live/julia/julia/1062.ts&amp;streamtype=TSDOWNLOADER&amp;name=LaLiga TV Bar ES</link> 
+        </item> 
+    <item> 
+            <title>[COLOR lime]JHGMASTER>[/COLOR][COLOR cyan]BEIN SPORT ES[/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://portal.geniptv.com:8080/live/julia/julia/1043.ts&amp;streamtype=TSDOWNLOADER&amp;name=beINSport HD ES</link> 
+        </item> 
+          <item> 
+            <title>[COLOR lime]JHGMASTER>[/COLOR][COLOR cyan]BEINLALIGA[/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://portal.geniptv.com:8080/live/julia/julia/1042.ts&amp;streamtype=TSDOWNLOADER&amp;name=beINSport LaLiga HD ES</link> 
+        </item> 
+		
+<item>
+<title>[COLOR lime] VERDIRECTO [/COLOR] [COLOR red] LIGA[/COLOR]</title>
+<sportsdevil>http://vertutele.com/ver-bein-sport-la-liga-hd-online-en-directo-gratis-por-internet-24h/</sportsdevil>
+<referer>http://vertutele.com/ver-bein-sport-la-liga-hd-online-en-directo-gratis-por-internet-24h/</referer>
+<thumbnail></thumbnail>
+</item>
+
+
+<item><title>[COLOR lime]JHGMASTER>[/COLOR][COLOR cyan][B][I]Bein Sports[/I][/B][/COLOR] [COLOR yellow](Sports Devil)[/COLOR]</title>
+<sportsdevil><sportsdevil>http://cinestrenostv.tv/canales/deportes/multibein/canal1.html</sportsdevil>
+</sportsdevil><referer>http://cinestrenostv.tv/canales/deportes/multiliga/canal1.html</referer>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Bein_Sports.png/200px-Bein_Sports.png</thumbnail>
+<fanart></fanart></item>
+<item><title>[COLOR lime]JHGMASTER>[/COLOR][COLOR cyan][B][I]Partidazo[/I][/B][/COLOR] [COLOR yellow](Sports Devil)[/COLOR]</title>
+<sportsdevil>http://cinestrenostv.tv/canales/deportes/plus-partidazo.php</sportsdevil>
+</sportsdevil><referer>http://cinestrenostv.tv/canales/deportes/multiliga/canal1.html</referer>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Movistar_Partidazo.svg/200px-Movistar_Partidazo.svg.png</thumbnail>
+<fanart></fanart></item><item><title>[COLOR lime]JHGMASTER>[/COLOR][COLOR cyan][B][I]Deportes 1[/I][/B][/COLOR] [COLOR yellow](Sports Devil)[/COLOR]</title>
+<sportsdevil>http://cinestrenostv.tv/canales/deportes/multideportes/canal1.html</sportsdevil>
+<referer>http://cinestrenostv.tv/canales/deportes/multiliga/canal1.html</referer>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Movistar_Deportes_1.svg/200px-Movistar_Deportes_1.svg.png</thumbnail>
+<fanart></fanart></item>
+<item><title>[COLOR lime]JHGMASTER>[/COLOR][COLOR cyan][B][I]Deportes 2[/I][/B][/COLOR] [COLOR yellow](Sports Devil)[/COLOR]</title>
+<sportsdevil>http://cinestrenostv.tv/canales/deportes/plusdeportes2.php</sportsdevil>
+<referer>http://cinestrenostv.tv/canales/deportes/multiliga/canal1.html</referer>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Movistar_Deportes_2.svg/200px-Movistar_Deportes_2.svg.png</thumbnail>
+<fanart></fanart></item>
+
+[COLOR red][COLOR lime] ** [/COLOR]LaLiga  multicanal opcion1[COLOR lime]**[/COLOR]
+
+<item>
+<title>[COLOR red] ** LaLiga  multicanal opcion1[/COLOR][COLOR lime]**[/COLOR]</title>
+<sportsdevil>http://cinestrenostv.tv/canales/deportes/multiliga/canal1.html</sportsdevil>
+<referer>http://cinestrenostv.tv/canales/deportes/multiliga/canal1.html</referer>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>[COLOR red] ** LaLiga  multicanal2 opcion1[/COLOR][COLOR lime]**[/COLOR]</title>
+<sportsdevil>http://cinestrenostv.tv/canales/deportes/multiliga2/canal1.html</sportsdevil>
+<referer>http://cinestrenostv.tv/canales/deportes/multiliga2/canal1.html</referer>
+<thumbnail></thumbnail>
+</item>	
+
+
+<item>
+<title>[COLOR red] ** bein[/COLOR] [COLOR yellow]**[/COLOR]</title>
+<sportsdevil>http://cinestrenostv.tv/canales/deportes/multibein/canal1.html</sportsdevil>
+<referer>http://cinestrenostv.tv</referer>
+<thumbnail>http://cinestrenostv.tv/img/bein.png</thumbnail>
+</item> 
+
+<item>
+<title>[COLOR red] ** bein la  liga[/COLOR][COLOR yellow]**[/COLOR]</title>
+<sportsdevil>http://cinestrenostv.tv/canales/deportes/multiliga/canal1.html</sportsdevil>
+<referer>http://cinestrenostv.tv</referer>
+<thumbnail>http://cinestrenostv.tv/img/beinlaliga.png</thumbnail>
+</item> 
+
+<item>
+<title>[COLOR red] ** gol[/COLOR][COLOR yellow]**[/COLOR]</title>
+<sportsdevil>http://cinestrenostv.tv/canales/deportes/goltv.php</sportsdevil>
+<referer>http://cinestrenostv.tv</referer>
+<thumbnail>http://cinestrenostv.tv/img/gol.png</thumbnail>
+</item> 
+
+<item>
+<title>[COLOR red] ** liga2[/COLOR][COLOR yellow]**[/COLOR]</title>
+<sportsdevil>http://cinestrenostv.tv/canales/deportes/multiliga2/canal1.html</sportsdevil>
+<referer>http://cinestrenostv.tv</referer>
+<thumbnail>http://cinestrenostv.tv/img/liga2.png</thumbnail>
+</item> 
+
+<item>
+<title>[COLOR red] ** partidazo[/COLOR][COLOR yellow]**[/COLOR]</title>
+<sportsdevil>http://cinestrenostv.tv/canales/deportes/plus-partidazo.php</sportsdevil>
+<referer>http://cinestrenostv.tv</referer>
+<thumbnail>http://cinestrenostv.tv/img/partidazo.png</thumbnail>
+</item> 
+
+<item>
+<title>[COLOR red] ** futbol[/COLOR][COLOR yellow]**[/COLOR]</title>
+<sportsdevil>http://cinestrenostv.tv/canales/deportes/multifutbol/canal1.html</sportsdevil>
+<referer>http://cinestrenostv.tv</referer>
+<thumbnail>http://cinestrenostv.tv/img/futbol.png</thumbnail>
+</item> 
+
+<item>
+<title>[COLOR red] ** deportes[/COLOR][COLOR yellow]**[/COLOR]</title>
+<sportsdevil>http://cinestrenostv.tv/canales/deportes/multideportes/canal1.html</sportsdevil>
+<referer>http://cinestrenostv.tv</referer>
+<thumbnail>http://cinestrenostv.tv/img/deportes.png</thumbnail>
+</item> 
+
+<item>
+<title>[COLOR red] ** deportes2[/COLOR][COLOR yellow]**[/COLOR]</title>
+<sportsdevil>http://cinestrenostv.tv/canales/deportes/plusdeportes2.php</sportsdevil>
+<referer>http://cinestrenostv.tv</referer>
+<thumbnail>http://cinestrenostv.tv/img/deportes2.png</thumbnail>
+</item> 
