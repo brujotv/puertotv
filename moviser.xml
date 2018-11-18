@@ -13,7 +13,7 @@
  <fanart>http://www.arturogoga.com/wp-content/uploads/2009/12/image4.png</fanart>
  ]]></listrepeat>
  <expres><![CDATA[(?s)"name": "(.*?)".*?"image": "(.*?)".*?"url": "(.*?)".*?]]></expres>
- <page>https://raw.githubusercontent.com/gaetanotv/gaetantv/master/lista%20opcional</page>
+ <page>https://raw.githubusercontent.com/brujotv/puertotv/master/lista%20adicional</page>
  </regex>
  <regex>
  <name>get-id</name>
