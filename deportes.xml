@@ -25,6 +25,15 @@
 <externallink>https://pastebin.com/raw/Jvw2GNxY</externallink>
 </item> 
 
+<item>
+<title>[COLOR red]Rojadirecta:[/COLOR] [COLOR orange]SportsDevil[/COLOR]</title>
+<link>http://Ignoreme</link>
+<jsonrpc>plugin://plugin.video.SportsDevil/?item=url=livesports/rojadirecta.me.cfg&amp;mode=1</jsonrpc>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+
 <item><title>[COLOR lime]•[/COLOR] AGENDA ROJA (Sportsdevil)</title>
 <link>ignorme</link>
 <jsonrpc>plugin://plugin.video.SportsDevil/?item=url=livesports/rojadirecta.me.cfg&amp;mode=1</jsonrpc>
@@ -125,25 +134,6 @@
 <externallink>https://raw.githubusercontent.com/RetroBlogPi/MagicPi/master/menumotos.xml</externallink>
 </item>
 
-<item>
-<title>[COLOR white] ESPERAR 5 SEGUNDOS [/COLOR][COLOR yellow]*NECESARIO[/COLOR] [COLOR white] SPORTDEVIL [/COLOR]</title>
-<link>http://</link>
-<thumbnail>http://2.bp.blogspot.com/_5FpgyNPDSO4/TLokbeXJOnI/AAAAAAAAAG8/_llJr5Y_PwQ/s1600/undo%2520deportes%5B1%5D.jpg</thumbnail>
-<fanart>http://2.bp.blogspot.com/_5FpgyNPDSO4/TLokbeXJOnI/AAAAAAAAAG8/_llJr5Y_PwQ/s1600/undo%2520deportes%5B1%5D.jpg</fanart>
-</item>
-
-
-
-<item>
-<title>[COLOR lime][B]Canales Deportivos[/B][/COLOR] [I][COLOR violet](Actualizado 08-09-2017)[/COLOR][/I]</title>
-<link>http://ignoreme</link>
-<externallink>http://addons.kodipro.org/series/deportes%20activos19-04-2017.xml</externallink>
-<thumbnail></thumbnail>
-<fanart></fanart>
-
-</item>
-
-
 
 <item>
 <title>[COLOR red]Rojadirecta:[/COLOR] [COLOR orange]SportsDevil[/COLOR]</title>
@@ -156,243 +146,20 @@
 
 
 
-			
-<item>
-<title>[COLOR skyblue]*Movistar+ Formula 1  [/COLOR]</title>
-<sportsdevil>http://latelete.tv/ver-la-f1online-en-directo-gratis-formula-1/</sportsdevil>
-<sportsdevil>http://cinestrenostv.tv/canales/deportes/formula1.php</sportsdevil>
-<sportsdevil>http://vertutele.com/ver-movistar-formula-1-hd-online-en-directo-gratis-por-internet-24h/</sportsdevil>
-<sportsdevil>http://www.vipgoal.net/MovistarF1/35596/Movistar-F1-en-directo.html</sportsdevil>
-<sportsdevil>http://verdirectotv.net/ver-formula-1-en-directo-y-online-f1-en-vivo/</sportsdevil>
-<sportsdevil>http://verdirectotv.com/ver-formula-1-en-directo-y-online-f1-en-vivo/</sportsdevil>
-<sportsdevil>http://verdirectotv.biz/ver-formula-1-en-directo-y-online-f1-en-vivo/</sportsdevil>
-<sportsdevil>http://www.vercanalestv.com/ver-formula-1-en-directo-y-online-gratis/</sportsdevil>
-<referer>http://cinestrenostv.tv/</referer>
-<thumbnail>http://images1.ynet.co.il//PicServer3/2012/10/25/4228326/4228282490099408258no.jpg</thumbnail>
-</item>
-			
-
-
-<item>
-<title>[COLOR skyblue]*Movistar+ Moto GP  [/COLOR]</title>
-<sportsdevil>http://latelete.tv/moto-gp-online-en-directo/</sportsdevil>
-<sportsdevil>http://cinestrenostv.tv/canales/deportes/motogp.php</sportsdevil>
-<sportsdevil>http://www.tvenganchado.com/motogp.php</sportsdevil>
-<sportsdevil>http://09stream.com/moto-gp-en-directo-gratis/</sportsdevil>
-<sportsdevil>http://vertutele.com/ver-movistar-moto-gp-hd-online-en-directo-gratis-por-internet-24h/</sportsdevil>
-<sportsdevil>http://www.vipgoal.net/MovistarMotoGP/35597/Movistar-MotoGP-en-directo.html</sportsdevil>
-<sportsdevil>http://verdirectotv.net/ver-motogp-en-directo-y-online-gratis/</sportsdevil>
-<sportsdevil>http://verdirectotv.com/ver-motogp-en-directo-y-online-gratis/</sportsdevil>
-<sportsdevil>http://verdirectotv.biz/ver-motogp-en-directo-y-online-gratis/</sportsdevil>
-<sportsdevil>http://www.vercanalestv.com/ver-motogp-en-directo-y-online-24h-gratis/</sportsdevil>
-<referer>http://cinestrenostv.tv/</referer>
-<thumbnail>https://pbs.twimg.com/profile_images/869601699874385921/Wed5UsAg.jpg</thumbnail>
-<fanart>https://pbs.twimg.com/profile_images/869601699874385921/Wed5UsAg.jpg</fanart>
-</item>
 
 			
 			
-			
-<item>
-            <title>[COLOR skyblue]*TOROS Tv  [/COLOR]</title>
-            <sportsdevil>http://zagaiptv.eklablog.com/canal-toros-spain-p1157308</sportsdevil>
-			<sportsdevil>http://tvenganchado.com/canalplus/toros.php</sportsdevil>
-            <sportsdevil>http://vertutele.com/ver-canal-toros-hd-online-en-directo-gratis-por-internet/</sportsdevil>
-			<sportsdevil>http://biophobia.tv/movistarplus/canalplustoros.php</sportsdevil>
-			<sportsdevil>http://www.vercanalestv.com/ver-canal-plus-toros-en-directo-y-online-las-24h-ferias-taurinas/</sportsdevil>
-            <referer>http://zagaiptv.eklablog.com/</referer>
-            <thumbnail>http://www.taroca.es/images/paquetesCanalPlus/toros/toros-tv.jpg</thumbnail>
-            </item>
 
 
 
 
 
-<item>
-<title>[COLOR skyblue]*Movistar+ Deportes  [/COLOR]</title>
-<sportsdevil>http://latelete.tv/canal-plus-deportes-en-directo-gratis-por-internet/</sportsdevil>
-<sportsdevil>http://cinestrenostv.tv/canales/deportes/multideportes/canal1.html</sportsdevil>
-<sportsdevil>http://tvenganchado.com/canalplus/deportes.php</sportsdevil>
-<sportsdevil>http://09stream.com/canal-plus-deportes-online-en-directo-gratis-por-internet/</sportsdevil>
-<sportsdevil>http://vertutele.com/ver-canal-movistar-deportes-1-hd-online-en-directo-gratis-por-internet-24h/</sportsdevil>
-<sportsdevil>http://www.vipgoal.net/C+Deporte/35581/canal-plus-deportes-en-directo.html</sportsdevil>
-<sportsdevil>http://verdirectotv.net/ver-canal-plus-deportes-online-gratis-en-directo-hd/</sportsdevil>
-<sportsdevil>http://verdirectotv.com/ver-canal-plus-deportes-online-gratis-en-directo-hd/</sportsdevil>
-<sportsdevil>http://verdirectotv.biz/ver-canal-plus-deportes-online-gratis-en-directo-hd/</sportsdevil>
-<sportsdevil>http://www.vercanalestv.com/ver-canal-plus-deportes-online-y-en-directo-las-24-en-vivo/</sportsdevil>
-<referer>http://cinestrenostv.tv/</referer>
-<thumbnail>http://www.mercadonegro.pe/wp-content/uploads/2017/05/movistar-deportes.png</thumbnail>
-<fanart>http://www.mercadonegro.pe/wp-content/uploads/2017/05/movistar-deportes.png</fanart>
-</item>
-
-
-<item>
-<title>[COLOR skyblue]*Movistar+ Deportes 2 [/COLOR]</title>
-<sportsdevil>http://latelete.tv/ver-canal-plus-deportes-2-en-directo-y-online/</sportsdevil>
-<sportsdevil>http://cinestrenostv.tv/canales/deportes/plusdeportes2.php</sportsdevil>
-<sportsdevil>http://tvenganchado.com/canalplus/deportes2.php</sportsdevil>
-<sportsdevil>http://09stream.com/canal-plus-deportes-2-online-en-directo-gratis-por-internet/</sportsdevil>
-<sportsdevil>http://vertutele.com/ver-canal-movistar-deportes-2-hd-online-en-directo-gratis-por-internet-24h/</sportsdevil>
-<sportsdevil>http://www.vipgoal.net/C+Deporte2/35582/Ver-Canal-Plus-Deportes-2-En-Directo.html</sportsdevil>
-<sportsdevil>http://verdirectotv.net/canal-plus-deportes-2-online-y-directo-gratis-nfl-basket/</sportsdevil>
-<sportsdevil>http://verdirectotv.com/canal-plus-deportes-2-online-y-directo-gratis-nfl-basket/</sportsdevil>
-<sportsdevil>http://verdirectotv.biz/canal-plus-deportes-2-online-y-directo-gratis-nfl-basket/</sportsdevil>
-<sportsdevil>http://www.vercanalestv.com/ver-canal-plus-deportes-2-online-y-en-directo-las-24h-en-vivo/</sportsdevil>
-<referer>http://cinestrenostv.tv/</referer>
-<thumbnail>https://satcesc.com/web/wp-content/uploads/2014/12/MovistarDeportes2-e1479927341465.png</thumbnail>
-<fanart>https://satcesc.com/web/wp-content/uploads/2014/12/MovistarDeportes2-e1479927341465.png</fanart>
-</item>
 
 
 
-<item>
-<title>[COLOR skyblue]*Gol TV  [/COLOR]</title>
-<sportsdevil>http://latelete.tv/goltv-en-directo-gratis-por-internet/</sportsdevil>
-<sportsdevil>http://cinestrenostv.tv/canales/deportes/goltv.php</sportsdevil>
-<sportsdevil>http://tvenganchado.com/gol.php</sportsdevil>
-<sportsdevil>http://09stream.com/ver-gol-online-en-directo-gratis/</sportsdevil>
-<sportsdevil>http://vertutele.com/ver-gol-tv-hd-online-en-directo-gratis-por-internet-24h/</sportsdevil>
-<sportsdevil>http://biophobia.tv/deportes/gol.php</sportsdevil>
-<sportsdevil>http://verdirectotv.net/ver-goltv-en-directo-y-online-gratis-por-internet/</sportsdevil>
-<sportsdevil>http://verdirectotv.com/ver-goltv-en-directo-y-online-gratis-por-internet/</sportsdevil>
-<sportsdevil>http://verdirectotv.biz/ver-goltv-en-directo-y-online-gratis-por-internet/</sportsdevil>
-<sportsdevil>http://www.vercanalestv.com/ver-gol-tv-en-directo-y-online-las-24h-gratis/</sportsdevil>
-<referer>http://cinestrenostv.tv/</referer>
-<thumbnail>http://static.goltelevision.com/uploads/gol/web/img/og-image.jpg</thumbnail>
-<fanart>http://static.goltelevision.com/uploads/gol/web/img/og-image.jpg</fanart>
-</item>
-
-<item>
-<title>[COLOR skyblue]*BeinSport La Liga[/COLOR]</title>
-<sportsdevil>http://latelete.tv/bein-sports-la-liga-online-en-directo-gratis-24h/</sportsdevil>
-<sportsdevil>http://cinestrenostv.tv/canales/deportes/multiliga/canal1.html</sportsdevil>
-<sportsdevil>http://tvenganchado.com/beinlaliga.php</sportsdevil>
-<sportsdevil>http://09stream.com/ver-bein-sport-la-liga-online-en-directo-gratis/</sportsdevil>
-<sportsdevil>http://vertutele.com/ver-bein-sport-la-liga-hd-online-en-directo-gratis-por-internet-24h/</sportsdevil>
-<sportsdevil>http://www.vipgoal.net/C+Liga/35576/Canal-plus-liga-en-directo.html</sportsdevil>
-<sportsdevil>http://verdirectotv.net/ver-bein-la-liga-gratis-en-directo/</sportsdevil>
-<sportsdevil>http://verdirectotv.com/ver-bein-la-liga-gratis-en-directo/</sportsdevil>
-<sportsdevil>http://verdirectotv.biz/ver-bein-la-liga-gratis-en-directo/</sportsdevil>
-<sportsdevil>http://www.vercanalestv.com/ver-bein-sports-la-liga-en-directo-24h-gratis-online/</sportsdevil>
-<referer>http://cinestrenostv.tv/</referer>
-<thumbnail>http://www.formulatv.com/images/noticias/52000/52028/1_39e7699ba3.jpg</thumbnail>
-<fanart>http://www.formulatv.com/images/noticias/52000/52028/1_39e7699ba3.jpg</fanart>
-</item>
-
-
-
-<item>
-<title>[COLOR skyblue]*BeinSport España[/COLOR]</title>
-<sportsdevil>http://latelete.tv/bein-sport-en-directo-gratis-por-internet/</sportsdevil>
-<sportsdevil>http://cinestrenostv.tv/canales/deportes/multibein/canal1.html</sportsdevil>
-<sportsdevil>http://tvenganchado.com/beinsports.php</sportsdevil>
-<sportsdevil>http://09stream.com/ver-bein-sports-online-en-vivo-gratis-24h-por-internet/</sportsdevil>
-<sportsdevil>http://vertutele.com/ver-bein-sport-hd-espana-champions-online-en-directo-gratis-por-internet-24h/</sportsdevil>
-<sportsdevil>http://www.vipgoal.net/BeinSports/35579/beIN-SPORTS-ESPA%C3%B1A.html</sportsdevil>
-<sportsdevil>http://verdirectotv.net/ver-bein-sport-espanol-online-y-directo-gratis-mundial-brasil-2014-en-directo/</sportsdevil>
-<sportsdevil>http://verdirectotv.com/ver-bein-sport-espanol-online-y-directo-gratis-mundial-brasil-2014-en-directo/</sportsdevil>
-<sportsdevil>http://verdirectotv.biz/ver-bein-sport-espanol-online-y-directo-gratis-mundial-brasil-2014-en-directo/</sportsdevil>
-<sportsdevil>http://www.vercanalestv.com/ver-bein-sport-espanol-online-y-en-directo-las-24h-por-internet-en-vivo/</sportsdevil>
-<referer>http://cinestrenostv.tv/</referer>
-<thumbnail>http://sm.ign.com/t/ign_es/screenshot/default/bein-sports-br_ya29.640.jpg</thumbnail>
-<fanart>http://sm.ign.com/t/ign_es/screenshot/default/bein-sports-br_ya29.640.jpg</fanart>
-</item>
-
-<item>
-<title>[COLOR skyblue]*La Liga 1|2|3  [/COLOR]</title>
-<sportsdevil>http://latelete.tv/opcion-2-canal-plus-liga-en-directo-gratis-por-internet/</sportsdevil>
-<sportsdevil>http://cinestrenostv.tv/canales/deportes/multiliga2/canal1.html</sportsdevil>
-<sportsdevil>http://latelete.tv/opcion-2-canal-plus-liga-en-directo-gratis-por-internet/</sportsdevil>
-<sportsdevil>http://09stream.com/opcion-2-canal-plus-liga-online-en-directo-gratis-por-internet/</sportsdevil>
-<sportsdevil>http://vertutele.com/ver-la-liga-tv-123-hd-online-en-directo-gratis-por-internet-24h/</sportsdevil>
-<sportsdevil>http://biophobia.tv/deportes/laliga123.php</sportsdevil>
-<sportsdevil>http://verdirectotv.net/ver-canal-plus-liga-2-liga-adelante-online/</sportsdevil>
-<sportsdevil>http://verdirectotv.net/ver-canal-plus-liga-2-liga-adelante-online/</sportsdevil>
-<sportsdevil>http://verdirectotv.net/ver-canal-plus-liga-2-liga-adelante-online/</sportsdevil>
-<sportsdevil>http://www.vercanalestv.com/ver-canal-plus-liga-2-en-directo-partidos-de-2o-division-gratis/</sportsdevil>
-<referer>http://cinestrenostv.tv/</referer>
-<thumbnail>http://files.laliga.es/seccion_logos/laliga-123-v-16-9.jpg</thumbnail>
-<fanart>http://files.laliga.es/seccion_logos/laliga-123-v-16-9.jpg</fanart>
-</item>
-
-<item>
-<title>[COLOR skyblue]*Movistar + Partidazo[/COLOR]</title>
-<sportsdevil>http://latelete.tv/canal-plus-partidazo-online-en-directo-gratis/</sportsdevil>
-<sportsdevil>http://cinestrenostv.tv/canales/deportes/plus-partidazo.php</sportsdevil>
-<sportsdevil>http://vertutele.com/ver-canal-movistar-partidazo-hd-online-en-directo-gratis-por-internet-24h/</sportsdevil>
-<sportsdevil>http://09stream.com/plus-partidazo-en-directo-gratis/</sportsdevil>
-<sportsdevil>http://vertutele.com/ver-canal-movistar-partidazo-hd-online-en-directo-gratis-por-internet-24h/</sportsdevil>
-<sportsdevil>http://www.vipgoal.net/C+Partidazo/35580/ver-canal-plus-partidazo-online.html</sportsdevil>
-<sportsdevil>http://verdirectotv.net/ver-canal-movistar-partidazo-online-gratis-el-partidazo-del-plus/</sportsdevil>
-<sportsdevil>http://verdirectotv.com/ver-canal-movistar-partidazo-online-gratis-el-partidazo-del-plus/</sportsdevil>
-<sportsdevil>http://verdirectotv.biz/ver-canal-movistar-partidazo-online-gratis-el-partidazo-del-plus/</sportsdevil>
-<sportsdevil>http://www.vercanalestv.com/ver-canal-plus-partidazo-online-y-directo-gratis/</sportsdevil>
-<referer>http://cinestrenostv.tv/</referer>
-<thumbnail>https://www.tododream.com/foro/cache.php?img=http%3A%2F%2Fi.imgur.com%2FTlUiwhP.png</thumbnail>
-<fanart>https://www.tododream.com/foro/cache.php?img=http%3A%2F%2Fi.imgur.com%2FTlUiwhP.png</fanart>
-</item>
-
-<item>
-<title>[COLOR skyblue]*Movistar+ Futbol  [/COLOR]</title>
-<sportsdevil>http://latelete.tv/ver-canal-movistar-futbol-online-y-directo-gratis-24h-por-internet/</sportsdevil>
-<sportsdevil>http://cinestrenostv.tv/canales/deportes/multifutbol/canal1.html</sportsdevil>
-<sportsdevil>http://tvenganchado.com/canalplus/futbol.php</sportsdevil>
-<sportsdevil>http://09stream.com/canal-plus-futbol-online-en-directo-gratis-por-internet/</sportsdevil>
-<sportsdevil>http://vertutele.com/ver-canal-movistar-futbol-hd-online-en-directo-gratis-por-internet-24h/</sportsdevil>
-<sportsdevil>http://www.vipgoal.net/c+futbol/35578/C+F%EF%BF%BDtbol-en-directo.html</sportsdevil>
-<sportsdevil>http://verdirectotv.net/ver-canal-plus-futbol-online-y-directo-las-24h-gratis/</sportsdevil>
-<sportsdevil>http://verdirectotv.com/ver-canal-plus-futbol-online-y-directo-las-24h-gratis/</sportsdevil>
-<sportsdevil>http://verdirectotv.biz/ver-canal-plus-futbol-online-y-directo-las-24h-gratis/</sportsdevil>
-<sportsdevil>http://www.vercanalestv.com/ver-canal-plus-futbol-online-y-en-directo-las-24-en-vivo/</sportsdevil>
-<referer>http://cinestrenostv.tv/</referer>
-<thumbnail>http://mytv-online.com/wp-content/uploads/2017/03/Canal-plus-F%C3%BAtbol-directo-vivo.png</thumbnail>
-<fanart>http://mytv-online.com/wp-content/uploads/2017/03/Canal-plus-F%C3%BAtbol-directo-vivo.png</fanart>
-</item>
-
-
-
-<item>
-<title>[COLOR skyblue]*Movistar+ Multideportes [/COLOR]</title>
-<sportsdevil>http://cinestrenostv.tv/canales/deportes/multideportes/canal1.html</sportsdevil>
-<sportsdevil>http://cinestrenostv.tv/canales/deportes/multideportes/canal3.html</sportsdevil>
-<sportsdevil>http://cinestrenostv.tv/canales/deportes/multideportes/canal2.html</sportsdevil>
-<sportsdevil>http://cinestrenostv.tv/canales/deportes/multideportes/canal4.html</sportsdevil>
-<sportsdevil>http://vercanalestv.com/tv/deportes/multideportes/multideporte-1.html</sportsdevil>
-<sportsdevil>http://vercanalestv.com/tv/deportes/multideportes/multideporte-2.html</sportsdevil>
-<sportsdevil>http://vercanalestv.com/tv/deportes/multideportes/multideporte-3.html/</sportsdevil>
-<sportsdevil>http://cinestrenostv.tv/canales/deportes/nfl/canal3.html</sportsdevil>
-<sportsdevil>http://www.vercanalestv.com/ver-canal-plus-deportes-2-online-y-en-directo-las-24h-en-vivo/</sportsdevil>
-<referer>http://cinestrenostv.tv/</referer>
-<thumbnail>http://tvlife.ucoz.com/tvlife/canales/canalplus/imgcanales/canal_plus_deportes.jpg</thumbnail>
-<fanart>http://tvlife.ucoz.com/tvlife/canales/canalplus/imgcanales/canal_plus_deportes.jpg</fanart>
-</item>			
-			
-			
-			
-			
-			
-<item>
-<title>[COLOR lime]Movistar+ Golf  [/COLOR]</title>
-<sportsdevil>http://latelete.tv/canal-plus-golf-en-directo-gratis-por-internet/</sportsdevil>
-<sportsdevil>http://cinestrenostv.tv/canales/deportes/plusgolf.php</sportsdevil>
-<sportsdevil>http://tvenganchado.com/canalplus/golf.php</sportsdevil>
-<sportsdevil>http://09stream.com/canal-plus-golf-online-en-directo-gratis-por-internet/</sportsdevil>
-<sportsdevil>http://vertutele.com/ver-canal-movistar-golf-hd-online-en-directo-gratis-por-internet-24h/</sportsdevil>
-<sportsdevil>http://biophobia.tv/movistarplus/canalplusgolf.php</sportsdevil>
-<sportsdevil>http://www.vercanalestv.com/ver-canal-plus-golf-online-en-directo-gratis/</sportsdevil>
-<referer>http://cinestrenostv.tv/</referer>
-<thumbnail>https://pbs.twimg.com/profile_images/839441465843531780/PcKRVPFA_400x400.jpg</thumbnail>
-<fanart>https://pbs.twimg.com/profile_images/839441465843531780/PcKRVPFA_400x400.jpg</fanart>
-</item>			
-			
-			
-			
-			<item>
-            <title>[COLOR skyblue]*JHG*MASTER [/COLOR] [COLOR red]*EUROSPORT[/COLOR]</title>
-            <sportsdevil>http://verdirectotv.com/ver-canal-eurosport-en-directo-y-online-gratis</sportsdevil>
-            <referer>http://verdirectotv.com/</referer>
-            <thumbnail>https://www.comparaiso.es/images/eurosport.jpg</thumbnail>
-            </item>
+		
+		
+	
 
 
   
