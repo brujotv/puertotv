@@ -137,6 +137,18 @@
 
 
 
+
+
+"name": "Bein La Liga 1",
+                    "image": "http://www.audiovisual451.com/wp-content/uploads/beIN-Sports-LaLiga.jpg",
+                    "url": "https://vergol.com/live3/verliga.php",
+                    "referer": "https://verliga1.net/tv/deportes/verliga.php",
+"embed": true
+
+
+
+
+
 "name": "LaLiga 123",
                     "image": "http://files.laliga.es/seccion_logos/laliga-123-v-600x600.png",
                     "url": "https://vergol.com/live3/liga123.php",
