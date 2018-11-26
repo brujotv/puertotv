@@ -19,9 +19,6 @@ item>
 <fanart>https://raw.githubusercontent.com/MrTvGratis/TvGratis/master/imagenes%20tvgratis/icon1.png</fanart>
  </item>
 
-
-
-
 <item>
  <title>[COLOR lime]•[/COLOR] Movistar SD </title>
  <link>$doregex[makelist2]</link>
