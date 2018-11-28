@@ -15,27 +15,6 @@
 <thumbnail>https://media.licdn.com/media-proxy/ext?w=800&h=800&hash=cND3WxJpPGMfzrAOO1KZnE%2F4XW0%3D&ora=1%2CaFBCTXdkRmpGL2lvQUFBPQ%2CxAVta5g-0R6nlh8Tw1It6a2FowGz60oISIfYC2G8G2f1spyfNT-tdoDSfbqhsgUbeyoBhlI_IfnwEXO5H9XgSvyIGtt098vhLPiRI1UkLE4QrjFM7_YQMQo38MaEIK6jRGhBwO0FPGrvELjPRXELMiE8z-GZCquKJUsg7HCufemkS-9df4F28dRdjg5n8ceWJeMR0ZRPxXp4mnGz3Zr3YQkE56GFCmqVM2IGJVbsavcerJau4R3QvAXem2PUprCvDfiB</thumbnail>
 </item>
 
-<item><title>[COLOR lime]•[/COLOR] Documental motor</title>
-<link>$doregex[makelist]</link>
-<regex><name>makelist</name>
-<listrepeat><![CDATA[
-<title>[makelist.param1]</title>
-<link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
-<thumbnail>https://i.ytimg.com/vi/[makelist.param2]/hqdefault.jpg</thumbnail>
-]]></listrepeat>
-<expres>title="(.*?)".*?watch\?v=(.*?)[",&amp;]</expres>
-<page>https://www.youtube.com/channel/UCc6j9L4IPfmSCeyIjxXZuhg/videos</page>
-</regex>
-<thumbnail>http://www.abc.es/Media/201509/24/117-FocusRS--644x362.jpg</thumbnail>
-</item>
-
-<item>
-<title>[COLOR lime]•[/COLOR] Documentales| Megafactorias Tesla Model S</title>        
-<urlsolve>https://www.youtube.com/watch?v=9VXWKpEYDAY</urlsolve>
-<thumbnail>http://cdn1.autoexpress.co.uk/sites/autoexpressuk/files/styles/article_main_image/public/2016/09/dsc_6449.jpg?itok=Sd5u6H3W</thumbnail>
-<fanart>https://www.tesla.com/tesla_theme/assets/img/models/v1.0/slideshow/Blue_Sunset-1440.jpg?20171005</fanart>
-</item>
-
 <item>
 <title>[COLOR lime]•[/COLOR] Lamborghini</title>        
 <urlsolve>https://www.youtube.com/watch?v=yTTlFlsIPZs&t=431s</urlsolve>
