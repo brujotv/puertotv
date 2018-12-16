@@ -200,9 +200,6 @@
 <fanart></fanart>
 </item>
 
-#EXTINF:-1,[COLOR lime]•[/COLOR] Miami TV ESP
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR lime]naranjito[/COLOR];url=http://spainserver.miamitvchannel.com/miamitv/smil:miamitvspain/playlist.m3u8
-
 <item>
 <title>[COLOR lime]•[/COLOR] Galicia tv</title>        
 <link>http://europa-crtvg.flumotion.com/playlist.m3u8</link>
