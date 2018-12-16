@@ -48,14 +48,14 @@
 
 <item>
 <title>[COLOR lime]•[/COLOR] Antena 3 HD</title>        
-<link>https://antena3-pull2b-a3player.secure.footprint.net/geoantena3/bitrate_4.m3u8</link>
+<link></link>
 <thumbnail>http://static.programacion-tdt.com/imgAPP/Antena_3.min.png</thumbnail>
 <fanart>https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/EuroEspa%C3%B1a.svg/1200px-EuroEspa%C3%B1a.svg.png</fanart>
 </item>
 
 <item>
 <title>[COLOR lime]•[/COLOR] Telecinco HD</title>        
-<link></link>
+<link>http://telecinco-mediaset-esp-live.secure.footprint.net/mediaset/telecinco/stream1/streamPlaylist.m3u8</link>
 <thumbnail>http://www.vectorlogo.es/wp-content/uploads/2016/06/logo-vector-telecinco-circular.jpg</thumbnail>
 <fanart>https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/EuroEspa%C3%B1a.svg/1200px-EuroEspa%C3%B1a.svg.png</fanart>
 </item>
