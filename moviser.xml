@@ -20,7 +20,7 @@ item>
  </item>
 
 <item>
- <title>[COLOR lime]•[/COLOR] Movistar SD </title>
+ <title>[COLOR lime]•[/COLOR] Movistar SD [COLOR lime]ESTABLE[/COLOR]</title>
  <link>$doregex[makelist2]</link>
  <regex> 
  <name>makelist2</name>
