@@ -47,6 +47,11 @@
 </item>
 
 <item>
+#EXTM3U
+#EXTINF:-1 tvg-id="A3 ASTRA HD 1.sp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Antena_3_%282017%29.svg/100px-Antena_3_%282017%29.svg.png" group-title="Generalistas", Antena 3 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]IberiKa[/COLOR];url=http://www.sansat.net:25461/025990747923/025990747923/15036 
+</item>
+
+<item>
 <title>[COLOR lime]•[/COLOR] Antena 3 HD</title>        
 <link></link>
 <thumbnail>http://static.programacion-tdt.com/imgAPP/Antena_3.min.png</thumbnail>
