@@ -1,7 +1,19 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
 
-
+<item><title>[COLOR lime]•[/COLOR] Doblajes virales</title>
+<link>$doregex[makelist]</link>
+<regex><name>makelist</name>
+<listrepeat><![CDATA[
+<title>[makelist.param1]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
+<thumbnail>https://i.ytimg.com/vi/[makelist.param2]/hqdefault.jpg</thumbnail>
+]]></listrepeat>
+<expres>title="(.*?)".*?watch\?v=(.*?)[",&amp;]</expres>
+<page>https://www.youtube.com/user/ElcanaldeKorah/videos</page>
+</regex>
+<thumbnail>view-source:https://yt3.ggpht.com/WjRgEmCtoad7iK8d2fN8d0ryKgx7lGIcz17bsnc10vI2AK8u7k5vXiK5cp3vw5BVaKtkHvRx0g=w1440-fcrop64=1,32b75a57cd48a5a8-nd-c0xffffffff-rj-k-no</thumbnail>
+</item>
 
 <item><title>[COLOR lime]•[/COLOR] TIPARRACO SA (CAMARAS OCULTAS)</title>
 <link>$doregex[makelist]</link>
