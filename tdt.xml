@@ -47,10 +47,6 @@
 </item>
 
 <item>
-#EXTINF:-1 tvg-id="A3 ASTRA HD 1.sp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Antena_3_%282017%29.svg/100px-Antena_3_%282017%29.svg.png" group-title="Generalistas", Antena 3 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white]IberiKa[/COLOR];url=http://www.sansat.net:25461/025990747923/025990747923/15036 
-</item>
-
-<item>
 <title>[COLOR lime]•[/COLOR] Antena 3 HD</title>        
 <link></link>
 <thumbnail>http://static.programacion-tdt.com/imgAPP/Antena_3.min.png</thumbnail>
@@ -87,7 +83,7 @@
 
 <item>
 <title>[COLOR lime]•[/COLOR] Neox HD</title>        
-<link></link>
+<link>https://neox-pull1b-a3player.secure.footprint.net/neox/master.m3u8</link>
 <thumbnail>https://pbs.twimg.com/profile_images/509064688550694912/WY6A_PqH_normal.jpeg</thumbnail>
 <fanart>https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/EuroEspa%C3%B1a.svg/1200px-EuroEspa%C3%B1a.svg.png</fanart>
 </item>
