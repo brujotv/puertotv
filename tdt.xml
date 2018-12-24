@@ -41,56 +41,56 @@
 
 <item>
 <title>[COLOR lime]•[/COLOR] Cuatro HD</title>        
-<link>http://cuatro-mediaset-esp-live.secure.footprint.net/mediaset/cuatro/stream1/streamPlaylist.m3u8</link>
+<link></link>
 <thumbnail>http://s.libertaddigital.com/fotos/noticias/logo-cuatro-mjg.jpg</thumbnail>
 <fanart>https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/EuroEspa%C3%B1a.svg/1200px-EuroEspa%C3%B1a.svg.png</fanart>
 </item>
 
 <item>
 <title>[COLOR lime]•[/COLOR] Antena 3 HD</title>        
-<link>http://tvg.nibbletv.info/CH/JRR1FQplS4fy/Antena-3.m3u8</link>
+<link></link>
 <thumbnail>http://static.programacion-tdt.com/imgAPP/Antena_3.min.png</thumbnail>
 <fanart>https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/EuroEspa%C3%B1a.svg/1200px-EuroEspa%C3%B1a.svg.png</fanart>
 </item>
 
 <item>
 <title>[COLOR lime]•[/COLOR] Telecinco HD</title>        
-<link>http://telecinco-mediaset-esp-live.secure.footprint.net/mediaset/telecinco/stream1/streamPlaylist.m3u8</link>
+<link></link>
 <thumbnail>http://www.vectorlogo.es/wp-content/uploads/2016/06/logo-vector-telecinco-circular.jpg</thumbnail>
 <fanart>https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/EuroEspa%C3%B1a.svg/1200px-EuroEspa%C3%B1a.svg.png</fanart>
 </item>
 
 <item>
 <title>[COLOR lime]•[/COLOR] La sexta HD</title>        
-<link>https://lasexta-pull2c-a3player.secure.footprint.net/geolasexta/bitrate_4.m3u8</link>
+<link></link>
 <thumbnail>http://ocio.diariodemallorca.es/img_contenido/estaticos/canales/24.jpg</thumbnail>
 <fanart>https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/EuroEspa%C3%B1a.svg/1200px-EuroEspa%C3%B1a.svg.png</fanart>
 </item>
 
 <item>
 <title>[COLOR lime]•[/COLOR] Mega HD</title>        
-<link>https://mega-pull2a-a3player.secure.footprint.net/geomega/bitrate_3.m3u8</link>
+<link></link>
 <thumbnail>http://static.programacion-tdt.com/imgAPP/Mega.min.png</thumbnail>
 <fanart>https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/EuroEspa%C3%B1a.svg/1200px-EuroEspa%C3%B1a.svg.png</fanart>
 </item>
 
 <item>
 <title>[COLOR lime]•[/COLOR] Atreseries HD</title>        
-<link>https://a3series-pull2a-a3player.secure.footprint.net/geoa3series/bitrate_3.m3u8</link>
+<link></link>
 <thumbnail>http://atreseries.atresmedia.com/public/img/a3series.png</thumbnail>
 <fanart>https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/EuroEspa%C3%B1a.svg/1200px-EuroEspa%C3%B1a.svg.png</fanart>
 </item>
 
 <item>
 <title>[COLOR lime]•[/COLOR] Neox HD</title>        
-<link>https://neox-pull2b-a3player.secure.footprint.net/geoneox/bitrate_3.m3u8</link>
+<link></link>
 <thumbnail>https://pbs.twimg.com/profile_images/509064688550694912/WY6A_PqH_normal.jpeg</thumbnail>
 <fanart>https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/EuroEspa%C3%B1a.svg/1200px-EuroEspa%C3%B1a.svg.png</fanart>
 </item>
 
 <item>
 <title>[COLOR lime]•[/COLOR] Nova HD</title>        
-<link>https://nova-pull2c-a3player.secure.footprint.net/geonova/bitrate_3.m3u8</link>
+<link></link>
 <thumbnail>http://www.mundoplus.tv/img/f25b812e6e6095afe68d44feb7d119ad</thumbnail>
 <fanart>https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/EuroEspa%C3%B1a.svg/1200px-EuroEspa%C3%B1a.svg.png</fanart>
 </item>
@@ -188,14 +188,14 @@
 
 <item>
 <title>[COLOR lime]•[/COLOR] Anime TV</title>        
-<link>http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8?iptvgratis?chile.m3u8</link>
+<link></link>
 <thumbnail>http://oklivetv.com/wp-content/uploads/media/a6409ac6c4c768ab0c68e38f5f8ffc1d.jpeg</thumbnail>
 <fanart>https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/EuroEspa%C3%B1a.svg/1200px-EuroEspa%C3%B1a.svg.png</fanart>
 </item>
 
 <item>
-<title>[COLOR lime]•[/COLOR] Miami TV ESP</title>        
-<link>http://spainserver.miamitvchannel.com/miamitv/smil:miamitvspain/playlist.m3u8</link>
+<title>[COLOR lime]•[/COLOR] Miami TV </title>        
+<link></link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
@@ -216,7 +216,7 @@
 
 <item>
 <title>[COLOR lime]•[/COLOR] Real madrid tv</title>        
-<link> 	http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8?sd=10&rebase=on?iptvgratis?chile.m3u8</link>
+<link></link>
 <thumbnail>http://puu.sh/nB5fs/d0fbb8562f.png</thumbnail>
 <fanart>https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/EuroEspa%C3%B1a.svg/1200px-EuroEspa%C3%B1a.svg.png</fanart>
 </item>
