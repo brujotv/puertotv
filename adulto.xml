@@ -1,6 +1,215 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
 
+"<item>
+<title>[COLOR deepskyblue]BRAZZERS TV EUROPE[/COLOR]</title>
+<link>$doregex[makelist]</link>
+<thumbnail>http://www.creativesatellite.co.uk/contents/media/l_brazzers400_20170924193626.jpg</thumbnail>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+   <title>Link [makelist.param2]</title>
+   <link>plugin://program.plexus/?mode=1&amp;url=[makelist.param1]&amp;name=Link[makelist.param2]</link>
+]]></listrepeat>
+<expres><![CDATA[player\.php\?id=([^"]*)">[^\d]*(.*?)<]]></expres>
+<page>http://tuchkatv.ru/314-brazzers-tv-europe.html</page>
+</regex>
+</item>"
+
+"<item>
+<title>[COLOR deepskyblue]SATISFACTION[/COLOR]</title>
+<link>$doregex[makelist]</link>
+<thumbnail>http://savepic.net/7825838.png</thumbnail>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+   <title>Link [makelist.param2]</title>
+   <link>plugin://program.plexus/?mode=1&amp;url=[makelist.param1]&amp;name=Link[makelist.param2]</link>
+]]></listrepeat>
+<expres><![CDATA[player\.php\?id=([^"]*)">[^\d]*(.*?)<]]></expres>
+<page>http://tuchkatv.ru/287-satisfaction-hd.html</page>
+</regex>
+</item>"
+
+"<item>
+<title>[COLOR deepskyblue]HUSTLER[/COLOR]</title>
+<link>$doregex[makelist]</link>
+<thumbnail>http://savepic.net/8091209.png</thumbnail>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+   <title>Link [makelist.param2]</title>
+   <link>plugin://program.plexus/?mode=1&amp;url=[makelist.param1]&amp;name=Link[makelist.param2]</link>
+]]></listrepeat>
+<expres><![CDATA[player\.php\?id=([^"]*)">[^\d]*(.*?)<]]></expres>
+<page>http://tuchkatv.ru/178-hustler-tv.html</page>
+</regex>
+</item>"
+
+"<item>
+<title>[COLOR deepskyblue]OLALA[/COLOR]</title>
+<link>$doregex[makelist]</link>
+<thumbnail>http://savepic.net/8047651.png</thumbnail>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+   <title>Link [makelist.param2]</title>
+   <link>plugin://program.plexus/?mode=1&amp;url=[makelist.param1]&amp;name=Link[makelist.param2]</link>
+]]></listrepeat>
+<expres><![CDATA[player\.php\?id=([^"]*)">[^\d]*(.*?)<]]></expres>
+<page>http://tuchkatv.ru/396-o-la-la.html</page>
+</regex>
+</item>"
+
+"<item>
+<title>[COLOR deepskyblue]SCT[/COLOR]</title>
+<link>$doregex[makelist]</link>
+<thumbnail>http://savepic.net/7835054.png</thumbnail>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+   <title>Link [makelist.param2]</title>
+   <link>plugin://program.plexus/?mode=1&amp;url=[makelist.param1]&amp;name=Link[makelist.param2]</link>
+]]></listrepeat>
+<expres><![CDATA[player\.php\?id=([^"]*)">[^\d]*(.*?)<]]></expres>
+<page>http://tuchkatv.ru/415-sct.html</page>
+</regex>
+</item>"
+
+"<item>
+<title>[COLOR deepskyblue]CENTO X CENTO[/COLOR]</title>
+<link>$doregex[makelist]</link>
+<thumbnail>http://savepic.net/7845651.png</thumbnail>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+   <title>Link [makelist.param2]</title>
+   <link>plugin://program.plexus/?mode=1&amp;url=[makelist.param1]&amp;name=Link[makelist.param2]</link>
+]]></listrepeat>
+<expres><![CDATA[player\.php\?id=([^"]*)">[^\d]*(.*?)<]]></expres>
+<page>http://tuchkatv.ru/417-centoxcento-tv.html</page>
+</regex>
+</item>"
+
+"<item>
+<title>[COLOR deepskyblue]SEXTO SENSO[/COLOR]</title>
+<link>$doregex[makelist]</link>
+<thumbnail>http://savepic.net/7824814.png</thumbnail>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+   <title>Link [makelist.param2]</title>
+   <link>plugin://program.plexus/?mode=1&amp;url=[makelist.param1]&amp;name=Link[makelist.param2]</link>
+]]></listrepeat>
+<expres><![CDATA[player\.php\?id=([^"]*)">[^\d]*(.*?)<]]></expres>
+<page>http://tuchkatv.ru/416-sextosenso.html</page>
+</regex>
+</item>"
+
+"<item>
+<title>[COLOR deepskyblue]PRIVATE[/COLOR]</title>
+<link>$doregex[makelist]</link>
+<thumbnail>http://savepic.net/7841198.png</thumbnail>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+   <title>Link [makelist.param2]</title>
+   <link>plugin://program.plexus/?mode=1&amp;url=[makelist.param1]&amp;name=Link[makelist.param2]</link>
+]]></listrepeat>
+<expres><![CDATA[player\.php\?id=([^"]*)">[^\d]*(.*?)<]]></expres>
+<page>http://tuchkatv.ru/330-private-tv.html</page>
+</regex>
+</item>"
+
+"<item>
+<title>[COLOR deepskyblue]NUART[/COLOR]</title>
+<link>$doregex[makelist]</link>
+<thumbnail>http://savepic.net/8098393.png</thumbnail>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+   <title>Link [makelist.param2]</title>
+   <link>plugin://program.plexus/?mode=1&amp;url=[makelist.param1]&amp;name=Link[makelist.param2]</link>
+]]></listrepeat>
+<expres><![CDATA[player\.php\?id=([^"]*)">[^\d]*(.*?)<]]></expres>
+<page>http://tuchkatv.ru/262-nuart-tv.html</page>
+</regex>
+</item>"
+
+"<item>
+<title>[COLOR deepskyblue]BLUE HUSTLER[/COLOR]</title>
+<link>$doregex[makelist]</link>
+<thumbnail>http://www.adulttvlive.net/wp-content/uploads/2017/02/Hustler-TV.jpg</thumbnail>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+   <title>Link [makelist.param2]</title>
+   <link>plugin://program.plexus/?mode=1&amp;url=[makelist.param1]&amp;name=Link[makelist.param2]</link>
+]]></listrepeat>
+<expres><![CDATA[player\.php\?id=([^"]*)">[^\d]*(.*?)<]]></expres>
+<page>http://tuchkatv.ru/177-hustler-blue.html</page>
+</regex>
+</item>"
+
+"<item>
+<title>[COLOR deepskyblue]PLAYBOY TV[/COLOR]</title>
+<link>$doregex[makelist]</link>
+<thumbnail>http://www.adulttvlive.net/wp-content/uploads/2017/02/Playboy-Latino-TV.png</thumbnail>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+   <title>Link [makelist.param2]</title>
+   <link>plugin://program.plexus/?mode=1&amp;url=[makelist.param1]&amp;name=Link[makelist.param2]</link>
+]]></listrepeat>
+<expres><![CDATA[player\.php\?id=([^"]*)">[^\d]*(.*?)<]]></expres>
+<page>http://tuchkatv.ru/179-playboy-tv.html</page>
+</regex>
+</item>"
+
+"<item>
+<title>[COLOR deepskyblue]BRAZZERS[/COLOR]</title>
+<link>$doregex[makelist]</link>
+<thumbnail>http://www.sup69.com/wp-content/uploads/2010/04/brazzers-302x117.png</thumbnail>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+   <title>Link [makelist.param2]</title>
+   <link>plugin://program.plexus/?mode=1&amp;url=[makelist.param1]&amp;name=Link[makelist.param2]</link>
+]]></listrepeat>
+<expres><![CDATA[player\.php\?id=([^"]*)">[^\d]*(.*?)<]]></expres>
+<page>http://tuchkatv.ru/9400-brazzers-tv.html</page>
+</regex>
+</item>"
+
+"<item>
+<title>[COLOR deepskyblue]PHOENIX MARIE TV[/COLOR]</title>
+<link>$doregex[makelist]</link>
+<thumbnail>http://tuchkatv.ru/uploads/posts/2016-11/1479212606_phoenix-marie-tv.png</thumbnail>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+   <title>Link [makelist.param2]</title>
+   <link>plugin://program.plexus/?mode=1&amp;url=[makelist.param1]&amp;name=Link[makelist.param2]</link>
+]]></listrepeat>
+<expres><![CDATA[player\.php\?id=([^"]*)">[^\d]*(.*?)<]]></expres>
+<page>http://tuchkatv.ru/9416-phoenix-marie-tv.html</page>
+</regex>
+</item>"
+
+"<item>
+<title>[COLOR deepskyblue]JASMIN.TV[/COLOR]</title>
+<link>$doregex[makelist]</link>
+<thumbnail>http://i.imgur.com/WsQdmim.jpg</thumbnail>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+   <title>Link [makelist.param2]</title>
+   <link>plugin://program.plexus/?mode=1&amp;url=[makelist.param1]&amp;name=Link[makelist.param2]</link>
+]]></listrepeat>
+<expres><![CDATA[player\.php\?id=([^"]*)">[^\d]*(.*?)<]]></expres>
+<page>http://tuchkatv.ru/9415-jasmin-tv.html</page>
+</regex>
+</item>"
 
 <item>
 <title>[COLOR lime]•[/COLOR] MaiamiTV </title>
@@ -22,6 +231,7 @@
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
+
 
 
 
