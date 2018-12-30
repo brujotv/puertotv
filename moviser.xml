@@ -20,6 +20,22 @@ item>
  </item>
 
 <item>
+ <title>[COLOR lime]•[/COLOR] Canales Dazplayer del mundo</title>
+ <link>$doregex[cristalazul]</link>
+ <regex>
+ <name>cristalazul</name>
+ <listrepeat><![CDATA[
+<title>[COLOR white][cristalazul.param3][/COLOR]</title>
+<link>[cristalazul.param2]|Referer=http://dazplayer.com/chh/&amp;User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64; rv:55.0) Gecko/20100101 Firefox/55.0</link>
+<thumbnail>[cristalazul.param1]</thumbnail>
+<fanart>[cristalazul.param1]</fanart>
+]]></listrepeat>
+ <expres><![CDATA[(?s)src='(.*?)'.*?<a href='(.*?)'.*?playlist__track__title'>(.*?)<.*?]]></expres>
+ <page>http://dazplayer.com/chh/</page>
+ </regex>
+</item>
+
+<item>
  <title>[COLOR lime]•[/COLOR] Movistar SD [COLOR green]ESTABLE[/COLOR]</title>
  <link>$doregex[makelist2]</link>
  <regex> 
