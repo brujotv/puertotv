@@ -70,17 +70,5 @@
 <thumbnail>https://yt3.ggpht.com/a-/AN66SAzVLTPcQbSdi3E8ky8doR9HYYyegzAcmGx5=s288-mo-c-c0xffffffff-rj-k-no</thumbnail>
 </item>
 
-<item><title>[COLOR lime]•[/COLOR] Minecraft alberto</title>
-<link>$doregex[makelist]</link>
-<regex><name>makelist</name>
-<listrepeat><![CDATA[
-<title>[makelist.param1]</title>
-<link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
-<thumbnail>https://i.ytimg.com/vi/[makelist.param2]/hqdefault.jpg</thumbnail>
-]]></listrepeat>
-<expres>title="(.*?)".*?watch\?v=(.*?)[",&amp;]</expres>
-<page>https://www.youtube.com/channel/UCKN-UFOynT8nJp2SXpU9Xgg/videos</page>
-</regex>
-<thumbnail>https://yt3.ggpht.com/a-/AN66SAxkMf6M11Po0DPbRtXVs8IGGVU66lW7jQ2i2A=s288-mo-c-c0xffffffff-rj-k-no</thumbnail>
-</item>
+
 
