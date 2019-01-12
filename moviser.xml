@@ -21,7 +21,7 @@
 
 
 <item>
- <title>[COLOR lime]•[/COLOR] Canales Dazplayer del mundo</title>
+ <title>[COLOR lime]•[/COLOR] Canales Dazplayer del mundo [COLOR GREEN] ONLINE [/COLOR]</title>
  <link>$doregex[cristalazul]</link>
  <regex>
  <name>cristalazul</name>
@@ -40,7 +40,7 @@
 
 
 <item>
-<title>[COLOR lime]•[/COLOR] Movistar ordenados 1 (27-12-18)</title>
+<title>[COLOR lime]•[/COLOR] Movistar ordenados 1 (27-12-18) [COLOR GREEN] ONLINE [/COLOR]</title>
 <thumbnail>https://tecmoviles.com/wp-content/uploads/2017/01/movistar-plus-600x416.jpg</thumbnail>
 <fanart>https://www.adslzone.net/app/uploads/2018/04/movistar-plus.jpg</fanart>
 <link>http://ignoreme</link>
@@ -48,7 +48,7 @@
 </item>
 
 <item>
-<title>[COLOR lime]•[/COLOR] Movistar ordenados 2 (11-01-19)</title>
+<title>[COLOR lime]•[/COLOR] Movistar ordenados 2 (11-01-19) [COLOR GREEN] ONLINE [/COLOR]</title>
 <thumbnail>https://tecmoviles.com/wp-content/uploads/2017/01/movistar-plus-600x416.jpg</thumbnail>
 <fanart>https://www.adslzone.net/app/uploads/2018/04/movistar-plus.jpg</fanart>
 <link>http://ignoreme</link>
