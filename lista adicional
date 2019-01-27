@@ -1,7 +1,7 @@
 "name": "[COLOR gold]*^Movistar^*[/COLOR]",
                     "image": "https://www.reasonwhy.es/sites/default/files/cero-canal-plus-movistar-reasonwhy.es__0.png",
-                    "url": "https://vergol.com/live/plus1.php",
-                    "referer": "https://verliga1.net/tv/nacionales/canal-cero.php",
+                    "url": "https://verliga1.net/",
+                    "referer": "https://verliga1.net/tv/deportes/verliga.php",
                     "embed": true
 
 
