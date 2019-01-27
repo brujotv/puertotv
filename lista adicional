@@ -8,8 +8,8 @@
 
 "name": "Movistar #0",
                     "image": "https://www.reasonwhy.es/sites/default/files/cero-canal-plus-movistar-reasonwhy.es__0.png",
-                    "url": "https://vergol.com/live/plus1.php",
-                    "referer": "https://verliga1.net/tv/nacionales/canal-cero.php",
+                    "url": "https://tv/deportes/verliga.php",
+                    "referer": "https://verliga1.net/tv/verliga.php",
                     "embed": true
 
 
