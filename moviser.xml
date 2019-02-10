@@ -18,8 +18,6 @@
 <fanart></fanart>
  </item>
 
-
-
 <item>
  <title>[COLOR lime]•[/COLOR] Canales Dazplayer del mundo [COLOR green] ONLINE [/COLOR]</title>
  <link>$doregex[cristalazul]</link>
@@ -35,9 +33,6 @@
  <page>http://dazplayer.com/chh/</page>
  </regex>
 </item>
-
-
-
 
 <item>
 <title>[COLOR lime]•[/COLOR] Movistar ordenados 1  (28-01-19) [COLOR red] OFFLINE [/COLOR]</title>
