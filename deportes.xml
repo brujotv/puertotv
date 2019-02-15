@@ -25,16 +25,11 @@
 <externallink>https://pastebin.com/raw/Jvw2GNxY</externallink>
 </item> 
 
+
+
+
 <item>
-<title>[COLOR red]Rojadirecta:[/COLOR] [COLOR orange]SportsDevil[/COLOR]</title>
-<link>http://Ignoreme</link>
-<jsonrpc>plugin://plugin.video.SportsDevil/?item=url=livesports/rojadirecta.me.cfg&amp;mode=1</jsonrpc>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-
-
-<item><title>[COLOR lime]•[/COLOR] AGENDA ROJA (Sportsdevil)</title>
+<title>[COLOR lime]•[/COLOR] AGENDA ROJA (Sportsdevil)</title>
 <link>ignorme</link>
 <jsonrpc>plugin://plugin.video.SportsDevil/?item=url=livesports/rojadirecta.me.cfg&amp;mode=1</jsonrpc>
 <thumbnail>https://raw.githubusercontent.com/blackghostaddon/gray/master/img/deportes.png</thumbnail>
@@ -118,21 +113,7 @@
 </item>
 
 
-<item>
-<title>[COLOR lime]•[/COLOR] Repeticion carreras F1</title>
-<thumbnail>http://www.thesportsdb.com/images/icons/honours/FIA_Formula_1_World_Championship.png</thumbnail>
-<fanart>http://www.f1fanatic.co.uk/wp-content/uploads/2017/04/XPB_868129_HiRes-e1491629335234.jpg</fanart>
-<link>http://ignoreme</link>
-<externallink>https://raw.githubusercontent.com/RetroBlogPi/MagicPi/master/formula1.xml</externallink>
-</item>
 
-<item>
-<title>[COLOR lime]•[/COLOR] Repeticion carreras MOTOGP </title>
-<thumbnail>https://i.imgur.com/STFpv7Z.png</thumbnail>
-<fanart>https://i.imgur.com/UlIfR3z.png</fanart>
-<link>http://ignoreme</link>
-<externallink>https://raw.githubusercontent.com/RetroBlogPi/MagicPi/master/menumotos.xml</externallink>
-</item>
 
 
 
