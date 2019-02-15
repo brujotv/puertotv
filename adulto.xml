@@ -228,11 +228,23 @@
 <item>
 <title>[COLOR lime]•[/COLOR] Jasmin TV HD</title>        
 <link>http://109.71.162.112:1935/live/sd.jasminchannel.stream/chunklist_w513145911.m3u8?jhonlocao</link>
-<thumbnail></thumbnail>
+<thumbnail>http://i.imgur.com/DLEFDcv.png</thumbnail>
 <fanart></fanart>
 </item>
 
+<item>
+<title>[COLOR lime]•[/COLOR] Miami TV</title>        
+<link>http://usaserver.miamitvchannel.com/miamitv/smil:miamitv/playlist.m3u8</link>
+<thumbnail>http://puu.sh/nvrR5/1bb233b647.png</thumbnail>
+<fanart></fanart>
+</item>
 
+<item>
+<title>[COLOR lime]•[/COLOR] </title>        
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
 
 
             
