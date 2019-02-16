@@ -32,6 +32,34 @@
 <externallink>https://raw.githubusercontent.com/lokiyotnt69/LIVEMUSIC/master/index.xml</externallink>
 </item> 
 
+<item><title>[COLOR lime]•[/COLOR] Vevo 2019</title>
+<link>$doregex[makelist]</link>
+<regex><name>makelist</name>
+<listrepeat><![CDATA[
+<title>[makelist.param1]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
+<thumbnail>https://i.ytimg.com/vi/[makelist.param2]/hqdefault.jpg</thumbnail>
+]]></listrepeat>
+<expres>title="(.*?)".*?watch\?v=(.*?)[",&amp;]</expres>
+<page>https://www.youtube.com/user/VEVO/videos</page>
+</regex>
+<thumbnail>http://www.tubefilter.com/wp-content/uploads/2014/05/vevo-newfronts.jpg</thumbnail>
+</item>
+
+<item><title>[COLOR lime]•[/COLOR] Vevo 2018</title>
+<link>$doregex[makelist]</link>
+<regex><name>makelist</name>
+<listrepeat><![CDATA[
+<title>[makelist.param1]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
+<thumbnail>https://i.ytimg.com/vi/[makelist.param2]/hqdefault.jpg</thumbnail>
+]]></listrepeat>
+<expres>title="(.*?)".*?watch\?v=(.*?)[",&amp;]</expres>
+<page>https://www.youtube.com/watch?v=aJOTlE1K90k&start_radio=1&list=RDQMyJ8HG6FGU44</page>
+</regex>
+<thumbnail>http://www.tubefilter.com/wp-content/uploads/2014/05/vevo-newfronts.jpg</thumbnail>
+</item>
+
 <item><title>[COLOR lime]•[/COLOR] Vevo 2017</title>
 <link>$doregex[makelist]</link>
 <regex><name>makelist</name>
