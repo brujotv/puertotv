@@ -27,6 +27,62 @@
 </item>
 
 <item>
+<title>Listas iptv automaticas del mundo</title>
+<thumbnail></thumbnail>
+<fanart></fanart>
+
+ 
+<link>$doregex[leg2]</link>
+
+<regex>
+<name>leg2</name>
+<listrepeat><![CDATA[
+<title>[leg2.param2]</title>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<link>$doregex[leg]</link>
+]]></listrepeat>
+<expres><![CDATA[taxonomy.+?href="(.+?)">(.+?)<]]></expres>
+<page>http://www.dailyiptvlist.com/</page>
+</regex>
+
+
+
+<regex>
+<name>leg</name>
+<listrepeat><![CDATA[
+<title>[leg.param2]</title>
+<link>$doregex[list]</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+]]></listrepeat>
+<expres><![CDATA[(?s)<h2 class="post-title".+?href="https(.+?)">(.+?)</a>]]></expres>
+<page>[leg2.param1]</page>
+</regex>
+
+
+
+
+<regex>
+<name>list</name>
+<listrepeat><![CDATA[
+<title>[list.param2]</title>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<link>NA</link>
+<externallink>[list.param1]$$TSDOWNLOADER$$</externallink>
+]]></listrepeat>
+<expres><![CDATA[<a href="(.*?)">Download(.*?)</a>]]></expres>
+<page>http[leg.param1]</page>
+<thumbnail>http://i.imgur.com/QS3c3hk.png</thumbnail>
+<fanart>http://i.imgur.com/zGAi8bi.png</fanart>
+</regex>
+<fanart></fanart>
+<info>LISTAS IPTV</info>
+</item>
+
+
+<item>
  <title>[COLOR lime]•[/COLOR] Canales Dazplayer del mundo [COLOR green] ONLINE [/COLOR]</title>
  <link>$doregex[cristalazul]</link>
  <regex>
