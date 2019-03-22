@@ -22,9 +22,16 @@
 
 
 <item>
-<title>[COLOR lime]•[/COLOR] GH DUO 1</title>        
+<title>[COLOR lime]•[/COLOR] GH DUO SEÑAL 1</title>        
 <link>https://livehlsdai-i.akamaihd.net/hls/live/670612/granhermano01/bitrate_3.m3u8</link>
-<thumbnail></thumbnail>
+<thumbnail>https://cdn.one.accedo.tv/files/5c347830a6f547000ce4ab3f</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR lime]•[/COLOR] GH DUO SEÑAL 2</title>        
+<link>https://livehlsdai-i.akamaihd.net/hls/live/691842/granhermano02/bitrate_4.m3u8</link>
+<thumbnail>https://cdn.one.accedo.tv/files/5c34c342a6f547000ce4ab58</thumbnail>
 <fanart></fanart>
 </item>
 
