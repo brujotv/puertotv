@@ -1,19 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
-<item><title>DOCUMENTALES</title>
-<link>$doregex[makelist]</link>
-<regex><name>makelist</name>
-<listrepeat><![CDATA[
-<title>[makelist.param1]</title>
-<link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
-<thumbnail>https://i.ytimg.com/vi/[makelist.param2]/hqdefault.jpg</thumbnail>
-]]></listrepeat>
-<expres>title="(.*?)".*?watch\?v=(.*?)[",&amp;]</expres>
-<page>https://www.youtube.com/channel/UC-BSVJAwzsnhfNyv1DzmLnQ</page>
-</regex>
-<thumbnail>https://yt3.ggpht.com/-BXdEOAnxqBE/AAAAAAAAAAI/AAAAAAAAAAA/SuCIOn5QgBg/s240-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
-</item>
-
 
 
 <item><title>DOCUMENTALES INFO</title>
@@ -137,20 +123,6 @@
 
 
 
-<item><title>VER DOCUMENTALES</title>
-<link>$doregex[makelist]</link>
-<regex><name>makelist</name>
-<listrepeat><![CDATA[
-<title>[makelist.param1]</title>
-<link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
-<thumbnail>https://i.ytimg.com/vi/[makelist.param2]/hqdefault.jpg</thumbnail>
-]]></listrepeat>
-<expres>title="(.*?)".*?watch\?v=(.*?)[",&amp;]</expres>
-<page>https://www.youtube.com/channel/UCi1d14f04eIZODtxNu79TtA</page>
-</regex>
-<thumbnail>https://yt3.ggpht.com/-gCtY7KfojbU/AAAAAAAAAAI/AAAAAAAAAAA/mTU5xp70oG8/s240-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
-</item>
-
 
 <item><title>TODO DOCUMENTAL</title>
 <link>$doregex[makelist]</link>
@@ -197,22 +169,6 @@
 <thumbnail>https://yt3.ggpht.com/-BGPzkQk-7Uc/AAAAAAAAAAI/AAAAAAAAAAA/bXiGkJ1zI1k/s240-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
 </item>
 
-
-
-
-<item><title>DOCUMENTALIA CIENCIA</title>
-<link>$doregex[makelist]</link>
-<regex><name>makelist</name>
-<listrepeat><![CDATA[
-<title>[makelist.param1]</title>
-<link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
-<thumbnail>https://i.ytimg.com/vi/[makelist.param2]/hqdefault.jpg</thumbnail>
-]]></listrepeat>
-<expres>title="(.*?)".*?watch\?v=(.*?)[",&amp;]</expres>
-<page>https://www.youtube.com/channel/UCkU1Y-YJbGpyswgIN06NaTA</page>
-</regex>
-<thumbnail>https://yt3.ggpht.com/-6ztF7GfbVSE/AAAAAAAAAAI/AAAAAAAAAAA/H_N51s4Zy8Q/s240-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
-</item>
 
 
 <item><title>DOCUMENTALES HISTORIA Y CIENCIA</title>
