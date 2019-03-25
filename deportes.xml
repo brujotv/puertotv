@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
 
-
 <item>
-<title>[COLOR lime]•[/COLOR] SPORT365 (addon deportes a la carta necesario)</title>
+<title>[COLOR lime]•[/COLOR] Sport365 Nueva Version </title>
 <link>ignorme</link>
-<jsonrpc>plugin://plugin.video.deportesalacarta/?ewogICAgImFjdGlvbiI6ICJtYWlubGlzdCIsIAogICAgImNhdGVnb3J5IjogImRlcG9ydCIsIAogICAgImNoYW5uZWwiOiAic3BvcnQzNjUiLCAKICAgICJmYW5hcnQiOiAiIiwgCiAgICAiaW5mb0xhYmVscyI6IHt9LCAKICAgICJsYW5ndWFnZSI6ICJlcyIsIAogICAgInRodW1ibmFpbCI6ICJodHRwOi8vaS5pbWd1ci5jb20vaEoydmhpcC5wbmciLCAKICAgICJ0aXRsZSI6ICJTcG9ydDM2NSIsIAogICAgInRvdGFsSXRlbXMiOiAwLCAKICAgICJ2aWV3bW9kZSI6ICJsaXN0Igp9</jsonrpc>
-<thumbnail>http://s1.medianetworkinternational.com/images/icons/apple-touch-icon-114x114.png</thumbnail>
+<jsonrpc>plugin://plugin.video.sport365.live</jsonrpc>
+<thumbnail>http://s1.medianetworkinternational.com/images/icons/256x256px.png</thumbnail>
+<fanart>http://redeneobux.com/wp-content/uploads/2016/09/2-11.jpg</fanart>
 </item>
 
 <item>
