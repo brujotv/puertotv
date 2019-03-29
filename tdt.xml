@@ -129,14 +129,14 @@
 <item>
 <title>[COLOR lime]•[/COLOR] Divinity HD</title>        
 <link>http://mdslivehls-i.akamaihd.net/hls/live/571648/divinity/bitrate_4.m3u8</link>
-<thumbnail></thumbnail>
+<thumbnail>http://graph.facebook.com/divinityes/picture?width=320&height=320</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
 <title>[COLOR lime]•[/COLOR] Divinity </title>        
 <link>https://mdslivehls-i.akamaihd.net/hls/live/571648/divinity/bitrate_2.m3u8</link>
-<thumbnail></thumbnail>
+<thumbnail>http://graph.facebook.com/divinityes/picture?width=320&height=320</thumbnail>
 <fanart></fanart>
 </item>
 
@@ -158,6 +158,21 @@
 <title>[COLOR lime]•[/COLOR] BE MAD</title>        
 <link>https://mdslivehlsb-i.akamaihd.net/hls/live/623615/bemad/bitrate_4.m3u8</link>
 <thumbnail>https://cdn.sincroguia.tv/uploads/images/b/e/-/be-mad.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+
+<item>
+<title>[COLOR lime]•[/COLOR] DKISS</title>        
+<link>http://kissfm-cires21-video.secure.footprint.net/dkiss/master.m3u8</link>
+<thumbnail>http://graph.facebook.com/DKissTV/picture?width=320&height=320</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR lime]•[/COLOR] Redbull TV HD</title>        
+<link>https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8</link>
+<thumbnail>http://graph.facebook.com/RedBull/picture?width=320&height=320</thumbnail>
 <fanart></fanart>
 </item>
 
