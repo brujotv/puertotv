@@ -31,20 +31,6 @@
 </item>
 
 <item>
-<title>[COLOR lime]•[/COLOR] [COLOR orange]0#[/COLOR] </title>
-<link>https://bit.ly/2GtcBcz</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title>[COLOR lime]•[/COLOR] [COLOR orange]Vamos[/COLOR] </title>
-<link>https://bit.ly/2DGNmA0</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
 <title>[COLOR lime]•[/COLOR] Avezy (Addon Avezy Necesario)</title>
 <link>http://Ignoreme</link>
 <jsonrpc>plugin://plugin.video.avezy/</jsonrpc>
