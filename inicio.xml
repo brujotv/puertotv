@@ -59,14 +59,6 @@
 </item>
 
 <item>
-<title>[COLOR lime]•[/COLOR] Manualidades</title>
-<thumbnail>https://i.imgur.com/HwR3EYu.png</thumbnail>
-<fanart></fanart>
-<link>http://ignoreme</link>
-<externallink>https://pastebin.com/raw/KkC1psuc</externallink>
-</item>
-
-<item>
 <title>[COLOR lime]•[/COLOR] Programas TV</title>
 <thumbnail>https://i.imgur.com/PbdTZSQ.png</thumbnail>
 <fanart></fanart>
@@ -74,6 +66,13 @@
 <externallink>https://raw.githubusercontent.com/brujotv/programastv/master/index.xml</externallink>
 </item>
 
+<item>
+<title>[COLOR lime]•[/COLOR] Manualidades</title>
+<thumbnail>https://i.imgur.com/HwR3EYu.png</thumbnail>
+<fanart></fanart>
+<link>http://ignoreme</link>
+<externallink>https://pastebin.com/raw/KkC1psuc</externallink>
+</item>
 
 <item>
 <title>[COLOR lime]•[/COLOR] Aerobic</title>
