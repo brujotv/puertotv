@@ -291,3 +291,43 @@
 <thumbnail>https://i.imgur.com/L0pAtXC.jpg</thumbnail>
 <fanart>https://i.imgur.com/DFxjc6y.jpg</fanart>
 </item>
+
+<item>
+<title>[COLOR lime]•[/COLOR] Portugal</title>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<link>http://ignoreme</link>
+<externallink>https://pastebin.com/raw/AtT2rNU3</externallink>
+</item>
+
+<item>
+<title>[COLOR lime]•[/COLOR] Argentina</title>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<link>http://ignoreme</link>
+<externallink>https://pastebin.com/raw/FZkpmDTk</externallink>
+</item>
+
+<item>
+<title>[COLOR lime]•[/COLOR] Italia</title>
+<thumbnail>http://cardsimages.info-tuparada.com/113/763-2-bandera-de-italia.jpg</thumbnail>
+<fanart>https://k37.kn3.net/taringa/2/0/4/9/0/2/32/pugnetta/2B3.jpg?1435</fanart>
+<link>http://ignoreme</link>
+<externallink>https://raw.githubusercontent.com/brujotv/puertotv/master/tv%20italia.xml</externallink>
+</item>
+
+<item>
+<title>[COLOR lime]•[/COLOR] Francia</title>
+<thumbnail>http://www.francia.net/wp-content/uploads/Bandera-Francesa.jpg</thumbnail>
+<fanart>http://www.banderas.pro/banderas/bandera-francia-5.jpg</fanart>
+<link>http://ignoreme</link>
+<externallink>https://raw.githubusercontent.com/brujotv/puertotv/master/francia%20tv.xml</externallink>
+</item>
+
+ <item>
+<title>[COLOR lime]•[/COLOR] Mexico</title>
+<thumbnail>http://www.banderademexico.net/wp-content/uploads/2017/01/bandera-de-mexico.png</thumbnail>
+<fanart>https://lh3.googleusercontent.com/-QmEubC8Ird8/VnMC746zFhI/AAAAAAAALO4/QH4Ew_Ge-uc/s450-Ic42/08-bandera-1916-1934-historia-bandera-mexico.png</fanart>
+<link>http://ignoreme</link>
+<externallink>https://raw.githubusercontent.com/brujotv/puertotv/master/mexica%20tv.xml</externallink>
+</item>
