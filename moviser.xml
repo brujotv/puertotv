@@ -1,35 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
-<item>
-<title>[COLOR lime]•[/COLOR] Programación de Tv España</title>
- <link>$doregex[makelist]</link>
-<regex>
-<name>makelist</name>
-<listrepeat><![CDATA[
-<title>[COLOR blue][B][makelist.param1][/B][/COLOR][COLOR blue][B][makelist.param2] [makelist.param3][/B][/COLOR][COLOR yellow][makelist.param4] [makelist.param5][/COLOR]</title>
-<link>$doregex[ip]|User-Agent=iPad</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-]]></listrepeat>
-<expres><![CDATA[title=.*?n\s(.*?)"|"(ahor.*?)">\n\s\s\s(.*?)\n|date">(.*?)</span>\n\s\s\s(.*)\n]]></expres>
-<page>http://www.formulatv.com/programacion/</page>
-</regex>
-<thumbnail></thumbnail>
-<fanart></fanart>
- </item>
 
-<item>
-<title>[COLOR lime]•[/COLOR] Canales españa para movil [COLOR red] OFFLINE [/COLOR]</title>
-<thumbnail>https://tecmoviles.com/wp-content/uploads/2017/01/movistar-plus-600x416.jpg</thumbnail>
-<fanart>https://www.adslzone.net/app/uploads/2018/04/movistar-plus.jpg</fanart>
-<link>http://ignoreme</link>
-<externallink>http://bit.ly/2nr0OzL</externallink>
-</item>
 
 <item>
 <title>[COLOR lime]•[/COLOR] Listas iptv automaticas del mundo [COLOR green] ONLINE [/COLOR]</title>
-<thumbnail></thumbnail>
-<fanart></fanart>
+<thumbnail>https://i.imgur.com/eWd730h.png</thumbnail>
+<fanart>https://i.imgur.com/IeSW2wz.png</fanart>
 
  
 <link>$doregex[leg2]</link>
@@ -85,6 +61,7 @@
 <item>
  <title>[COLOR lime]•[/COLOR] Canales Dazplayer del mundo [COLOR green] ONLINE [/COLOR]</title>
  <link>$doregex[cristalazul]</link>
+ <fanart>https://i.imgur.com/LIiTW8Z.jpg</fanart>
  <regex>
  <name>cristalazul</name>
  <listrepeat><![CDATA[
@@ -100,32 +77,32 @@
 
 <item>
 <title>[COLOR lime]•[/COLOR] Movistar ordenados 1  (16-03-19) [COLOR red] OFFLINE [/COLOR]</title>
-<thumbnail>https://tecmoviles.com/wp-content/uploads/2017/01/movistar-plus-600x416.jpg</thumbnail>
-<fanart>https://www.adslzone.net/app/uploads/2018/04/movistar-plus.jpg</fanart>
+<thumbnail>https://i.imgur.com/40d9D5s.jpg</thumbnail>
+<fanart>https://i.imgur.com/IeSW2wz.png</fanart>
 <link>http://ignoreme</link>
 <externallink>https://pastebin.com/raw/uqLXkqRQ</externallink>
 </item>
 
 <item>
 <title>[COLOR lime]•[/COLOR] Movistar ordenados 2  (16-03-19) [COLOR red] OFFLINE [/COLOR]</title>
-<thumbnail>https://tecmoviles.com/wp-content/uploads/2017/01/movistar-plus-600x416.jpg</thumbnail>
-<fanart>https://www.adslzone.net/app/uploads/2018/04/movistar-plus.jpg</fanart>
+<thumbnail>https://i.imgur.com/3h4h33t.jpg</thumbnail>
+<fanart>https://i.imgur.com/IeSW2wz.png</fanart>
 <link>http://ignoreme</link>
 <externallink>https://pastebin.com/raw/YR8EHmiu</externallink>
 </item>
 
 <item>
 <title>[COLOR lime]•[/COLOR] Movistar ordenados 3  (20-02-19) [COLOR red] OFFLINE [/COLOR]</title>
-<thumbnail>https://tecmoviles.com/wp-content/uploads/2017/01/movistar-plus-600x416.jpg</thumbnail>
-<fanart>https://www.adslzone.net/app/uploads/2018/04/movistar-plus.jpg</fanart>
+<thumbnail>https://i.imgur.com/VVZwL2y.jpg</thumbnail>
+<fanart>https://i.imgur.com/IeSW2wz.png</fanart>
 <link>http://ignoreme</link>
 <externallink>https://pastebin.com/raw/QW2Tj7ub</externallink>
 </item>
 
 <item>
 <title>[COLOR lime]•[/COLOR] Movistar ordenados 4  (20-02-19) [COLOR red] OFFLINE [/COLOR]</title>
-<thumbnail>https://tecmoviles.com/wp-content/uploads/2017/01/movistar-plus-600x416.jpg</thumbnail>
-<fanart>https://www.adslzone.net/app/uploads/2018/04/movistar-plus.jpg</fanart>
+<thumbnail>https://i.imgur.com/QDOQp3O.jpg</thumbnail>
+<fanart>https://i.imgur.com/IeSW2wz.png</fanart>
 <link>http://ignoreme</link>
 <externallink>https://pastebin.com/raw/ZVtbPY6E</externallink>
 </item>
