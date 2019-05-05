@@ -4,7 +4,7 @@
 
 <item>
 <title>[COLOR lime]•[/COLOR] TV </title>
-<thumbnail>https://i.imgur.com/4VCTdaZ.png</thumbnail>
+<thumbnail>https://i.imgur.com/97jcZV9.png</thumbnail>
 <fanart></fanart>
 <link>http://ignoreme</link>
 <externallink>https://raw.githubusercontent.com/brujotv/puertotv/master/tdt.xml</externallink>
@@ -12,22 +12,14 @@
 
 <item>
 <title>[COLOR lime]•[/COLOR] Movistar </title>
-<thumbnail>https://i.imgur.com/UkqEYa3.png</thumbnail>
+<thumbnail>https://i.imgur.com/LonmtZq.png</thumbnail>
 <fanart></fanart>
 <link>http://ignoreme</link>
 <externallink>https://raw.githubusercontent.com/brujotv/puertotv/master/moviser.xml</externallink>
 </item>
 
 <item>
-<title>[COLOR lime]•[/COLOR] IPTV</title>
-<thumbnail>https://i.imgur.com/RcraQIY.png</thumbnail>
-<fanart></fanart>
-<link>http://ignoreme</link>
-<externallink>https://raw.githubusercontent.com/brujotv/puertotv/master/IPTV.xml</externallink>
-</item>
-
-<item>
-<title>[COLOR lime]•[/COLOR] Canales internacionales</title>
+<title>[COLOR lime]•[/COLOR] Canales del mundo</title>
 <thumbnail>https://i.imgur.com/DAPivC7.png</thumbnail>
 <fanart></fanart>
 <link>http://ignoreme</link>
@@ -36,15 +28,15 @@
 
 <item>
 <title>[COLOR lime]•[/COLOR] Deportes</title>
-<thumbnail>https://i.imgur.com/DtosTAC.png</thumbnail>
+<thumbnail>https://i.imgur.com/Nl1SQyv.png</thumbnail>
 <fanart></fanart>
 <link>http://ignoreme</link>
 <externallink>https://raw.githubusercontent.com/brujotv/puertotv/master/deportes.xml</externallink>
 </item>
 
 <item>
-<title>[COLOR lime]•[/COLOR] Cine [COLOR red]144[/COLOR] </title>
-<thumbnail>https://i.imgur.com/LV9BaK3.png</thumbnail>
+<title>[COLOR lime]•[/COLOR] Cine [COLOR red]V.144[/COLOR] </title>
+<thumbnail>https://i.imgur.com/mdOW5VH.gif</thumbnail>
 <fanart></fanart>
 <link>http://ignoreme</link>
 <externallink>https://raw.githubusercontent.com/brujotv/supercine/master/index%20cine.xml</externallink>
@@ -52,7 +44,7 @@
 
 <item>
 <title>[COLOR lime]•[/COLOR] Musica</title>
-<thumbnail>https://i.imgur.com/9EESnWn.png</thumbnail>
+<thumbnail>https://i.imgur.com/O9hutCi.jpg</thumbnail>
 <fanart></fanart>
 <link>http://ignoreme</link>
 <externallink>https://raw.githubusercontent.com/brujotv/puertotv/master/index%20musica.xml</externallink>
@@ -60,7 +52,7 @@
 
 <item>
 <title>[COLOR lime]•[/COLOR] Infantil</title>
-<thumbnail>https://i.imgur.com/lgn4LB1.png</thumbnail>
+<thumbnail>https://i.imgur.com/Jbb1xzH.gifv</thumbnail>
 <fanart></fanart>
 <link>http://ignoreme</link>
 <externallink>https://raw.githubusercontent.com/brujotv/puertotv/master/zonainfantil.xml</externallink>
@@ -68,7 +60,7 @@
 
 <item>
 <title>[COLOR lime]•[/COLOR] Series TV</title>
-<thumbnail>https://i.imgur.com/aw3ReDC.png</thumbnail>
+<thumbnail>https://i.imgur.com/cVTOv7h.jpg</thumbnail>
 <fanart></fanart>
 <link>http://ignoreme</link>
 <externallink>https://raw.githubusercontent.com/brujotv/series1/master/index.xml</externallink>
@@ -76,7 +68,7 @@
 
 <item>
 <title>[COLOR lime]•[/COLOR] Manualidades</title>
-<thumbnail>https://i.imgur.com/A5O1sNx.png</thumbnail>
+<thumbnail>https://i.imgur.com/HwR3EYu.png</thumbnail>
 <fanart></fanart>
 <link>http://ignoreme</link>
 <externallink>https://pastebin.com/raw/KkC1psuc</externallink>
@@ -84,7 +76,7 @@
 
 <item>
 <title>[COLOR lime]•[/COLOR] Programas TV</title>
-<thumbnail>https://i.imgur.com/sDFR3ZG.png</thumbnail>
+<thumbnail>https://i.imgur.com/PbdTZSQ.png</thumbnail>
 <fanart></fanart>
 <link>http://ignoreme</link>
 <externallink>https://raw.githubusercontent.com/brujotv/programastv/master/index.xml</externallink>
@@ -93,7 +85,7 @@
 
 <item>
 <title>[COLOR lime]•[/COLOR] Aerobic</title>
-<thumbnail>https://i.imgur.com/UwB7SVy.png</thumbnail>
+<thumbnail>https://i.imgur.com/OFvh5Eg.png</thumbnail>
 <fanart></fanart>
 <link>http://ignoreme</link>
 <externallink>https://raw.githubusercontent.com/Delhia/Aerobic/master/index.xml</externallink>
@@ -101,7 +93,7 @@
 
 <item>
 <title>[COLOR lime]•[/COLOR] Humor</title>
-<thumbnail>https://i.imgur.com/XspAxx3.png</thumbnail>
+<thumbnail>https://i.imgur.com/BtyrSnr.png</thumbnail>
 <fanart></fanart>
 <link>http://ignoreme</link>
 <externallink>https://raw.githubusercontent.com/brujotv/puertotv/master/humor.xml</externallink>
@@ -110,14 +102,14 @@
 <item> 
 <title>[COLOR lime]•[/COLOR] Bricolaje</title>
 <link>http://Ignoreme</link>
-<thumbnail>https://i.imgur.com/EQaVkdY.png</thumbnail>
+<thumbnail>https://i.imgur.com/wF1Uhpy.png</thumbnail>
 <fanart></fanart>
 <externallink>https://pastebin.com/raw/kRx9wbqx</externallink>	
 </item> 
 
 <item>
 <title>[COLOR lime]•[/COLOR] Recetas de cocina</title>
-<thumbnail>https://i.imgur.com/cSioK7s.png</thumbnail>
+<thumbnail>https://i.imgur.com/GXFJgqp.jpg</thumbnail>
 <fanart></fanart>
 <link>http://ignoreme</link>
 <externallink>https://raw.githubusercontent.com/brujotv/puertotv/master/index%20cocina.xml</externallink>
@@ -126,14 +118,14 @@
 <item> 
 <title>[COLOR lime]•[/COLOR] Camaras del mundo</title>
 <link>http://Ignoreme</link>
-<thumbnail>https://i.imgur.com/tiQbNY5.png</thumbnail>
+<thumbnail>https://i.imgur.com/CbKM0eo.gif</thumbnail>
 <fanart></fanart>
 <externallink>https://pastebin.com/raw/WU2eTHpf</externallink>	
 </item> 
 
 <item>
 <title>[COLOR lime]•[/COLOR] Documentales</title>
-<thumbnail>https://i.imgur.com/KIgOoKr.png</thumbnail>
+<thumbnail>https://i.imgur.com/Uk4svlB.png</thumbnail>
 <fanart></fanart>
 <link>http://ignoreme</link>
 <externallink>https://raw.githubusercontent.com/brujotv/puertotv/master/cazaypesca.xml</externallink>
