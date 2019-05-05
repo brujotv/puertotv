@@ -41,13 +41,6 @@
 </item>
 
 <item>
-<title>[COLOR lime]•[/COLOR] Canal Sur Andalucia</title>
-<link>ignorme</link>
-<jsonrpc>plugin://plugin.video.youtube/channel/UCqwjtgaJflHga2aPWphG5PQ/live/</jsonrpc>
-<thumbnail>https://i.imgur.com/C45G66M.png</thumbnail>  
-</item>
-
-<item>
 <title>[COLOR lime]•[/COLOR] Cuatro HD</title>        
 <link>https://livehlsdai-i.akamaihd.net/hls/live/571643/cuatro/bitrate_4.m3u8</link>
 <thumbnail>https://i.imgur.com/sPfM0ue.jpg</thumbnail>
