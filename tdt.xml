@@ -21,14 +21,14 @@
 
 <item>
 <title>[COLOR lime]•[/COLOR] Tve 1</title>        
-<link>http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl7/la1_lv3_aosv4_gl7/la1_lv3_aosv4_gl7.isml/la1_lv3_aosv4_gl7-audio=128000-video=650000.m3u8</link>
+<link>http://hlsliveamdgl1-lh.akamaihd.net/i/hlsdvrlive_1@584096/master.m3u8</link>
 <thumbnail>https://i.imgur.com/6nC866c.png</thumbnail>
 <fanart>https://i.imgur.com/DFxjc6y.jpg</fanart>
 </item>
 
 <item>
 <title>[COLOR lime]•[/COLOR] Tve 2</title>        
-<link>http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl0/la2_lv3_aosv4_gl0/la2_lv3_aosv4_gl0.isml/la2_lv3_aosv4_gl0-audio=128000-video=1500000.m3u8</link>
+<link>http://hlsliveamdgl0-lh.akamaihd.net/i/hlsdvrlive_1@60531/index_2800_av-p.m3u8?sd=10&rebase=on</link>
 <thumbnail>https://i.imgur.com/nWIDQD1.png</thumbnail>
 <fanart>https://i.imgur.com/DFxjc6y.jpg</fanart>
 </item>
