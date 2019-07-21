@@ -3,7 +3,7 @@
 
 
 <item>
-<title>[COLOR lime]•[/COLOR] Listas iptv automaticas del mundo [COLOR green] ONLINE [/COLOR]</title>
+<title>[COLOR lime]•[/COLOR] Listas iptv automaticas del mundo [COLOR green] online [/COLOR]</title>
 <thumbnail>https://i.imgur.com/eWd730h.png</thumbnail>
 <fanart>https://i.imgur.com/IeSW2wz.png</fanart>
 
@@ -57,27 +57,8 @@
 <info>LISTAS IPTV</info>
 </item>
 
-
 <item>
- <title>[COLOR lime]•[/COLOR] Canales Dazplayer del mundo [COLOR green] ONLINE [/COLOR]</title>
- <link>$doregex[cristalazul]</link>
- <thumbnail>https://i.imgur.com/LIiTW8Z.jpg</thumbnail>
- <fanart>https://i.imgur.com/bSsT2vn.jpg</fanart>
- <regex>
- <name>cristalazul</name>
- <listrepeat><![CDATA[
-<title>[COLOR white][cristalazul.param3][/COLOR]</title>
-<link>[cristalazul.param2]|Referer=http://dazplayer.com/chh/&amp;User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64; rv:55.0) Gecko/20100101 Firefox/55.0</link>
-<thumbnail>[cristalazul.param1]</thumbnail>
-<fanart>[cristalazul.param1]</fanart>
-]]></listrepeat>
- <expres><![CDATA[(?s)src='(.*?)'.*?<a href='(.*?)'.*?playlist__track__title'>(.*?)<.*?]]></expres>
- <page>http://dazplayer.com/chh/</page>
- </regex>
-</item>
-
-<item>
-<title>[COLOR lime]•[/COLOR] Movistar ordenados 1  (20-07-19) [COLOR green] ONLINE [/COLOR]</title>
+<title>[COLOR lime]•[/COLOR] Movistar ordenados 1  (20-07-19) [COLOR green] online [/COLOR]</title>
 <thumbnail>https://i.imgur.com/40d9D5s.jpg</thumbnail>
 <fanart>https://i.imgur.com/IeSW2wz.png</fanart>
 <link>http://ignoreme</link>
@@ -85,7 +66,7 @@
 </item>
 
 <item>
-<title>[COLOR lime]•[/COLOR] Movistar ordenados 2  (25-05-19) [COLOR green] offline [/COLOR]</title>
+<title>[COLOR lime]•[/COLOR] Movistar ordenados 2  (20-07-19) [COLOR green] online [/COLOR]</title>
 <thumbnail>https://i.imgur.com/3h4h33t.jpg</thumbnail>
 <fanart>https://i.imgur.com/IeSW2wz.png</fanart>
 <link>http://ignoreme</link>
@@ -93,7 +74,7 @@
 </item>
 
 <item>
-<title>[COLOR lime]•[/COLOR] Movistar ordenados 3  (25-05-19) [COLOR green] offline [/COLOR]</title>
+<title>[COLOR lime]•[/COLOR] Movistar ordenados 3  (25-05-19) [COLOR red] offline [/COLOR]</title>
 <thumbnail>https://i.imgur.com/VVZwL2y.jpg</thumbnail>
 <fanart>https://i.imgur.com/IeSW2wz.png</fanart>
 <link>http://ignoreme</link>
@@ -101,7 +82,7 @@
 </item>
 
 <item>
-<title>[COLOR lime]•[/COLOR] Movistar ordenados 4  (25-05-19) [COLOR green] offline [/COLOR]</title>
+<title>[COLOR lime]•[/COLOR] Movistar ordenados 4  (25-05-19) [COLOR red] offline [/COLOR]</title>
 <thumbnail>https://i.imgur.com/QDOQp3O.jpg</thumbnail>
 <fanart>https://i.imgur.com/IeSW2wz.png</fanart>
 <link>http://ignoreme</link>
