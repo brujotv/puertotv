@@ -3,10 +3,10 @@
  
  
 #EXTINF:-1,[COLOR lime]•[/COLOR] La liga bar 1080
-plugin://plugin.video.f4mTester/?name=Naranjito&streamtype=TSDOWNLOADER&amp;url=http://188.76.79.126/ts/0
+plugin://plugin.video.f4mTester/?name=Naranjito&streamtype=TSDOWNLOADER&amp;url=http://188.76.79.126:80/ts/0
 
 #EXTINF:-1,[COLOR lime]•[/COLOR] La liga bar SD
-plugin://plugin.video.f4mTester/?name=Naranjito&streamtype=TSDOWNLOADER&amp;url=http://188.76.79.126/ts/1
+plugin://plugin.video.f4mTester/?name=Naranjito&streamtype=TSDOWNLOADER&amp;url=http://188.76.79.126:80/ts/1
 
 
 
