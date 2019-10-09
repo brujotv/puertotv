@@ -1,45 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
 
-<item>
-<title>[COLOR lime]•[/COLOR] Sport365 Nueva Version </title>
-<link>ignorme</link>
-<jsonrpc>plugin://plugin.video.sport365.live</jsonrpc>
-<thumbnail>https://i.imgur.com/U3PBV6b.png</thumbnail>
-<fanart>http://redeneobux.com/wp-content/uploads/2016/09/2-11.jpg</fanart>
-</item>
-
-<item>
-<title>[COLOR lime]•[/COLOR] [COLOR orange]Dazn[/COLOR] [COLOR skyblue]1[/COLOR] </title>
-<link>https://bit.ly/2MiG74T</link>
-<thumbnail>https://i1.wp.com/www.broadbandtvnews.com/wp-content/uploads/2016/06/DAZN-Logo-Perform-Group.png?fit=1200%2C1200&ssl=1</thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title>[COLOR lime]•[/COLOR] [COLOR orange]Dazn[/COLOR] [COLOR skyblue]2[/COLOR] </title>
-<link>https://bit.ly/2SYCGTK</link>
-<thumbnail>https://i1.wp.com/www.broadbandtvnews.com/wp-content/uploads/2016/06/DAZN-Logo-Perform-Group.png?fit=1200%2C1200&ssl=1</thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title>[COLOR lime]•[/COLOR] Avezy (Addon Avezy Necesario)</title>
-<link>http://Ignoreme</link>
-<jsonrpc>plugin://plugin.video.avezy/</jsonrpc>
-<thumbnail>http://dimitrology.com/wp-content/uploads/2017/08/icon-5.png</thumbnail>
-<fanart>http://www.androidaba.com/wp-content/uploads/2016/12/ar1.jpg</fanart>
-</item>
-
-
-
-<item>
-<title>[COLOR lime]•[/COLOR] AGENDA ROJA (Sportsdevil)</title>
-<link>ignorme</link>
-<jsonrpc>plugin://plugin.video.SportsDevil/?item=url=livesports/rojadirecta.me.cfg&amp;mode=1</jsonrpc>
-<thumbnail>https://i.imgur.com/vj9fBv6.jpg</thumbnail>
-<thumbnail>https://raw.githubusercontent.com/blackghostaddon/gray/master/img/deportes.png</thumbnail>
-<thumbnail>https://raw.githubusercontent.com/blackghostaddon/gray/master/img/deportes.png</thumbnail></item>
 
 
 <tem>
