@@ -2,13 +2,13 @@
 
 
 <item> 
-            <title>[COLOR lime]•[/COLOR] La 1 SD</title> 
+            <title>[COLOR lime]•[/COLOR] La liga bar 1080</title> 
             <link>plugin://plugin.video.f4mTester/?url=http://188.76.79.126/ts/0&amp;streamtype=TSDOWNLOADER&amp;name=La 1 </link> 
             <thumbnail>http://static.programacion-tdt.com/imgAPP/TVE1.min.png</thumbnail>
                 </item>
 
 <item> 
-            <title>[COLOR lime]•[/COLOR] La 2 SD</title> 
+            <title>[COLOR lime]•[/COLOR] La liga bar SD</title> 
             <link>plugin://plugin.video.f4mTester/?url=http://188.76.79.126/ts/1&amp;streamtype=TSDOWNLOADER&amp;name=La 2 </link> 
             <thumbnail></thumbnail>
                 </item>
