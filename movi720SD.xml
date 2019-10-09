@@ -1,15 +1,12 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+#EXTM3U
+ 
+ 
+ 
+#EXTINF:-1,[COLOR lime]•[/COLOR] La liga bar 1080
+plugin://plugin.video.f4mTester/?name=Naranjito&streamtype=TSDOWNLOADER&amp;url=http://188.76.79.126/ts/0
+
+#EXTINF:-1,[COLOR lime]•[/COLOR] La liga bar SD
+plugin://plugin.video.f4mTester/?name=Naranjito&streamtype=TSDOWNLOADER&amp;url=http://188.76.79.126/ts/1
 
 
-<item> 
-            <title>[COLOR lime]•[/COLOR] La liga bar 1080</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://188.76.79.126/ts/0&amp;streamtype=TSDOWNLOADER&amp;name=La 1 </link> 
-            <thumbnail>https://i.imgur.com/pcTkGsR.jpg</thumbnail>
-                </item>
-
-<item> 
-            <title>[COLOR lime]•[/COLOR] La liga bar SD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://188.76.79.126/ts/1&amp;streamtype=TSDOWNLOADER&amp;name=La 2 </link> 
-            <thumbnail>https://i.imgur.com/pcTkGsR.jpg</thumbnail>
-                </item>
 
