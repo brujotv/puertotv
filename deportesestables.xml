@@ -1,8 +1,8 @@
 #EXTM3U DailySport https://dailysport.pw
-#EXTINF:-1 group-title="Deportes", Real Madrid vs Espanyol
+#EXTINF:-1 group-title="Deportes", Barcelona vs Mallorca
 https://cdn10.dailysport.pw/2/2.m3u8
-#EXTINF:-1 group-title="Deportes", Real Madrid vs Espanyol(English)
-https://cdn10.dailysport.pw/1/1.m3u8
+#EXTINF:-1 group-title="Deportes", Sporting Gijón vs Ponferradina
+https://cdn10.dailysport.pw/6/6.m3u8
 #EXTINF:-1 group-title="Deportes", Granada vs Deportivo Alavés
 https://cdn10.dailysport.pw/2/2.m3u8
 #EXTINF:-1 group-title="Deportes", Levante vs Valencia
