@@ -19,14 +19,6 @@
 <info></info>
 </item>
 
-
-<item>
-<title>[COLOR lime]•[/COLOR] GH señal </title>        
-<link>https://cdn10.dailysport.pw/2/2.m3u8</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-
 <item>
 <title>[COLOR lime]•[/COLOR] GH señal 1</title>        
 <link>https://livehlsdai-i.akamaihd.net/hls/live/670612/granhermano01/bitrate_3.m3u8</link>
@@ -300,36 +292,7 @@
 <fanart>https://i.imgur.com/DFxjc6y.jpg</fanart>
 </item>
 
-<item>
-<title>[COLOR lime]•[/COLOR] BeiN La Liga SD  </title>
-<urlsolve>http://87.120.36.62:8080/hls/streama96309/index.m3u8?st=_iC8FLWCvMu1aMdKuAIhIQ</urlsolve>
-</item>
 
-<item>
-<title>[COLOR lime]•[/COLOR] BeiN La Liga SD</title>        
-<link>http://87.120.36.62:8080/hls/streama96309/index.m3u8?st=_iC8FLWCvMu1aMdKuAIhIQ</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title>[COLOR lime]•[/COLOR] BeiN La Liga SD 2 </title>
-<urlsolve>http://78.142.19.8:8080/hls/streama75020/index.m3u8?st=rGCocg8vH3c9HpTVmqB88Q</urlsolve>
-</item>
-
-<item>
-<title>[COLOR lime]•[/COLOR] BeiN La Liga SD 2</title>        
-<link>http://78.142.19.8:8080/hls/streama75020/index.m3u8?st=rGCocg8vH3c9HpTVmqB88Q</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title>[COLOR lime]•[/COLOR] </title>        
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
 
 <item>
 <title>[COLOR lime]•[/COLOR] Portugal</title>
