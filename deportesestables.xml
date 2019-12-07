@@ -3,47 +3,8 @@
 https://cdn10.dailysport.pw/2/2.m3u8
 #EXTINF:-1 group-title="Deportes", Sporting Gijón vs Ponferradina
 https://cdn10.dailysport.pw/6/6.m3u8
-#EXTINF:-1 group-title="Deportes", Granada vs Deportivo Alavés
-https://cdn10.dailysport.pw/2/2.m3u8
-#EXTINF:-1 group-title="Deportes", Levante vs Valencia
-https://cdn10.dailysport.pw/2/2.m3u8
-#EXTINF:-1 group-title="Deportes", Levante vs Valencia(English)
-https://cdn10.dailysport.pw/1/1.m3u8
-#EXTINF:-1 group-title="Deportes", Barcelona vs Mallorca
-https://cdn10.dailysport.pw/2/2.m3u8
-#EXTINF:-1 group-title="Deportes", Barcelona vs Mallorca(English)
-https://cdn10.dailysport.pw/1/1.m3u8
-#EXTINF:-1 group-title="Deportes", Everton vs Chelsea
-https://cdn10.dailysport.pw/3/3.m3u8
-#EXTINF:-1 group-title="Deportes", Everton vs Chelsea(English)
-https://cdn10.dailysport.pw/4/4.m3u8
-#EXTINF:-1 group-title="Deportes", AFC Bournemouth vs Liverpool
-https://cdn10.dailysport.pw/3/3.m3u8
-#EXTINF:-1 group-title="Deportes", AFC Bournemouth vs Liverpool(English)
-https://cdn10.dailysport.pw/4/4.m3u8
-#EXTINF:-1 group-title="Deportes", Tottenham Hotspur vs Burnley
-https://cdn11.dailysport.pw/2/2.m3u8
-#EXTINF:-1 group-title="Deportes", Manchester City vs Manchester United
-https://cdn10.dailysport.pw/3/3.m3u8
-#EXTINF:-1 group-title="Deportes", Manchester City vs Manchester United(English)
-https://cdn10.dailysport.pw/4/4.m3u8
-#EXTINF:-1 group-title="Deportes", Huesca vs Rayo
-https://cdndaily01.azureedge.net/live/2/playlist.m3u8
-#EXTINF:-1 group-title="Deportes", Sporting Gijón vs Ponferradina
-https://cdndaily01.azureedge.net/live/2/playlist.m3u8
-#EXTINF:-1 group-title="Deportes", UD Almería vs Mirandés
-https://cdndaily01.azureedge.net/live/2/playlist.m3u8
-#EXTINF:-1 group-title="Deportes", Borussia Dortmund vs Fortuna
-https://cdnx2.global.ssl.fastly.net/live/7/playlist.m3u8
-#EXTINF:-1 group-title="Deportes", Borussia M"gladbach vs FC Bayern
-https://cdndaily01.azureedge.net/live/3/playlist.m3u8
-#EXTINF:-1 group-title="Deportes", Bayer Leverkusen vs Schalke 04
-https://cdnx2.global.ssl.fastly.net/live/7/playlist.m3u8
-#EXTINF:-1 group-title="Deportes", Lazio vs Juventus
-https://cdnx2.global.ssl.fastly.net/live/7/playlist.m3u8
+#EXTINF:-1 group-title="Deportes", Liga de Campeones
+https://cdn10.dailysport.pw/7/7.m3u8
 #EXTINF:-1 group-title="Deportes", Montpellier vs PSG
-https://cdndaily01.azureedge.net/live/3/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://acestreampi.ddns.net/up.png" group-title="Deportes", Actualizado 07-12-2019 12:55
-http://acestreampi.ddns.net/movis.mp4
-#EXTINF:-1 tvg-logo="http://acestreampi.ddns.net/tel.png" group-title="Deportes", Acestream_Spanish
-https://t.me/acestream_spanish
+https://cdn10.dailysport.pw/8/8.m3u8
+
