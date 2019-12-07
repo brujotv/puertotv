@@ -1,5 +1,22 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
+
+
+"<item>
+<title>[COLOR deepskyblue]fR[/COLOR]</title>
+<link>$doregex[makelist]</link>
+<thumbnail></thumbnail>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+   <title>Link [makelist.param2]</title>
+   <link>plugin://program.plexus/?mode=1&amp;url=[makelist.param1]&amp;name=Link[makelist.param2]</link>
+]]></listrepeat>
+<expres><![CDATA[player\.php\?id=([^"]*)">[^\d]*(.*?)<]]></expres>
+<page>https://dailysport.pw/</page>
+</regex>
+</item>"
+
 <item>
 <title>[COLOR lime]•[/COLOR] [COLOR red] Partidos[/COLOR] [COLOR yellow] (* * * * * * * * solo eventos * * * * * * * *) [/COLOR] </title>
 <thumbnail>https://i.imgur.com/pcTkGsR.jpg</thumbnail>
