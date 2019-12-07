@@ -1,6 +1,10 @@
 #EXTM3U DailySport https://dailysport.pw
+#EXTINF:-1 group-title="Deportes", Levante vs Valencia
+https://cdn10.dailysport.pw/2/2.m3u8
 #EXTINF:-1 group-title="Deportes", Barcelona vs Mallorca
 https://cdn10.dailysport.pw/2/2.m3u8
+#EXTINF:-1 group-title="Deportes", UD Almería vs Mirandés
+https://cdn10.dailysport.pw/6/6.m3u8
 #EXTINF:-1 group-title="Deportes", Sporting Gijón vs Ponferradina
 https://cdn10.dailysport.pw/6/6.m3u8
 #EXTINF:-1 group-title="Deportes", Liga de Campeones
