@@ -9,9 +9,6 @@ https://cdn10.dailysport.pw/1/1.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wCKyQjw.jpg" group-title="Deportes", 21:00 Osasuna vs Sevilla FC
 https://cdn10.dailysport.pw/1/1.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wCKyQjw.jpg" group-title="Deportes", No evento
-https://cdn10.dailysport.pw/2/2.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wCKyQjw.jpg" group-title="Deportes", 15:00 Aston Villa vs Leicester City
 https://cdn11.dailysport.pw/1/1.m3u8
 
@@ -23,9 +20,6 @@ https://cdn11.dailysport.pw/2/2.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wCKyQjw.jpg" group-title="Deportes", 15:00 Norwich City vs Sheffield United
 https://cdn11.dailysport.pw/3/3.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wCKyQjw.jpg" group-title="Deportes", Girona vs Lugo
-https://cdn10.dailysport.pw/6/6.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wCKyQjw.jpg" group-title="Deportes", 18:00 Las Palmas vs Numancia
 https://cdn10.dailysport.pw/6/6.m3u8
