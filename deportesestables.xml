@@ -1,35 +1,19 @@
 #EXTM3U DailySport https://dailysport.pw
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wCKyQjw.jpg" group-title="Deportes", 16:00 Valladolid vs R. Sociedad
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wCKyQjw.jpg" group-title="Deportes", 18:30 [COLOR lime] Leganés vs Celta [/COLOR]
 https://cdn10.dailysport.pw/2/2.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wCKyQjw.jpg" group-title="Deportes", 18:30 Leganés vs Celta
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wCKyQjw.jpg" group-title="Deportes", 21:00 [COLOR red] Osasuna vs Sevilla FC [/COLOR]
 https://cdn10.dailysport.pw/1/1.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wCKyQjw.jpg" group-title="Deportes", 21:00 Osasuna vs Sevilla FC
-https://cdn10.dailysport.pw/1/1.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wCKyQjw.jpg" group-title="Deportes", 15:00 Aston Villa vs Leicester City
-https://cdn11.dailysport.pw/1/1.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wCKyQjw.jpg" group-title="Deportes", 17:30 Brighton & Hove Albion vs Wolverhampton Wanderers
-https://cdn10.dailysport.pw/3/3.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wCKyQjw.jpg" group-title="Deportes", 15:00 Newcastle United vs Southampton
-https://cdn11.dailysport.pw/2/2.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wCKyQjw.jpg" group-title="Deportes", 15:00 Norwich City vs Sheffield United
-https://cdn11.dailysport.pw/3/3.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wCKyQjw.jpg" group-title="Deportes", 18:00 Las Palmas vs Numancia
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wCKyQjw.jpg" group-title="Deportes", 18:00 [COLOR lime] Las Palmas vs Numancia [/COLOR]
 https://cdn10.dailysport.pw/6/6.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wCKyQjw.jpg" group-title="Deportes", 18:00 Sampdoria vs Parma
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wCKyQjw.jpg" group-title="Deportes", 18:00 [COLOR lime] Sampdoria vs Parma [/COLOR]
 https://cdn10.dailysport.pw/7/7.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wCKyQjw.jpg" group-title="Deportes", 20:45 Bologna vs AC Milan
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wCKyQjw.jpg" group-title="Deportes", 20:45 [COLOR red] Bologna vs AC Milan [/COLOR]
 https://cdn10.dailysport.pw/7/7.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wCKyQjw.jpg" group-title="Deportes", 16:00 Deportivo vs Real Zaragoza
-https://cdn10.dailysport.pw/8/8.m3u8
 
