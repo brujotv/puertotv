@@ -1,15 +1,18 @@
 #EXTM3U DailySport https://dailysport.pw
-#EXTINF:-1 group-title="Deportes", Levante vs Valencia
+#EXTINF:-1 group-title="Deportes", Eibar vs Getafe
+https://cdn10.dailysport.pw/1/1.m3u8
+#EXTINF:-1 group-title="Deportes", off line
 https://cdn10.dailysport.pw/2/2.m3u8
-#EXTINF:-1 group-title="Deportes", Barcelona vs Mallorca
-https://cdn10.dailysport.pw/2/2.m3u8
-#EXTINF:-1 group-title="Deportes", UD Almería vs Mirandés
-https://cdn10.dailysport.pw/6/6.m3u8
-#EXTINF:-1 group-title="Deportes", Sporting Gijón vs Ponferradina
-https://cdn10.dailysport.pw/6/6.m3u8
-#EXTINF:-1 group-title="Deportes", Liga de Campeones
-https://cdn10.dailysport.pw/7/7.m3u8
-#EXTINF:-1 group-title="Deportes", Montpellier vs PSG
-https://cdn10.dailysport.pw/8/8.m3u8
-#EXTINF:-1 group-title="Deportes", Manchester City vs Manchester United
+#EXTINF:-1 group-title="Deportes", off line
 https://cdn10.dailysport.pw/3/3.m3u8
+#EXTINF:-1 group-title="Deportes", off line
+https://cdn10.dailysport.pw/4/4.m3u8
+#EXTINF:-1 group-title="Deportes", off line
+https://cdn10.dailysport.pw/5/5.m3u8
+#EXTINF:-1 group-title="Deportes", Girona vs Lugo
+https://cdn10.dailysport.pw/6/6.m3u8
+#EXTINF:-1 group-title="Deportes", off line
+https://cdn10.dailysport.pw/7/7.m3u8
+#EXTINF:-1 group-title="Deportes", off line
+https://cdn10.dailysport.pw/8/8.m3u8
+
