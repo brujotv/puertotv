@@ -3,8 +3,17 @@
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wCKyQjw.jpg" group-title="Deportes", [COLOR red] MultiChampions [/COLOR]
 https://cdn10.dailysport.pw/15/5.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wCKyQjw.jpg" group-title="Deportes", 21:00 [COLOR red] 21h00 Club Brujas vs Real Madrid [/COLOR]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wCKyQjw.jpg" group-title="Deportes", 21:00 [COLOR red]  Club Brujas vs Real Madrid [/COLOR]
 https://cdn10.dailysport.pw/11/1.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wCKyQjw.jpg" group-title="Deportes", 21h00 [COLOR red]  Atlético vs Lokomotiv Moskva  [/COLOR]
 https://cdn10.dailysport.pw/15/5.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wCKyQjw.jpg" group-title="Deportes", 21h00 [COLOR red]  Bayer Leverkusen vs Juventus  [/COLOR]
+https://cdn10.dailysport.pw/14/4.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wCKyQjw.jpg" group-title="Deportes", 21h00 [COLOR red]  PSG vs Galatasaray  [/COLOR]
+https://cdn10.dailysport.pw/15/5.m3u8ç
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wCKyQjw.jpg" group-title="Deportes", 21h00 [COLOR red]  FC Bayern vs Tottenham  [/COLOR]
+https://cdn11.dailysport.pw/13/3.m3u8
