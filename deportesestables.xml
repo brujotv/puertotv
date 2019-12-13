@@ -1,11 +1,5 @@
 #EXTM3U DailySport https://dailysport.pw
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wCKyQjw.jpg" group-title="Deportes", [COLOR orange] Partidos Viernes [/COLOR]
-https://cdn10.dailysport.pw/11/1.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wCKyQjw.jpg" group-title="Deportes", 21:00 [COLOR red] Alavés vs Leganés [/COLOR]
-https://cdn10.dailysport.pw/11/1.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wCKyQjw.jpg" group-title="Deportes", [COLOR orange] Partidos Sabado [/COLOR]
 https://cdn10.dailysport.pw/11/1.m3u8
 
