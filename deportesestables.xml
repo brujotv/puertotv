@@ -1,25 +1,37 @@
 #EXTM3U DailySport https://dailysport.pw
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wCKyQjw.jpg" group-title="Deportes", [COLOR red] MultiChampions [/COLOR]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wCKyQjw.jpg" group-title="Deportes", [COLOR orange] Partidos Viernes [/COLOR]
 https://cdn10.dailysport.pw/15/5.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wCKyQjw.jpg" group-title="Deportes", [COLOR red]  Dinamo Zagreb vs Manchester City [/COLOR]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wCKyQjw.jpg" group-title="Deportes", 21:00 [COLOR red] Alavés vs Leganés [/COLOR]
 https://cdn10.dailysport.pw/12/2.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wCKyQjw.jpg" group-title="Deportes", [COLOR red]  Shakhtar vs Atalanta CF [/COLOR]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wCKyQjw.jpg" group-title="Deportes", [COLOR orange] Partidos Sabado [/COLOR]
+https://cdn10.dailysport.pw/15/5.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wCKyQjw.jpg" group-title="Deportes", 13:00 [COLOR red] Granada vs Levante [/COLOR]
 https://cdn10.dailysport.pw/13/3.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wCKyQjw.jpg" group-title="Deportes", [COLOR red]  Club Brujas vs Real Madrid [/COLOR]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wCKyQjw.jpg" group-title="Deportes", 16:00 [COLOR red] R. Sociedad vs Barcelona  [/COLOR]
 https://cdn10.dailysport.pw/11/1.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wCKyQjw.jpg" group-title="Deportes", [COLOR red]  Atlético vs Lokomotiv Moskva  [/COLOR]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wCKyQjw.jpg" group-title="Deportes", 18:30 [COLOR red] Athletic vs Eibar  [/COLOR]
 https://cdn10.dailysport.pw/12/2.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wCKyQjw.jpg" group-title="Deportes", [COLOR red]  Bayer Leverkusen vs Juventus  [/COLOR]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wCKyQjw.jpg" group-title="Deportes", 21:00 [COLOR red] Atlético vs Osasuna  [/COLOR]
 https://cdn11.dailysport.pw/12/2.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wCKyQjw.jpg" group-title="Deportes", [COLOR red]  PSG vs Galatasaray  [/COLOR]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wCKyQjw.jpg" group-title="Deportes", [COLOR orange] Partidos Domingo [/COLOR]
 https://cdn10.dailysport.pw/15/5.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wCKyQjw.jpg" group-title="Deportes", [COLOR red]  FC Bayern vs Tottenham  [/COLOR]	
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wCKyQjw.jpg" group-title="Deportes", 12:00 [COLOR red] Getafe vs Real Valladolid   [/COLOR]
+https://cdn10.dailysport.pw/12/2.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wCKyQjw.jpg" group-title="Deportes", 16:00 [COLOR red] Espanyol vs Betis   [/COLOR]
+https://cdn11.dailysport.pw/12/2.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wCKyQjw.jpg" group-title="Deportes", 18:30 [COLOR red] Sevilla vs Villarreal  [/COLOR]
+https://cdn10.dailysport.pw/15/5.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wCKyQjw.jpg" group-title="Deportes", 21:00 [COLOR red] Valencia vs Real Madrid   [/COLOR]	
 https://cdn11.dailysport.pw/12/2.m3u8
