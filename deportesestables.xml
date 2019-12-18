@@ -1,5 +1,11 @@
 #EXTM3U DailySport https://dailysport.pw
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wCKyQjw.jpg" group-title="Deportes", [COLOR orange] Partido Miercoles [/COLOR]
+https://cdn10.dailysport.pw/11/1.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wCKyQjw.jpg" group-title="Deportes", 20:00 [COLOR lime] FC Barcelona vs Real Madrid Valladolid   [/COLOR]
+https://cdn10.dailysport.pw/11/1.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wCKyQjw.jpg" group-title="Deportes", [COLOR orange] Partidos Viernes [/COLOR]
 https://cdn10.dailysport.pw/11/1.m3u8
 
@@ -9,20 +15,4 @@ https://cdn10.dailysport.pw/11/1.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wCKyQjw.jpg" group-title="Deportes", [COLOR orange] Partidos Domingo [/COLOR]
 https://cdn10.dailysport.pw/11/1.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wCKyQjw.jpg" group-title="Deportes", 12:00 [COLOR lime] Getafe vs Real Valladolid   [/COLOR]
-https://cdn10.dailysport.pw/11/1.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wCKyQjw.jpg" group-title="Deportes", 16:00 [COLOR lime] Real Oviedo vs Cádiz [/COLOR]
-https://cdn10.dailysport.pw/17/7.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wCKyQjw.jpg" group-title="Deportes", 16:00 [COLOR lime] Espanyol vs Betis   [/COLOR]
-https://cdn10.dailysport.pw/11/1.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wCKyQjw.jpg" group-title="Deportes", 18:30 [COLOR lime] Sevilla vs Villarreal  [/COLOR]
-https://cdn10.dailysport.pw/11/1.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wCKyQjw.jpg" group-title="Deportes", 20:00 [COLOR lime] Fuenlabrada vs Almería   [/COLOR]	
-https://cdn10.dailysport.pw/18/8.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wCKyQjw.jpg" group-title="Deportes", 21:00 [COLOR lime] Valencia vs Real Madrid   [/COLOR]	
-https://cdn10.dailysport.pw/11/1.m3u8
