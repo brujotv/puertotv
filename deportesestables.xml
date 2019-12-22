@@ -33,14 +33,14 @@ https://cdn10.dailysport.pw/live/1/1.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wCKyQjw.jpg" group-title="Deportes", 16:00 [COLOR lime] Huesca vs Real Zaragoza [/COLOR]
 https://cdn10.dailysport.pw/live/6/6.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wCKyQjw.jpg" group-title="Deportes", 18:00 [COLOR red] Alcorcón vs Fuenlabrada [/COLOR]
-https://cdn10.dailysport.pw/live/1/1.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wCKyQjw.jpg" group-title="Deportes", 18:00 [COLOR lime] Alcorcón vs Fuenlabrada [/COLOR]
+https://cdn10.dailysport.pw/live/7/7.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wCKyQjw.jpg" group-title="Deportes", 18:30 [COLOR lime] Levante vs Celta [/COLOR]
 https://cdn10.dailysport.pw/live/1/1.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wCKyQjw.jpg" group-title="Deportes", 20:00 [COLOR red] Girona vs Mirandés [/COLOR]
-https://cdn10.dailysport.pw/live/1/1.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wCKyQjw.jpg" group-title="Deportes", 20:00 [COLOR lime] Girona vs Mirandés [/COLOR]
+https://cdn10.dailysport.pw/live/7/7.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wCKyQjw.jpg" group-title="Deportes", 21:00 [COLOR lime] Real Madrid vs Athletic Club [/COLOR]
 https://cdn10.dailysport.pw/live/1/1.m3u8
