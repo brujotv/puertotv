@@ -8,12 +8,12 @@ https://cdn11.dailysport.pw/live/4/4.m3u8
 https://cdn.dailysport.pw/1/1.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wCKyQjw.jpg" group-title="Deportes", 21:00 [COLOR lime] Leicester City vs Aston Villa [/COLOR]
-https://cdn.dailysport.pw/3/3.m3u8
+https://cdn.dailysport.pw/3/3.m3u88
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wCKyQjw.jpg" group-title="Deportes", [COLOR orange] Partidos Jueves [/COLOR]
 https://cdn11.dailysport.pw/live/4/4.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wCKyQjw.jpg" group-title="Deportes", 20:00 [COLOR red] FC Barcelona y el Atlético de Madrid [/COLOR]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wCKyQjw.jpg" group-title="Deportes", 20:00 [COLOR red] At. Madrid vs FC Barcelona [/COLOR]
 https://cdn11.dailysport.pw/live/4/4.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wCKyQjw.jpg" group-title="Deportes", 21:00 [COLOR red] Madrid Basket vs Zalgiris Kaunas [/COLOR]
