@@ -38,5 +38,5 @@ plugin://plugin.video.f4mTester/?name=Naranjito&streamtype=TSDOWNLOADER&amp;url=
 http://127.0.0.1:6878/ace/m/deb3234e2e0e9d7ba8d0516ebb48a47907b80ac9/f528764d624db129b32c21fbca0cb8d6.m3u8
 
 
-
+#EXTINF:0,prueba mas calida 2
 http://127.0.0.1:6878/ace/m/deb3234e2e0e9d7ba8d0516ebb48a47907b80ac9/f528764d624db129b32c21fbca0cb8d6.m3u8
