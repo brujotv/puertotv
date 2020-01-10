@@ -26,17 +26,4 @@ https://cdn11.dailysport.pw/live/4/4.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wCKyQjw.jpg" group-title="Deportes", [COLOR orange] Partidos Domingo [/COLOR]
 https://cdn11.dailysport.pw/live/4/4.m3u8
 
-#EXTINF:0,prueba mas calida
-plugin://plugin.video.f4mTester/?name=Naranjito&streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1:6878/ace/manifest.m3u8?id=a80d3fc08de9eddf3e676554a41f8395a0be7476
 
-
-#EXTINF:0,prueba mas calida
-plugin://plugin.video.f4mTester/?name=Naranjito&streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1:6878/ace/m/deb3234e2e0e9d7ba8d0516ebb48a47907b80ac9/f528764d624db129b32c21fbca0cb8d6.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wCKyQjw.jpg" group-title="Deportes", [COLOR orange] prueba 2 [/COLOR]
-http://127.0.0.1:6878/ace/m/deb3234e2e0e9d7ba8d0516ebb48a47907b80ac9/f528764d624db129b32c21fbca0cb8d6.m3u8
-
-
-#EXTINF:0,prueba mas calida 2
-http://127.0.0.1:6878/ace/m/deb3234e2e0e9d7ba8d0516ebb48a47907b80ac9/f528764d624db129b32c21fbca0cb8d6.m3u8
