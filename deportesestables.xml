@@ -26,5 +26,8 @@ https://cdn11.dailysport.pw/live/4/4.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wCKyQjw.jpg" group-title="Deportes", [COLOR orange] Partidos Domingo [/COLOR]
 https://cdn11.dailysport.pw/live/4/4.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wCKyQjw.jpg" group-title="Deportes", [COLOR orange] Partidos Domingo [/COLOR]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wCKyQjw.jpg" group-title="Deportes", [COLOR orange] 1 [/COLOR]
 http://video.assia.tv/hls/66.m3u8?md5=ZqFqC2lu6dbXWAgONwvEOg&expires=1578685930
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wCKyQjw.jpg" group-title="Deportes", [COLOR orange] 1 [/COLOR]
+http://185.233.186.251:8080/hls/streama114017/index.m3u8?st=gIBwkVFvO0kkG_nLRzLE-w
