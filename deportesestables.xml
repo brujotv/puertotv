@@ -26,5 +26,5 @@ https://cdn11.dailysport.pw/live/4/4.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wCKyQjw.jpg" group-title="Deportes", [COLOR orange] Partidos Domingo [/COLOR]
 https://cdn11.dailysport.pw/live/4/4.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wCKyQjw.jpg" group-title="Deportes", [COLOR orange] prueba 1 [/COLOR]
-https://e18.dotice.me/zmelive/6iFHDjpzlNGKZU3LEVsx/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wCKyQjw.jpg" group-title="Deportes", [COLOR orange] prueba 2 [/COLOR]
+http://127.0.0.1:6878/ace/manifest.m3u8?id=a80d3fc08de9eddf3e676554a41f8395a0be7476
