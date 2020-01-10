@@ -32,5 +32,8 @@ http://video.assia.tv/hls/66.m3u8?md5=ZqFqC2lu6dbXWAgONwvEOg&expires=1578685930
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wCKyQjw.jpg" group-title="Deportes", [COLOR red] 2 [/COLOR]
 http://78.142.19.8:8080/hls/streama113680/index.m3u8?st=xnag5_HNQ0XPv8GwnUGLZQ
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wCKyQjw.jpg" group-title="Deportes", [COLOR red] 3 [/COLOR]	
+https://playback.akamaized.net/streams/5057055_8956045_lsixb606q3qkus10g6f_1/media/5057055_8956045_lsixb606q3qkus10g6f_1@728000b.m3u8?dw=14400&ts=1578693600&hdnts=exp=1578869582~acl=/streams/5057055_8956045_lsixb606q3qkus10g6f_1/media*~hmac=c13e8afbf2db0445d7a56e22a7d1a157c4bc06f34a9ab32f48fa7e1b1784cd2d
+
 #EXTINF:-1 ,prueba proxy
 plugin://plugin.video.f4mTester/?name=Naranjito&streamtype=TSDOWNLOADER&amp;url=http://78.142.19.8:8080/hls/streama113680/index.m3u8?st=xnag5_HNQ0XPv8GwnUGLZQ
