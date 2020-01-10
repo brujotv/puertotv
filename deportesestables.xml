@@ -31,3 +31,6 @@ http://video.assia.tv/hls/66.m3u8?md5=ZqFqC2lu6dbXWAgONwvEOg&expires=1578685930
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wCKyQjw.jpg" group-title="Deportes", [COLOR red] 2 [/COLOR]
 http://78.142.19.8:8080/hls/streama113680/index.m3u8?st=xnag5_HNQ0XPv8GwnUGLZQ
+
+#EXTINF:-1 ,prueba proxy
+plugin://plugin.video.f4mTester/?name=Naranjito&streamtype=TSDOWNLOADER&amp;url=http://78.142.19.8:8080/hls/streama113680/index.m3u8?st=xnag5_HNQ0XPv8GwnUGLZQ
