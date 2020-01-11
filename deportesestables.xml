@@ -14,11 +14,11 @@ https://cdn11.dailysport.pw/live/4/4.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wCKyQjw.jpg" group-title="Deportes", [COLOR orange] Partidos Sabado [/COLOR]
 https://cdn11.dailysport.pw/live/4/4.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wCKyQjw.jpg" group-title="Deportes", 12:00 [COLOR red] Nástic vs Real Zaragoza [/COLOR]
-https://cdn11.dailysport.pw/live/4/4.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wCKyQjw.jpg" group-title="Deportes", 12:00 [COLOR lime] Nástic vs Real Zaragoza [/COLOR]
+https://a.dailysport.pw/6/6.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wCKyQjw.jpg" group-title="Deportes", 12:00 [COLOR red] Zamora vs Mallorca [/COLOR]
-https://cdn11.dailysport.pw/live/4/4.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wCKyQjw.jpg" group-title="Deportes", 12:00 [COLOR lime] Zamora vs Mallorca [/COLOR]
+https://a.dailysport.pw/5/5.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wCKyQjw.jpg" group-title="Deportes", 13:30 [COLOR red] Crystal Palace vs Arsenal [/COLOR]
 https://a.dailysport.pw/1/1.m3u8
