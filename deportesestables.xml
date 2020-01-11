@@ -26,20 +26,20 @@ https://a.dailysport.pw/1/1.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wCKyQjw.jpg" group-title="Deportes", 15:00 [COLOR lime] Cagliari vs AC Milan [/COLOR]
 https://dailysport.pw/c8.php
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wCKyQjw.jpg" group-title="Deportes", 16:00 [COLOR red] Real Murcia vs Leganés [/COLOR]
-https://a.dailysport.pw/1/1.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wCKyQjw.jpg" group-title="Deportes", 16:00 [COLOR lime] Real Murcia vs Leganés [/COLOR]
+https://dailysport.pw/c5.php
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wCKyQjw.jpg" group-title="Deportes", 16:00 [COLOR red] Portugalete vs Betis [/COLOR]
-https://cdn11.dailysport.pw/live/4/4.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wCKyQjw.jpg" group-title="Deportes", 16:00 [COLOR lime] Portugalete vs Betis [/COLOR]
+https://dailysport.pw/c6.php
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wCKyQjw.jpg" group-title="Deportes", 16:00 [COLOR lime] Manchester Utd. Norwich [/COLOR]
 https://a.dailysport.pw/1/1.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wCKyQjw.jpg" group-title="Deportes", 16:00 [COLOR red] Chelsea vs Burnley [/COLOR]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wCKyQjw.jpg" group-title="Deportes", 16:00 [COLOR lime] Chelsea vs Burnley [/COLOR]
 https://a.dailysport.pw/3/3.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wCKyQjw.jpg" group-title="Deportes", 16:00 [COLOR red] Leicester City vs Southampton [/COLOR]
-https://a.dailysport.pw/4/4.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wCKyQjw.jpg" group-title="Deportes", 16:00 [COLOR lime] Leicester City vs Southampton [/COLOR]
+https://dailysport.pw/c4.php
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wCKyQjw.jpg" group-title="Deportes", 18:00 [COLOR red] UCAM Murcia vs Unicaja Málaga [/COLOR]
 https://a.dailysport.pw/1/1.m3u8
