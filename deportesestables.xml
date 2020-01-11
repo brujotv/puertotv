@@ -11,30 +11,67 @@ https://cdn11.dailysport.pw/live/4/4.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wCKyQjw.jpg" group-title="Deportes", [COLOR orange] Partidos Viernes [/COLOR]
 https://cdn11.dailysport.pw/live/4/4.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wCKyQjw.jpg" group-title="Deportes", 21:00 [COLOR red] Sheffield vs West Ham [/COLOR]
-https://cdn11.dailysport.pw/live/4/4.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wCKyQjw.jpg" group-title="Deportes", 21:00 [COLOR red] Valencia Basket vs Olympiacos [/COLOR]
-https://cdn11.dailysport.pw/live/4/4.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wCKyQjw.jpg" group-title="Deportes", 21:00 [COLOR red] Barça Basket vs Anadolu [/COLOR]
-https://cdn11.dailysport.pw/live/4/4.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wCKyQjw.jpg" group-title="Deportes", [COLOR orange] Partidos Sabado [/COLOR]
+https://cdn11.dailysport.pw/live/4/4.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wCKyQjw.jpg" group-title="Deportes", 12:00 [COLOR red] Nástic vs Real Zaragoza [/COLOR]
+https://cdn11.dailysport.pw/live/4/4.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wCKyQjw.jpg" group-title="Deportes", 12:00 [COLOR red] Zamora vs Mallorca [/COLOR]
+https://cdn11.dailysport.pw/live/4/4.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wCKyQjw.jpg" group-title="Deportes", 13:30 [COLOR lime] Crystal Palace vs Arsenal [/COLOR]
+https://a.dailysport.pw/1/1.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wCKyQjw.jpg" group-title="Deportes", 15:00 [COLOR red] Cagliari vs AC Milan [/COLOR]
+https://cdn11.dailysport.pw/live/4/4.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wCKyQjw.jpg" group-title="Deportes", 16:00 [COLOR red] Real Murcia vs Leganés [/COLOR]
+https://cdn11.dailysport.pw/live/4/4.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wCKyQjw.jpg" group-title="Deportes", 16:00 [COLOR red] Portugalete vs Betis [/COLOR]
+https://cdn11.dailysport.pw/live/4/4.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wCKyQjw.jpg" group-title="Deportes", 16:00 [COLOR lime] Manchester Utd. Norwich [/COLOR]
+https://a.dailysport.pw/1/1.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wCKyQjw.jpg" group-title="Deportes", 16:00 [COLOR lime] Chelsea vs Burnley [/COLOR]
+https://a.dailysport.pw/3/3.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wCKyQjw.jpg" group-title="Deportes", 16:00 [COLOR red] Leicester City vs Southampton [/COLOR]
+https://a.dailysport.pw/4/4.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wCKyQjw.jpg" group-title="Deportes", 18:00 [COLOR red] UCAM Murcia vs Unicaja Málaga [/COLOR]
+https://cdn11.dailysport.pw/live/4/4.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wCKyQjw.jpg" group-title="Deportes", 18:00 [COLOR red] Lazio vs Napoli [/COLOR]
+https://cdn11.dailysport.pw/live/4/4.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wCKyQjw.jpg" group-title="Deportes", 18:30 [COLOR lime] Tottenham vs Liverpool [/COLOR]
+https://a.dailysport.pw/1/1.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wCKyQjw.jpg" group-title="Deportes", 19:00 [COLOR red] Badalona vs Getafe [/COLOR]
+https://cdn11.dailysport.pw/live/4/4.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wCKyQjw.jpg" group-title="Deportes", 20:30 [COLOR red] Casademont Zaragoza vs Iberostar Tenerife [/COLOR]
+https://cdn11.dailysport.pw/live/4/4.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wCKyQjw.jpg" group-title="Deportes", 20:30 [COLOR red] Baxi Manresa vs MoraBanc Andorra  [/COLOR]
+https://cdn11.dailysport.pw/live/4/4.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wCKyQjw.jpg" group-title="Deportes", 20:45 [COLOR red] Inter Milan vs Atalanta [/COLOR]
+https://cdn11.dailysport.pw/live/4/4.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wCKyQjw.jpg" group-title="Deportes", 21:00 [COLOR red] Orihuela vs Villareal [/COLOR]
+https://cdn11.dailysport.pw/live/4/4.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wCKyQjw.jpg" group-title="Deportes", 21:00 [COLOR red] Marbella vs Valladolid [/COLOR]
+https://cdn11.dailysport.pw/live/4/4.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wCKyQjw.jpg" group-title="Deportes", 21:00 [COLOR red] UD Tamaraceite vs Granada [/COLOR]
 https://cdn11.dailysport.pw/live/4/4.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wCKyQjw.jpg" group-title="Deportes", [COLOR orange] Partidos Domingo [/COLOR]
 https://cdn11.dailysport.pw/live/4/4.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wCKyQjw.jpg" group-title="Deportes", [COLOR lime] 1 link [/COLOR]
-http://video.assia.tv/hls/66.m3u8?md5=ZqFqC2lu6dbXWAgONwvEOg&expires=1578685930
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wCKyQjw.jpg" group-title="Deportes", [COLOR red] 2 mamahd [/COLOR]
-http://push8.feber.xyz/hls/lshnba1hd194/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8xMS8yMDIwIDEyOjA1OjQzIEFNJmhhc2hfdmFsdWU9dzJpd2JFZHBWbnhMblA3WCtHbGtMdz09JnZhbGlkbWludXRlcz03MA==
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wCKyQjw.jpg" group-title="Deportes", [COLOR red] 3 [/COLOR]	
-https://playback.akamaized.net/streams/5057055_8956045_lsixb606q3qkus10g6f_1/media/5057055_8956045_lsixb606q3qkus10g6f_1@728000b.m3u8?dw=14400&ts=1578693600&hdnts=exp=1578869582~acl=/streams/5057055_8956045_lsixb606q3qkus10g6f_1/media*~hmac=c13e8afbf2db0445d7a56e22a7d1a157c4bc06f34a9ab32f48fa7e1b1784cd2d
-
-#EXTINF:-1 ,prueba proxy
-plugin://plugin.video.f4mTester/?name=Naranjito&streamtype=TSDOWNLOADER&amp;url=https://playback.akamaized.net/streams/5057055_8956045_lsixb606q3qkus10g6f_1/media/5057055_8956045_lsixb606q3qkus10g6f_1@728000b.m3u8?dw=14400&ts=1578693600&hdnts=exp=1578869582~acl=/streams/5057055_8956045_lsixb606q3qkus10g6f_1/media*~hmac=c13e8afbf2db0445d7a56e22a7d1a157c4bc06f34a9ab32f48fa7e1b1784cd2d
 
