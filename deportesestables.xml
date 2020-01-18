@@ -35,17 +35,17 @@ https://dailysport99.global.ssl.fastly.net/daily/3/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wCKyQjw.jpg" group-title="Deportes", 16:00 [COLOR lime] Arsenal vs Sheffield [/COLOR]
 https://dailysport99.global.ssl.fastly.net/daily/3/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wCKyQjw.jpg" group-title="Deportes", 16:00 [COLOR red] Brighton vs Aston Villa [/COLOR]
-https://cdn11.dailysport.pw/live/4/4.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wCKyQjw.jpg" group-title="Deportes", 16:00 [COLOR lime] Brighton vs Aston Villa [/COLOR]
+https://dailysport0.azureedge.net/live/6/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wCKyQjw.jpg" group-title="Deportes", 16:00 [COLOR red] Norwich City vs AFC Bournemouth [/COLOR]
-https://cdn11.dailysport.pw/live/4/4.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wCKyQjw.jpg" group-title="Deportes", 16:00 [COLOR lime] Norwich City vs AFC Bournemouth [/COLOR]
+https://dailysport0.azureedge.net/live/3/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wCKyQjw.jpg" group-title="Deportes", 16:00 [COLOR red] Southampton vs Wolverhampton [/COLOR]
-https://cdn11.dailysport.pw/live/4/4.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wCKyQjw.jpg" group-title="Deportes", 16:00 [COLOR lime] Southampton vs Wolverhampton [/COLOR]
+https://dailysport0.azureedge.net/live/4/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wCKyQjw.jpg" group-title="Deportes", 16:00 [COLOR red] West Ham vs Everton [/COLOR]
-https://cdn11.dailysport.pw/live/4/4.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wCKyQjw.jpg" group-title="Deportes", 16:00 [COLOR lime] West Ham vs Everton [/COLOR]
+https://dailysport0.azureedge.net/live/5/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wCKyQjw.jpg" group-title="Deportes", 18:15 [COLOR red] Lugo vs Albacete [/COLOR]
 https://cdn11.dailysport.pw/live/4/4.m3u8
