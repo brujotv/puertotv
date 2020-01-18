@@ -14,44 +14,29 @@ https://cdn11.dailysport.pw/live/4/4.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wCKyQjw.jpg" group-title="Deportes", [COLOR orange] Partidos Sabado [/COLOR]
 https://cdn11.dailysport.pw/live/4/4.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wCKyQjw.jpg" group-title="Deportes", [COLOR lime] Leganes vs Alavés [/COLOR]
+https://dailysport99.global.ssl.fastly.net/http/002/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wCKyQjw.jpg" group-title="Deportes", 16:00 [COLOR lime] Real Madrid vs Sevilla [/COLOR]
+https://dailysport99.global.ssl.fastly.net/http/002/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wCKyQjw.jpg" group-title="Deportes", 18:30 [COLOR lime] Osasuna vs Valladolid [/COLOR]
+https://dailysport99.global.ssl.fastly.net/http/002/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wCKyQjw.jpg" group-title="Deportes", 21:00 [COLOR lime] Eibar vs At. Madrid [/COLOR]
+https://dailysport99.global.ssl.fastly.net/http/002/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wCKyQjw.jpg" group-title="Deportes", 12:00 [COLOR lime]  [/COLOR]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wCKyQjw.jpg" group-title="Deportes", 12:00 [COLOR lime]  [/COLOR]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wCKyQjw.jpg" group-title="Deportes", 12:00 [COLOR lime]  [/COLOR]
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wCKyQjw.jpg" group-title="Deportes", 12:00 [COLOR lime]  [/COLOR]
+
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wCKyQjw.jpg" group-title="Deportes", [COLOR orange] Partidos Domingo [/COLOR]
 https://cdn11.dailysport.pw/live/4/4.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wCKyQjw.jpg" group-title="Deportes", 12:00 [COLOR lime] Cacereño vs Eibar [/COLOR]
-https://a.dailysport.pw/5/5.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wCKyQjw.jpg" group-title="Deportes", 12:00 [COLOR lime] UD Sanse vs Espanyol [/COLOR]
-https://a.dailysport.pw/6/6.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wCKyQjw.jpg" group-title="Deportes", 12:30 [COLOR lime] Barça Basket vs Retabet Bilbao [/COLOR]
-https://a.dailysport.pw/11/11.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wCKyQjw.jpg" group-title="Deportes", 12:30 [COLOR lime] Movistar Estudiantes vs Real Madrid Baloncesto [/COLOR]
-https://a.dailysport.pw/9/9.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wCKyQjw.jpg" group-title="Deportes", 15:00 [COLOR lime] Bournemouth vs Watford [/COLOR]
-https://a.dailysport.pw/1/1.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wCKyQjw.jpg" group-title="Deportes", 16:00 [COLOR lime] Real Jaén vs Levante [/COLOR]
-https://a.dailysport.pw/5/5.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wCKyQjw.jpg" group-title="Deportes", 16:00 [COLOR lime] Mérida vs Celta [/COLOR]
-https://a.dailysport.pw/6/6.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wCKyQjw.jpg" group-title="Deportes", 16:00 [COLOR lime] AD Ceuta vs Real Sociedad [/COLOR]
-https://a.dailysport.pw/7/7.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wCKyQjw.jpg" group-title="Deportes", 17:00 [COLOR lime] Valencia Basket vs Joventut Badalona [/COLOR]
-https://a.dailysport.pw/11/11.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wCKyQjw.jpg" group-title="Deportes", 17:30 [COLOR lime] Aston Villa vs Manchester City [/COLOR]
-https://a.dailysport.pw/1/1.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wCKyQjw.jpg" group-title="Deportes", 19:00 [COLOR lime] Real Madrid vs At. Madrid [/COLOR]
-https://a.dailysport.pw/8/8.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wCKyQjw.jpg" group-title="Deportes", 20:45 [COLOR lime] As Roma vs Juventus [/COLOR]
-https://a.dailysport.pw/7/7.m3u8
 
 
 
