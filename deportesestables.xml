@@ -23,6 +23,9 @@ https://daily88.global.ssl.fastly.net/http/005/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wCKyQjw.jpg" group-title="Deportes", 18:30 [COLOR lime] Osasuna vs Valladolid [/COLOR]
 https://daily88.global.ssl.fastly.net/http/002/chunks.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wCKyQjw.jpg" group-title="Deportes", 18:30 [COLOR lime] Osasuna vs Valladolid SD [/COLOR]
+http://push15.feber.xyz/hls/channel21hd45/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8xOC8yMDIwIDQ6NTQ6MDUgUE0maGFzaF92YWx1ZT1lSVNtUGU3aGIxekliNEhCcjRLQWZnPT0mdmFsaWRtaW51dGVzPTcw
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wCKyQjw.jpg" group-title="Deportes", 18:30 [COLOR lime] Newcastle vs Chelsea [/COLOR]
 https://daily88.global.ssl.fastly.net/daily/3/chunks.m3u8
 
@@ -34,6 +37,10 @@ https://daily88.global.ssl.fastly.net/http/008/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wCKyQjw.jpg" group-title="Deportes", 21:00 [COLOR lime] Eibar vs At. Madrid [/COLOR]
 https://daily88.global.ssl.fastly.net/http/002/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wCKyQjw.jpg" group-title="Deportes", 21:00 [COLOR lime] Eibar vs At. Madrid SD [/COLOR]
+http://push15.feber.xyz/hls/channel21hd45/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8xOC8yMDIwIDQ6NTQ6MDUgUE0maGFzaF92YWx1ZT1lSVNtUGU3aGIxekliNEhCcjRLQWZnPT0mdmFsaWRtaW51dGVzPTcw
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wCKyQjw.jpg" group-title="Deportes", [COLOR orange] Partidos Domingo [/COLOR]
 https://cdn11.dailysport.pw/live/4/4.m3u8
