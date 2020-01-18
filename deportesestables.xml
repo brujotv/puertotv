@@ -29,6 +29,9 @@ https://dailysport99.global.ssl.fastly.net/http/003/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wCKyQjw.jpg" group-title="Deportes", 16:00 [COLOR lime] Real Madrid vs Sevilla [/COLOR]
 https://dailysport99.global.ssl.fastly.net/http/002/chunks.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wCKyQjw.jpg" group-title="Deportes", 16:00 [COLOR lime] Real Madrid vs Sevilla SD [/COLOR]
+http://push9.feber.xyz/hls/channel21hd45/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8xOC8yMDIwIDQ6MzY6MDQgUE0maGFzaF92YWx1ZT00UHcvaXlJSzdvclA4QU1lMDhVdzNnPT0mdmFsaWRtaW51dGVzPTcw
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wCKyQjw.jpg" group-title="Deportes", 16:00 [COLOR lime] Manchester City vs Crystal Palace [/COLOR]
 https://dailysport99.global.ssl.fastly.net/daily/3/playlist.m3u8
 
