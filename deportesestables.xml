@@ -14,6 +14,9 @@ https://cdn11.dailysport.pw/live/4/4.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wCKyQjw.jpg" group-title="Deportes", [COLOR orange] Partidos Sabado [/COLOR]
 https://cdn11.dailysport.pw/live/4/4.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wCKyQjw.jpg" group-title="Deportes", [COLOR red] Canal OPTUS SPORT 1 [/COLOR]
+http://push2.feber.xyz/hls/lsh3hd119/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8xOC8yMDIwIDQ6NTY6MjYgUE0maGFzaF92YWx1ZT1Fb05QajRla2ozNUVQTmZkVmJjMVNRPT0mdmFsaWRtaW51dGVzPTcw
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wCKyQjw.jpg" group-title="Deportes", 18:15 [COLOR lime] Lugo vs Albacete [/COLOR]
 https://daily88.global.ssl.fastly.net/http/003/chunks.m3u8
 
