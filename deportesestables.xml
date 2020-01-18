@@ -50,17 +50,17 @@ https://dailysport0.azureedge.net/live/4/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wCKyQjw.jpg" group-title="Deportes", 16:00 [COLOR lime] West Ham vs Everton [/COLOR]
 https://dailysport0.azureedge.net/live/5/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wCKyQjw.jpg" group-title="Deportes", 18:15 [COLOR red] Lugo vs Albacete [/COLOR]
-https://cdn11.dailysport.pw/live/4/4.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wCKyQjw.jpg" group-title="Deportes", 18:15 [COLOR lime] Lugo vs Albacete [/COLOR]
+https://daily88.global.ssl.fastly.net/http/003/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wCKyQjw.jpg" group-title="Deportes", 18:15 [COLOR red] Ponferradina vs Rayo Vallecano [/COLOR]
-https://cdn11.dailysport.pw/live/4/4.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wCKyQjw.jpg" group-title="Deportes", 18:15 [COLOR lime] Ponferradina vs Rayo Vallecano [/COLOR]
+https://daily88.global.ssl.fastly.net/http/005/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wCKyQjw.jpg" group-title="Deportes", 18:30 [COLOR lime] Osasuna vs Valladolid [/COLOR]
-https://dailysport99.global.ssl.fastly.net/http/002/chunks.m3u8
+https://daily88.global.ssl.fastly.net/http/002/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wCKyQjw.jpg" group-title="Deportes", 18:30 [COLOR lime] Newcastle vs Chelsea [/COLOR]
-https://dailysport99.global.ssl.fastly.net/daily/3/chunks.m3u8
+https://daily88.global.ssl.fastly.net/daily/3/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wCKyQjw.jpg" group-title="Deportes", 18:30 [COLOR red] RB Leipzig vs Union Berlin [/COLOR]
 https://cdn11.dailysport.pw/live/4/4.m3u8
