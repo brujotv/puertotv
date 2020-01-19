@@ -14,30 +14,32 @@ https://cdn11.dailysport.pw/live/4/4.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wCKyQjw.jpg" group-title="Deportes", [COLOR orange] Partidos Sabado [/COLOR]
 https://cdn11.dailysport.pw/live/4/4.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wCKyQjw.jpg" group-title="Deportes", 18:30 [COLOR lime] Osasuna vs Valladolid [/COLOR]
-https://daily00.s3-accelerate.dualstack.amazonaws.com/2/2.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wCKyQjw.jpg" group-title="Deportes", 18:30 [COLOR lime] Osasuna vs Valladolid SD [/COLOR]
-http://push15.feber.xyz/hls/channel21hd45/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8xOC8yMDIwIDQ6NTQ6MDUgUE0maGFzaF92YWx1ZT1lSVNtUGU3aGIxekliNEhCcjRLQWZnPT0mdmFsaWRtaW51dGVzPTcw
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wCKyQjw.jpg" group-title="Deportes", 18:30 [COLOR lime] Newcastle vs Chelsea [/COLOR]
-https://daily00.s3-accelerate.dualstack.amazonaws.com/4/4.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wCKyQjw.jpg" group-title="Deportes", 18:30 [COLOR lime] RB Leipzig vs Union Berlin [/COLOR]
-https://daily00.s3-accelerate.dualstack.amazonaws.com/5/5.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wCKyQjw.jpg" group-title="Deportes", 20:45 [COLOR lime] Napoli vs Fiorentina [/COLOR]
-https://daily00.s3-accelerate.dualstack.amazonaws.com/5/5.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wCKyQjw.jpg" group-title="Deportes", 21:00 [COLOR lime] Eibar vs At. Madrid [/COLOR]
-https://daily00.s3-accelerate.dualstack.amazonaws.com/2/2.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wCKyQjw.jpg" group-title="Deportes", 21:00 [COLOR lime] Eibar vs At. Madrid SD [/COLOR]
-http://push15.feber.xyz/hls/channel21hd45/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8xOC8yMDIwIDQ6NTQ6MDUgUE0maGFzaF92YWx1ZT1lSVNtUGU3aGIxekliNEhCcjRLQWZnPT0mdmFsaWRtaW51dGVzPTcw
-
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wCKyQjw.jpg" group-title="Deportes", [COLOR orange] Partidos Domingo [/COLOR]
 https://cdn11.dailysport.pw/live/4/4.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wCKyQjw.jpg" group-title="Deportes", 16:00 [COLOR red] Deportivo vs Cádiz [/COLOR]
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wCKyQjw.jpg" group-title="Deportes", 16:00 [COLOR lime] Villarreal vs Espanyol [/COLOR]
+https://a5a7z7c2.stackpathcdn.com/daily/1/chunks.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wCKyQjw.jpg" group-title="Deportes", 18:15 [COLOR red] Oviedo vs Huesca [/COLOR]
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wCKyQjw.jpg" group-title="Deportes", 18:15 [COLOR red] Racing vs Las Palmas [/COLOR]
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wCKyQjw.jpg" group-title="Deportes", 18:30 [COLOR lime] Athletic Club vs Celta de Vigo [/COLOR]
+https://a5a7z7c2.stackpathcdn.com/daily/1/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wCKyQjw.jpg" group-title="Deportes", 20:30 [COLOR red] Tenerife vs Girona [/COLOR]
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wCKyQjw.jpg" group-title="Deportes", 20:30 [COLOR red] Extremadura vs Almería [/COLOR]
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wCKyQjw.jpg" group-title="Deportes", 21:00 [COLOR lime] Barcelona vs Granada [/COLOR]
+https://a5a7z7c2.stackpathcdn.com/daily/1/chunks.m3u8
 
 
