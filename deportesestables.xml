@@ -20,6 +20,9 @@ https://cdn11.dailysport.pw/live/4/4.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wCKyQjw.jpg" group-title="Deportes", 15:00 [COLOR lime] Burnley vs Leicester City  [/COLOR]
 https://a5a7z7c2.stackpathcdn.com/daily/3/chunks.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wCKyQjw.jpg" group-title="Deportes", 15:00 [COLOR lime] Hertha vs Bayern  [/COLOR]
+https://a5a7z7c2.stackpathcdn.com/daily/8/chunks.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wCKyQjw.jpg" group-title="Deportes", 16:00 [COLOR red] Deportivo vs Cádiz [/COLOR]
 https://cdn11.dailysport.pw/live/4/4.m3u8
 
