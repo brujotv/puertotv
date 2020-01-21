@@ -2,6 +2,11 @@
 
 
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wCKyQjw.jpg" group-title="Deportes", [COLOR lime] Sevilla vs Levante [/COLOR]
+https://cdn2.dailysport.pw/3/3.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wCKyQjw.jpg" group-title="Deportes", [COLOR lime] Sevilla vs Levante SD [/COLOR]
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wCKyQjw.jpg" group-title="Deportes", [COLOR orange] Partidos Miercoles [/COLOR]
 https://cdn11.dailysport.pw/live/4/4.m3u8
 
@@ -16,35 +21,5 @@ https://cdn11.dailysport.pw/live/4/4.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wCKyQjw.jpg" group-title="Deportes", [COLOR orange] Partidos Domingo [/COLOR]
 https://cdn11.dailysport.pw/live/4/4.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wCKyQjw.jpg" group-title="Deportes", 15:00 [COLOR lime] Burnley vs Leicester City  [/COLOR]
-https://a5a7z7c2.stackpathcdn.com/daily/3/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wCKyQjw.jpg" group-title="Deportes", 15:00 [COLOR lime] Hertha vs Bayern  [/COLOR]
-https://a5a7z7c2.stackpathcdn.com/daily/8/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wCKyQjw.jpg" group-title="Deportes", 16:00 [COLOR lime] Deportivo vs Cádiz [/COLOR]
-https://a5a7z7c2.stackpathcdn.com/daily/6/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wCKyQjw.jpg" group-title="Deportes", 16:00 [COLOR lime] Villarreal vs Espanyol [/COLOR]
-https://a5a7z7c2.stackpathcdn.com/daily/1/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wCKyQjw.jpg" group-title="Deportes", 18:15 [COLOR red] Oviedo vs Huesca [/COLOR]
-https://cdn11.dailysport.pw/live/4/4.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wCKyQjw.jpg" group-title="Deportes", 18:15 [COLOR red] Racing vs Las Palmas [/COLOR]
-https://cdn11.dailysport.pw/live/4/4.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wCKyQjw.jpg" group-title="Deportes", 18:30 [COLOR lime] Athletic Club vs Celta de Vigo [/COLOR]
-https://a5a7z7c2.stackpathcdn.com/daily/1/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wCKyQjw.jpg" group-title="Deportes", 20:30 [COLOR red] Tenerife vs Girona [/COLOR]
-https://cdn11.dailysport.pw/live/4/4.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wCKyQjw.jpg" group-title="Deportes", 20:30 [COLOR red] Extremadura vs Almería [/COLOR]
-https://cdn11.dailysport.pw/live/4/4.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wCKyQjw.jpg" group-title="Deportes", 21:00 [COLOR lime] Barcelona vs Granada [/COLOR]
-https://a5a7z7c2.stackpathcdn.com/daily/1/chunks.m3u8
 
 
