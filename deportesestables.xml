@@ -5,7 +5,8 @@
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wCKyQjw.jpg" group-title="Deportes", [COLOR lime] Sevilla vs Levante [/COLOR]
 https://cdn2.dailysport.pw/3/3.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wCKyQjw.jpg" group-title="Deportes", [COLOR lime] Sevilla vs Levante SD [/COLOR]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wCKyQjw.jpg" group-title="Deportes", [COLOR lime] Sevilla vs Levante ingles [/COLOR]
+http://push20.feber.xyz/hls/channel8hd26/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yMS8yMDIwIDk6MDE6NTQgUE0maGFzaF92YWx1ZT1nYW82Ym40VkVMVExJb1duODl4VUJnPT0mdmFsaWRtaW51dGVzPTcw
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wCKyQjw.jpg" group-title="Deportes", [COLOR orange] Partidos Miercoles [/COLOR]
 https://cdn11.dailysport.pw/live/4/4.m3u8
