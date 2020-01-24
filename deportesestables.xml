@@ -24,6 +24,12 @@ https://cdn11.dailysport.pw/live/4/4.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wCKyQjw.jpg" group-title="Deportes", [COLOR lime] Osasuna vs Levante [/COLOR]
 https://cdn2.dailysport.pw/1/1.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wCKyQjw.jpg" group-title="Deportes", [COLOR lime] Brescia vs AC Milan [/COLOR]
+https://cdn2.dailysport.pw/3/3.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wCKyQjw.jpg" group-title="Deportes", [COLOR lime] B. Dortmund vs FC Köln [/COLOR]
+https://cdn2.dailysport.pw/5/5.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wCKyQjw.jpg" group-title="Deportes", [COLOR orange] Partidos Sabado [/COLOR]
 https://cdn11.dailysport.pw/live/4/4.m3u8
 
