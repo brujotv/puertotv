@@ -6,9 +6,6 @@
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wCKyQjw.jpg" group-title="Deportes", [COLOR lime] CANAL (solo eventos) [/COLOR]
 http://188.76.79.214:80/ts/0
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wCKyQjw.jpg" group-title="Deportes", [COLOR lime] CANAL (solo eventos) [/COLOR]
-http://188.76.79.214:80/ts/1
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wCKyQjw.jpg" group-title="Deportes", [COLOR orange] Partidos Lunes [/COLOR]
 https://cdn11.dailysport.pw/live/4/4.m3u8
 
