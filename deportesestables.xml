@@ -24,17 +24,44 @@ https://cdn11.dailysport.pw/live/4/4.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wCKyQjw.jpg" group-title="Deportes", [COLOR orange] Partidos Viernes [/COLOR]
 https://cdn11.dailysport.pw/live/4/4.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wCKyQjw.jpg" group-title="Deportes", [COLOR lime] Osasuna vs Levante [/COLOR]
-https://cdn2.dailysport.pw/1/1.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wCKyQjw.jpg" group-title="Deportes", [COLOR lime] Brescia vs AC Milan [/COLOR]
-https://cdn2.dailysport.pw/3/3.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wCKyQjw.jpg" group-title="Deportes", [COLOR lime] B. Dortmund vs FC Köln [/COLOR]
-https://cdn2.dailysport.pw/5/5.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wCKyQjw.jpg" group-title="Deportes", [COLOR orange] Partidos Sabado [/COLOR]
 https://cdn11.dailysport.pw/live/4/4.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wCKyQjw.jpg" group-title="Deportes", 13:00 [COLOR lime] Espanyol vs Athletic [/COLOR]
+https://cdn2.dailysport.pw/1/1.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wCKyQjw.jpg" group-title="Deportes", 15:30 [COLOR lime] Borussia vs Mainz 05 [/COLOR]
+https://cdn2.dailysport.pw/6/6.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wCKyQjw.jpg" group-title="Deportes", 15:30 [COLOR lime] Eintracht vs RB Leipzig [/COLOR]
+https://cdn2.dailysport.pw/5/5.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wCKyQjw.jpg" group-title="Deportes", 16:00 [COLOR lime] Valencia vs FC Barcelona [/COLOR]
+https://cdn2.dailysport.pw/1/1.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wCKyQjw.jpg" group-title="Deportes", 16:00 [COLOR lime] Huesca vs Lugo [/COLOR]	
+https://cdn2.dailysport.pw/9/9.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wCKyQjw.jpg" group-title="Deportes", 16:00 [COLOR lime] Southampton vs Tottenham Hotspur [/COLOR]
+https://cdn2.dailysport.pw/3/3.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wCKyQjw.jpg" group-title="Deportes", 18:15 [COLOR lime] Las Palmas vs Tenerife [/COLOR]
+https://cdn2.dailysport.pw/5/5.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wCKyQjw.jpg" group-title="Deportes", 18:30 [COLOR lime] Alavés vs Villareal [/COLOR]
+https://cdn2.dailysport.pw/1/1.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wCKyQjw.jpg" group-title="Deportes", 18:30 [COLOR lime] Hull City vs Chelsea [/COLOR]
+https://cdn2.dailysport.pw/3/3.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wCKyQjw.jpg" group-title="Deportes", 18:30 [COLOR lime] FC Bayern vs Schalke 04 [/COLOR]
+https://cdn2.dailysport.pw/6/6.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wCKyQjw.jpg" group-title="Deportes", 20:45 [COLOR lime] Torino vs Atalanta [/COLOR]
+https://cdn2.dailysport.pw/6/6.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wCKyQjw.jpg" group-title="Deportes", 21:00 [COLOR lime] Sevilla vs Granada [/COLOR]
+https://cdn2.dailysport.pw/1/1.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wCKyQjw.jpg" group-title="Deportes", [COLOR orange] Partidos Domingo [/COLOR]
 https://cdn11.dailysport.pw/live/4/4.m3u8
