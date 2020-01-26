@@ -31,7 +31,7 @@ https://cdn11.dailysport.pw/live/4/4.m3u8
 https://d000.global.ssl.fastly.net/daily/1/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wCKyQjw.jpg" group-title="Deportes", 12:00 [COLOR lime] Málaga vs Mirandes [/COLOR]
-https://cdn11.dailysport.pw/live/4/4.m3u8
+https://d000.global.ssl.fastly.net/daily/4/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wCKyQjw.jpg" group-title="Deportes", 12:30 [COLOR lime] Internazionale vs Cagliari [/COLOR]
 https://cdn11.dailysport.pw/live/4/4.m3u8
