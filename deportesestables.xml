@@ -36,10 +36,10 @@ https://d000.global.ssl.fastly.net/daily/4/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wCKyQjw.jpg" group-title="Deportes", 12:30 [COLOR lime] Internazionale vs Cagliari [/COLOR]
 https://d000.global.ssl.fastly.net/daily/6/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wCKyQjw.jpg" group-title="Deportes", 14:00 [COLOR lime] Manchester City vs Fulham [/COLOR]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wCKyQjw.jpg" group-title="Deportes", 14:00 [COLOR red] Manchester City vs Fulham [/COLOR]
 https://cdn11.dailysport.pw/live/4/4.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wCKyQjw.jpg" group-title="Deportes", 15:55 [COLOR lime] Tranmere Rovers vs Manchester United [/COLOR]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wCKyQjw.jpg" group-title="Deportes", 15:55 [COLOR red] Tranmere Rovers vs Manchester United [/COLOR]
 https://cdn11.dailysport.pw/live/4/4.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wCKyQjw.jpg" group-title="Deportes", 16:00 [COLOR lime] Getafe vs Betis [/COLOR]
@@ -51,7 +51,7 @@ https://d000.global.ssl.fastly.net/daily/5/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wCKyQjw.jpg" group-title="Deportes", 16:00 [COLOR lime] Albacate vs Deportivo [/COLOR]
 https://d000.global.ssl.fastly.net/daily/4/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wCKyQjw.jpg" group-title="Deportes", 18:00 [COLOR lime] Shrewsbury Town vs Liverpool [/COLOR]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wCKyQjw.jpg" group-title="Deportes", 18:00 [COLOR red] Shrewsbury Town vs Liverpool [/COLOR]
 https://cdn11.dailysport.pw/live/4/4.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wCKyQjw.jpg" group-title="Deportes", 18:00 [COLOR lime] AS Roma vs Lazio [/COLOR]
@@ -60,7 +60,7 @@ https://d000.global.ssl.fastly.net/daily/6/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wCKyQjw.jpg" group-title="Deportes", 18:15 [COLOR lime] Rayo vs Extremadura [/COLOR]
 https://d000.global.ssl.fastly.net/daily/4/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wCKyQjw.jpg" group-title="Deportes", 18:15 [COLOR lime] Alcorcón vs Ponferradina [/COLOR]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wCKyQjw.jpg" group-title="Deportes", 18:15 [COLOR red] Alcorcón vs Ponferradina [/COLOR]
 https://cdn11.dailysport.pw/live/4/4.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wCKyQjw.jpg" group-title="Deportes", 18:30 [COLOR lime] Real Sociedad vs Mallorca [/COLOR]
