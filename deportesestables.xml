@@ -46,7 +46,7 @@ https://cdn11.dailysport.pw/live/4/4.m3u8
 https://d000.global.ssl.fastly.net/daily/1/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wCKyQjw.jpg" group-title="Deportes", 16:00 [COLOR lime] Almería vs Elche [/COLOR]
-https://cdn11.dailysport.pw/live/4/4.m3u8
+https://d000.global.ssl.fastly.net/daily/5/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wCKyQjw.jpg" group-title="Deportes", 16:00 [COLOR lime] Albacate vs Deportivo [/COLOR]
 https://d000.global.ssl.fastly.net/daily/4/chunks.m3u8
@@ -55,7 +55,7 @@ https://d000.global.ssl.fastly.net/daily/4/chunks.m3u8
 https://cdn11.dailysport.pw/live/4/4.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wCKyQjw.jpg" group-title="Deportes", 18:00 [COLOR lime] AS Roma vs Lazio [/COLOR]
-https://cdn11.dailysport.pw/live/4/4.m3u8
+https://d000.global.ssl.fastly.net/daily/6/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wCKyQjw.jpg" group-title="Deportes", 18:15 [COLOR lime] Rayo vs Extremadura [/COLOR]
 https://d000.global.ssl.fastly.net/daily/4/chunks.m3u8
@@ -70,7 +70,7 @@ https://d000.global.ssl.fastly.net/daily/1/chunks.m3u8
 https://d000.global.ssl.fastly.net/daily/4/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wCKyQjw.jpg" group-title="Deportes", 20:45 [COLOR lime] Napoli vs Juventus [/COLOR]
-https://cdn11.dailysport.pw/live/4/4.m3u8
+https://d000.global.ssl.fastly.net/daily/6/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wCKyQjw.jpg" group-title="Deportes", 21:00 [COLOR lime] R. Valladolid vs R. Madrid [/COLOR]
 https://d000.global.ssl.fastly.net/daily/1/chunks.m3u8
