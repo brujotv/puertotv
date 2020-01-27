@@ -12,6 +12,15 @@ https://cdn11.dailysport.pw/live/4/4.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wCKyQjw.jpg" group-title="Deportes", [COLOR orange] Partidos Martes [/COLOR]
 https://cdn11.dailysport.pw/live/4/4.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wCKyQjw.jpg" group-title="Deportes", 20:45 [COLOR lime] Aston Villa vs Leicester City [/COLOR]
+https://cdn11.dailysport.pw/live/4/4.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wCKyQjw.jpg" group-title="Deportes", 20:45 [COLOR lime] AC Milan vs Torino [/COLOR]
+https://cdn11.dailysport.pw/live/4/4.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wCKyQjw.jpg" group-title="Deportes", 21:00 [COLOR lime] Tenerife vs Athletic [/COLOR]
+https://cdn11.dailysport.pw/live/4/4.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wCKyQjw.jpg" group-title="Deportes", [COLOR orange] Partidos Miercoles [/COLOR]
 https://cdn11.dailysport.pw/live/4/4.m3u8
 
@@ -26,51 +35,3 @@ https://cdn11.dailysport.pw/live/4/4.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wCKyQjw.jpg" group-title="Deportes", [COLOR orange] Partidos Domingo [/COLOR]
 https://cdn11.dailysport.pw/live/4/4.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wCKyQjw.jpg" group-title="Deportes", 12:00 [COLOR lime] At.Madrid vs Leganés [/COLOR]
-https://d000.global.ssl.fastly.net/daily/1/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wCKyQjw.jpg" group-title="Deportes", 12:00 [COLOR lime] Málaga vs Mirandes [/COLOR]
-https://d000.global.ssl.fastly.net/daily/4/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wCKyQjw.jpg" group-title="Deportes", 12:30 [COLOR lime] Internazionale vs Cagliari [/COLOR]
-https://d000.global.ssl.fastly.net/daily/6/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wCKyQjw.jpg" group-title="Deportes", 14:00 [COLOR red] Manchester City vs Fulham [/COLOR]
-https://cdn11.dailysport.pw/live/4/4.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wCKyQjw.jpg" group-title="Deportes", 15:55 [COLOR red] Tranmere Rovers vs Manchester United [/COLOR]
-https://cdn11.dailysport.pw/live/4/4.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wCKyQjw.jpg" group-title="Deportes", 16:00 [COLOR lime] Getafe vs Betis [/COLOR]
-https://cdndaily11.azureedge.net/daily/1/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wCKyQjw.jpg" group-title="Deportes", 16:00 [COLOR lime] Almería vs Elche [/COLOR]
-https://cdndaily11.azureedge.net/daily/5/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wCKyQjw.jpg" group-title="Deportes", 16:00 [COLOR lime] Albacate vs Deportivo [/COLOR]
-https://cdndaily11.azureedge.net/daily/4/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wCKyQjw.jpg" group-title="Deportes", 18:00 [COLOR lime] Shrewsbury Town vs Liverpool [/COLOR]
-https://cdndaily11.azureedge.net/daily/10/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wCKyQjw.jpg" group-title="Deportes", 18:00 [COLOR lime] AS Roma vs Lazio [/COLOR]
-https://cdndaily11.azureedge.net/daily/6/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wCKyQjw.jpg" group-title="Deportes", 18:15 [COLOR lime] Rayo vs Extremadura [/COLOR]
-https://cdndaily11.azureedge.net/daily/4/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wCKyQjw.jpg" group-title="Deportes", 18:15 [COLOR red] Alcorcón vs Ponferradina [/COLOR]
-https://cdn11.dailysport.pw/live/4/4.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wCKyQjw.jpg" group-title="Deportes", 18:30 [COLOR lime] Real Sociedad vs Mallorca [/COLOR]
-https://cdndaily11.azureedge.net/daily/1/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wCKyQjw.jpg" group-title="Deportes", 20:30 [COLOR lime] Girona vs Oviedo [/COLOR]
-https://cdndaily11.azureedge.net/daily/4/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wCKyQjw.jpg" group-title="Deportes", 20:45 [COLOR lime] Napoli vs Juventus [/COLOR]
-https://cdndaily11.azureedge.net/daily/6/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wCKyQjw.jpg" group-title="Deportes", 21:00 [COLOR lime] R. Valladolid vs R. Madrid [/COLOR]
-https://cdndaily11.azureedge.net/daily/1/chunks.m3u8
