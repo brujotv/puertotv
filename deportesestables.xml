@@ -10,7 +10,7 @@ http://188.76.79.214:80/ts/0
 https://cdn11.dailysport.pw/live/4/4.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wCKyQjw.jpg" group-title="Deportes", [COLOR orange] Partidos Martes [/COLOR]
-https://cdndaily11.azureedge.net/daily/11/chunks.m3u8
+https://cdn11.dailysport.pw/live/4/4.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wCKyQjw.jpg" group-title="Deportes", 20:45 [COLOR lime] Aston Villa vs Leicester City [/COLOR]
 https://cdndaily11.azureedge.net/daily/3/chunks.m3u8
@@ -19,7 +19,7 @@ https://cdndaily11.azureedge.net/daily/3/chunks.m3u8
 https://cdndaily11.azureedge.net/daily/5/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wCKyQjw.jpg" group-title="Deportes", 21:00 [COLOR lime] Tenerife vs Athletic [/COLOR]
-https://cdn11.dailysport.pw/live/4/4.m3u8
+https://cdndaily11.azureedge.net/daily/11/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wCKyQjw.jpg" group-title="Deportes", [COLOR orange] Partidos Miercoles [/COLOR]
 https://cdn11.dailysport.pw/live/4/4.m3u8
