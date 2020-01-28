@@ -13,13 +13,13 @@ https://cdn11.dailysport.pw/live/4/4.m3u8
 https://cdn11.dailysport.pw/live/4/4.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wCKyQjw.jpg" group-title="Deportes", 20:45 [COLOR lime] Aston Villa vs Leicester City [/COLOR]
-plugin://plugin.video.f4mTester/?name=Naranjito&streamtype=TSDOWNLOADER&amp;url=https://cdndaily11.azureedge.net/daily/3/chunks.m3u8
+https://cdndaily11.azureedge.net/daily/3/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wCKyQjw.jpg" group-title="Deportes", 20:45 [COLOR lime] AC Milan vs Torino [/COLOR]
-plugin://plugin.video.f4mTester/?name=Naranjito&streamtype=TSDOWNLOADER&amp;url=https://cdndaily11.azureedge.net/daily/5/chunks.m3u8
+https://cdndaily11.azureedge.net/daily/5/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wCKyQjw.jpg" group-title="Deportes", 21:00 [COLOR lime] Tenerife vs Athletic [/COLOR]
-plugin://plugin.video.f4mTester/?name=Naranjito&streamtype=TSDOWNLOADER&amp;url=https://cdndaily11.azureedge.net/daily/11/chunks.m3u8
+https://cdndaily11.azureedge.net/daily/11/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wCKyQjw.jpg" group-title="Deportes", [COLOR orange] Partidos Miercoles [/COLOR]
 https://cdn11.dailysport.pw/live/4/4.m3u8
