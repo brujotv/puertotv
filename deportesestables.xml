@@ -21,6 +21,9 @@ https://cdn-daily.azureedge.net/daily/1/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wCKyQjw.jpg" group-title="Deportes", [COLOR lime] Cultural vs Valencia [/COLOR]
 https://cdn-daily.azureedge.net/daily/3/chunks.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wCKyQjw.jpg" group-title="Deportes", [COLOR lime] Cultural vs Valencia [/COLOR]
+http://push19.feber.xyz/hls/lsh3hd119/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yOS8yMDIwIDY6NTE6MDUgUE0maGFzaF92YWx1ZT1SNml1Rm9WdnJsb2xVRFdBaTJQZXdnPT0mdmFsaWRtaW51dGVzPTcw
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wCKyQjw.jpg" group-title="Deportes", [COLOR lime] West Ham vs Liverpool [/COLOR]
 https://cdn11.dailysport.pw/live/4/4.m3u8
 
