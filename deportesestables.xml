@@ -12,28 +12,37 @@ https://cdn11.dailysport.pw/live/4/4.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wCKyQjw.jpg" group-title="Deportes", [COLOR orange] Partidos Martes [/COLOR]
 https://cdn11.dailysport.pw/live/4/4.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wCKyQjw.jpg" group-title="Deportes", ingles  20:45 [COLOR lime] Aston Villa vs Leicester City [/COLOR]
-https://cdndaily11.azureedge.net/daily/3/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wCKyQjw.jpg" group-title="Deportes", español 20:45 [COLOR lime] Aston Villa vs Leicester City [/COLOR]
-https://cdndaily11.azureedge.net/daily/4/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wCKyQjw.jpg" group-title="Deportes", ingles  20:45 [COLOR lime] AC Milan vs Torino [/COLOR]
-https://cdndaily11.azureedge.net/daily/5/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wCKyQjw.jpg" group-title="Deportes", español 20:45 [COLOR lime] AC Milan vs Torino [/COLOR]
-https://cdndaily11.azureedge.net/daily/6/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wCKyQjw.jpg" group-title="Deportes", ingles  21:00 [COLOR lime] Tenerife vs Athletic [/COLOR]
-https://cdndaily11.azureedge.net/daily/2/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wCKyQjw.jpg" group-title="Deportes", español 21:00 [COLOR lime] Tenerife vs Athletic [/COLOR]
-https://cdndaily11.azureedge.net/daily/11/chunks.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wCKyQjw.jpg" group-title="Deportes", [COLOR orange] Partidos Miercoles [/COLOR]
 https://cdn11.dailysport.pw/live/4/4.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wCKyQjw.jpg" group-title="Deportes", [COLOR lima] Rayo Vallecano vs Villareal [/COLOR]
+https://cdn11.dailysport.pw/live/4/4.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wCKyQjw.jpg" group-title="Deportes", [COLOR lima] Cultural vs Valencia [/COLOR]
+https://cdn11.dailysport.pw/live/4/4.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wCKyQjw.jpg" group-title="Deportes", [COLOR lima] West Ham vs Liverpool [/COLOR]
+https://cdn11.dailysport.pw/live/4/4.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wCKyQjw.jpg" group-title="Deportes", [COLOR lima] Manchester City vs Manchester Utd. [/COLOR]
+https://cdn11.dailysport.pw/live/4/4.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wCKyQjw.jpg" group-title="Deportes", [COLOR lima] Inter Milán vs Fiorentina [/COLOR]
+https://cdn11.dailysport.pw/live/4/4.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wCKyQjw.jpg" group-title="Deportes", [COLOR lima] R. Sociedad vs Osasuna [/COLOR]
+https://cdn11.dailysport.pw/live/4/4.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wCKyQjw.jpg" group-title="Deportes", [COLOR lima] R. Zaragoza vs R. Madrid [/COLOR]
+https://cdn11.dailysport.pw/live/4/4.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wCKyQjw.jpg" group-title="Deportes", [COLOR orange] Partidos Jueves [/COLOR]
+https://cdn11.dailysport.pw/live/4/4.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wCKyQjw.jpg" group-title="Deportes", [COLOR lima] FC Barcelona vs Leganés [/COLOR]
+https://cdn11.dailysport.pw/live/4/4.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wCKyQjw.jpg" group-title="Deportes", [COLOR lima] Mirandés vs Sevilla [/COLOR]
 https://cdn11.dailysport.pw/live/4/4.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wCKyQjw.jpg" group-title="Deportes", [COLOR orange] Partidos Viernes [/COLOR]
