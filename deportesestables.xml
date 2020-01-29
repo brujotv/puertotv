@@ -15,26 +15,17 @@ https://cdn11.dailysport.pw/live/4/4.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wCKyQjw.jpg" group-title="Deportes", [COLOR orange] Partidos Miercoles [/COLOR]
 https://cdn11.dailysport.pw/live/4/4.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wCKyQjw.jpg" group-title="Deportes", [COLOR lime] Rayo Vallecano vs Villareal [/COLOR]
-https://dl001.global.ssl.fastly.net/daily/1/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wCKyQjw.jpg" group-title="Deportes", [COLOR lime] Cultural vs Valencia [/COLOR]
-https://dl001.global.ssl.fastly.net/daily/3/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wCKyQjw.jpg" group-title="Deportes", [COLOR lime] Cultural vs Valencia [/COLOR]
-http://push19.feber.xyz/hls/lsh3hd119/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yOS8yMDIwIDY6NTE6MDUgUE0maGFzaF92YWx1ZT1SNml1Rm9WdnJsb2xVRFdBaTJQZXdnPT0mdmFsaWRtaW51dGVzPTcw
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wCKyQjw.jpg" group-title="Deportes", [COLOR lime] West Ham vs Liverpool [/COLOR]
-https://cdn11.dailysport.pw/live/4/4.m3u8
+https://dsadsa.global.ssl.fastly.net/daily/12/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wCKyQjw.jpg" group-title="Deportes", [COLOR lime] Manchester City vs Manchester Utd. [/COLOR]
-https://cdn11.dailysport.pw/live/4/4.m3u8
+https://dsadsa.global.ssl.fastly.net/daily/13/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wCKyQjw.jpg" group-title="Deportes", [COLOR lime] Inter Milán vs Fiorentina [/COLOR]
-https://cdn11.dailysport.pw/live/4/4.m3u8
+https://dsadsa.global.ssl.fastly.net/daily/16/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wCKyQjw.jpg" group-title="Deportes", [COLOR lime] R. Sociedad vs Osasuna [/COLOR]
-https://cdn11.dailysport.pw/live/4/4.m3u8
+https://dsadsa.global.ssl.fastly.net/daily/5/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wCKyQjw.jpg" group-title="Deportes", [COLOR lime] R. Zaragoza vs R. Madrid [/COLOR]
 https://livehlsdai-i.akamaihd.net/hls/live/571643/cuatro/bitrate_4.m3u8
