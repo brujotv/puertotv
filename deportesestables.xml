@@ -21,6 +21,9 @@ https://cdn11.dailysport.pw/live/4/4.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wCKyQjw.jpg" group-title="Deportes", [COLOR orange] Partidos Jueves [/COLOR]
 https://cdn11.dailysport.pw/live/4/4.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wCKyQjw.jpg" group-title="Deportes", portugues [COLOR lime] Mirandes - Sevilla [/COLOR]
+http://push12.feber.xyz/hls/lshch4hd18/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8zMC8yMDIwIDg6Mzc6MDYgUE0maGFzaF92YWx1ZT0wZWswSnhZMGkrODBkVUQzamdhT1JBPT0mdmFsaWRtaW51dGVzPTcw
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wCKyQjw.jpg" group-title="Deportes", [COLOR orange] Partidos Viernes [/COLOR]
 https://cdn11.dailysport.pw/live/4/4.m3u8
 
