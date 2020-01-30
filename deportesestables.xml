@@ -6,8 +6,7 @@
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wCKyQjw.jpg" group-title="Deportes", [COLOR lime] CANAL (solo eventos) [/COLOR]
 http://188.76.79.214:80/ts/0
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wCKyQjw.jpg" group-title="Deportes", [COLOR lime] TAREAS DE MANTENIMIENTO - DOWN FOR MAINTENANCE
-VOLVEREMOS EL 1 DE FEBRERO, SIN CORTES. WE'LL RETURN ON 1th FEBRUARY [/COLOR]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wCKyQjw.jpg" group-title="Deportes", [COLOR lime] TAREAS DE MANTENIMIENTO VOLVEREMOS EL 1 DE FEBRERO [/COLOR]
 https://cdn11.dailysport.pw/live/4/4.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wCKyQjw.jpg" group-title="Deportes", [COLOR orange] Partidos Lunes [/COLOR]
