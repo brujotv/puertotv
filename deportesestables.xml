@@ -6,6 +6,10 @@
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wCKyQjw.jpg" group-title="Deportes", [COLOR lime] CANAL (solo eventos) [/COLOR]
 http://188.76.79.214:80/ts/0
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wCKyQjw.jpg" group-title="Deportes", [COLOR lime] TAREAS DE MANTENIMIENTO - DOWN FOR MAINTENANCE
+VOLVEREMOS EL 1 DE FEBRERO, SIN CORTES. WE'LL RETURN ON 1th FEBRUARY [/COLOR]
+https://cdn11.dailysport.pw/live/4/4.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wCKyQjw.jpg" group-title="Deportes", [COLOR orange] Partidos Lunes [/COLOR]
 https://cdn11.dailysport.pw/live/4/4.m3u8
 
@@ -15,28 +19,7 @@ https://cdn11.dailysport.pw/live/4/4.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wCKyQjw.jpg" group-title="Deportes", [COLOR orange] Partidos Miercoles [/COLOR]
 https://cdn11.dailysport.pw/live/4/4.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wCKyQjw.jpg" group-title="Deportes", [COLOR lime] West Ham vs Liverpool [/COLOR]
-https://dsadsa.global.ssl.fastly.net/daily/12/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wCKyQjw.jpg" group-title="Deportes", [COLOR lime] Manchester City vs Manchester Utd. [/COLOR]
-https://dsadsa.global.ssl.fastly.net/daily/13/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wCKyQjw.jpg" group-title="Deportes", [COLOR lime] Inter Milán vs Fiorentina [/COLOR]
-https://dsadsa.global.ssl.fastly.net/daily/16/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wCKyQjw.jpg" group-title="Deportes", [COLOR lime] R. Sociedad vs Osasuna [/COLOR]
-https://dsadsa.global.ssl.fastly.net/daily/5/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wCKyQjw.jpg" group-title="Deportes", [COLOR lime] R. Zaragoza vs R. Madrid [/COLOR]
-https://livehlsdai-i.akamaihd.net/hls/live/571643/cuatro/bitrate_4.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wCKyQjw.jpg" group-title="Deportes", [COLOR orange] Partidos Jueves [/COLOR]
-https://cdn11.dailysport.pw/live/4/4.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wCKyQjw.jpg" group-title="Deportes", [COLOR lime] FC Barcelona vs Leganés [/COLOR]
-https://cdn11.dailysport.pw/live/4/4.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wCKyQjw.jpg" group-title="Deportes", [COLOR lime] Mirandés vs Sevilla [/COLOR]
 https://cdn11.dailysport.pw/live/4/4.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wCKyQjw.jpg" group-title="Deportes", [COLOR orange] Partidos Viernes [/COLOR]
