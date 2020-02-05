@@ -12,23 +12,11 @@ https://cdn11.dailysport.pw/live/4/4.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wCKyQjw.jpg" group-title="Deportes", [COLOR orange] Partidos Martes [/COLOR]
 https://cdn11.dailysport.pw/live/4/4.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wCKyQjw.jpg" group-title="Deportes", 21:00 [COLOR lime] Granada vs Valencia [/COLOR]
-https://g.dailysport.pw/1/1.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wCKyQjw.jpg" group-title="Deportes", 21:00 [COLOR lime] R. Madrid Baloncesto vs Kirolbet Baskonia [/COLOR]
-https://g.dailysport.pw/3/3.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wCKyQjw.jpg" group-title="Deportes", 21:05 [COLOR lime] Nantes vs PSG [/COLOR]
-https://g.dailysport.pw/4/4.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wCKyQjw.jpg" group-title="Deportes", 20:45 [COLOR lime] Werder vs Borussia [/COLOR]
-https://g.dailysport.pw/6/6.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wCKyQjw.jpg" group-title="Deportes", 20:45 [COLOR lime] Liverpool vs Shrewsbury [/COLOR]
-https://g.dailysport.pw/7/7.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wCKyQjw.jpg" group-title="Deportes", [COLOR orange] Partidos Miercoles [/COLOR]
 https://cdn11.dailysport.pw/live/4/4.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wCKyQjw.jpg" group-title="Deportes", 21:00 [COLOR lime] Mirandés vs Villarreal [/COLOR]
+https://g.dailysport.pw/1/1.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wCKyQjw.jpg" group-title="Deportes", [COLOR orange] Partidos Jueves [/COLOR]
 https://cdn11.dailysport.pw/live/4/4.m3u8
