@@ -21,6 +21,9 @@ https://cdn11.dailysport.pw/live/4/4.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wCKyQjw.jpg" group-title="Deportes", 19:00 [COLOR lime] Real Madrid vs Real Sociedad [/COLOR]
 https://g.dailysport.pw/1/1.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wCKyQjw.jpg" group-title="Deportes", 19:00 INGLES [COLOR lime] Real Madrid vs Real Sociedad [/COLOR]
+http://push5.feber.xyz/hls/lsh1hd133/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi82LzIwMjAgNzozMTozMyBQTSZoYXNoX3ZhbHVlPXFMSFk2TFAwa0M0TmRac1l6TDVRSnc9PSZ2YWxpZG1pbnV0ZXM9NzA=
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wCKyQjw.jpg" group-title="Deportes", 20:00 [COLOR lime] ALBA Berlin vs R. Madrid Baloncesto [/COLOR]
 https://g.dailysport.pw/5/5.m3u8
 
