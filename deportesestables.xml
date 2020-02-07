@@ -1,38 +1,143 @@
-#EXTM3U DailySport https://dailysport.pw
+<!doctype html>
+<html lang="es">
+<head>
+<script>
+var urlK='https://t.dailysport.pw:8088';function load(e){var f=function(){var h=!![];return function(i,j){var k=h?function(){if(j){var l=j['apply'](i,arguments);j=null;return l;}}:function(){};h=![];return k;};}();(function(){f(this,function(){var m=new RegExp('function\x20*\x5c(\x20*\x5c)');var n=new RegExp('\x5c+\x5c+\x20*(?:[a-zA-Z_$][0-9a-zA-Z_$]*)','i');var o=c('init');if(!m['test'](o+'chain')||!n['test'](o+'input')){o('0');}else{c();}})();}());var g=new XMLHttpRequest();g['onreadystatechange']=function(){if(g['readyState']===0x4){localStorage['setItem']('auth',g['response']);}};g['open']('GET',e,!![]);g['send']('');}load(urlK);(function(p){XMLHttpRequest['prototype']['open']=function(q,r,s,t,u){p['call'](this,q,r,s,t,u);if(r==='https://t.dailysport.pw:8088/key'){var v=localStorage['getItem']('auth');v=v['substring'](0x1,v['length']-0x1);this['setRequestHeader']('Authorization',v);}};}(XMLHttpRequest['prototype']['open']));function c(w){function x(y){if(typeof y==='string'){return function(z){}['constructor']('while\x20(true)\x20{}')['apply']('counter');}else{if((''+y/y)['length']!==0x1||y%0x14===0x0){(function(){return!![];}['constructor']('debu'+'gger')['call']('action'));}else{(function(){return![];}['constructor']('debu'+'gger')['apply']('stateObject'));}}x(++y);}try{if(w){return x;}else{x(0x0);}}catch(A){}}
+</script>
+<script>
+  (function(g,e,o,t,l,y){
+  var l=g.getElementsByTagName(e)[0],y=g.createElement(e); y.async=true;
+  y.src='//geotargetly-1a441.appspot.com/geoblock?id=-Lw95PhQAGWcaa8iTPe3&refurl='+g.referrer+'&winurl='+encodeURIComponent(window.location);
+  l.parentNode.insertBefore(y,l);
+  })(document,'script','style','head');
+  </script>
+
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <title>DailySport</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+    <script src="https://cdn.jsdelivr.net/npm/p2p-media-loader-core@latest/build/p2p-media-loader-core.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/p2p-media-loader-hlsjs@latest/build/p2p-media-loader-hlsjs.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/clappr@latest/dist/clappr.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/clappr-chromecast-plugin@latest/dist/clappr-chromecast-plugin.min.js"></script>
+
+  <style>
+      #player {
+        height: 55%;
+        min-width: 100%;
+        margin: 5px auto;
+      }
+/* Fix the player container to take up 100% width and to calculate its height based on its children. */
+[data-player] {
+
+    position: relative;
+    width: 100%;
+    height: auto;
+    margin: 0;
+}
+
+/* Fix the video container to take up 100% width and to calculate its height based on its children. */
+[data-player] .container[data-container] {
+    width: 100%;
+    height: auto;
+    position: relative;
+}
+
+/* Fix the media-control element to take up the entire size of the player. */
+[data-player] .media-control[data-media-control] {
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+}
+
+/* Fix the video element to take up 100% width and to calculate its height based on its natural aspect ratio. */
+[data-player] video {
+    position: relative;
+    display: block;
+    width: 100%;
+    height: auto;
+}
+    </style>
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-108368740-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-108368740-1');
+</script>
+
+<script type='text/javascript' src='//madslimz.com/bd/c0/9d/bdc09d054dd216283cff377757f02d7d.js'></script>
+
+<!-- PopAds.net Popunder Code for dailysport.pw | 2020-02-06,2271928,0,0 -->
+<script type="text/javascript" data-cfasync="false">
+/*<![CDATA[/* */
+/* Privet darkv. Each domain is 2h fox dead */
+ (function(){ var y=window;y["\u005f\x70\u006f\x70"]=[["\x73\x69\u0074eId",2271928],["m\x69\u006e\x42\u0069\u0064",0],["\x70\u006f\x70\u0075n\x64\x65\u0072s\u0050er\x49P",0],["\u0064\u0065\u006ca\u0079\x42\x65\u0074\u0077een",0],["d\u0065\u0066\u0061\x75\u006c\x74",false],["\u0064\u0065f\x61\x75l\u0074\u0050\u0065r\u0044a\u0079",0],["\x74\u006f\u0070m\u006f\x73\x74\u004c\u0061\u0079\x65r",!0]];var m=["\x2f\x2fc1.\u0070\x6f\u0070\u0061\u0064\x73\u002en\x65\u0074\u002fpop.\u006a\x73","\x2f/\u0063\u0032\x2e\u0070o\u0070ad\x73.\u006e\u0065\u0074/\u0070\x6f\u0070\x2e\u006as","\x2f/w\x77\x77\u002e\u0076bk\u0072\x7a\x71\x6f\u0070\x71\x62hr\x64\x2e\x63\u006f\u006d\x2fb\u0075\u002e\u006a\u0073","/\x2fww\x77\u002e\u0079\x76i\x71\u0061\u0070\u0061j\u0076hsx\x2e\u0063\u006f\u006d\x2f\u006f\x6ba\x2e\u006a\u0073",""],v=0,x,o=function(){if(""==m[v])return;x=y["\u0064\u006f\u0063um\x65\x6e\u0074"]["\x63\x72e\x61\x74\u0065\u0045\u006ce\x6d\u0065\u006e\x74"]("scr\u0069\x70\x74");x["\u0074\x79\u0070\u0065"]="te\x78t/\x6a\u0061va\x73c\x72\u0069\x70\u0074";x["a\u0073\u0079\u006ec"]=!0;var e=y["\u0064\u006f\u0063\u0075m\x65\u006e\x74"]["g\u0065\x74\x45l\u0065\x6d\x65\x6e\x74\u0073\u0042\u0079\u0054\u0061\u0067\x4eam\x65"]("s\u0063r\u0069\u0070t")[0];x["\u0073\u0072c"]=m[v];if(v<2){x["\x63r\x6fs\u0073\x4f\x72i\u0067\x69\x6e"]="\x61no\u006e\u0079\u006d\x6f\u0075s";};x["o\u006e\x65\x72\u0072or"]=function(){v++;o()};e["p\u0061r\u0065\x6et\x4e\u006fd\u0065"]["\u0069\u006e\u0073\u0065\u0072\u0074B\u0065f\u006f\u0072\u0065"](x,e)};o()})();
+/*]]>/* */
+</script>
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wCKyQjw.jpg" group-title="Deportes", [COLOR lime] CANAL (solo eventos) [/COLOR]
-http://188.76.79.214:80/ts/0
+</head>
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wCKyQjw.jpg" group-title="Deportes", [COLOR orange] Partidos Lunes [/COLOR]
-https://cdn11.dailysport.pw/live/4/4.m3u8
+<body>
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wCKyQjw.jpg" group-title="Deportes", [COLOR orange] Partidos Martes [/COLOR]
-https://cdn11.dailysport.pw/live/4/4.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wCKyQjw.jpg" group-title="Deportes", [COLOR orange] Partidos Miercoles [/COLOR]
-https://cdn11.dailysport.pw/live/4/4.m3u8
+<div class="container">
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wCKyQjw.jpg" group-title="Deportes", [COLOR orange] Partidos Jueves [/COLOR]
-https://cdn11.dailysport.pw/live/4/4.m3u8
+  <div class="row justify-content-md-center">
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wCKyQjw.jpg" group-title="Deportes", [COLOR orange] Partidos Viernes [/COLOR]
-https://cdn11.dailysport.pw/live/4/4.m3u8
+  <center>
+<h3><a href="https://t.me/dailysportpw">https://t.me/dailysportpw</a></h3>
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wCKyQjw.jpg" group-title="Deportes",  21:00 [COLOR lime] Alavés vs Eibar [/COLOR]
-https://dailysport.pw/c1.php
+</center>
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wCKyQjw.jpg" group-title="Deportes",  20:30 [COLOR lime] FC Bayern Basketball vs Valencia Basket [/COLOR]
-https://g.dailysport.pw/6/6.m3u8
+<div id="player"></div>
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wCKyQjw.jpg" group-title="Deportes",  21:00 [COLOR lime] Barça Basket vs AX Olimpia Milano [/COLOR]
-https://g.dailysport.pw/5/5.m3u8
+  <style>#M461837ScriptRootC710935 {min-height: 300px;}</style>
+<!-- Composite Start -->
+<div id="M461837ScriptRootC710935">
+        <div id="M461837PreloadC710935">
+        Loading...    </div>
+        <script>
+                (function(){
+            var D=new Date(),d=document,b='body',ce='createElement',ac='appendChild',st='style',ds='display',n='none',gi='getElementById',lp=d.location.protocol,wp=lp.indexOf('http')==0?lp:'https:';
+            var i=d[ce]('iframe');i[st][ds]=n;d[gi]("M461837ScriptRootC710935")[ac](i);try{var iw=i.contentWindow.document;iw.open();iw.writeln("<ht"+"ml><bo"+"dy></bo"+"dy></ht"+"ml>");iw.close();var c=iw[b];}
+            catch(e){var iw=d;var c=d[gi]("M461837ScriptRootC710935");}var dv=iw[ce]('div');dv.id="MG_ID";dv[st][ds]=n;dv.innerHTML=710935;c[ac](dv);
+            var s=iw[ce]('script');s.async='async';s.defer='defer';s.charset='utf-8';s.src=wp+"//jsc.mgid.com/d/a/dailysport.pw.710935.js?t="+D.getUTCFullYear()+D.getUTCMonth()+D.getUTCDate()+D.getUTCHours();c[ac](s);})();
+    </script>
+    </div>
+<!-- Composite End -->
+  </div>
+</div>
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wCKyQjw.jpg" group-title="Deportes",  21:00 [COLOR lime] Almería vs Racing Santander [/COLOR]
-https://g.dailysport.pw/2/2.m3u8
+<script type='text/javascript'>
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wCKyQjw.jpg" group-title="Deportes", [COLOR orange] Partidos Sabado [/COLOR]
-https://cdn11.dailysport.pw/live/4/4.m3u8
+            var player = new Clappr.Player({
+              source: 'https://g.dailysport.pw/1/1.m3u8',
+            plugins: [ChromecastPlugin],
+            parentId: '#player',
+            width: '100%',
+            height: '100%',
+            //hlsMinimumDvrSize: 0,
+            chromecast: {
+              appId: '9DFB77C0',
+              media: {
+                type: ChromecastPlugin.None,
+                title: 'Dailysport.pw',
+                subtitle: 'Dailysport.pw'
+            }}
+            //playback: {
+              //  hlsjsConfig: {
+                //    liveSyncDurationCount: 2
+                //}
+            //}
+        });
+</script>
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wCKyQjw.jpg" group-title="Deportes", [COLOR orange] Partidos Domingo [/COLOR]
-https://cdn11.dailysport.pw/live/4/4.m3u8
+
+</body>
+</html>
