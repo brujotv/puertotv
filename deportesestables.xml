@@ -19,8 +19,8 @@ https://cdn11.dailysport.pw/live/4/4.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wCKyQjw.jpg" group-title="Deportes", [COLOR orange] Partidos Viernes [/COLOR]
 https://cdn11.dailysport.pw/live/4/4.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wCKyQjw.jpg" group-title="Deportes",  21:00 [COLOR lime] Alavés vs Eibar [/COLOR]
-http://push15.feber.xyz/hls/lsh1hd133/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi84LzIwMjAgNjowMjoxOSBQTSZoYXNoX3ZhbHVlPUh3eWx0b0gyaUJ5MmZuT0htTVFVRWc9PSZ2YWxpZG1pbnV0ZXM9NzA=
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wCKyQjw.jpg" group-title="Deportes",  [COLOR lime]  Real Valladolid vs Villarreal [/COLOR]
+https://g.dailysport.pw/d1/1.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wCKyQjw.jpg" group-title="Deportes",  20:30 [COLOR lime] FC Bayern Basketball vs Valencia Basket [/COLOR]
 https://g.dailysport.pw/6/6.m3u8
