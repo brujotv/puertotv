@@ -9,7 +9,7 @@
 <name>makelist0</name>
 <listrepeat><![CDATA[
 <title>[B][COLOR lightblue] [makelist0.param2] [/COLOR][/B] </title>
-<link>http://dl2.mihanpix.com/Film/2016/[makelist0.param1]</link>
+<link>https://dailysport.pw/[makelist0.param1]</link>
 ]]></listrepeat>
 <expres><![CDATA[href="(.*?)">(.*?)<]]></expres>
 <page>https://dailysport.pw/c1.php</page>
