@@ -9,10 +9,10 @@
 <name>makelist0</name>
 <listrepeat><![CDATA[
 <title>[B][COLOR lightblue] [makelist0.param2] [/COLOR][/B] </title>
-<link>https://dailysport.pw/[makelist0.param1]</link>
+<link>https://dailysport.pw/c1.php/[makelist0.param1]</link>
 ]]></listrepeat>
 <expres><![CDATA[href="(.*?)">(.*?)<]]></expres>
-<page>https://dailysport.pw/c1.php</page>
+<page>https://dailysport.pw</page>
 <referer></referer>
 <cookieJar></cookieJar>
 </regex>
