@@ -13,7 +13,7 @@
 ]]></listrepeat>
 <expres><![CDATA[href="(.*?)">(.*?)<]]></expres>
 <page>https://dailysport.pw/</page>
-<referer>https://dailysport.pw/c1.php</referer>
+<referer></referer>
 <cookieJar></cookieJar>
 </regex>
 <thumbnail></thumbnail>
