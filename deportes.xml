@@ -1,14 +1,13 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
+
 <item>
-<title>[COLOR lime]•[/COLOR] prueba depoer</title>
-<thumbnail></thumbnail>
+<title>canal 11</title>
+<urlsolve>https://dailysport.pw/c1.php</urlsolve>
+<thumbnail><thumbnail>
 <fanart></fanart>
-<link>http://ignoreme</link>
-<externallink>https://raw.githubusercontent.com/boomski/TV/master/livesports/index</externallink>
+<info></info> 
 </item>
-
-
 
 <item>
 <title>[COLOR lime]•[/COLOR] [COLOR red] Partidos[/COLOR] </title>
