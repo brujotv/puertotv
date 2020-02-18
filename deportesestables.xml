@@ -11,6 +11,15 @@ https://cdn11.dailysport.pw/live/4/4.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wCKyQjw.jpg" group-title="Deportes", [COLOR orange] Partidos Martes [/COLOR]
 https://cdn11.dailysport.pw/live/4/4.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wCKyQjw.jpg" group-title="Deportes", 21:00 [COLOR lime] Atlético Madrid vs Liverpool [/COLOR] 
+https://g.dailysport.pw/dailysport-01/x1.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wCKyQjw.jpg" group-title="Deportes", 21:00 [COLOR lime] Borussia Dortmund vs PSG [/COLOR] 
+https://g.dailysport.pw/dailysport-3/x3.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wCKyQjw.jpg" group-title="Deportes", 21:00 [COLOR lime] Borussia Dortmund vs PSG [/COLOR] 
+https://dailysport.pw/c1.php
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wCKyQjw.jpg" group-title="Deportes", [COLOR orange] Partidos Miercoles [/COLOR]
 https://cdn11.dailysport.pw/live/4/4.m3u8
 
@@ -29,23 +38,8 @@ https://cdn11.dailysport.pw/live/4/4.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wCKyQjw.jpg" group-title="Deportes", 16:00 [COLOR lime] Cádiz vs Málaga [/COLOR] 
 https://g.dailysport.pw/x5/x5.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wCKyQjw.jpg" group-title="Deportes", 16:00 [COLOR lime] Leganés vs Betis [/COLOR] 
-https://g.dailysport.pw/w1/w1.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wCKyQjw.jpg" group-title="Deportes", 18:15 [COLOR lime] Racing vs Sporting [/COLOR] 
-https://g.dailysport.pw/x6/x6.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wCKyQjw.jpg" group-title="Deportes", 18:15 [COLOR lime] Ponferradina vs Extremadura [/COLOR] 
-https://g.dailysport.pw/x7/x7.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wCKyQjw.jpg" group-title="Deportes", 18:30 [COLOR lime] Athletic vs Osasuna [/COLOR] 
-https://g.dailysport.pw/w1/w1.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wCKyQjw.jpg" group-title="Deportes", 20:30 [COLOR lime] Tenerife vs Rayo Vallecano [/COLOR] 
-https://g.dailysport.pw/x6/x6.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wCKyQjw.jpg" group-title="Deportes", 21:00 [COLOR lime] Real Madrid vs Celta [/COLOR] 
-https://g.dailysport.pw/x1/x1.m3u8
 
 
 
