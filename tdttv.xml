@@ -55,6 +55,9 @@ http://paramount.live.flumotion.com/live/chunks.m3u8
 #EXTINF:0,BOING
 https://mdslivehlsb-i.akamaihd.net/hls/live/623616/boing/bitrate_4.m3u8
 
+#EXTINF:0,Disney Channel	
+https://eslivestream-lh.akamaihd.net/i/live_1@318671/index_6_av-p.m3u8?sd=10&rebase=on&id=AgBfEPJVXHrx3dl0TV7%2fiO4smldnx+aF9yYp50tOUnny32LS3Sdb4ASEza5zFP1d9BW5ESo0swylzw%3d%3d&hdntl=exp=1582220889~acl=%2fi%2flive_1%40318671*~data=hdntl~hmac=16f78c7ff27f5eab7969ecb20b5071cdfe222ef9827b68fb378f4cbf2f7616a4
+
 #EXTINF:0,TDP HD
 http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl1/tdphd_lv3_aosv4_gl1/tdphd_lv3_aosv4_gl1.isml/tdphd_lv3_aosv4_gl1-audio=128000-video=1500000.m3u8
 
