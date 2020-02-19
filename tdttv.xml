@@ -63,3 +63,5 @@ https://paramount-live.flumotion.com/live/playlist.m3u8
 http://streaming.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/live.smil/master.m3u8
 #EXTINF:-1 tvg-id="DMax.TDTChannelsEPG" tvg-logo="https://i.imgur.com/x4fGu91.png/picture?width=320&height=320" group-title="Generalistas",DMax
 http://91.126.141.12:1935/live/discoverymax/playlist.m3u8
+#EXTINF:-1 tvg-id="Boing.TDTChannelsEPG" tvg-logo="https://i.imgur.com/x4fGu91.png/picture?width=320&height=320" group-title="Generalistas",Boing
+https://mdslivehlsb-i.akamaihd.net/hls/live/623616/boing/bitrate_4.m3u8
