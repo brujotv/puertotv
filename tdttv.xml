@@ -1,5 +1,66 @@
-#EXTM3U
 
+#EXTM3U @LaQuay https://github.com/LaQuay/TDTChannels - Última actualización 02/02/2020
+#EXTM3U url-tvg="https://raw.githubusercontent.com/HelmerLuzo/TDTChannels_EPG/master/TDTChannels_EPG.xml"
+#EXTINF:-1 tvg-id="La1.TDTChannelsEPG" tvg-logo="https://pbs.twimg.com/profile_images/899385012801470464/akSvNCqE_400x400.jpg" group-title="Generalistas",La 1 HD
+http://hlsliveamdgl1-lh.akamaihd.net/i/hlsdvrlive_1@584096/master.m3u8
+#EXTINF:-1 tvg-id="La1.TDTChannelsEPG" tvg-logo="https://pbs.twimg.com/profile_images/899385012801470464/akSvNCqE_400x400.jpg" group-title="Generalistas",La 1 HD
+http://hlsliveamdgl7-lh.akamaihd.net/i/hlsdvrlive_1@583042/master.m3u8
+#EXTINF:-1 tvg-id="La2.TDTChannelsEPG" tvg-logo="https://graph.facebook.com/la2detve/picture?width=320&height=320" group-title="Generalistas",La 2 HD
+http://hlsliveamdgl1-lh.akamaihd.net/i/hlsdvrlive_1@60414/master.m3u8
+#EXTINF:-1 tvg-id="La2.TDTChannelsEPG" tvg-logo="https://graph.facebook.com/la2detve/picture?width=320&height=320" group-title="Generalistas",La 2 HD
+http://hlsliveamdgl0-lh.akamaihd.net/i/hlsdvrlive_1@60531/master.m3u8
+#EXTINF:-1 tvg-id="Antena3.TDTChannelsEPG" tvg-logo="https://graph.facebook.com/antena3/picture?width=320&height=320" group-title="Generalistas",Antena 3 HD
+https://livestartover-i.akamaized.net/geoantena3/master.m3u8
+#EXTINF:-1 tvg-id="Antena3.TDTChannelsEPG" tvg-logo="https://graph.facebook.com/antena3/picture?width=320&height=320" group-title="Generalistas",Antena 3 HD
+https://livestartover-i.akamaized.net/antena3/master.m3u8
+#EXTINF:-1 tvg-id="Cuatro.TDTChannelsEPG" tvg-logo="https://graph.facebook.com/cuatro/picture?width=320&height=320" group-title="Generalistas",Cuatro
+https://livehlsdai-i.akamaihd.net/hls/live/571643/cuatro/bitrate_2.m3u8
+#EXTINF:-1 tvg-id="Cuatro.TDTChannelsEPG" tvg-logo="https://graph.facebook.com/cuatro/picture?width=320&height=320" group-title="Generalistas",Cuatro HD
+https://livehlsdai-i.akamaihd.net/hls/live/571643/cuatro/bitrate_4.m3u8
+#EXTINF:-1 tvg-id="Telecinco.TDTChannelsEPG" tvg-logo="https://graph.facebook.com/tele5/picture?width=320&height=320" group-title="Generalistas",Telecinco
+https://livehlsdai-i.akamaihd.net/hls/live/571640/telecinco/bitrate_2.m3u8
+#EXTINF:-1 tvg-id="Telecinco.TDTChannelsEPG" tvg-logo="https://graph.facebook.com/tele5/picture?width=320&height=320" group-title="Generalistas",Telecinco HD
+https://livehlsdai-i.akamaihd.net/hls/live/571640/telecinco/bitrate_4.m3u8
+#EXTINF:-1 tvg-id="LaSexta.TDTChannelsEPG" tvg-logo="https://graph.facebook.com/laSexta/picture?width=320&height=320" group-title="Generalistas",laSexta HD
+https://livestartover-i.akamaized.net/geolasexta/master.m3u8
+#EXTINF:-1 tvg-id="LaSexta.TDTChannelsEPG" tvg-logo="https://graph.facebook.com/laSexta/picture?width=320&height=320" group-title="Generalistas",laSexta HD
+https://livestartover-i.akamaized.net/lasexta/master.m3u8
+#EXTINF:-1 tvg-id="Neox.TDTChannelsEPG" tvg-logo="https://graph.facebook.com/neox/picture?width=320&height=320" group-title="Generalistas",Neox HD
+https://livestartover-i.akamaized.net/geoneox/master.m3u8
+#EXTINF:-1 tvg-id="Neox.TDTChannelsEPG" tvg-logo="https://graph.facebook.com/neox/picture?width=320&height=320" group-title="Generalistas",Neox HD
+https://livestartover-i.akamaized.net/neox/master.m3u8
+#EXTINF:-1 tvg-id="Nova.TDTChannelsEPG" tvg-logo="https://graph.facebook.com/novatdt/picture?width=320&height=320" group-title="Generalistas",Nova HD
+https://livestartover-i.akamaized.net/geonova/master.m3u8
+#EXTINF:-1 tvg-id="Nova.TDTChannelsEPG" tvg-logo="https://graph.facebook.com/novatdt/picture?width=320&height=320" group-title="Generalistas",Nova HD
+https://livestartover-i.akamaized.net/nova/master.m3u8
+#EXTINF:-1 tvg-id="Mega.TDTChannelsEPG" tvg-logo="https://graph.facebook.com/megaTDT/picture?width=320&height=320" group-title="Generalistas",Mega HD
+https://livestartover-i.akamaized.net/geomega/master.m3u8
+#EXTINF:-1 tvg-id="Mega.TDTChannelsEPG" tvg-logo="https://graph.facebook.com/megaTDT/picture?width=320&height=320" group-title="Generalistas",Mega HD
+https://livestartover-i.akamaized.net/mega/master.m3u8
+#EXTINF:-1 tvg-id="Atreseries.TDTChannelsEPG" tvg-logo="https://graph.facebook.com/atreseries/picture?width=320&height=320" group-title="Generalistas",Atreseries HD
+https://livestartover-i.akamaized.net/geoa3series/master.m3u8
+#EXTINF:-1 tvg-id="Atreseries.TDTChannelsEPG" tvg-logo="https://graph.facebook.com/atreseries/picture?width=320&height=320" group-title="Generalistas",Atreseries HD
+https://livestartover-i.akamaized.net/a3series/master.m3u8
+#EXTINF:-1 tvg-id="FDF.TDTChannelsEPG" tvg-logo="https://graph.facebook.com/factoriadeficcion/picture?width=320&height=320" group-title="Generalistas",FDF
+https://mdslivehls-i.akamaihd.net/hls/live/571650/fdf/bitrate_2.m3u8
+#EXTINF:-1 tvg-id="FDF.TDTChannelsEPG" tvg-logo="https://graph.facebook.com/factoriadeficcion/picture?width=320&height=320" group-title="Generalistas",FDF HD
+https://mdslivehls-i.akamaihd.net/hls/live/571650/fdf/bitrate_4.m3u8
+#EXTINF:-1 tvg-id="Energy.TDTChannelsEPG" tvg-logo="https://graph.facebook.com/E.EnergyTV/picture?width=320&height=320" group-title="Generalistas",Energy
+https://mdslivehlsb-i.akamaihd.net/hls/live/623617/energy/bitrate_2.m3u8
+#EXTINF:-1 tvg-id="Energy.TDTChannelsEPG" tvg-logo="https://graph.facebook.com/E.EnergyTV/picture?width=320&height=320" group-title="Generalistas",Energy HD
+https://mdslivehlsb-i.akamaihd.net/hls/live/623617/energy/bitrate_4.m3u8
+#EXTINF:-1 tvg-id="Divinity.TDTChannelsEPG" tvg-logo="https://graph.facebook.com/divinityes/picture?width=320&height=320" group-title="Generalistas",Divinity
+https://mdslivehls-i.akamaihd.net/hls/live/571648/divinity/bitrate_2.m3u8
+#EXTINF:-1 tvg-id="Divinity.TDTChannelsEPG" tvg-logo="https://graph.facebook.com/divinityes/picture?width=320&height=320" group-title="Generalistas",Divinity HD
+https://mdslivehls-i.akamaihd.net/hls/live/571648/divinity/bitrate_4.m3u8
+#EXTINF:-1 tvg-id="Bemad.TDTChannelsEPG" tvg-logo="https://graph.facebook.com/BeMadTV/picture?width=320&height=320" group-title="Generalistas",Be Mad
+https://mdslivehlsb-i.akamaihd.net/hls/live/623615/bemad/bitrate_2.m3u8
+#EXTINF:-1 tvg-id="Bemad.TDTChannelsEPG" tvg-logo="https://graph.facebook.com/BeMadTV/picture?width=320&height=320" group-title="Generalistas",Be Mad HD
+https://mdslivehlsb-i.akamaihd.net/hls/live/623615/bemad/bitrate_4.m3u8
+#EXTINF:-1 tvg-id="Paramount.TDTChannelsEPG" tvg-logo="https://graph.facebook.com/ParamountNetworkES/picture?width=320&height=320" group-title="Generalistas",Paramount Network
+https://paramount-live.flumotion.com/live/playlist.m3u8
+#EXTINF:-1 tvg-id="13.TDTChannelsEPG" tvg-logo="https://graph.facebook.com/TRECEtves/picture?width=320&height=320" group-title="Generalistas",TRECE
+http://streaming.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/live.smil/master.m3u8
 
 #EXTINF:0,Tve 1
 http://hlsliveamdgl1-lh.akamaihd.net/i/hlsdvrlive_1@584096/master.m3u8
