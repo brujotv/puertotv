@@ -62,18 +62,3 @@ https://eslivestream-lh.akamaihd.net/i/live_1@318671/index_6_av-p.m3u8?sd=10&reb
 http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl1/tdphd_lv3_aosv4_gl1/tdphd_lv3_aosv4_gl1.isml/tdphd_lv3_aosv4_gl1-audio=128000-video=1500000.m3u8
 
 
-#EXT-X-VERSION:3
-#EXT-X-TARGETDURATION:11
-#EXT-X-MEDIA-SEQUENCE:
-<?php
-$duracion=11;
-$divi=1456449300%$duracion;
-$divi=1456449300-$divi;
-$to=time();
-$to2=time()%$duracion;
-$to3=((($to-$to2)-$divi)/$duracion)*1;
-echo $to3; ?>
- 
-#EXTINF:10,la liga
-https://e5.cdn4.us/ingest01/46718.m3u8?sf=enNJelFyZDA3OQ==&token=w3AnCW8AtvDW1FNqYUDoTg&expires=1582149835&rnd=
-
