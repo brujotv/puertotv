@@ -1,0 +1,35 @@
+#EXTM3U
+
+
+#EXTINF:0,Tve 1
+http://hlsliveamdgl1-lh.akamaihd.net/i/hlsdvrlive_1@584096/master.m3u8
+
+#EXTINF:0,Tve 2
+http://hlsliveamdgl0-lh.akamaihd.net/i/hlsdvrlive_1@60531/index_2800_av-p.m3u8?sd=10&rebase=on
+
+#EXTINF:0,24h
+http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl8/24h_onlydash_lv3_aosv4_gl8/24h_onlydash_lv3_aosv4_gl8.isml/24h_onlydash_lv3_aosv4_gl8-audio=128000-video=650000.m3u8
+
+#EXTINF:0,Cuatro HD
+https://livehlsdai-i.akamaihd.net/hls/live/571643/cuatro/bitrate_4.m3u8
+
+#EXTINF:0,Antena 3 HD
+https://livestartover-i.akamaized.net/antena3/bitrate_4.m3u8
+
+#EXTINF:0,Telecinco HD
+https://livehlsdai-i.akamaihd.net/hls/live/571640/telecinco/bitrate_4.m3u8
+
+#EXTINF:0,La sexta HD
+https://livestartover.atresmedia.com/geoa3series/bitrate_4.m3u8
+
+#EXTINF:0,Neox HD
+
+#EXTINF:0,Nova HD
+https://livestartover.atresmedia.com/geonova/master.m3u8
+
+#EXTINF:0,Energy
+https://mdslivehlsb-i.akamaihd.net/hls/live/623617/energy/bitrate_4.m3u8?xtreamiptv.m3u8
+
+#EXTINF:0,Divinity HD
+http://mdslivehls-i.akamaihd.net/hls/live/571648/divinity/bitrate_4.m3u8
+
