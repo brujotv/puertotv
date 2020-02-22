@@ -11,12 +11,6 @@ https://cdn11.dailysport.pw/live/4/4.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wCKyQjw.jpg" group-title="Deportes", [COLOR orange] Partidos Martes [/COLOR]
 https://cdn11.dailysport.pw/live/4/4.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wCKyQjw.jpg" group-title="Deportes", 21:00 [COLOR yellow] Atlético Madrid vs Liverpool [/COLOR] 
-https://g.dailysport.pw/dailysport-01/x1.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wCKyQjw.jpg" group-title="Deportes", 21:00 [COLOR yellow] Borussia Dortmund vs PSG [/COLOR] 
-https://g.dailysport.pw/dailysport-3/x3.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wCKyQjw.jpg" group-title="Deportes", [COLOR orange] Partidos Miercoles [/COLOR]
 https://cdn11.dailysport.pw/live/4/4.m3u8
 
@@ -29,11 +23,12 @@ https://cdn11.dailysport.pw/live/4/4.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wCKyQjw.jpg" group-title="Deportes", [COLOR orange] Partidos Sabado [/COLOR]
 https://cdn11.dailysport.pw/live/4/4.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wCKyQjw.jpg" group-title="Deportes", 21:00 [COLOR yellow] Levante vs Real Madrid [/COLOR] 
+https://g.dailysport.pw/bb1/x1.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wCKyQjw.jpg" group-title="Deportes", [COLOR orange] Partidos Domingo [/COLOR]
 https://cdn11.dailysport.pw/live/4/4.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wCKyQjw.jpg" group-title="Deportes", 16:00 [COLOR lime] Cádiz vs Málaga [/COLOR] 
-https://g.dailysport.pw/x5/x5.m3u8
 
 
 
