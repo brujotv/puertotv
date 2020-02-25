@@ -2,18 +2,18 @@
 
 
 <item>
-<title>TONES AND I - DANCE MONKEY (OFFICIAL VIDEO)  111</title>
+<title>[COLOR deepskyblue]BRAZZERS TV EUROPE[/COLOR]</title>
 <link>$doregex[makelist]</link>
-<regex><name>makelist</name>
+<thumbnail>http://www.creativesatellite.co.uk/contents/media/l_brazzers400_20170924193626.jpg</thumbnail>
+<regex>
+<name>makelist</name>
 <listrepeat><![CDATA[
-<title>[makelist.param1]</title>
-<link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
-<thumbnail>https://i.ytimg.com/vi/[makelist.param2]/hqdefault.jpg</thumbnail>
+   <title>Link [makelist.param2]</title>
+   <link>plugin://program.plexus/?mode=1&amp;url=[makelist.param1]&amp;name=Link[makelist.param2]</link>
 ]]></listrepeat>
-<expres>title="(.*?)".*?watch\?v=(.*?)[",&amp;]</expres>
-<page>https://www.youtube.com/watch?v=q0hyYWKXF0Q</page>
+<expres><![CDATA[player\.php\?id=([^"]*)">[^\d]*(.*?)<]]></expres>
+<page>https://dailysport.pw/</page>
 </regex>
-<thumbnail>https://m.media-amazon.com/images/I/61u+uJh5yBL._SS500_.jpg</thumbnail>
 </item>
 
 <item>
