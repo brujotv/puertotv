@@ -1,16 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
-<item>
-<title>canal1</title>
-<link>$doregex[get_sxstream]|User-Agent=iPhone</link>
-<regex>
-<name>get_sxstream</name>
-<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
-<page>https://dailysport.pw/</page>
-<referer>https://dailysport.pw/</referer>
-<agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36</agent>
-</regex>
-</item>
+
 
 <item>
 <title>[COLOR lime]•[/COLOR] [COLOR red] Partidos[/COLOR] </title>
