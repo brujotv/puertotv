@@ -14,6 +14,9 @@ https://cdn11.dailysport.pw/live/4/4.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wCKyQjw.jpg" group-title="Deportes", [COLOR orange] Partidos Miercoles [/COLOR]
 https://cdn11.dailysport.pw/live/4/4.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wCKyQjw.jpg" group-title="Deportes", 21:00 [COLOR yellow] Real Madrid vs Manchester City [/COLOR] 
+https://g.dailysport.pw/x1/x1.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wCKyQjw.jpg" group-title="Deportes", [COLOR orange] Partidos Jueves [/COLOR]
 https://cdn11.dailysport.pw/live/4/4.m3u8
 
@@ -22,9 +25,6 @@ https://cdn11.dailysport.pw/live/4/4.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wCKyQjw.jpg" group-title="Deportes", [COLOR orange] Partidos Sabado [/COLOR]
 https://cdn11.dailysport.pw/live/4/4.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wCKyQjw.jpg" group-title="Deportes", 21:00 [COLOR yellow] Levante vs Real Madrid [/COLOR] 
-https://www.youtube.com/watch?v=nyxpKjrNcWc&t=90s
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wCKyQjw.jpg" group-title="Deportes", [COLOR orange] Partidos Domingo [/COLOR]
 https://cdn11.dailysport.pw/live/4/4.m3u8
