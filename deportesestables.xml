@@ -17,8 +17,14 @@ https://cdn11.dailysport.pw/live/4/4.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wCKyQjw.jpg" group-title="Deportes", 21:00 spa [COLOR yellow] Real Madrid vs Manchester City [/COLOR] 
 https://g.dailysport.pw/x1/x1.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wCKyQjw.jpg" group-title="Deportes", 21:00 spa [COLOR yellow] Real Madrid vs Manchester
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wCKyQjw.jpg" group-title="Deportes", 21:00 spa [COLOR yellow] Real Madrid vs Manchester City [/COLOR]
 http://185.233.186.251:8080/hls/streama119506/index.m3u8?st=IAQLEFLLlCilU9zq128dAQ
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wCKyQjw.jpg" group-title="Deportes", 21:00 spa [COLOR yellow] Real Madrid vs Manchester City [/COLOR]
+http://87.120.36.57:8080/hls/streama119521/index.m3u8?st=yMC2n6Xg0475bEFriZ_i3g
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wCKyQjw.jpg" group-title="Deportes", 21:00 spa [COLOR yellow] Real Madrid vs Manchester City [/COLOR]
+http://ul.cdn946.net:8080/hls/8rowcerv.m3u8?s=8mstyMTera-NcRnNJZoWBQ&e=1582767136
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wCKyQjw.jpg" group-title="Deportes", 21:00 eng [COLOR yellow] Real Madrid vs Manchester City [/COLOR] 
 https://g.dailysport.pw/x2/x2.m3u8
