@@ -17,11 +17,11 @@ https://cdn11.dailysport.pw/live/4/4.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wCKyQjw.jpg" group-title="Deportes", 21:00 spa [COLOR yellow] Real Madrid vs Manchester City [/COLOR] 
 https://g.dailysport.pw/x1/x1.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wCKyQjw.jpg" group-title="Deportes", 21:00 eng [COLOR yellow] Real Madrid vs Manchester City [/COLOR] 
-https://g.dailysport.pw/x2/x2.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wCKyQjw.jpg" group-title="Deportes", 21:00 spa [COLOR yellow] Real Madrid vs Manchester
+http://185.233.186.251:8080/hls/streama119506/index.m3u8?st=IAQLEFLLlCilU9zq128dAQ
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wCKyQjw.jpg" group-title="Deportes", 21:00 eng [COLOR yellow] Real Madrid vs Manchester City [/COLOR] 
-http://www.sportstream.live/es/player/024e6c9c3bd349bb2e61896fad977a0690d80f4d1e4fb99635f84f4196346bd68b5f46f0b84bbf6190d15319aa5d010a1bff90fa1498ae8ced057291561a1bdd/5e56c50a785ef
+https://g.dailysport.pw/x2/x2.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wCKyQjw.jpg" group-title="Deportes", [COLOR orange] Partidos Jueves [/COLOR]
 https://cdn11.dailysport.pw/live/4/4.m3u8
