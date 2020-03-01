@@ -1,4 +1,19 @@
-#EXTM3U DailySport https://dailysport.pw
+<item>
+ <title>[B][COLOR white]Canales Dazplayer[/COLOR][/B]</title>
+ <link>$doregex[cristalazul]</link>
+ <regex>
+ <name>naranjito</name>
+ <listrepeat><![CDATA[
+<title>[COLOR white][naranjito.param3][/COLOR]</title>
+<link>[cristalazul.param2]|Referer=https://dailysport.pw//&amp;User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64; rv:55.0) Gecko/20100101 Firefox/55.0</link>
+<thumbnail>[naranjito.param1]</thumbnail>
+<fanart>[cristalazul.param1]</fanart>
+]]></listrepeat>
+ <expres><![CDATA[(?s)src='(.*?)'.*?<a href='(.*?)'.*?playlist__track__title'>(.*?)<.*?]]></expres>
+ <page>https://dailysport.pw/</page>
+ </regex>
+   
+</item>#EXTM3U DailySport https://dailysport.pw
 
 
 
