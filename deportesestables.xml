@@ -3,7 +3,7 @@
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wCKyQjw.jpg" group-title="Deportes", [COLOR lime] CANAL (solo eventos) [/COLOR]
-http://188.76.79.40:80/ts/0
+http://95.16.242.85:80/ts/0
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wCKyQjw.jpg" group-title="Deportes", [COLOR orange] Partidos Lunes [/COLOR]
 https://cdn11.dailysport.pw/live/4/4.m3u8
@@ -26,23 +26,9 @@ https://cdn11.dailysport.pw/live/4/4.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wCKyQjw.jpg" group-title="Deportes", [COLOR orange] Partidos Domingo [/COLOR]
 https://cdn11.dailysport.pw/live/4/4.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wCKyQjw.jpg" group-title="Deportes", 16:00 [COLOR yellow] Espanyol vs At. Madrid [/COLOR] 
-http://video.assia.tv/hls/45.m3u8?md5=TLT0TsEqYW7vHOSXh_q1XA&expires=1583085636
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wCKyQjw.jpg" group-title="Deportes", 16:00 [COLOR yellow] Real Madrid vs FC Barcelona [/COLOR] 
+http://95.16.242.85:80/ts/0
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wCKyQjw.jpg" group-title="Deportes", 16:00 [COLOR yellow] Espanyol vs At. Madrid [/COLOR] 
-http://ul.cdn946.net:8080/hls/55ught5e.m3u8?s=MOvSgvLSP202IvjOcXIbPw&e=1583103798
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wCKyQjw.jpg" group-title="Deportes", 16:00 [COLOR yellow] Espanyol vs At. Madrid [/COLOR] 
-https://e2.cdn4.us/ingest09/33410.m3u8?sf=MTNwczEwU2JE&token=8C-PDxlTerU9IfNLERb2RA&expires=1583096757&rnd=
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wCKyQjw.jpg" group-title="Deportes", 16:00 [COLOR yellow] Espanyol vs At. Madrid [/COLOR] 
-http://estern.link/embed19.php
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wCKyQjw.jpg" group-title="Deportes", 16:00 [COLOR yellow] Espanyol vs At. Madrid [/COLOR] 
-https://bye1.xyz/live/bygak5vxs.m3u8?token=c2VydmVyX3RpbWU9MTU4MzA4MjU4NCZoYXNoX3ZhbHVlPVdnakZxYitZNmIzSWFNdTltWHZjTGc9PSZ2YWxpZG1pbnV0ZXM9MTA=
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wCKyQjw.jpg" group-title="Deportes", 16:00 [COLOR yellow] Espanyol vs At. Madrid [/COLOR] 
-https://m.dailysport.pw/x1/x1.m3u8
 
 
 
