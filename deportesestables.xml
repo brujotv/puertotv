@@ -30,8 +30,7 @@ https://cdn11.dailysport.pw/live/4/4.m3u8
 http://95.16.242.85:80/ts/0
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wCKyQjw.jpg" group-title="Deportes", 21:00 [COLOR yellow] Real Madrid vs FC Barcelona [/COLOR] 
-https://m.dailysport.pw/x1/x1.m3u8
-
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=https://m.dailysport.pw/x1/x1.m3u8
 
 
 
