@@ -1,6 +1,25 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
 <item>
+<title>SPORT | LIVE SPORT - CHANNEL 2</title>
+<thumbnail>https://i.imgur.com/99gUA0f.png</thumbnail>
+<fanart>https://i.imgur.com/eRgwqhO.png</fanart>     
+<link>https://m.dailysport.pw/x1/x1/$doregex[makelist1]/masterm.m3u8|Referer=$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<expres><![CDATA[iframe src="(.*?)"]]></expres>
+<page>https://dailysport.pw/embed/video.php?c1.php</page>
+<Agent>Mozilla/5.0 (Windows NT 10.0; rv:70.0) Gecko/20100101 Firefox/70.0</Agent>
+</regex>
+<regex>
+<name>makelist1</name>
+<expres><![CDATA[player","(.*?)"]]></expres>
+<page>$doregex[makelist]</page>
+<Agent>Mozilla/5.0 (Windows NT 10.0; rv:70.0) Gecko/20100101 Firefox/70.0</Agent>
+</regex>
+</item>
+
+<item>
 <title>SPORT | Daily Sport</title>
 <thumbnail>https://i.imgur.com/13Sc9ha.jpg</thumbnail> 
 <link>$doregex[makelist]</link>
