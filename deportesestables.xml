@@ -26,10 +26,10 @@ https://cdn11.dailysport.pw/live/4/4.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wCKyQjw.jpg" group-title="Deportes", [COLOR orange] Partidos Domingo [/COLOR]
 https://cdn11.dailysport.pw/live/4/4.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wCKyQjw.jpg" group-title="Deportes", 21:00 [COLOR yellow] Real Madrid vs FC Barcelona [/COLOR] 
-http://95.16.242.85:80/ts/0
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wCKyQjw.jpg" group-title="Deportes", [COLOR yellow] prueba 1 [/COLOR] 
+http://cdn1.hdstreams.club/live/ch1/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wCKyQjw.jpg" group-title="Deportes", [COLOR yellow] prueba [/COLOR] 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wCKyQjw.jpg" group-title="Deportes", [COLOR yellow] prueba 2 [/COLOR] 
 https://2201.janjua.pw:8088/live/estadi01/playlist.m3u8?id=96036&wowzasessionid=3159063454&pk=23f2c8e7305f427efd72fd5e2065441c13910445e550bda6a5cf1ca53d73bcf9
 
 
