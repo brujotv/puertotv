@@ -151,9 +151,23 @@ http://109.71.162.112/live/sd.jasminchannel.stream/chunklist_w233748568.m3u8?MWI
     mmsh://tv.webmisto.cz:7000
     #EXTINF:-1,Babestation XXX
     http://178.33.126.213:1935/iptv_cellcast_24/livestream1/chunklist.m3u8
-    #EXTINF:0,Babespotting
-    http://46.249.213.93/iPhone/broadcast/babespotting-iphone.3gp.m3u8
-    #EXTINF:0,Claro Adulto 18+
-    http://wowza1.videos.movile.com:8080/live/smil:adulto_1.smil/playlist.m3u8
-    #EXTINF:0 tvg-logo="ManhandleXXX.png" tvg-shift="4",ManhandleXXX
-    http://wowza1.videos.movile.com:8080/live/smil:adultopremium_1.smil/playlist.m3u8
+
+#EXTINF:0,Babespotting
+http://46.249.213.93/iPhone/broadcast/babespotting-iphone.3gp.m3u8
+
+#EXTINF:0,Claro Adulto 18+    
+http://wowza1.videos.movile.com:8080/live/smil:adulto_1.smil/playlist.m3u8
+    
+#EXTINF:0 tvg-logo="ManhandleXXX.png" tvg-shift="4",ManhandleXXX
+http://wowza1.videos.movile.com:8080/live/smil:adultopremium_1.smil/playlist.m3u8
+	
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/OlympicChannel/picture?width=320&height=320" group-title="Internacional" tvg-name="Olympic Channel",Olympic Channel
+http://ott-live.olympicchannel.com/out/u/OC1_1.m3u8
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/OlympicChannel/picture?width=320&height=320" group-title="Internacional" tvg-name="Olympic Channel",Olympic Channel
+http://ott-live.olympicchannel.com/out/u/OC2_1.m3u8
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/OlympicChannel/picture?width=320&height=320" group-title="Internacional" tvg-name="Olympic Channel",Olympic Channel
+http://ott-live.olympicchannel.com/out/u/OC3_1.m3u8
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/OlympicChannel/picture?width=320&height=320" group-title="Internacional" tvg-name="Olympic Channel",Olympic Channel
+http://ott-live.olympicchannel.com/out/u/OC4_1.m3u8
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/OlympicChannel/picture?width=320&height=320" group-title="Internacional" tvg-name="Olympic Channel",Olympic Channel
+http://ott-live.olympicchannel.com/out/u/OC5_1.m3u8
