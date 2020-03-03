@@ -1,4 +1,30 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+<item>
+<title>SPORT | Daily Sport</title>
+<thumbnail>https://i.imgur.com/13Sc9ha.jpg</thumbnail> 
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<title>[COLOR darkorange][makelist.param1] - [COLOR gold][makelist.param2][/COLOR]</title>
+<link>$doregex[getpage]|User-Agent=iPad</link>
+<thumbnail></thumbnail>
+]]></listrepeat>
+<expres><![CDATA[(?s)<tr>\n<td>([^<]+)<.+?<td>(?:<span.+?span>)?([^<]+).+?href=([^>]+)]]></expres>
+<page>https://dailysport.pw/</page>
+<setcookie>challenge=BitMitigate.com</setcookie>
+</regex>
+<regex>
+<name>getpage</name>
+<expres>source:\s*['"]([^'"]+)</expres>
+<page>https://dailysport.pw/[makelist.param3]</page>
+<setcookie>challenge=BitMitigate.com</setcookie>
+<referer>https://dailysport.pw/</referer>
+</regex>
+</item> 
+
+
 <items>
 
 <item>
