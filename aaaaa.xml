@@ -2,7 +2,7 @@
 <items>
 
 <item>
-<title>SPORT | dailysport canal 3</title>  
+<title>SPORT | dailysport 3</title>  
 <thumbnail></thumbnail>   
     <link>$doregex[geturl]|user-agent=ipad&amp;referer=https:$doregex[lacasitos]</link>
     <regex>
@@ -14,13 +14,13 @@
         <name>getunpacked</name>
         <expres>$pyFunction:get_unpacked(page_data,'(eval\(function\(p,a,c,k,e,d.*m3u8.*)')</expres>
         <page>https:$doregex[lacasitos]</page>
-        <referer>https://dailysport.pw/c3.php#</referer>
+        <referer>https://m.dailysport.pw/x3/x3.m3u8</referer>
     </regex>
     <regex>
         <name>lacasitos</name>
         <expres><![CDATA[iframe.+?src="(.+?)"]]></expres>
-        <page>https://dailysport.pw/c3.php#</page>
-        <referer>https://dailysport.pw/c3.php#</referer>
+        <page>https://m.dailysport.pw/x3/x3.m3u8</page>
+        <referer>https://m.dailysport.pw/x3/x3.m3u8</referer>
     </regex>
 </item> 
     
