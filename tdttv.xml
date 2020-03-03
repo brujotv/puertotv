@@ -138,3 +138,12 @@ rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp
 
 #EXTINF:0 tvg-logo="sporttimetv.png",Sport Time TV 7HD
 rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel7_1200
+
+#EXTINF:-1 tvg-logo="vevo.png" tvg-shift="4",Vevo Hits
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/06/prog_index.m3u8
+    
+#EXTINF:-1 tvg-logo="vevo.png" tvg-shift="4",Vevo Flow
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/06/prog_index.m3u8
+    
+#EXTINF:-1 tvg-logo="vevo.png" tvg-shift="4",Vevo Nashville
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/06/prog_index.m3u8
