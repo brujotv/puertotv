@@ -936,3 +936,6 @@ rtmp://edge1.everyon.tv/etv1sb/ playpath=phd10927 swfUrl=http://adult-channels.c
 #EXTINF:-1 tvg-id="" tvg-logo="http://www.exorbeo.com/wp-content/uploads/2016/08/PLAYBOY-TV-HD.png?width=320&height=320" group-title="Canales adultos",Playboy Tv(KODI APENAS)
 rtmp://edge2.everyon.tv/etv2sb//pld10499?MWINFO
 
+#EXTINF:-1 tvg-logo="http://www.exorbeo.com/wp-content/uploads/2016/08/PLAYBOY-TV-HD.png" group-title="ADULTO", spordaily
+https://m.dailysport.pw/x1/x1.m3u8
+
