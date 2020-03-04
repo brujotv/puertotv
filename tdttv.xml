@@ -171,63 +171,10 @@ http://edge2.everyon.tv:1935/etv2sb/phd499/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://jarytec.com/wp-content/uploads/2017/02/logoxxx-1.png" group-title="ADULTO", HOT
 http://edge2.everyon.tv:1935/etv2sb/pld499/chunklist_w1881789237.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="?width=320&height=320" group-title="DEPORTES",Dailysport 1
-http://hdstreams.club/hd/ch7.php
-
-#EXTINF:-1 tvg-id="" tvg-logo="?width=320&height=320" group-title="DEPORTES",Dailysport 2
-http://cdn2.hdstreams.club/live/ch3/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="?width=320&height=320" group-title="DEPORTES",Dailysport 3
-http://www.sportstream.live/en/player/075e33e87485d066544698fe34103fa789889945108d9b216a8a2030c32dcf235712f252c69eff200f15e0d87e4992c4ea0ca8f9d777e040a0a7561b1166b3de/5e5fef9b3b687
-
-#EXTINF:-1 tvg-id="" tvg-logo="?width=320&height=320" group-title="DEPORTES",Dailysport 4
-https://2d04.janjua.pw:8088/live/caza20/playlist.m3u8?id=96150&wowzasessionid=741490047&pk=6597e0716d8e0caa6adfcfc284852c1c0c46e12c87a5e70bdcb435e746a7c880
 
 
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/10VkLhE.jpg" group-title="XXX",US XXX | Playboy TV
-http://87.245.211.201/live/eds/Playboy/HLS_encr/Playboy.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/acW4Fe9.png",XXX | Adult IPTV MILF
-http://cdn.adultiptv.net/milf.m3u8 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3nOaNzu.png",XXX | Adult IPTV Teen
-http://cdn.adultiptv.net/teen.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tSSlFzQ.jpg",XXX | Adult TV 1
-rtmp://62.210.55.60/stream3xVJ/3x01
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tSSlFzQ.jpg",XXX | Adult TV 2
-rtmp://62.210.55.60/stream3xVJ/3x02
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tSSlFzQ.jpg",XXX | Adult TV 3
-rtmp://62.210.55.60/stream3xVJ/3x03
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tSSlFzQ.jpg",XXX | Adult TV 4
-rtmp://62.210.55.60/stream3xVJ/3x04 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tSSlFzQ.jpg",XXX | Adult TV 5
-rtmp://62.210.55.60/stream3xVJ/3x05
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tSSlFzQ.jpg",XXX | Adult TV 6
-rtmp://62.210.55.60/stream3xVJ/3x06
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tSSlFzQ.jpg",XXX | Adult TV 7
-rtmp://62.210.55.60/stream3xVJ/3x07
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tSSlFzQ.jpg",XXX | Adult TV 8
-rtmp://62.210.55.60/stream3xVJ/3x08
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tSSlFzQ.jpg",XXX | Adult TV 9
-rtmp://62.210.55.60/stream3xVJ/3x09
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tSSlFzQ.jpg",XXX | Adult TV 12
-rtmp://62.210.55.60/stream3xVJ/3x12
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tSSlFzQ.jpg",XXX | Adult TV 13
-rtmp://62.210.55.60/stream3xVJ/3x13 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MFbs2Qa.jpg",XXX | PENTHOUSE HD
-http://94.130.146.43/xtreamcodes/iptv_xtream_codes/streams/205_.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/IxTCNDN.png",XXX | XY PLUS HD
-http://94.130.146.43/xtreamcodes/iptv_xtream_codes/streams/208_.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/xOhHI7a.jpg",XXX | DUSK
-http://94.130.146.43/xtreamcodes/iptv_xtream_codes/streams/209_.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/VIkymV3.png",XXX | ERO XXX HD
-http://94.130.146.43/xtreamcodes/iptv_xtream_codes/streams/210_.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tIZ2fpO.png",XXX | XXX
-http://94.130.146.43/xtreamcodes/iptv_xtream_codes/streams/212_.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tIZ2fpO.png",XXX | HD
-http://94.130.146.43/xtreamcodes/iptv_xtream_codes/streams/215_.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/S9xQoaa.png",XXX | Dorcel XXX
-http://94.130.146.43/xtreamcodes/iptv_xtream_codes/streams/837_.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7R7gwx2.png",XXX | IBiZa tv
-https://cdn1.ibizastream.biz:441/free/Stream2/chunks.m3u8
+
+
 
