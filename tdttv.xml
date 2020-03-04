@@ -108,101 +108,11 @@ http://paramount.live.flumotion.com/live/chunks.m3u8
 #EXTINF:-1,REAL MADRID TV
 http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-b.m3u8?sd=10&rebase=on
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://photocall.tv/images/winsports.png" group-title="DEPORTES", WinSport Opc 2
-http://54.36.168.124:25461/live/154023m/tvpremiumhd.com/2725.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://photocall.tv/images/foxsports.png" group-title="DEPORTES", Fox Sports Opc 2
-http://54.36.168.124:25461/live/154023m/tvpremiumhd.com/2646.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://photocall.tv/images/foxsports.png" group-title="DEPORTES", Fox Sports Opc 3
-http://54.36.168.124:25461/live/154023m/tvpremiumhd.com/2717.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://photocall.tv/images/foxsports.png" group-title="DEPORTES", Fox Sports 2 Opc 2
-http://54.36.168.124:25461/live/154023m/tvpremiumhd.com/2643.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://photocall.tv/images/foxsports.png" group-title="DEPORTES", Fox Sports 2 Opc 3
-http://54.36.168.124:25461/live/154023m/tvpremiumhd.com/2715.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://photocall.tv/images/foxsports.png" group-title="DEPORTES", Fox Sports 3 Opc 2
-http://54.36.168.124:25461/live/154023m/tvpremiumhd.com/2642.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://photocall.tv/images/foxsports.png" group-title="DEPORTES", Fox Sports 3 Opc 3
-http://54.36.168.124:25461/live/154023m/tvpremiumhd.com/2716.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://photocall.tv/images/espn.png" group-title="DEPORTES", ESPN +
-http://54.36.168.124:25461/live/154023m/tvpremiumhd.com/2629.ts
-
 #EXTINF:-1 tvg-id="" tvg-logo="http://photocall.tv/images/fighttime.png" group-title="DEPORTES", Fight Time
 http://node01.openfutbol.es/SVoriginOperatorEdge/128761.smil/.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FTLjroU.png" group-title="DEPORTES", Sevilla FC
 http://sevillafc_live-lh.akamaihd.net/i/video_0@354142/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/x5jNF2N.png" group-title="DEPORTES", MLB
-http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.m3u8
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/Kkj5IF9.png"  group-title="DEPORTES", CDO Premium
-http://edge1.cl.grupoz.cl/cdofree/live/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DEPORTES", Claro Sports
-http://54.36.168.124:25461/live/154023m/tvpremiumhd.com/2718.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DEPORTES", Claro Sports 2
-http://54.36.168.124:25461/live/154023m/tvpremiumhd.com/2680.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DEPORTES", Golf Latin America
-http://54.36.168.124:25461/live/154023m/tvpremiumhd.com/2714.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DEPORTES", Las Estrellas
-http://54.36.168.124:25461/live/154023m/tvpremiumhd.com/1611.ts.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DEPORTES", Canal 5
-http://54.36.168.124:25461/live/154023m/tvpremiumhd.com/1116.ts.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DEPORTES", Galavision
-http://54.36.168.124:25461/live/154023m/tvpremiumhd.com/2405.ts.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DEPORTES", Unimas
-http://54.36.168.124:25461/live/154023m/tvpremiumhd.com/2165.ts.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DEPORTES", Afizzionados
-http://54.36.168.124:25461/live/154023m/tvpremiumhd.com/2434.ts.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DEPORTES", WWE
-http://54.36.168.124:25461/live/154023m/tvpremiumhd.com/1125.ts.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DEPORTES", TVC Deportes
-http://54.36.168.124:25461/live/154023m/tvpremiumhd.com/2157.ts.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DEPORTES", TyC Sports
-http://54.36.168.124:25461/live/154023m/tvpremiumhd.com/2065.ts.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DEPORTES", Toros
-http://54.36.168.124:25461/live/154023m/tvpremiumhd.com/2350.ts.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DEPORTES", Gol TV
-http://54.36.168.124:25461/live/154023m/tvpremiumhd.com/2990.ts
-
-#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-z2WHikByDeI/Ves0yhoDsJI/AAAAAAAAD50/CNAFvkQuWwE/s1600/ESPNDEPORTES.png" group-title="DEPORTES", ESPN DEPORTES
-http://149.56.26.6:25461/live/cgct05/PAkR2vXVcsffgg6k/40196.m3u8
-
-#EXTINF:-1tvg-logo="http://www.multicanalcatamayo.com/cablevisiondondiego/images/espn_lam_plus_andino.png" group-title="DEPORTES", ESPN+
-http://149.56.26.6:25461/live/cgct05/PAkR2vXVcsffgg6k/41128.m3u8
-
-#EXTINF:-1 tvg-logo="http://puu.sh/mbLur/cf2e6a6f87.png" group-title="DEPORTES", TDN
-http://149.56.26.6:25461/live/cgct03/oLHfZKDovtcxxcx/2629.m3u8
-
-#EXTINF:-1 tvg-logo="http://puu.sh/mbLur/cf2e6a6f87.png" group-title="DEPORTES", TDN
-http://149.56.26.6:25461/live/cgct05/PAkR2vXVcsffgg6k/66411.m3u8
-
-#EXTINF:-1 tvg-logo="http://puu.sh/mbLw0/cf67511fa3.png" group-title="DEPORTES", Univision TDN
-http://149.56.26.6:25461/live/cgct05/PAkR2vXVcsffgg6k/159625.m3u8
-
-#EXTINF:-1 tvg-logo="http://puu.sh/mbLw0/cf67511fa3.png" group-title="DEPORTES", Univision TDN
-http://149.56.26.6:25461/live/cgct03/oLHfZKDovtcxxcx/159625.m3u8
-
-#EXTINF:-1 tvg-logo="http://allvectorlogo.com/img/2016/07/univision-deportes-logo.png" group-title="DEPORTES", Univision Deportes
-http://149.56.26.6:25461/live/cgct05/PAkR2vXVcsffgg6k/14892.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://graph.facebook.com/OlympicChannel/picture?width=320&height=320" group-title="DEPORTES" ,Olympic Channel 1
 http://ott-live.olympicchannel.com/out/u/OC1_1.m3u8
@@ -237,5 +147,5 @@ http://edge2.everyon.tv:1935/etv2sb/pld499/chunklist_w1881789237.m3u8
 #EXTINF:-1 tvg-logo="http://puu.sh/nvrR5/1bb233b647.png" group-title="ADULTO", Miami TV
 http://usaserver.miamitvchannel.com/miamitv/smil:miamitv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="?width=320&height=320" group-title="",Dailysport
-https://m.dailysport.pw/x1/x1.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="?width=320&height=320" group-title="DEPORTES",Dailysport
+http://127.0.0.1:6878/ace/m/9e3e8431f9b82a865aa70bfafc97678fb32e073f/f528764d624db129b32c21fbca0cb8d6.m3u8
