@@ -225,5 +225,14 @@ http://stream.visit-x.tv:1935/vxtv/live/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://lh6.ggpht.com/_9PDHPy5tdyU/S70enxyhZ9I/AAAAAAAAAH4/MHpKKNOd6Ts/classificacao_indicativa_18_anos_thumb%5B1%5D.gif?width=320&height=320" group-title="ADULTO", Jasmin Channel 
 http://109.71.162.112/live/sd.jasminchannel.stream/chunklist_w233748568.m3u8?MWINFO
  
+#EXTINF:-1 tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/4/48/Logo_venus_out_color.jpg" group-title="ADULTO", VENUS
+http://edge2.everyon.tv:1935/etv2sb/phd499/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://jarytec.com/wp-content/uploads/2017/02/logoxxx-1.png" group-title="ADULTO", HOT
+http://edge2.everyon.tv:1935/etv2sb/pld499/chunklist_w1881789237.m3u8
+
+#EXTINF:-1 tvg-logo="http://puu.sh/nvrR5/1bb233b647.png" group-title="ADULTO", Miami TV
+http://usaserver.miamitvchannel.com/miamitv/smil:miamitv/playlist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="?width=320&height=320" group-title="",Dailysport
 https://m.dailysport.pw/x1/x1.m3u8
