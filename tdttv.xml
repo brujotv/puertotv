@@ -105,69 +105,27 @@ http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl8/24h_onlydash_
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/GwoWMlF.jpg/picture?width=320&height=320" group-title="TDT España",Paramount Channel
 http://paramount.live.flumotion.com/live/chunks.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/dCI1w14.jpg" group-title="ADULTO",XXX | BSX
+#EXTINF:-1 tvg-id="" tvg-logo="https://graph.facebook.com/OlympicChannel/picture?width=320&height=320" group-title="DEPORTES" tvg-name="Olympic Channel",Olympic Channel 1
+http://ott-live.olympicchannel.com/out/u/OC1_1.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://graph.facebook.com/OlympicChannel/picture?width=320&height=320" group-title="DEPORTES" tvg-name="Olympic Channel",Olympic Channel 2
+http://ott-live.olympicchannel.com/out/u/OC2_1.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://graph.facebook.com/OlympicChannel/picture?width=320&height=320" group-title="DEPORTES" tvg-name="Olympic Channel",Olympic Channel 3
+http://ott-live.olympicchannel.com/out/u/OC3_1.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://graph.facebook.com/OlympicChannel/picture?width=320&height=320" group-title="DEPORTES" tvg-name="Olympic Channel",Olympic Channel 4
+http://ott-live.olympicchannel.com/out/u/OC4_1.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://graph.facebook.com/OlympicChannel/picture?width=320&height=320" group-title="DEPORTES" tvg-name="Olympic Channel",Olympic Channel 5
+http://ott-live.olympicchannel.com/out/u/OC5_1.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/dCI1w14.jpg?width=320&height=320" group-title="ADULTO",XXX | BSX
 http://publish.firestormmedia.tv:1935/bsx24/livestream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ADULTO",Visit-X
-
+#EXTINF:-1 tvg-id="" tvg-logo="http://lh6.ggpht.com/_9PDHPy5tdyU/S70enxyhZ9I/AAAAAAAAAH4/MHpKKNOd6Ts/classificacao_indicativa_18_anos_thumb%5B1%5D.gif?width=320&height=320" group-title="ADULTO",Visit-X
 http://stream.visit-x.tv:1935/vxtv/live/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://lh6.ggpht.com/_9PDHPy5tdyU/S70enxyhZ9I/AAAAAAAAAH4/MHpKKNOd6Ts/classificacao_indicativa_18_anos_thumb%5B1%5D.gif" group-title="ADULTO", Jasmin Channel 720P
+#EXTINF:-1 tvg-id="" tvg-logo="http://lh6.ggpht.com/_9PDHPy5tdyU/S70enxyhZ9I/AAAAAAAAAH4/MHpKKNOd6Ts/classificacao_indicativa_18_anos_thumb%5B1%5D.gif?width=320&height=320" group-title="ADULTO", Jasmin Channel 
 http://109.71.162.112/live/sd.jasminchannel.stream/chunklist_w233748568.m3u8?MWINFO
  
- #EXTINF:-1,ButGo
-    http://edge2.everyon.tv:1935/etv2sb/phd772/huraivza.m3u8
-    #EXTINF:-1,Play Boy
-    http://edge2.everyon.tv:1935/etv2sb/phd769/huraivza.m3u8
-    #EXTINF:-1,XXX 1
-    http://playback.d2see.com:1935/wavemachine-live01/_definst_/mp4:playboytv_channel1/chunklist_w95313209.m3u8
-    #EXTINF:-1,XXX 2
-    http://edge2.everyon.tv:1935/etv2sb/phd64/huraivza.m3u8
-    #EXTINF:-1,XXX 3
-    http://bit.ly/1OTpsk8
-    #EXTINF:-1,XXX 4
-    http://edge2.everyon.tv:1935/etv2sb/phd771/huraivza.m3u8
-    #EXTINF:-1,Jasmin TV Adulto
-    http://109.71.162.112:1935/live/sd.jasminchannel.stream/media.m3u8
-    #EXTINF:0,O-la-la
-    http://hlsstr04.svc.iptv.rt.ru/hls/CH_OLALA/variant.m3u8?version=2
-    #EXTINF:0,Blue Hustler
-    http://hlsstr04.svc.iptv.rt.ru/hls/CH_BLUEHUSTLER/variant.m3u8?version=2
-    #EXTINF:-1,Blue Hustler
-    http://46.61.226.21/hls/CH_BLUEHUSTLER/variant.m3u8?version=2
-    #EXTINF:-1,Play Boy
-    http://46.61.226.21/hls/CH_PLAYBOY/variant.m3u8?version=2
-    #EXTINF:-1,XXL
-    http://hlsstr01.svc.iptv.rt.ru/hls/CH_XXL/variant.m3u8?version=2
-    #EXTINF:-1,Brazzers TV
-    http://hlsstr04.svc.iptv.rt.ru/hls/CH_BRAZZERSTV/variant.m3u8?version=2
-    #EXTINF:-1,LiveSex Latinas
-    http://178.33.126.213:1935/leved/livesexlatinas/chunklist.m3u8?
-    #EXTINF:-1,Playboy TV
-    http://hlsstr04.svc.iptv.rt.ru/hls/CH_PLAYBOY/bw1500000/variant.m3u8?version=2
-    #EXTINF:-1,Private.com
-    http://178.33.126.213:1935/leved/privateCom/.m3u8
-    #EXTINF:-1,Sex 18+
-    mmsh://tv.webmisto.cz:7000
-    #EXTINF:-1,Babestation XXX
-    http://178.33.126.213:1935/iptv_cellcast_24/livestream1/chunklist.m3u8
-
-#EXTINF:0,Babespotting
-http://46.249.213.93/iPhone/broadcast/babespotting-iphone.3gp.m3u8
-
-#EXTINF:0,Claro Adulto 18+    
-http://wowza1.videos.movile.com:8080/live/smil:adulto_1.smil/playlist.m3u8
-    
-#EXTINF:0 tvg-logo="ManhandleXXX.png" tvg-shift="4",ManhandleXXX
-http://wowza1.videos.movile.com:8080/live/smil:adultopremium_1.smil/playlist.m3u8
-	
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/OlympicChannel/picture?width=320&height=320" group-title="Internacional" tvg-name="Olympic Channel",Olympic Channel
-http://ott-live.olympicchannel.com/out/u/OC1_1.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/OlympicChannel/picture?width=320&height=320" group-title="Internacional" tvg-name="Olympic Channel",Olympic Channel
-http://ott-live.olympicchannel.com/out/u/OC2_1.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/OlympicChannel/picture?width=320&height=320" group-title="Internacional" tvg-name="Olympic Channel",Olympic Channel
-http://ott-live.olympicchannel.com/out/u/OC3_1.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/OlympicChannel/picture?width=320&height=320" group-title="Internacional" tvg-name="Olympic Channel",Olympic Channel
-http://ott-live.olympicchannel.com/out/u/OC4_1.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/OlympicChannel/picture?width=320&height=320" group-title="Internacional" tvg-name="Olympic Channel",Olympic Channel
-http://ott-live.olympicchannel.com/out/u/OC5_1.m3u8
