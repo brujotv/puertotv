@@ -153,5 +153,12 @@ plugin://plugin.video.torrentin/?uri=http://127.0.0.1:6878/ace/m/9e3e8431f9b82a8
 #EXTINF:-1 tvg-id="" tvg-logo="?width=320&height=320" group-title="DEPORTES",Dailysport 2
 http://www.sportstream.live/en/player/075e33e87485d066544698fe34103fa789889945108d9b216a8a2030c32dcf235712f252c69eff200f15e0d87e4992c4ea0ca8f9d777e040a0a7561b1166b3de/5e5fe68b2aff8
 
-#EXTINF:-1 tvg-id="" tvg-logo="?width=320&height=320" group-title="DEPORTES",Dailysport 2	
+#EXTINF:-1 tvg-id="" tvg-logo="?width=320&height=320" group-title="DEPORTES",Dailysport 3
 https://2204.janjua.pw:8088/live/estadi01/playlist.m3u8?id=96036&wowzasessionid=3312233991&pk=6597e0716d8e0caa6adfcfc284852c1c0c46e12c87a5e70bdcb435e746a7c880
+
+#EXTINF:-1 tvg-id="" tvg-logo="?width=320&height=320" group-title="DEPORTES",Dailysport 4
+https://2d04.janjua.pw:8088/live/caza20/playlist.m3u8?id=96150&wowzasessionid=741490047&pk=6597e0716d8e0caa6adfcfc284852c1c0c46e12c87a5e70bdcb435e746a7c880
+
+
+
+
