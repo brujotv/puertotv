@@ -93,6 +93,9 @@ https://paramount-live.flumotion.com/live/playlist.m3u8
 #EXTINF:-1 tvg-id="13.TDTChannelsEPG" tvg-logo="https://graph.facebook.com/TRECEtves/picture?width=320&height=320" group-title="TDT España",TRECE
 http://streaming.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/live.smil/master.m3u8
 
+#EXTINF:-1 tvg-id="DKISS.TDTChannelsEPG" tvg-logo="?width=320&height=320" group-title="TDT España",Dkiss
+https://2d04.janjua.pw:8088/live/dkiss20/playlist.m3u8?id=96152&wowzasessionid=7383849637&pk=6597e0716d8e0caa6adfcfc284852c1c0c46e12c87a5e70bdcb435e746a7c880
+
 #EXTINF:-1 tvg-id="DMax.TDTChannelsEPG" tvg-logo="https://i.imgur.com/x4fGu91.png/picture?width=320&height=320" group-title="TDT España",DMax
 http://91.126.141.12:1935/live/discoverymax/playlist.m3u8
 
@@ -111,7 +114,10 @@ https://2204.janjua.pw:8088/live/estadi01/playlist.m3u8?id=96036&wowzasessionid=
 #EXTINF:-1 tvg-id="" tvg-logo="?width=320&height=320" group-title="DEPORTES",M.liga campeones	
 https://2208.janjua.pw:8088/live/estadi01/playlist.m3u8?id=96036&wowzasessionid=646784180&pk=6597e0716d8e0caa6adfcfc284852c1c0c46e12c87a5e70bdcb435e746a7c880
 
-#EXTINF:-1,REAL MADRID TV
+#EXTINF:-1 tvg-id="" tvg-logo="?width=320&height=320" group-title="DEPORTES",Gol tv
+https://2d01.janjua.pw:8088/live/estadi4/playlist.m3u8?id=89407&wowzasessionid=926692223&pk=6597e0716d8e0caa6adfcfc284852c1c0c46e12c87a5e70bdcb435e746a7c880
+
+#EXTINF:-1 tvg-id="RMTV.TDTChannelsEPG" tvg-logo="?width=320&height=320" group-title="DEPORTES",Real Madrid TV
 http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-b.m3u8?sd=10&rebase=on
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://photocall.tv/images/fighttime.png" group-title="DEPORTES", Fight Time
@@ -154,17 +160,13 @@ http://edge2.everyon.tv:1935/etv2sb/pld499/chunklist_w1881789237.m3u8
 http://usaserver.miamitvchannel.com/miamitv/smil:miamitv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="?width=320&height=320" group-title="DEPORTES",Dailysport 1
-plugin://plugin.video.torrentin/?uri=http://127.0.0.1:6878/ace/m/9e3e8431f9b82a865aa70bfafc97678fb32e073f/f528764d624db129b32c21fbca0cb8d6.m3u8
+http://127.0.0.1:6878/ace/m/9e3e8431f9b82a865aa70bfafc97678fb32e073f/f528764d624db129b32c21fbca0cb8d6.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="?width=320&height=320" group-title="DEPORTES",Dailysport 2
 http://www.sportstream.live/en/player/075e33e87485d066544698fe34103fa789889945108d9b216a8a2030c32dcf235712f252c69eff200f15e0d87e4992c4ea0ca8f9d777e040a0a7561b1166b3de/5e5fe68b2aff8
 
-#EXTINF:-1 tvg-id="" tvg-logo="?width=320&height=320" group-title="DEPORTES",Dailysport 3
-https://2d04.janjua.pw:8088/live/dkiss20/playlist.m3u8?id=96152&wowzasessionid=7383849637&pk=6597e0716d8e0caa6adfcfc284852c1c0c46e12c87a5e70bdcb435e746a7c880
-
 #EXTINF:-1 tvg-id="" tvg-logo="?width=320&height=320" group-title="DEPORTES",Dailysport 4
 https://2d04.janjua.pw:8088/live/caza20/playlist.m3u8?id=96150&wowzasessionid=741490047&pk=6597e0716d8e0caa6adfcfc284852c1c0c46e12c87a5e70bdcb435e746a7c880
 
-#EXTINF:-1 tvg-id="" tvg-logo="?width=320&height=320" group-title="DEPORTES",Dailysport 5
-https://2d01.janjua.pw:8088/live/estadi4/playlist.m3u8?id=89407&wowzasessionid=926692223&pk=6597e0716d8e0caa6adfcfc284852c1c0c46e12c87a5e70bdcb435e746a7c880
+
 
