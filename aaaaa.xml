@@ -1,5 +1,111 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
+
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+
+<item>
+<title>[COLOR blue][COLOR blue]-[/COLOR]deportes hoy pulsar aquí primero</title>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<link>plugin://plugin.program.chrome.launcher/?kiosk=yes&amp;url=https://dailysport.pw/login&amp;mode=showSite&amp;stopPlayback=yes</link>
+<item>
+
+<title>[COLOR blue][COLOR blue]-[/COLOR]Mirandés vs Real Sociedad</title>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<link>plugin://plugin.program.chrome.launcher/?kiosk=yes&amp;url=https://m.dailysport.pw/x1/x1.m3u8&amp;mode=showSite&amp;stopPlayback=yes</link>
+<item>
+
+<item>
+<title>[COLOR blue][COLOR blue]-[/COLOR]Mirandés vs Real Sociedad (English)</title>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<link>plugin://plugin.program.chrome.launcher/?kiosk=yes&amp;url=https://m.dailysport.pw/x2/x2.m3u8&amp;mode=showSite&amp;stopPlayback=yes</link>
+<item>
+
+
+<item>
+<title>[COLOR blue][COLOR blue]-[/COLOR] Lyon vs PSG</title>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<link>plugin://plugin.program.chrome.launcher/?kiosk=yes&amp;url=https://m.dailysport.pw/x3/x3.m3u8&amp;mode=showSite&amp;stopPlayback=yes</link>
+<item>
+
+<item>
+<title>[COLOR blue][COLOR blue]-[/COLOR] Lyon vs PSG (English)</title>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<link>plugin://plugin.program.chrome.launcher/?kiosk=yes&amp;url=https://m.dailysport.pw/x4/x4.m3u8&amp;mode=showSite&amp;stopPlayback=yes</link>
+<item>
+
+<item>
+<title>[COLOR blue][COLOR blue]-[/COLOR]Tottenham vs Norwich</title>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<link>plugin://plugin.program.chrome.launcher/?kiosk=yes&amp;url=https://m.dailysport.pw/x6/x6.m3u8&amp;mode=showSite&amp;stopPlayback=yes</link>
+<item>
+
+<item>
+<title>[COLOR blue][COLOR blue]-[/COLOR]Tottenham vs Norwich (English)</title>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<link>plugin://plugin.program.chrome.launcher/?kiosk=yes&amp;url=https://m.dailysport.pw/x7/x7.m3u8&amp;mode=showSite&amp;stopPlayback=yes</link>
+<item>
+
+<item>
+<title>[COLOR blue][COLOR blue]-[/COLOR]Sheffield Wednesday vs Manchester City</title>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<link>plugin://plugin.program.chrome.launcher/?kiosk=yes&amp;url=https://m.dailysport.pw/x8/x8.m3u8&amp;mode=showSite&amp;stopPlayback=yes</link>
+<item>
+
+<item>
+<title>[COLOR blue][COLOR blue]-[/COLOR]Sheffield Wednesday vs Manchester City(English)</title>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<link>plugin://plugin.program.chrome.launcher/?kiosk=yes&amp;url=https://m.dailysport.pw/aa9/x9.m3u8&amp;mode=showSite&amp;stopPlayback=yes</link>
+<item>
+
+<item>
+<title>[COLOR blue][COLOR blue]-[/COLOR]Leicester City vs Birmingham City</title>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<link>plugin://plugin.program.chrome.launcher/?kiosk=yes&amp;url=https://m.dailysport.pw/x12/x12.m3u8&amp;mode=showSite&amp;stopPlayback=yes</link>
+<item>
+
+<item>
+<title>[COLOR blue][COLOR blue]-[/COLOR]Leicester City vs Birmingham City(English)</title>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<link>plugin://plugin.program.chrome.launcher/?kiosk=yes&amp;url=https://m.dailysport.pw/x13/x13.m3u8&amp;mode=showSite&amp;stopPlayback=yes</link>
+<item>
+
+<item>
+<title>[COLOR blue][COLOR blue]-[/COLOR]ALBA Berlin vs Barça Basket</title>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<link>plugin://plugin.program.chrome.launcher/?kiosk=yes&amp;url=https://m.dailysport.pw/x10/x10.m3u8&amp;mode=showSite&amp;stopPlayback=yes</link>
+<item>
+
+<item>
+<title>[COLOR blue][COLOR blue]-[/COLOR]FC Bayern vs Kirolbet Baskonia</title>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<link>plugin://plugin.program.chrome.launcher/?kiosk=yes&amp;url=https://m.dailysport.pw/x11/x11.m3u8&amp;mode=showSite&amp;stopPlayback=yes</link>
+<item>
+
+
+<item>
+<title>[COLOR blue][COLOR blue]-[/COLOR]ACTIVADOR</title>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<link>plugin://plugin.program.chrome.launcher/?kiosk=yes&amp;url=https://dailysport.pw/c1.php&amp;mode=showSite&amp;stopPlayback=yes</link>
+<item>
+
+
+
+
 <item>
 <title>SPORT | LIVE SPORT - CHANNEL 2</title>
 <thumbnail>https://i.imgur.com/99gUA0f.png</thumbnail>
