@@ -105,19 +105,19 @@ http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl8/24h_onlydash_
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/GwoWMlF.jpg/picture?width=320&height=320" group-title="TDT España",Paramount Channel
 http://paramount.live.flumotion.com/live/chunks.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://graph.facebook.com/OlympicChannel/picture?width=320&height=320" group-title="DEPORTES" tvg-name="Olympic Channel",Olympic Channel 1
+#EXTINF:-1 tvg-id="" tvg-logo="https://graph.facebook.com/OlympicChannel/picture?width=320&height=320" group-title="DEPORTES" ,Olympic Channel 1
 http://ott-live.olympicchannel.com/out/u/OC1_1.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://graph.facebook.com/OlympicChannel/picture?width=320&height=320" group-title="DEPORTES" tvg-name="Olympic Channel",Olympic Channel 2
+#EXTINF:-1 tvg-id="" tvg-logo="https://graph.facebook.com/OlympicChannel/picture?width=320&height=320" group-title="DEPORTES" ,Olympic Channel 2
 http://ott-live.olympicchannel.com/out/u/OC2_1.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://graph.facebook.com/OlympicChannel/picture?width=320&height=320" group-title="DEPORTES" tvg-name="Olympic Channel",Olympic Channel 3
+#EXTINF:-1 tvg-id="" tvg-logo="https://graph.facebook.com/OlympicChannel/picture?width=320&height=320" group-title="DEPORTES" ,Olympic Channel 3
 http://ott-live.olympicchannel.com/out/u/OC3_1.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://graph.facebook.com/OlympicChannel/picture?width=320&height=320" group-title="DEPORTES" tvg-name="Olympic Channel",Olympic Channel 4
+#EXTINF:-1 tvg-id="" tvg-logo="https://graph.facebook.com/OlympicChannel/picture?width=320&height=320" group-title="DEPORTES" ,Olympic Channel 4
 http://ott-live.olympicchannel.com/out/u/OC4_1.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://graph.facebook.com/OlympicChannel/picture?width=320&height=320" group-title="DEPORTES" tvg-name="Olympic Channel",Olympic Channel 5
+#EXTINF:-1 tvg-id="" tvg-logo="https://graph.facebook.com/OlympicChannel/picture?width=320&height=320" group-title="DEPORTES" ,Olympic Channel 5
 http://ott-live.olympicchannel.com/out/u/OC5_1.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/dCI1w14.jpg?width=320&height=320" group-title="ADULTO",XXX | BSX
