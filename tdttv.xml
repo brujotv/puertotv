@@ -172,7 +172,7 @@ http://edge2.everyon.tv:1935/etv2sb/phd499/playlist.m3u8
 http://edge2.everyon.tv:1935/etv2sb/pld499/chunklist_w1881789237.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="?width=320&height=320" group-title="DEPORTES",Dailysport 1
-http://cdn2.hdstreams.club/live/ch7/index.m3u8
+http://hdstreams.club/hd/ch7.php
 
 #EXTINF:-1 tvg-id="" tvg-logo="?width=320&height=320" group-title="DEPORTES",Dailysport 2
 http://cdn2.hdstreams.club/live/ch3/index.m3u8
