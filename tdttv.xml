@@ -149,7 +149,16 @@ http://stream.visit-x.tv:1935/vxtv/live/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://lh6.ggpht.com/_9PDHPy5tdyU/S70enxyhZ9I/AAAAAAAAAH4/MHpKKNOd6Ts/classificacao_indicativa_18_anos_thumb%5B1%5D.gif?width=320&height=320" group-title="ADULTO", Jasmin Channel 
 http://109.71.162.112/live/sd.jasminchannel.stream/chunklist_w233748568.m3u8?MWINFO
- 
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9J5o9rt.png",XXX | Passion XXX
+http://publish.thewebstream.co:1935/ppv/_definst_/rampanttv_passionxxx/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ikorRe8.png",CA XXX | A3BIKINI TV
+https://vcnbikininetwork.teleosmedia.com/stream/bikininetwork/a3bikini/seglist_720p.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JgcUO21.jpg",HU XXX | Super One HD
+http://188.35.9.5:10007/stolen/246r/parasite.install
+
 #EXTINF:-1 tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/4/48/Logo_venus_out_color.jpg" group-title="ADULTO", VENUS
 http://edge2.everyon.tv:1935/etv2sb/phd499/playlist.m3u8
 
@@ -160,7 +169,7 @@ http://edge2.everyon.tv:1935/etv2sb/pld499/chunklist_w1881789237.m3u8
 http://usaserver.miamitvchannel.com/miamitv/smil:miamitv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="?width=320&height=320" group-title="DEPORTES",Dailysport 1
-http://127.0.0.1:6878/ace/m/9e3e8431f9b82a865aa70bfafc97678fb32e073f/f528764d624db129b32c21fbca0cb8d6.m3u8
+http://cdn2.hdstreams.club/live/ch7/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="?width=320&height=320" group-title="DEPORTES",Dailysport 2
 http://www.sportstream.live/en/player/075e33e87485d066544698fe34103fa789889945108d9b216a8a2030c32dcf235712f252c69eff200f15e0d87e4992c4ea0ca8f9d777e040a0a7561b1166b3de/5e5fe68b2aff8
@@ -171,14 +180,12 @@ http://www.sportstream.live/en/player/075e33e87485d066544698fe34103fa78988994510
 #EXTINF:-1 tvg-id="" tvg-logo="?width=320&height=320" group-title="DEPORTES",Dailysport 4
 https://2d04.janjua.pw:8088/live/caza20/playlist.m3u8?id=96150&wowzasessionid=741490047&pk=6597e0716d8e0caa6adfcfc284852c1c0c46e12c87a5e70bdcb435e746a7c880
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9J5o9rt.png",XXX | Passion XXX
-http://publish.thewebstream.co:1935/ppv/_definst_/rampanttv_passionxxx/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dCI1w14.jpg",XXX UK | BSX
 http://publish.firestormmedia.tv:1935/bsx24/livestream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AHHE8Rt.png",DE XXX | Babestation24
 https://sdn-global-live-http-cache.3qsdn.com/live/_definst_/amlst:9528-mbr/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ikorRe8.png",CA XXX | A3BIKINI TV
-https://vcnbikininetwork.teleosmedia.com/stream/bikininetwork/a3bikini/seglist_720p.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/N8Z939N.png",CN XXX | HOT
 http://204.45.182.172:26789/i/ghjnvq5o/8c855d75/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1kB5Mk6.png",CN XXX | Rainbow TV
@@ -209,8 +216,7 @@ http://204.45.182.172:26789/i/ghjnvq5o/91bnjred/index.m3u8
 http://204.45.182.172:26789/i/ghjnvq5o/8jainsbq/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6wjMqzM.png",CN XXX | XCafe Erotic
 http://204.45.182.172:26789/i/ghjnvq5o/v19a2133/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/JgcUO21.jpg",HU XXX | Super One HD
-http://188.35.9.5:10007/stolen/246r/parasite.install
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JgcUO21.jpg",HU XXX | Super One HD
 http://94.130.146.43/xtreamcodes/iptv_xtream_codes/streams/206_.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MUqhthE.jpg",XXX | Penthouse Passion
