@@ -175,7 +175,7 @@ http://edge2.everyon.tv:1935/etv2sb/pld499/chunklist_w1881789237.m3u8
 http://cdn2.hdstreams.club/live/ch7/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="?width=320&height=320" group-title="DEPORTES",Dailysport 2
-http://www.sportstream.live/en/player/075e33e87485d066544698fe34103fa789889945108d9b216a8a2030c32dcf235712f252c69eff200f15e0d87e4992c4ea0ca8f9d777e040a0a7561b1166b3de/5e5fe68b2aff8
+http://cdn2.hdstreams.club/live/ch3/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="?width=320&height=320" group-title="DEPORTES",Dailysport 3
 http://www.sportstream.live/en/player/075e33e87485d066544698fe34103fa789889945108d9b216a8a2030c32dcf235712f252c69eff200f15e0d87e4992c4ea0ca8f9d777e040a0a7561b1166b3de/5e5fef9b3b687
