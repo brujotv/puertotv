@@ -150,19 +150,19 @@ http://stream.visit-x.tv:1935/vxtv/live/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://lh6.ggpht.com/_9PDHPy5tdyU/S70enxyhZ9I/AAAAAAAAAH4/MHpKKNOd6Ts/classificacao_indicativa_18_anos_thumb%5B1%5D.gif?width=320&height=320" group-title="ADULTO", Jasmin Channel 
 http://109.71.162.112/live/sd.jasminchannel.stream/chunklist_w233748568.m3u8?MWINFO
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9J5o9rt.png",XXX | Passion XXX
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9J5o9rt.png" group-title="ADULTO",XXX | Passion XXX
 http://publish.thewebstream.co:1935/ppv/_definst_/rampanttv_passionxxx/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ikorRe8.png",CA XXX | A3BIKINI TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ikorRe8.png" group-title="ADULTO",CA XXX | A3BIKINI TV
 https://vcnbikininetwork.teleosmedia.com/stream/bikininetwork/a3bikini/seglist_720p.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/JgcUO21.jpg",HU XXX | Super One HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JgcUO21.jpg" group-title="ADULTO",HU XXX | Super One HD
 http://188.35.9.5:10007/stolen/246r/parasite.install
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/WlrcyMe.png" group-title="XXX",US XXX | Miami TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WlrcyMe.png" group-title="ADULTO",US XXX | Miami TV
 https://59ec5453559f0.streamlock.net/miamitv/smil:miamitvROKU/chunklist_w1195980091_b2592000.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/WlrcyMe.png" group-title="XXX",US XXX | Miami TV Jenny Live
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WlrcyMe.png" group-title="ADULTO",US XXX | Miami TV Jenny Live
 https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexicoROKU/chunklist_w1869403172_b1896000.m3u8
 
 #EXTINF:-1 tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/4/48/Logo_venus_out_color.jpg" group-title="ADULTO", VENUS
