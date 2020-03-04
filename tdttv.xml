@@ -117,7 +117,7 @@ https://nl2.streamlive.to/freeabr/5vg1z99jso9w3ed/rtmp/5vg1z99jso9w3ed/chunks.m3
 #EXTINF:-1 tvg-id="GOL.TDTChannelsEPG" tvg-logo="?width=320&height=320" group-title="DEPORTES",Gol tv
 https://2d01.janjua.pw:8088/live/estadi4/playlist.m3u8?id=89407&wowzasessionid=926692223&pk=6597e0716d8e0caa6adfcfc284852c1c0c46e12c87a5e70bdcb435e746a7c880
 
-#EXTINF:-1 tvg-id="RMTV.TDTChannelsEPG" tvg-logo="?width=320&height=320" group-title="DEPORTES",Real Madrid TV
+#EXTINF:-1 tvg-id="RMTV.TDTChannelsEPG" tvg-logo="https://i.imgur.com/2M9WfqA.jpg?width=320&height=320" group-title="DEPORTES",Real Madrid TV
 http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-b.m3u8?sd=10&rebase=on
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://photocall.tv/images/fighttime.png" group-title="DEPORTES", Fight Time
@@ -171,6 +171,49 @@ http://www.sportstream.live/en/player/075e33e87485d066544698fe34103fa78988994510
 #EXTINF:-1 tvg-id="" tvg-logo="?width=320&height=320" group-title="DEPORTES",Dailysport 4
 https://2d04.janjua.pw:8088/live/caza20/playlist.m3u8?id=96150&wowzasessionid=741490047&pk=6597e0716d8e0caa6adfcfc284852c1c0c46e12c87a5e70bdcb435e746a7c880
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/9OirosV.png" group-title="",Canal Sur Andalucia
+http://canalsur-pair302-live.hls.adaptive.level3.net/egress/bhandler/sandetel/rtva/master.m3u8?fluxustv.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/3siqxhh.png" group-title="",Canal Sur Cocina
+http://593fa17dec176.streamlock.net:1935/cscocina/cscocina.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/3siqxhh.png" group-title="",Canal Sur Cocina
+https://593fa17dec176.streamlock.net/cscocina/cscocina.stream/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/3siqxhh.png" group-title="",Canal Sur Cocina
+https://593fa17dec176.streamlock.net/cscocina/cscocina.stream/master.m3u8?fluxustv.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/3siqxhh.png" group-title="",Canal Sur Cocina
+https://593fa17dec176.streamlock.net:443/cscocina/cscocina.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/JkM7YSM.png" group-title="",Canal Sur Eventos 1
+http://canalsur-pair302-live.hls.adaptive.level3.net/egress/bhandler/sandetel/eventos_01/master.m3u8?fluxustv.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/CIOQGyj.png" group-title="",Canal Sur Flamenco
+https://593fa17dec176.streamlock.net/csflamenco/csflamenco.stream/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/CIOQGyj.png" group-title="",Canal Sur Flamenco
+https://593fa17dec176.streamlock.net/csflamenco/csflamenco.stream/master.m3u8?fluxustv.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/9hve8V5.png" group-title="",Canal Sur La Banda
+http://593fa17dec176.streamlock.net:1935/cslabanda/cslabanda.stream/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/9hve8V5.png" group-title="",Canal Sur La Banda
+https://593fa17dec176.streamlock.net/cslabanda/cslabanda.stream/chunklist_w1970326303.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/9hve8V5.png" group-title="",Canal Sur La Banda
+https://593fa17dec176.streamlock.net/cslabanda/cslabanda.stream/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/9hve8V5.png" group-title="",Canal Sur La Banda
+https://593fa17dec176.streamlock.net/cslabanda/cslabanda.stream/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/9hve8V5.png" group-title="",Canal Sur La Banda
+https://593fa17dec176.streamlock.net/cslabanda/cslabanda.stream/master.m3u8?fluxustv.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/ochxIge.png" group-title="",Canal Sur Turismo
+https://593fa17dec176.streamlock.net/csturismo/csturismo.stream/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/ngU6UBb.png" group-title="",Canal Sur Turismo
+https://593fa17dec176.streamlock.net/csturismo/csturismo.stream/master.m3u8?fluxustv.m3u8
 
 
