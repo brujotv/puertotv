@@ -10,6 +10,24 @@
 <externallink>https://raw.githubusercontent.com/brujotv/puertotv/master/deportesestables.xml</externallink>
 </item>
 
+<item>
+<title>canal 1</title>
+<sportsdevil>http://elixx.me/apsg.html</sportsdevil>
+<User-Agent></User-Agent>
+<referer></referer>
+<thumbnail>https://i.ibb.co/dbDR99f/Futbol.jpg</thumbnail>
+<fanart>https://i.ibb.co/dbDR99f/Futbol.jpg</fanart>
+</item>
+
+<item>
+<title>canal 2</title>
+<sportsdevil>https://sportzonline.co/channels/hd/hd6.php</sportsdevil>
+<User-Agent></User-Agent>
+<referer></referer>
+<thumbnail>https://i.ibb.co/dbDR99f/Futbol.jpg</thumbnail>
+<fanart>https://i.ibb.co/dbDR99f/Futbol.jpg</fanart>
+</item>
+
 <tem>
 <title> [COLOR black]•[/COLOR]    [COLOR white][B]Arena[COLOR lightblue]Vision[/B] [/COLOR][/COLOR][COLOR lightblue]AGENDA / SCHEDULE [/COLOR]</title>
 <link>$doregex[makelist]</link>
