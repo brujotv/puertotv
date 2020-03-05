@@ -6,7 +6,10 @@
 http://95.16.242.85:80/ts/0
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wCKyQjw.jpg" group-title="Deportes", [COLOR red] La liga sd [/COLOR] 
-http://tvshqiphd.net/live/ss3.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My81LzIwMjAgMzo1MToyNyBQTSZoYXNoX3ZhbHVlPTBvWFo4SlpmSVVNVW5PS1dTNFIvYmc9PSZ2YWxpZG1pbnV0ZXM9MjAmc3RybV9sZW49NA==
+https://cdn11.dailysport.pw/live/4/4.m3u8
+
+#EXTINF:1 tvg-id="" tvg-name="ZEE18" tvg-logo="",daily1-(SD) Live Streaming
+httphost://$http-raw=https://dailysport.pw/c3.php#////$http-refferer=https://dailysport.pw/c3.php
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wCKyQjw.jpg" group-title="Deportes", [COLOR orange] Partidos Lunes [/COLOR]
 https://cdn11.dailysport.pw/live/4/4.m3u8
