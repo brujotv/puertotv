@@ -21,8 +21,11 @@ https://cdn11.dailysport.pw/live/4/4.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wCKyQjw.jpg" group-title="Deportes", [COLOR orange] Partidos Jueves [/COLOR]
 https://cdn11.dailysport.pw/live/4/4.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wCKyQjw.jpg" group-title="Deportes", [COLOR lime] Granada vs Athletic [/COLOR] 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wCKyQjw.jpg" group-title="Deportes", [COLOR lime] Granada vs Athletic p1[/COLOR] 
 http://ul.cdn946.net:8080/hls/5snvgwa.m3u8?s=GkyLyimZxpSc4ZkNR9id-Q&e=1583463539
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wCKyQjw.jpg" group-title="Deportes", [COLOR lime] Granada vs Athletic p2[/COLOR] 
+http://ul.cdn946.net:8080/hls/55ught5e.m3u8?s=sVnBwSE-05fYjxIknqYHWg&e=1583463761
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wCKyQjw.jpg" group-title="Deportes", [COLOR lime] Derby County Derby County vs Manchester Utd. [/COLOR] 
 https://dailysport-cdn000.azureedge.net/live/3/chunks.m3u8
