@@ -171,7 +171,8 @@ http://edge2.everyon.tv:1935/etv2sb/phd499/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://jarytec.com/wp-content/uploads/2017/02/logoxxx-1.png" group-title="ADULTO", HOT
 http://edge2.everyon.tv:1935/etv2sb/pld499/chunklist_w1881789237.m3u8
 
-
+#EXTINF:-1 tvg-logo="http://jarytec.com/wp-content/uploads/2017/02/logoxxx-1.png" group-title="ADULTO", gggg
+https://daddylive.live/embed/stream-9.php
 
 
 
