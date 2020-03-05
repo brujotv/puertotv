@@ -9,9 +9,6 @@ http://95.16.242.85:80/ts/0
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wCKyQjw.jpg" group-title="Deportes", [COLOR red] La liga sd [/COLOR] 
 https://cdn11.dailysport.pw/live/4/4.m3u8
 
-#EXTINF:1 tvg-id="" tvg-name="ZEE18" tvg-logo="",daily1-(SD) Live Streaming
-httphost://$http-raw=https://dailysport.pw/c3.php#////$http-refferer=https://dailysport.pw/c3.php
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wCKyQjw.jpg" group-title="Deportes", [COLOR orange] Partidos Lunes [/COLOR]
 https://cdn11.dailysport.pw/live/4/4.m3u8
 
@@ -23,6 +20,18 @@ https://cdn11.dailysport.pw/live/4/4.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wCKyQjw.jpg" group-title="Deportes", [COLOR orange] Partidos Jueves [/COLOR]
 https://cdn11.dailysport.pw/live/4/4.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wCKyQjw.jpg" group-title="Deportes", [COLOR lime] Granada vs Athletic [/COLOR] 
+https://dailysport-cdn000.azureedge.net/live/1/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wCKyQjw.jpg" group-title="Deportes", [COLOR lime] Derby County Derby County vs Manchester Utd. [/COLOR] 
+https://dailysport-cdn000.azureedge.net/live/3/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wCKyQjw.jpg" group-title="Deportes", [COLOR lime] Real Madrid Baloncesto ASVEL Lyon [/COLOR] 
+https://dailysport-cdn000.azureedge.net/live/5/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wCKyQjw.jpg" group-title="Deportes", [COLOR lime] Valencia Basket vs AX Olimpia [/COLOR] 
+https://dailysport-cdn000.azureedge.net/live/6/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wCKyQjw.jpg" group-title="Deportes", [COLOR orange] Partidos Viernes [/COLOR]
 https://cdn11.dailysport.pw/live/4/4.m3u8
