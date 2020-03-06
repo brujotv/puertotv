@@ -1,5 +1,13 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
+
+<item>
+<title>partidos</title>        
+<link>http://www.dailydeports.pw/index/channel4.html</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
 <item>
 <title> Canal 1 </title>
 <sportsdevil>https://dailysport.pw/c1.php</sportsdevil>
