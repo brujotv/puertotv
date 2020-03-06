@@ -117,7 +117,7 @@ https://nl2.streamlive.to/freeabr/5vg1z99jso9w3ed/rtmp/5vg1z99jso9w3ed/chunks.m3
 #EXTINF:-1 tvg-id="TDP.TDTChannelsEPG" tvg-logo="http://graph.facebook.com/teledeporteRTVE/picture?width=320&height=320" group-title="DEPORTES",Teledeporte HD
 http://hlsliveamdgl1-lh.akamaihd.net/i/hlsdvrlive_1@39732/master.m3u8
 
-#EXTINF:-1 tvg-id="GOL.TDTChannelsEPG" tvg-logo="?width=320&height=320" group-title="DEPORTES",Gol tv
+#EXTINF:-1 tvg-id="GOL.TDTChannelsEPG" tvg-logo="http://graph.facebook.com/goltv.es/picture?width=320&height=320?width=320&height=320" group-title="DEPORTES",Gol tv
 https://2d01.janjua.pw:8088/live/estadi4/playlist.m3u8?id=89407&wowzasessionid=926692223&pk=6597e0716d8e0caa6adfcfc284852c1c0c46e12c87a5e70bdcb435e746a7c880
 
 #EXTINF:-1 tvg-id="RMTV.TDTChannelsEPG" tvg-logo="https://i.imgur.com/2M9WfqA.jpg?width=320&height=320" group-title="DEPORTES",Real Madrid TV
