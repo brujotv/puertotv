@@ -109,10 +109,7 @@ http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl8/24h_onlydash_
 http://paramount.live.flumotion.com/live/chunks.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="?width=320&height=320" group-title="DEPORTES",M.liga
-https://2d04.janjua.pw:8088/live/estadi01/playlist.m3u8?id=96036&wowzasessionid=348626932&pk=6597e0716d8e0caa6adfcfc284852c1c0c46e12c87a5e70bdcb435e746a7c880
-
-#EXTINF:-1 tvg-id="" tvg-logo="?width=320&height=320" group-title="DEPORTES",M.liga campeones	
-https://nl2.streamlive.to/freeabr/5vg1z99jso9w3ed/rtmp/5vg1z99jso9w3ed/chunks.m3u8?nimblesessionid=6913196&wmsAuthSign=c2VydmVyX3RpbWU9My80LzIwMjAgNjowMzoyMiBQTSZoYXNoX3ZhbHVlPTNFL0VqWWswUWRnYjhWUzY2SlB1c2c9PSZ2YWxpZG1pbnV0ZXM9MjQwJnN0cm1fbGVuPTIzJmlwPTk1LjE2LjI0Mi44NQ==
+https://nl2.streamlive.to/freeabr/maaugei0jaz0wys/rtmp/maaugei0jaz0wys/chunks.m3u8?nimblesessionid=7136029&wmsAuthSign=c2VydmVyX3RpbWU9My83LzIwMjAgODo1NDo0NSBBTSZoYXNoX3ZhbHVlPW1mSHJDN05welplcEptT3NwYzFpR3c9PSZ2YWxpZG1pbnV0ZXM9MjQwJnN0cm1fbGVuPTIzJmlwPTk1LjE2LjI0Mi44NQ==
 
 #EXTINF:-1 tvg-id="TDP.TDTChannelsEPG" tvg-logo="http://graph.facebook.com/teledeporteRTVE/picture?width=320&height=320" group-title="DEPORTES",Teledeporte HD
 http://hlsliveamdgl1-lh.akamaihd.net/i/hlsdvrlive_1@39732/master.m3u8
