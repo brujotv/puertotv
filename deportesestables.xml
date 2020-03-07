@@ -61,7 +61,43 @@
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
-   
+
+<item>
+<title> 16:00 ATLETICO MADRID - SEVILLA</title>
+<sportsdevil>https://freeservice.info/tg.php?id=live8x$$lsname=ADDON liveTV 1 </sportsdevil>
+<sportsdevil>https://freeservice.info/tg.php?id=live8w$$lsname=ADDON liveTV 2 </sportsdevil>
+<sportsdevil>https://freeservice.info/tg.php?id=live9x$$lsname=ADDON liveTV 3 </sportsdevil>
+<sportsdevil>https://freeservice.info/tg.php?id=live9w$$lsname=ADDON liveTV 4 </sportsdevil>
+<User-Agent></User-Agent>
+<referer></referer>
+<thumbnail>https://assets.laliga.com/assets/logos/laliga-v/laliga-v-1200x1200.jpg</thumbnail>
+<fanart>https://worldsoccertalk.com/wp-content/uploads/2019/08/la-liga-bein-sports-tv-600x332.png</fanart>
+</item> 
+
+<item>
+<title> 18:30 BARCELONA - REAL SOCIEDAD</title>
+<sportsdevil>https://freeservice.info/tg.php?id=live8x$$lsname=ADDON liveTV 1 </sportsdevil>
+<sportsdevil>https://freeservice.info/tg.php?id=live8w$$lsname=ADDON liveTV 2 </sportsdevil>
+<sportsdevil>https://freeservice.info/tg.php?id=live9x$$lsname=ADDON liveTV 3 </sportsdevil>
+<sportsdevil>https://freeservice.info/tg.php?id=live9w$$lsname=ADDON liveTV 4 </sportsdevil>
+<User-Agent></User-Agent>
+<referer></referer>
+<thumbnail>https://assets.laliga.com/assets/logos/laliga-v/laliga-v-1200x1200.jpg</thumbnail>
+<fanart>https://worldsoccertalk.com/wp-content/uploads/2019/08/la-liga-bein-sports-tv-600x332.png</fanart>
+</item> 
+
+<item>
+<title> 21:00 GETAFE - CELTA DE VIGO</title>
+<sportsdevil>https://freeservice.info/tg.php?id=live8x$$lsname=ADDON liveTV 1 </sportsdevil>
+<sportsdevil>https://freeservice.info/tg.php?id=live8w$$lsname=ADDON liveTV 2 </sportsdevil>
+<sportsdevil>https://freeservice.info/tg.php?id=live9x$$lsname=ADDON liveTV 3 </sportsdevil>
+<sportsdevil>https://freeservice.info/tg.php?id=live9w$$lsname=ADDON liveTV 4 </sportsdevil>
+<User-Agent></User-Agent>
+<referer></referer>
+<thumbnail>https://assets.laliga.com/assets/logos/laliga-v/laliga-v-1200x1200.jpg</thumbnail>
+<fanart>https://worldsoccertalk.com/wp-content/uploads/2019/08/la-liga-bein-sports-tv-600x332.png</fanart>
+</item> 
+
 <item>
 <title>SPORT | SPORTZONLINE HD1</title>  
 <thumbnail>https://i.postimg.cc/1zTnj1ZC/1.png</thumbnail>   
