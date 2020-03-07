@@ -2,6 +2,13 @@
 
 
 <item>
+<title>La liga</title>        
+<link>https://bucketdaily1.s3-accelerate.amazonaws.com/x1/x1.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
 <title> Canal 1 </title>
 <sportsdevil>https://dailysport.pw/c1.php</sportsdevil>
 <User-Agent></User-Agent>
