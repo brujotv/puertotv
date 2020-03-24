@@ -185,6 +185,38 @@ def GetLSProData(page_data, Cookie_Jar,m):#streamwatcher
 <fanart>https://worldsoccertalk.com/wp-content/uploads/2019/08/la-liga-bein-sports-tv-600x332.png</fanart>
 </item> 
 
+
+
+<item>
+<title>https://sportzonline.to/prog.txt</title>
+<link>$doregex[makelist]</link>
+<regex>
+		<name>makelist</name>
+		<listrepeat><![CDATA[
+		<title>[makelist.param1] - [makelist.param2]   ($doregex[mudar])</title>
+		<link>$doregex[geturl]|user-agent=Mozilla/5.0 (Linux; Android 7.0; 5086D) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.157 Mobile Safari/537.36&referer=https://wstream.to/</link>
+		]]></listrepeat>
+		<expres>(\d\d:\d\d)\s+(.+?)\|\s+https(.+?)\.php</expres>
+		<page>https://sportzonline.to/prog.txt</page>
+</regex>
+<regex>
+        <name>geturl</name>
+        <expres>Clappr.Player[\w\W]*?(?:source|src|file):\s*[\'"]([^\'"]+)</expres>
+        <page>$doregex[getunpacked]</page>
+</regex>
+<regex>
+        <name>getunpacked</name>
+        <expres>$pyFunction:get_unpacked(page_data,'(eval\(function\(p,a,c,k,e,d.*m3u8.*)' )</expres>
+        <page>$doregex[lacasitos]</page>
+        <referer>https://wstream.to/</referer>
+</regex>
+<regex>
+		<name>lacasitos</name>
+		<expres><![CDATA[iframe\s+src\="(.+?)"]]></expres>
+		<page>https[makelist.param3].php</page>
+</regex>
+</item>
+
 <item>
 <title>SPORT | SPORTZONLINE HD1</title>  
 <thumbnail>https://i.postimg.cc/1zTnj1ZC/1.png</thumbnail>   
