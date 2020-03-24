@@ -1,5 +1,27 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
+
+
+<item>
+<title>cyfostreams.com</title>
+<link>$doregex[cristalazul]</link>
+<regex>
+<name>cristalazul</name>
+<listrepeat><![CDATA[
+<title>[COLOR white][cristalazul.param1][/COLOR]   $doregex[m3u8]  </title>
+<link>$doregex[m3u8]</link>
+<thumbnail></thumbnail>
+]]></listrepeat>
+<expres><![CDATA[(?s)<li>.*?<a href="(cyfo\d*).]]></expres>
+<page>http://cyfostreams.com</page>
+</regex>
+<regex>
+<name>m3u8</name>
+<expres>Clappr.Player[\w\W]*?[\'"](.*?)[\'"]</expres>
+<page>http://cyfostreams.com/[cristalazul.param1].php</page>
+</regex>
+</item>
+
 <item>
 <title>https://fluxustv.blogspot.com/p/iptv.html</title>
 <link>ignore-me</link>
