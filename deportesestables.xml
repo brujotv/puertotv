@@ -218,7 +218,7 @@ def GetLSProData(page_data, Cookie_Jar,m):#streamwatcher
 </item>
 
 <item>
-<title>SPORT | SPORTZONLINE HD1</title>  
+<title>HD1 - BT SPORT 1</title>  
 <thumbnail>https://i.postimg.cc/1zTnj1ZC/1.png</thumbnail>   
     <link>$doregex[geturl]|user-agent=ipad&amp;referer=https:$doregex[lacasitos]</link>
     <regex>
@@ -241,7 +241,7 @@ def GetLSProData(page_data, Cookie_Jar,m):#streamwatcher
 </item> 
    
 <item>
-<title>SPORT | SPORTZONLINE HD2</title> 
+<title>HD2 - BT SPORT 2</title> 
 <thumbnail>https://i.postimg.cc/gJZX9tzY/2.png</thumbnail>  
     <link>$doregex[geturl]|user-agent=ipad&amp;referer=https:$doregex[lacasitos]</link>
     <regex>
@@ -264,7 +264,7 @@ def GetLSProData(page_data, Cookie_Jar,m):#streamwatcher
 </item> 
     
 <item>
-<title>SPORT | SPORTZONLINE HD3</title>   
+<title>HD3 - BT SPORT 3</title>   
 <thumbnail>https://i.postimg.cc/WzmdzDqC/3.png</thumbnail>   
     <link>$doregex[geturl]|user-agent=ipad&amp;referer=https:$doregex[lacasitos]</link>
     <regex>
@@ -287,7 +287,7 @@ def GetLSProData(page_data, Cookie_Jar,m):#streamwatcher
 </item>     
   
  <item>
-<title>SPORT | SPORTZONLINE HD4</title>  
+<title>HD4 - CANAL + SPORT FRANCE</title>  
 <thumbnail>https://i.postimg.cc/ncZs516J/4.png</thumbnail>   
     <link>$doregex[geturl]|user-agent=ipad&amp;referer=https:$doregex[lacasitos]</link>
     <regex>
@@ -310,7 +310,7 @@ def GetLSProData(page_data, Cookie_Jar,m):#streamwatcher
 </item> 
   
  <item>
-<title>SPORT | SPORTZONLINE HD5</title>  
+<title>HD5 - BEIN SPORTS USA</title>  
 <thumbnail>https://i.postimg.cc/598YnrKg/5.png</thumbnail>    
     <link>$doregex[geturl]|user-agent=ipad&amp;referer=https:$doregex[lacasitos]</link>
     <regex>
@@ -333,7 +333,7 @@ def GetLSProData(page_data, Cookie_Jar,m):#streamwatcher
 </item>     
  
   <item>
-<title>SPORT | SPORTZONLINE HD6</title>  
+<title>HD6 - MOVISTAR LA LIGA</title>  
 <thumbnail>https://i.postimg.cc/6pp86pWb/6.png</thumbnail>     
     <link>$doregex[geturl]|user-agent=ipad&amp;referer=https:$doregex[lacasitos]</link>
     <regex>
@@ -355,7 +355,7 @@ def GetLSProData(page_data, Cookie_Jar,m):#streamwatcher
     </regex>
 </item>      
  <item>
-<title>SPORT | SPORTZONLINE HD7</title>  
+<title>HD7 - SKY SPORTS SERIE ALWAYS</title>  
 <thumbnail>https://i.postimg.cc/L6TqM1pZ/7.png</thumbnail>     
     <link>$doregex[geturl]|user-agent=ipad&amp;referer=https:$doregex[lacasitos]</link>
     <regex>
@@ -378,7 +378,7 @@ def GetLSProData(page_data, Cookie_Jar,m):#streamwatcher
 </item>        
  
  <item>
-<title>SPORT | SPORTZONLINE BR1</title>   
+<title>SPORT BR1</title>   
 <thumbnail>https://i.postimg.cc/DZ4c0cgZ/br1.png</thumbnail>      
     <link>$doregex[geturl]|user-agent=ipad&amp;referer=https:$doregex[lacasitos]</link>
     <regex>
@@ -400,7 +400,7 @@ def GetLSProData(page_data, Cookie_Jar,m):#streamwatcher
     </regex>
 </item>  
  <item>
-<title>SPORT | SPORTZONLINE BR2</title>  
+<title>SPORT BR2</title>  
 <thumbnail>https://i.postimg.cc/Y2g3wb0D/br2.png</thumbnail>     
     <link>$doregex[geturl]|user-agent=ipad&amp;referer=https:$doregex[lacasitos]</link>
     <regex>
@@ -423,7 +423,7 @@ def GetLSProData(page_data, Cookie_Jar,m):#streamwatcher
 </item>  
     
  <item>
-<title>SPORT | SPORTZONLINE BR3</title>   
+<title>SPORT BR3</title>   
 <thumbnail>https://i.postimg.cc/qqfx3CbG/br3.png</thumbnail>        
     <link>$doregex[geturl]|user-agent=ipad&amp;referer=https:$doregex[lacasitos]</link>
     <regex>
@@ -446,7 +446,7 @@ def GetLSProData(page_data, Cookie_Jar,m):#streamwatcher
 </item>      
  
  <item>
-<title>SPORT | SPORTZONLINE SPORT TV1</title>   
+<title>SPORT TV1</title>   
 <thumbnail>https://i.postimg.cc/7L6984JS/8.png</thumbnail>        
     <link>$doregex[geturl]|user-agent=ipad&amp;referer=https:$doregex[lacasitos]</link>
     <regex>
@@ -469,7 +469,7 @@ def GetLSProData(page_data, Cookie_Jar,m):#streamwatcher
 </item> 
     
  <item>
-<title>SPORT | SPORTZONLINE SPORT TV2</title>   
+<title>SPORT TV2</title>   
 <thumbnail>https://i.postimg.cc/1zjHydD2/9.png</thumbnail>       
     <link>$doregex[geturl]|user-agent=ipad&amp;referer=https:$doregex[lacasitos]</link>
     <regex>
@@ -492,7 +492,7 @@ def GetLSProData(page_data, Cookie_Jar,m):#streamwatcher
 </item> 
     
  <item>
-<title>SPORT | SPORTZONLINE SPORT TV3</title>  
+<title>SPORT TV3</title>  
 <thumbnail>https://i.postimg.cc/BbxccQRf/10.png</thumbnail>         
     <link>$doregex[geturl]|user-agent=ipad&amp;referer=https:$doregex[lacasitos]</link>
     <regex>
