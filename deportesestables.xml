@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
-
+<item>
+<title>https://www.youtube.com/channel/UCr6TeVofbyCvtCdxV_niQKQ/videos</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<title>[makelist.param2]   [makelist.param3]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=[makelist.param1]</link>
+]]></listrepeat>
+<expres>href="\/watch\?v=(.*?)">(.*?)<.*?> -.*?:(.*?)<\/span><\/h3></expres>
+<page>https://www.youtube.com/channel/UCr6TeVofbyCvtCdxV_niQKQ/videos</page>
+</regex>
+</item>
 
 <item>
 <title>cyfostreams.com</title>
