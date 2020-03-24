@@ -1,38 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
-<item>
-<title>https://www.youtube.com/channel/UCr6TeVofbyCvtCdxV_niQKQ/videos</title>
-<link>$doregex[makelist]</link>
-<regex>
-<name>makelist</name>
-<listrepeat><![CDATA[
-<title>[makelist.param2]   [makelist.param3]</title>
-<link>plugin://plugin.video.youtube/play/?video_id=[makelist.param1]</link>
-]]></listrepeat>
-<expres>href="\/watch\?v=(.*?)">(.*?)<.*?> -.*?:(.*?)<\/span><\/h3></expres>
-<page>https://www.youtube.com/channel/UCr6TeVofbyCvtCdxV_niQKQ/videos</page>
-</regex>
-</item>
 
-<item>
-<title>cyfostreams.com</title>
-<link>$doregex[cristalazul]</link>
-<regex>
-<name>cristalazul</name>
-<listrepeat><![CDATA[
-<title>[COLOR white][cristalazul.param1][/COLOR]   $doregex[m3u8]  </title>
-<link>$doregex[m3u8]</link>
-<thumbnail></thumbnail>
-]]></listrepeat>
-<expres><![CDATA[(?s)<li>.*?<a href="(cyfo\d*).]]></expres>
-<page>http://cyfostreams.com</page>
-</regex>
-<regex>
-<name>m3u8</name>
-<expres>Clappr.Player[\w\W]*?[\'"](.*?)[\'"]</expres>
-<page>http://cyfostreams.com/[cristalazul.param1].php</page>
-</regex>
-</item>
 
 <item>
 <title>https://fluxustv.blogspot.com/p/iptv.html</title>
