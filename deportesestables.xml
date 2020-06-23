@@ -80,8 +80,8 @@
    
  
   <item>
-<title>HD6 - MOVISTAR LA LIGA</title>  
-<thumbnail>https://i.postimg.cc/6pp86pWb/6.png</thumbnail>     
+<title>MOVISTAR LA LIGA HD6</title>  
+<thumbnail>https://assets.laliga.com/assets/logos/laliga-v/laliga-v-1200x1200.jpg</thumbnail>     
     <link>$doregex[geturl]|user-agent=ipad&amp;referer=https:$doregex[lacasitos]</link>
     <regex>
         <name>geturl</name>
