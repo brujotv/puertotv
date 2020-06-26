@@ -21,71 +21,38 @@ https://directo.atresmedia.com/1593204471_993189a1df58ea05525582cc16b28a3fd21749
 #EXTINF:-1 tvg-id="Cuatro.TDTChannelsEPG" tvg-logo="https://graph.facebook.com/cuatro/picture?width=320&height=320" group-title="TDT España",Cuatro HD
 https://r3---sn-w511uxa-n89s.googlevideo.com/videoplayback?expire=1593204668&ei=PO_1XqOGHIeaW5HSnJgH&ip=95.16.242.178&id=238f8548c84ad783&itag=22&source=youtube&requiressl=yes&mh=0J&mm=31&mn=sn-w511uxa-n89s&ms=au&mv=m&mvi=2&pl=25&susc=gvp&acao=yes&mime=video/mp4&dur=19.551&lmt=1591876392395251&mt=1593175779&txp=6216222&sparams=expire,ei,ip,id,itag,source,requiressl,susc,acao,mime,dur,lmt&sig=AOq0QJ8wRQIgCGdhL0HECs-qbOYkN6Ivpfx3eRX3amReMpqLlxJDsy4CIQCu3X-Oi_Byr_C_Ur9uOSkDQ8iI72ktFtwit7O_MR27zw==&lsparams=mh,mm,mn,ms,mv,mvi,pl&lsig=AG3C_xAwRAIgCbWJAkcY_a-Ww88x2kkUTOinOv9LkgeHnr3DlqxOT08CICssevrj597b9v7JWNYQARLioHR5NAjobp90PijkZ7e-&cpn=3cfUKEQNw9q_3Pa9
 
-#EXTINF:-1 tvg-id="Telecinco.TDTChannelsEPG" tvg-logo="https://graph.facebook.com/tele5/picture?width=320&height=320" group-title="TDT España",Telecinco
-https://livehlsdai-i.akamaihd.net/hls/live/571640/telecinco/bitrate_2.m3u8
-
 #EXTINF:-1 tvg-id="Telecinco.TDTChannelsEPG" tvg-logo="https://graph.facebook.com/tele5/picture?width=320&height=320" group-title="TDT España",Telecinco HD
 https://livehlsdai-i.akamaihd.net/hls/live/571640/telecinco/bitrate_4.m3u8
 
 #EXTINF:-1 tvg-id="LaSexta.TDTChannelsEPG" tvg-logo="https://graph.facebook.com/laSexta/picture?width=320&height=320" group-title="TDT España",laSexta HD
-https://livestartover-i.akamaized.net/geolasexta/master.m3u8
-
-#EXTINF:-1 tvg-id="LaSexta.TDTChannelsEPG" tvg-logo="https://graph.facebook.com/laSexta/picture?width=320&height=320" group-title="TDT España",laSexta HD
-https://livestartover-i.akamaized.net/lasexta/master.m3u8
+https://directo.atresmedia.com/1593204848_5fac0308f2622d4db022aa66b510a4be7fa1d3d1/lasexta/bitrate_4.m3u8
 
 #EXTINF:-1 tvg-id="Neox.TDTChannelsEPG" tvg-logo="https://graph.facebook.com/neox/picture?width=320&height=320" group-title="TDT España",Neox HD
-https://livestartover-i.akamaized.net/geoneox/master.m3u8
-
-#EXTINF:-1 tvg-id="Neox.TDTChannelsEPG" tvg-logo="https://graph.facebook.com/neox/picture?width=320&height=320" group-title="TDT España",Neox HD
-https://livestartover-i.akamaized.net/neox/master.m3u8
+https://directo.atresmedia.com/1593204888_c57631b61b139da7b15730844067424d129da674/geoneox/bitrate_4.m3u8
 
 #EXTINF:-1 tvg-id="Nova.TDTChannelsEPG" tvg-logo="https://graph.facebook.com/novatdt/picture?width=320&height=320" group-title="TDT España",Nova HD
 https://livestartover-i.akamaized.net/geonova/master.m3u8
 
-#EXTINF:-1 tvg-id="Nova.TDTChannelsEPG" tvg-logo="https://graph.facebook.com/novatdt/picture?width=320&height=320" group-title="TDT España",Nova HD
-https://livestartover-i.akamaized.net/nova/master.m3u8
-
 #EXTINF:-1 tvg-id="Mega.TDTChannelsEPG" tvg-logo="https://graph.facebook.com/megaTDT/picture?width=320&height=320" group-title="TDT España",Mega HD
-https://livestartover-i.akamaized.net/geomega/master.m3u8
-
-#EXTINF:-1 tvg-id="Mega.TDTChannelsEPG" tvg-logo="https://graph.facebook.com/megaTDT/picture?width=320&height=320" group-title="TDT España",Mega HD
-https://livestartover-i.akamaized.net/mega/master.m3u8
+https://directo.atresmedia.com/1593204972_05ab2a4384351d94224a3250280a0a0da4b6a038/geomega/bitrate_4.m3u8
 
 #EXTINF:-1 tvg-id="Atreseries.TDTChannelsEPG" tvg-logo="https://graph.facebook.com/atreseries/picture?width=320&height=320" group-title="TDT España",Atreseries HD
-https://livestartover-i.akamaized.net/geoa3series/master.m3u8
 
-#EXTINF:-1 tvg-id="Atreseries.TDTChannelsEPG" tvg-logo="https://graph.facebook.com/atreseries/picture?width=320&height=320" group-title="TDT España",Atreseries HD
-https://livestartover-i.akamaized.net/a3series/master.m3u8
-
-#EXTINF:-1 tvg-id="FDF.TDTChannelsEPG" tvg-logo="https://graph.facebook.com/factoriadeficcion/picture?width=320&height=320" group-title="TDT España",FDF
-https://mdslivehls-i.akamaihd.net/hls/live/571650/fdf/bitrate_2.m3u8
 
 #EXTINF:-1 tvg-id="FDF.TDTChannelsEPG" tvg-logo="https://graph.facebook.com/factoriadeficcion/picture?width=320&height=320" group-title="TDT España",FDF HD
-https://mdslivehls-i.akamaihd.net/hls/live/571650/fdf/bitrate_4.m3u8
-
-#EXTINF:-1 tvg-id="Energy.TDTChannelsEPG" tvg-logo="https://graph.facebook.com/E.EnergyTV/picture?width=320&height=320" group-title="TDT España",Energy
-https://mdslivehlsb-i.akamaihd.net/hls/live/623617/energy/bitrate_2.m3u8
+https://live.factoriadeficcion.com/hls/live/2005336/fdf/bitrate_4.m3u8
 
 #EXTINF:-1 tvg-id="Energy.TDTChannelsEPG" tvg-logo="https://graph.facebook.com/E.EnergyTV/picture?width=320&height=320" group-title="TDT España",Energy HD
-https://mdslivehlsb-i.akamaihd.net/hls/live/623617/energy/bitrate_4.m3u8
-
-#EXTINF:-1 tvg-id="Divinity.TDTChannelsEPG" tvg-logo="https://graph.facebook.com/divinityes/picture?width=320&height=320" group-title="TDT España",Divinity
-https://mdslivehls-i.akamaihd.net/hls/live/571648/divinity/bitrate_2.m3u8
+https://live.energytv.es/hls/live/2005337/energy/bitrate_4.m3u8
 
 #EXTINF:-1 tvg-id="Divinity.TDTChannelsEPG" tvg-logo="https://graph.facebook.com/divinityes/picture?width=320&height=320" group-title="TDT España",Divinity HD
 https://mdslivehls-i.akamaihd.net/hls/live/571648/divinity/bitrate_4.m3u8
-
-#EXTINF:-1 tvg-id="Bemad.TDTChannelsEPG" tvg-logo="https://graph.facebook.com/BeMadTV/picture?width=320&height=320" group-title="TDT España",Be Mad
-https://mdslivehlsb-i.akamaihd.net/hls/live/623615/bemad/bitrate_2.m3u8
 
 #EXTINF:-1 tvg-id="Bemad.TDTChannelsEPG" tvg-logo="https://graph.facebook.com/BeMadTV/picture?width=320&height=320" group-title="TDT España",Be Mad HD
 https://mdslivehlsb-i.akamaihd.net/hls/live/623615/bemad/bitrate_4.m3u8
 
 #EXTINF:-1 tvg-id="Paramount.TDTChannelsEPG" tvg-logo="https://graph.facebook.com/ParamountNetworkES/picture?width=320&height=320" group-title="TDT España",Paramount Network
 https://paramount-live.flumotion.com/live/playlist.m3u8
-
-#EXTINF:-1 tvg-id="13.TDTChannelsEPG" tvg-logo="https://graph.facebook.com/TRECEtves/picture?width=320&height=320" group-title="TDT España",TRECE
-http://streaming.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/live.smil/master.m3u8
 
 #EXTINF:-1 tvg-id="DKISS.TDTChannelsEPG" tvg-logo="?width=320&height=320" group-title="TDT España",Dkiss
 https://2d04.janjua.pw:8088/live/dkiss20/playlist.m3u8?id=96152&wowzasessionid=7383849637&pk=6597e0716d8e0caa6adfcfc284852c1c0c46e12c87a5e70bdcb435e746a7c880
