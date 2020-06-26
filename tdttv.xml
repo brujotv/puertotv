@@ -13,6 +13,9 @@ https://rtvelivestream.akamaized.net/la1_dvr_4000.m3u8
 #EXTINF:-1 tvg-id="La2.TV" tvg-logo="https://graph.facebook.com/la2detve/picture?width=320&height=320" group-title="TDT España",La 2 HD
 http://hlsliveamdgl1-lh.akamaihd.net/i/hlsdvrlive_1@60414/master.m3u8
 
+#EXTINF:-1 tvg-id="La2.TV" tvg-logo="https://graph.facebook.com/la2detve/picture?width=320&height=320" group-title="TDT España",La 2 HD
+https://rtvelivestream.akamaized.net/la2_dvr_4000.m3u8
+
 #EXTINF:-1 tvg-id="Antena3.TV" tvg-logo="https://graph.facebook.com/antena3/picture?width=320&height=320" group-title="TDT España",Antena 3 HD
 https://directo.atresmedia.com/1593204471_993189a1df58ea05525582cc16b28a3fd2174960/antena3/bitrate_4.m3u8
 
@@ -53,7 +56,7 @@ https://live.bemad.es/hls/live/2005333/bemad/master.m3u8?hdnts=st=1593189803~exp
 https://paramount-live.flumotion.com/live/chunks.m3u8
 
 #EXTINF:-1 tvg-id="DKISS.TDTChannelsEPG" tvg-logo="?width=320&height=320" group-title="TDT España",Dkiss
-https://2d04.janjua.pw:8088/live/dkiss20/playlist.m3u8?id=96152&wowzasessionid=7383849637&pk=6597e0716d8e0caa6adfcfc284852c1c0c46e12c87a5e70bdcb435e746a7c880
+https://r1---sn-h5q7knel.googlevideo.com/videoplayback?expire=1593213176&ei=mCz2Xr6sMYbD0wXbrqPYCA&ip=2a02%3A2e02%3A3808%3Ad300%3A5df4%3A7a0c%3A9c85%3Ac071&id=o-AMjSSsjZlANbMp6uWbXSHtgxrzhaZdErCjzy6rfsWXD3&itag=248&aitags=133%2C134%2C135%2C136%2C137%2C160%2C242%2C243%2C244%2C247%2C248%2C278%2C394%2C395%2C396%2C397&source=youtube&requiressl=yes&mh=h0&mm=31%2C29&mn=sn-h5q7knel%2Csn-h5q7rn7l&ms=au%2Crdu&mv=m&mvi=0&pl=44&gcr=es&initcwndbps=1568750&vprv=1&mime=video%2Fwebm&gir=yes&clen=102313884&dur=418.280&lmt=1552717272771440&mt=1593191497&fvip=1&keepalive=yes&beids=9466587&c=WEB_EMBEDDED_PLAYER&txp=5531432&sparams=expire%2Cei%2Cip%2Cid%2Caitags%2Csource%2Crequiressl%2Cgcr%2Cvprv%2Cmime%2Cgir%2Cclen%2Cdur%2Clmt&sig=AOq0QJ8wRQIhAO5CiFqspQmiFDV2lGKfbIGkjUS19Of4DmitJLIP6HirAiBEnnMWlUIgooylJTH-bNvwmuGVOpc74d4elsVMbhYyXA%3D%3D&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps&lsig=AG3C_xAwRgIhAJNtPhySp0f8H9tNxvSyZW2YMjy1x0-UrimKAwdEay-zAiEAi0P718zxCczxaf17LvCJZGHk3anpqAOi9OgP7_QaZhU%3D&alr=yes&cpn=ZXdonhILRQNC2T6z&cver=20200626&rn=1&rbuf=0
 
 #EXTINF:-1 tvg-id="DMax.TDTChannelsEPG" tvg-logo="https://i.imgur.com/x4fGu91.png/picture?width=320&height=320" group-title="TDT España",DMax
 http://91.126.141.12:1935/live/discoverymax/playlist.m3u8
