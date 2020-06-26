@@ -46,10 +46,10 @@ https://live.factoriadeficcion.com/hls/live/2005336/fdf/bitrate_4.m3u8
 https://live.energytv.es/hls/live/2005337/energy/bitrate_4.m3u8
 
 #EXTINF:-1 tvg-id="Divinity.TDTChannelsEPG" tvg-logo="https://graph.facebook.com/divinityes/picture?width=320&height=320" group-title="TDT España",Divinity HD
-https://mdslivehls-i.akamaihd.net/hls/live/571648/divinity/bitrate_4.m3u8
+https://live.divinity.es/hls/live/2005335/divinity/bitrate_4.m3u8
 
 #EXTINF:-1 tvg-id="Bemad.TDTChannelsEPG" tvg-logo="https://graph.facebook.com/BeMadTV/picture?width=320&height=320" group-title="TDT España",Be Mad HD
-https://mdslivehlsb-i.akamaihd.net/hls/live/623615/bemad/bitrate_4.m3u8
+https://live.bemad.es/hls/live/2005333/bemad/bitrate_4.m3u8
 
 #EXTINF:-1 tvg-id="Paramount.TDTChannelsEPG" tvg-logo="https://graph.facebook.com/ParamountNetworkES/picture?width=320&height=320" group-title="TDT España",Paramount Network
 https://paramount-live.flumotion.com/live/playlist.m3u8
