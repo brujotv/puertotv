@@ -17,7 +17,7 @@ https://directo.atresmedia.com/1593204471_993189a1df58ea05525582cc16b28a3fd21749
 https://live.mitele.es/hls/live/2004102/cuatro/master.m3u8?hdnts=st=1593178144~exp=1593192543~acl=/*~hmac=96975d2428257017f4c5437d69b9c18a98ba95bd945eb37edaf4771b5c4673dc
 
 #EXTINF:-1 tvg-id="Telecinco.TV" tvg-logo="https://graph.facebook.com/tele5/picture?width=320&height=320" group-title="TDT España",Telecinco HD
-https://livehlsdai-i.akamaihd.net/hls/live/571640/telecinco/bitrate_4.m3u8
+https://mt1gwj-lh.akamaihd.net/i/ent05_1@852746/index_1_av-p.m3u8?sd=10&rebase=on&hdntl=exp=1593276516~acl=*~data=hdntl~hmac=2758fa70d5aeeecdf60fddc1956ce7732e8393f3f55e7367ae68eb016d9f6892
 
 #EXTINF:-1 tvg-id="LaSexta.TV" tvg-logo="https://graph.facebook.com/laSexta/picture?width=320&height=320" group-title="TDT España",laSexta HD
 https://directo.atresmedia.com/1593204848_5fac0308f2622d4db022aa66b510a4be7fa1d3d1/lasexta/bitrate_4.m3u8
