@@ -26,7 +26,7 @@ https://directo.atresmedia.com/1593204848_5fac0308f2622d4db022aa66b510a4be7fa1d3
 https://directo.atresmedia.com/1593204888_c57631b61b139da7b15730844067424d129da674/geoneox/bitrate_4.m3u8
 
 #EXTINF:-1 tvg-id="Nova.TV" tvg-logo="https://graph.facebook.com/novatdt/picture?width=320&height=320" group-title="TDT España",Nova HD
-https://livestartover-i.akamaized.net/geonova/master.m3u8
+https://mt1gwj-lh.akamaihd.net/i/ent23_1@26901/index_1_av-p.m3u8?sd=10&rebase=on&hdntl=exp=1593276576~acl=*~data=hdntl~hmac=f01de6e889e90d4d1389a3852aa2be037515f4491b878ff9205383f6594a98f5
 
 #EXTINF:-1 tvg-id="Mega.TV" tvg-logo="https://graph.facebook.com/megaTDT/picture?width=320&height=320" group-title="TDT España",Mega HD
 https://directo.atresmedia.com/1593204972_05ab2a4384351d94224a3250280a0a0da4b6a038/geomega/bitrate_4.m3u8
@@ -70,8 +70,8 @@ https://streamcdn.to/e/f3q9lhvcl9q#
 #EXTINF:-1 tvg-id="TDP.TV" tvg-logo="http://graph.facebook.com/teledeporteRTVE/picture?width=320&height=320" group-title="DEPORTES",Teledeporte HD
 http://hlsliveamdgl1-lh.akamaihd.net/i/hlsdvrlive_1@39732/master.m3u8
 
-#EXTINF:-1 tvg-id="GOL.TDTChannelsEPG" tvg-logo="http://graph.facebook.com/goltv.es/picture?width=320&height=320?width=320&height=320" group-title="DEPORTES",Gol tv
-https://2d01.janjua.pw:8088/live/estadi4/playlist.m3u8?id=89407&wowzasessionid=926692223&pk=6597e0716d8e0caa6adfcfc284852c1c0c46e12c87a5e70bdcb435e746a7c880
+#EXTINF:-1 tvg-id="GOL.TDTChannelsEPG" tvg-logo="http://graph.facebook.com/goltv.es/picture?width=320&height=320?width=320&height=320" group-title="DEPORTES",Gol tv	
+https://d14yn9755o946w.cloudfront.net/Gol_24h/gol_24h/gol_24hhigh.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9kMTR5bjk3NTVvOTQ2dy5jbG91ZGZyb250Lm5ldC9Hb2xfMjRoL2dvbF8yNGgvZ29sXzI0aGhpZ2gubTN1OCIsIkNvbmRpdGlvbiI6eyJJcEFkZHJlc3MiOnsiQVdTOlNvdXJjZUlwIjoiOTUuMTYuMjQyLjE3OC8zMiJ9LCJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTU5MzI3NjYxMH19fV19&Signature=lyF1t43idmDHYNx-nK0yIxBzHOdU9e9fIiZmypOqDO6i75CxQR~IBbbOO1rIW4F3NPW~aFvRKHYhedOIUFQ0PtuPivh5AXwN~K1DHd225J-tOXa8aNZ6UEVc~4jNM7E8xZFOn4YlnWCBNTARWqlpGy0gs2qPgnba8au2OEt~4549ioKB9u3tyt27y6MTv5VwrWlAU1ov66WxXCHkptvpXDTzONg94-00yGrYig1dXsfVd4Ue32ymgzIc1J4WhV-tF1a7zuWgi9lLBYiGRWfSlaxRmRSnjAMtYqLjfVc1SRJ3JLWPwYoLelIhw3R6rZ~MmvMdRa-1isAZ2rMQG9T16Q__&Key-Pair-Id=APKAIAZ5PGRVVQBQUQTA
 
 #EXTINF:-1 tvg-id="RMTV.TDTChannelsEPG" tvg-logo="https://i.imgur.com/2M9WfqA.jpg?width=320&height=320" group-title="DEPORTES",Real Madrid TV
 http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-b.m3u8?sd=10&rebase=on
