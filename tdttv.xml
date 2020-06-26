@@ -73,6 +73,9 @@ http://paramount.live.flumotion.com/live/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="?width=320&height=320" group-title="DEPORTES",M.liga 
 https://cdo0.dailysport.pw/1/1.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-logo="?width=320&height=320" group-title="DEPORTES",M.liga op2	
+http://ul.cdn946.net:8080/hls/55ught5e.m3u8?s=B0jq9yb4vZFvEN9Hx1GKZQ&e=1593214772
+
 #EXTINF:-1 tvg-id="TDP.TV" tvg-logo="http://graph.facebook.com/teledeporteRTVE/picture?width=320&height=320" group-title="DEPORTES",Teledeporte HD	
 https://rtvelivestream.akamaized.net/tdp_dvr_4000.m3u8
 
@@ -138,6 +141,57 @@ http://4BA9EBDB07C05883:@t.kraslan.ru/playboy
 
 #EXTINF:-1 tvg-logo="http://lh6.ggpht.com/_9PDHPy5tdyU/S70enxyhZ9I/AAAAAAAAAH4/MHpKKNOd6Ts/classificacao_indicativa_18_anos_thumb%5B1%5D.gif?width=320&height=320" group-title="ADULTO", Brazzers TV Europe (18+)
 http://4BA9EBDB07C05883:@t.kraslan.ru/brazzers
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AivW9rc.png" group-title="LABEL",~ 24/7 Adult Swim ~
+https://fluxustv.blogspot.com@bit.ly/FluxusFireplace?.mp4
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eQYzog8.png" group-title="24/7 ADULT SWIM",Aqua Teen Hunger Force
+https://adultswim-vodlive.cdn.turner.com/live/aqua-teen/stream.m3u8
+ 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/slawVDH.png" group-title="24/7 ADULT SWIM",Black Jesus
+http://adultswim-vodlive.cdn.turner.com/live/black-jesus/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sLEHqIC.png" group-title="24/7 ADULT SWIM",Daily Live Action
+https://adultswim-vodlive.cdn.turner.com/live/daily_liveaction_1/stream.m3u8
+ 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/le0DGBd.png" group-title="24/7 ADULT SWIM",Dream Corp LLC
+http://adultswim-vodlive.cdn.turner.com/live/DREAM-CORP-LLC/stream.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zlPbOI0.png" group-title="24/7 ADULT SWIM",Home Movies
+https://adultswim-vodlive.cdn.turner.com/live/test-2/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sLEHqIC.png" group-title="24/7 ADULT SWIM",Live Stream
+https://adultswimtv.warnermediacdn.com/hls/live/2007031/livestream/master_Layer7.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rYIysEl.png" group-title="24/7 ADULT SWIM",Metalocalypse
+http://adultswim-vodlive.cdn.turner.com/live/metalocalypse/stream.m3u8
+ 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/aShyuut.png" group-title="24/7 ADULT SWIM",Mr. Pickles
+http://adultswim-vodlive.cdn.turner.com/live/mr-pickles/stream.m3u8
+ 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/7bZnIJ0.png" group-title="24/7 ADULT SWIM",Rick and Morty
+http://adultswim-vodlive.cdn.turner.com/live/rick-and-morty/stream.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZUg5vhn.png" group-title="24/7 ADULT SWIM",Robot Chicken
+https://adultswim-vodlive.cdn.turner.com/live/robot-chicken/stream.m3u8
+ 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/zSs1e5z.png" group-title="24/7 ADULT SWIM",Squidbillies
+https://adultswim-vodlive.cdn.turner.com/live/squidbillies/stream_7.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/K3nLFU9.png" group-title="24/7 ADULT SWIM",Superjail!
+https://adultswim-vodlive.cdn.turner.com/live/superjail/stream.m3u8
+ 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/GBlHt4r.png" group-title="24/7 ADULT SWIM",The Eric Andre Show
+http://adultswim-vodlive.cdn.turner.com/live/eric-andre/stream.m3u8
+ 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/kru210h.png" group-title="24/7 ADULT SWIM",The Venture Bros.
+https://adultswim-vodlive.cdn.turner.com/live/venture-bros/stream.m3u8
+ 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/9lsXliT.png" group-title="24/7 ADULT SWIM",Tim and Eric
+http://adultswim-vodlive.cdn.turner.com/tim-and-eric/stream.m3u8
+ 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/64uOrnR.png" group-title="24/7 ADULT SWIM",Williams Stream
+http://adultswim-vodlive.cdn.turner.com/live/williams-stream/stream_html5.m3u8
 
 
 
