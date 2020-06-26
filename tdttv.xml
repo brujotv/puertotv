@@ -18,14 +18,8 @@ http://hlsliveamdgl0-lh.akamaihd.net/i/hlsdvrlive_1@60531/master.m3u8
 #EXTINF:-1 tvg-id="Antena3.TDTChannelsEPG" tvg-logo="https://graph.facebook.com/antena3/picture?width=320&height=320" group-title="TDT España",Antena 3 HD
 https://directo.atresmedia.com/1593204471_993189a1df58ea05525582cc16b28a3fd2174960/antena3/bitrate_4.m3u8
 
-#EXTINF:-1 tvg-id="Antena3.TDTChannelsEPG" tvg-logo="https://graph.facebook.com/antena3/picture?width=320&height=320" group-title="TDT España",Antena 3 HD
-https://directo.atresmedia.com/1593204471_993189a1df58ea05525582cc16b28a3fd2174960/antena3/bitrate_4.m3u8
-
-#EXTINF:-1 tvg-id="Cuatro.TDTChannelsEPG" tvg-logo="https://graph.facebook.com/cuatro/picture?width=320&height=320" group-title="TDT España",Cuatro
-https://livehlsdai-i.akamaihd.net/hls/live/571643/cuatro/bitrate_2.m3u8
-
 #EXTINF:-1 tvg-id="Cuatro.TDTChannelsEPG" tvg-logo="https://graph.facebook.com/cuatro/picture?width=320&height=320" group-title="TDT España",Cuatro HD
-https://livehlsdai-i.akamaihd.net/hls/live/571643/cuatro/bitrate_4.m3u8
+https://r3---sn-w511uxa-n89s.googlevideo.com/videoplayback?expire=1593204668&ei=PO_1XqOGHIeaW5HSnJgH&ip=95.16.242.178&id=238f8548c84ad783&itag=22&source=youtube&requiressl=yes&mh=0J&mm=31&mn=sn-w511uxa-n89s&ms=au&mv=m&mvi=2&pl=25&susc=gvp&acao=yes&mime=video/mp4&dur=19.551&lmt=1591876392395251&mt=1593175779&txp=6216222&sparams=expire,ei,ip,id,itag,source,requiressl,susc,acao,mime,dur,lmt&sig=AOq0QJ8wRQIgCGdhL0HECs-qbOYkN6Ivpfx3eRX3amReMpqLlxJDsy4CIQCu3X-Oi_Byr_C_Ur9uOSkDQ8iI72ktFtwit7O_MR27zw==&lsparams=mh,mm,mn,ms,mv,mvi,pl&lsig=AG3C_xAwRAIgCbWJAkcY_a-Ww88x2kkUTOinOv9LkgeHnr3DlqxOT08CICssevrj597b9v7JWNYQARLioHR5NAjobp90PijkZ7e-&cpn=3cfUKEQNw9q_3Pa9
 
 #EXTINF:-1 tvg-id="Telecinco.TDTChannelsEPG" tvg-logo="https://graph.facebook.com/tele5/picture?width=320&height=320" group-title="TDT España",Telecinco
 https://livehlsdai-i.akamaihd.net/hls/live/571640/telecinco/bitrate_2.m3u8
