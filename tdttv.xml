@@ -69,7 +69,7 @@ http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl8/24h_onlydash_
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/GwoWMlF.jpg/picture?width=320&height=320" group-title="TDT España",Paramount Channel
 http://paramount.live.flumotion.com/live/chunks.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="?width=320&height=320" group-title="DEPORTES",M.liga
+#EXTINF:-1 tvg-id="" tvg-logo="?width=320&height=320" group-title="DEPORTES",M.liga #0
 https://streamcdn.to/e/f3q9lhvcl9q#
 
 #EXTINF:-1 tvg-id="TDP.TV" tvg-logo="http://graph.facebook.com/teledeporteRTVE/picture?width=320&height=320" group-title="DEPORTES",Teledeporte HD
