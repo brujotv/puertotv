@@ -70,8 +70,8 @@ http://paramount.live.flumotion.com/live/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="?width=320&height=320" group-title="DEPORTES",M.liga #0
 https://streamcdn.to/e/f3q9lhvcl9q#
 
-#EXTINF:-1 tvg-id="TDP.TV" tvg-logo="http://graph.facebook.com/teledeporteRTVE/picture?width=320&height=320" group-title="DEPORTES",Teledeporte HD
-http://hlsliveamdgl1-lh.akamaihd.net/i/hlsdvrlive_1@39732/master.m3u8
+#EXTINF:-1 tvg-id="TDP.TV" tvg-logo="http://graph.facebook.com/teledeporteRTVE/picture?width=320&height=320" group-title="DEPORTES",Teledeporte HD	
+https://rtvelivestream.akamaized.net/tdp_dvr_4000.m3u8
 
 #EXTINF:-1 tvg-id="GOL.TDTChannelsEPG" tvg-logo="http://graph.facebook.com/goltv.es/picture?width=320&height=320?width=320&height=320" group-title="DEPORTES",Gol tv	
 https://d14yn9755o946w.cloudfront.net/Gol_24h/gol_24h/gol_24hhigh.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9kMTR5bjk3NTVvOTQ2dy5jbG91ZGZyb250Lm5ldC9Hb2xfMjRoL2dvbF8yNGgvZ29sXzI0aGhpZ2gubTN1OCIsIkNvbmRpdGlvbiI6eyJJcEFkZHJlc3MiOnsiQVdTOlNvdXJjZUlwIjoiOTUuMTYuMjQyLjE3OC8zMiJ9LCJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTU5MzI3NjYxMH19fV19&Signature=lyF1t43idmDHYNx-nK0yIxBzHOdU9e9fIiZmypOqDO6i75CxQR~IBbbOO1rIW4F3NPW~aFvRKHYhedOIUFQ0PtuPivh5AXwN~K1DHd225J-tOXa8aNZ6UEVc~4jNM7E8xZFOn4YlnWCBNTARWqlpGy0gs2qPgnba8au2OEt~4549ioKB9u3tyt27y6MTv5VwrWlAU1ov66WxXCHkptvpXDTzONg94-00yGrYig1dXsfVd4Ue32ymgzIc1J4WhV-tF1a7zuWgi9lLBYiGRWfSlaxRmRSnjAMtYqLjfVc1SRJ3JLWPwYoLelIhw3R6rZ~MmvMdRa-1isAZ2rMQG9T16Q__&Key-Pair-Id=APKAIAZ5PGRVVQBQUQTA
