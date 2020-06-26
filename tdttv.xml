@@ -40,13 +40,13 @@ https://directo.atresmedia.com/1593204972_05ab2a4384351d94224a3250280a0a0da4b6a0
 
 
 #EXTINF:-1 tvg-id="FDF.TV" tvg-logo="https://graph.facebook.com/factoriadeficcion/picture?width=320&height=320" group-title="TDT España",FDF HD
-https://live.factoriadeficcion.com/hls/live/2005336/fdf/bitrate_4.m3u8
+https://live.factoriadeficcion.com/hls/live/2005336/fdf/master.m3u8?hdnts=st=1593179361~exp=1593193761~acl=/*~hmac=1935dc5d6ac66b234e262e5eff0458aca58cea556572f3a832eae907b2402b8e
 
-#EXTINF:-1 tvg-id="Energy.TV" tvg-logo="https://graph.facebook.com/E.EnergyTV/picture?width=320&height=320" group-title="TDT España",Energy HD
-https://live.energytv.es/hls/live/2005337/energy/bitrate_4.m3u8
+#EXTINF:-1 tvg-id="Energy.TV" tvg-logo="https://graph.facebook.com/E.EnergyTV/picture?width=320&height=320" group-title="TDT España",Energy HD	
+https://live.energytv.es/hls/live/2005337/energy/master.m3u8?hdnts=st=1593179449~exp=1593193849~acl=/*~hmac=02f3839386aae0da35031ef56829c6a866a03bbc463b9afdaaa401cb8709ed7f
 
 #EXTINF:-1 tvg-id="Divinity.TV" tvg-logo="https://graph.facebook.com/divinityes/picture?width=320&height=320" group-title="TDT España",Divinity HD
-https://live.divinity.es/hls/live/2005335/divinity/bitrate_4.m3u8
+https://live.divinity.es/hls/live/2005335/divinity/master.m3u8?hdnts=st=1593179211~exp=1593193611~acl=/*~hmac=10d4dce8d3b42d2453cd54f8c51c4a0bb7db1902e12fdc617ec726c48b8d5274
 
 #EXTINF:-1 tvg-id="Bemad.TV" tvg-logo="https://graph.facebook.com/BeMadTV/picture?width=320&height=320" group-title="TDT España",Be Mad HD
 https://live.bemad.es/hls/live/2005333/bemad/bitrate_4.m3u8
