@@ -16,10 +16,10 @@ http://hlsliveamdgl1-lh.akamaihd.net/i/hlsdvrlive_1@60414/master.m3u8
 http://hlsliveamdgl0-lh.akamaihd.net/i/hlsdvrlive_1@60531/master.m3u8
 
 #EXTINF:-1 tvg-id="Antena3.TDTChannelsEPG" tvg-logo="https://graph.facebook.com/antena3/picture?width=320&height=320" group-title="TDT España",Antena 3 HD
-https://livestartover-i.akamaized.net/geoantena3/master.m3u8
+https://directo.atresmedia.com/1593204471_993189a1df58ea05525582cc16b28a3fd2174960/antena3/bitrate_4.m3u8
 
 #EXTINF:-1 tvg-id="Antena3.TDTChannelsEPG" tvg-logo="https://graph.facebook.com/antena3/picture?width=320&height=320" group-title="TDT España",Antena 3 HD
-https://livestartover-i.akamaized.net/antena3/master.m3u8
+https://directo.atresmedia.com/1593204471_993189a1df58ea05525582cc16b28a3fd2174960/antena3/bitrate_4.m3u8
 
 #EXTINF:-1 tvg-id="Cuatro.TDTChannelsEPG" tvg-logo="https://graph.facebook.com/cuatro/picture?width=320&height=320" group-title="TDT España",Cuatro
 https://livehlsdai-i.akamaihd.net/hls/live/571643/cuatro/bitrate_2.m3u8
