@@ -55,6 +55,9 @@ https://live.bemad.es/hls/live/2005333/bemad/master.m3u8?hdnts=st=1593189803~exp
 #EXTINF:-1 tvg-id="Paramount.TDTChannelsEPG" tvg-logo="https://graph.facebook.com/ParamountNetworkES/picture?width=320&height=320" group-title="TDT España",Paramount Network
 https://paramount-live.flumotion.com/live/chunks.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-logo="?width=320&height=320" group-title="TDT España",Ten
+http://91.126.141.201:1935/live/ten/chunklist_w506965236.m3u8
+
 #EXTINF:-1 tvg-id="DKISS.TDTChannelsEPG" tvg-logo="?width=320&height=320" group-title="TDT España",Dkiss
 https://r1---sn-h5q7knel.googlevideo.com/videoplayback?expire=1593213176&ei=mCz2Xr6sMYbD0wXbrqPYCA&ip=2a02%3A2e02%3A3808%3Ad300%3A5df4%3A7a0c%3A9c85%3Ac071&id=o-AMjSSsjZlANbMp6uWbXSHtgxrzhaZdErCjzy6rfsWXD3&itag=248&aitags=133%2C134%2C135%2C136%2C137%2C160%2C242%2C243%2C244%2C247%2C248%2C278%2C394%2C395%2C396%2C397&source=youtube&requiressl=yes&mh=h0&mm=31%2C29&mn=sn-h5q7knel%2Csn-h5q7rn7l&ms=au%2Crdu&mv=m&mvi=0&pl=44&gcr=es&initcwndbps=1568750&vprv=1&mime=video%2Fwebm&gir=yes&clen=102313884&dur=418.280&lmt=1552717272771440&mt=1593191497&fvip=1&keepalive=yes&beids=9466587&c=WEB_EMBEDDED_PLAYER&txp=5531432&sparams=expire%2Cei%2Cip%2Cid%2Caitags%2Csource%2Crequiressl%2Cgcr%2Cvprv%2Cmime%2Cgir%2Cclen%2Cdur%2Clmt&sig=AOq0QJ8wRQIhAO5CiFqspQmiFDV2lGKfbIGkjUS19Of4DmitJLIP6HirAiBEnnMWlUIgooylJTH-bNvwmuGVOpc74d4elsVMbhYyXA%3D%3D&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps&lsig=AG3C_xAwRgIhAJNtPhySp0f8H9tNxvSyZW2YMjy1x0-UrimKAwdEay-zAiEAi0P718zxCczxaf17LvCJZGHk3anpqAOi9OgP7_QaZhU%3D&alr=yes&cpn=ZXdonhILRQNC2T6z&cver=20200626&rn=1&rbuf=0
 
