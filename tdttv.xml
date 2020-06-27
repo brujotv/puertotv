@@ -17,10 +17,10 @@ http://hlsliveamdgl1-lh.akamaihd.net/i/hlsdvrlive_1@60414/master.m3u8
 https://rtvelivestream.akamaized.net/la2_dvr_4000.m3u8
 
 #EXTINF:-1 tvg-id="Antena3.TV" tvg-logo="https://graph.facebook.com/antena3/picture?width=320&height=320" group-title="TDT España",Antena 3 HD
-https://directo.atresmedia.com/1593293132_34751e05556283033455c5bcdb6c526daae1961a/antena3/master.m3u8
+https://directo.atresmedia.com/1593293252_8cb7be9c9deca64ac49b7ee68fc89c888bc66940/antena3/bitrate_4.m3u8
 
 #EXTINF:-1 tvg-id="Cuatro.TV" tvg-logo="https://graph.facebook.com/cuatro/picture?width=320&height=320" group-title="TDT España",Cuatro HD
-https://live.mitele.es/hls/live/2004102/cuatro/master.m3u8?hdnts=st=1593178144~exp=1593192543~acl=/*~hmac=96975d2428257017f4c5437d69b9c18a98ba95bd945eb37edaf4771b5c4673dc
+https://live.cuatro.com/hls/live/2004102/cuatro/bitrate_4.m3u8
 
 #EXTINF:-1 tvg-id="Telecinco.TV" tvg-logo="https://graph.facebook.com/tele5/picture?width=320&height=320" group-title="TDT España",Telecinco HD
 https://mt1gwj-lh.akamaihd.net/i/ent05_1@852746/index_1_av-p.m3u8?sd=10&rebase=on&hdntl=exp=1593276516~acl=*~data=hdntl~hmac=2758fa70d5aeeecdf60fddc1956ce7732e8393f3f55e7367ae68eb016d9f6892
