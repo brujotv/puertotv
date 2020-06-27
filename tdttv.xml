@@ -29,28 +29,28 @@ https://mt1gwj-lh.akamaihd.net/i/ent05_1@852746/index_1_av-p.m3u8?sd=10&rebase=o
 https://directo.atresmedia.com/1593293489_af7216585d0af5b9b7daaea787c0cd61cd131c39/lasexta/bitrate_4.m3u8
 
 #EXTINF:-1 tvg-id="Neox.TV" tvg-logo="https://graph.facebook.com/neox/picture?width=320&height=320" group-title="TDT España",Neox HD
-https://directo.atresmedia.com/1593204888_c57631b61b139da7b15730844067424d129da674/geoneox/bitrate_4.m3u8
+https://directo.atresmedia.com/1593294747_48b4565f84be1eac05d1b28545899238b007880b/geoneox/bitrate_4.m3u8
 
 #EXTINF:-1 tvg-id="Nova.TV" tvg-logo="https://graph.facebook.com/novatdt/picture?width=320&height=320" group-title="TDT España",Nova HD
-https://mt1gwj-lh.akamaihd.net/i/ent23_1@26901/index_1_av-p.m3u8?sd=10&rebase=on&hdntl=exp=1593276576~acl=*~data=hdntl~hmac=f01de6e889e90d4d1389a3852aa2be037515f4491b878ff9205383f6594a98f5
+https://directo.atresmedia.com/1593294775_cc038e298a81c0ef9ba411937f36dbc4be538810/geonova/bitrate_4.m3u8
 
 #EXTINF:-1 tvg-id="Mega.TV" tvg-logo="https://graph.facebook.com/megaTDT/picture?width=320&height=320" group-title="TDT España",Mega HD
-https://directo.atresmedia.com/1593204972_05ab2a4384351d94224a3250280a0a0da4b6a038/geomega/bitrate_4.m3u8
+https://directo.atresmedia.com/1593294856_ca0fb9ec02c1f9bdd4692b2d19826e01f1bce42a/geomega/bitrate_4.m3u8
 
 #EXTINF:-1 tvg-id="Atreseries.TV" tvg-logo="https://graph.facebook.com/atreseries/picture?width=320&height=320" group-title="TDT España",Atreseries HD
 
 
 #EXTINF:-1 tvg-id="FDF.TV" tvg-logo="https://graph.facebook.com/factoriadeficcion/picture?width=320&height=320" group-title="TDT España",FDF HD
-https://live.factoriadeficcion.com/hls/live/2005336/fdf/master.m3u8?hdnts=st=1593179361~exp=1593193761~acl=/*~hmac=1935dc5d6ac66b234e262e5eff0458aca58cea556572f3a832eae907b2402b8e
+https://live.factoriadeficcion.com/hls/live/2005336/fdf/bitrate_4.m3u8
 
 #EXTINF:-1 tvg-id="Energy.TV" tvg-logo="https://graph.facebook.com/E.EnergyTV/picture?width=320&height=320" group-title="TDT España",Energy HD	
 https://live.energytv.es/hls/live/2005337/energy/master.m3u8?hdnts=st=1593179449~exp=1593193849~acl=/*~hmac=02f3839386aae0da35031ef56829c6a866a03bbc463b9afdaaa401cb8709ed7f
 
 #EXTINF:-1 tvg-id="Divinity.TV" tvg-logo="https://graph.facebook.com/divinityes/picture?width=320&height=320" group-title="TDT España",Divinity HD
-https://live.divinity.es/hls/live/2005335/divinity/master.m3u8?hdnts=st=1593179211~exp=1593193611~acl=/*~hmac=10d4dce8d3b42d2453cd54f8c51c4a0bb7db1902e12fdc617ec726c48b8d5274
+https://live.divinity.es/hls/live/2005335/divinity/bitrate_4.m3u8
 
 #EXTINF:-1 tvg-id="Bemad.TV" tvg-logo="https://graph.facebook.com/BeMadTV/picture?width=320&height=320" group-title="TDT España",Be Mad HD
-https://live.bemad.es/hls/live/2005333/bemad/master.m3u8?hdnts=st=1593189803~exp=1593204203~acl=/*~hmac=101c9e3adb5efeb4afa84bdc4908a3dd5443d69dc4c487b1d1c5e4b7e64fc901
+https://live.bemad.es/hls/live/2005333/bemad/bitrate_4.m3u8
 
 #EXTINF:-1 tvg-id="Paramount.TDTChannelsEPG" tvg-logo="https://graph.facebook.com/ParamountNetworkES/picture?width=320&height=320" group-title="TDT España",Paramount Network
 https://paramount-live.flumotion.com/live/chunks.m3u8
@@ -65,7 +65,7 @@ https://r1---sn-h5q7knel.googlevideo.com/videoplayback?expire=1593213176&ei=mCz2
 http://91.126.141.12:1935/live/discoverymax/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Boing.TV" tvg-logo="https://i.imgur.com/ux2SEpi.jpg/picture?width=320&height=320" group-title="TDT España",Boing
-https://live.mitele.es/hls/live/2005334/boing/master.m3u8?hdnts=st=1593189983~exp=1593204382~acl=/*~hmac=c75b6bf08f25c6ec9fb34a4d44313cd9c4fe069f9eb9a7c0beeb3a7a70ec3ade
+https://live.mitele.es/hls/live/2005334/boing/bitrate_4.m3u8
 
 #EXTINF:-1 tvg-id="24Horas.TDTChannelsEPG" tvg-logo="https://i.imgur.com/rYO7n4s.png/picture?width=320&height=320" group-title="TDT España",24h
 http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl8/24h_onlydash_lv3_aosv4_gl8/24h_onlydash_lv3_aosv4_gl8.isml/24h_onlydash_lv3_aosv4_gl8-audio=128000-video=650000.m3u8
