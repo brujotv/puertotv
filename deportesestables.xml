@@ -1,28 +1,12 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
 
-<items>
+
 <item>
-<title>La liga</title>  
-<thumbnail></thumbnail>   
-    <link>$doregex[geturl]|user-agent=ipad&amp;referer=https:$doregex[lacasitos]</link>
-    <regex>
-        <name>geturl</name>
-        <expres>Clappr.Player[\w\W]*?(?:source|src|file):\s*[\'"]([^\'"]+)</expres>
-        <page>$doregex[getunpacked]</page>
-    </regex>
-    <regex>
-        <name>getunpacked</name>
-        <expres>$pyFunction:get_unpacked(page_data,'(eval\(function\(p,a,c,k,e,d.*m3u8.*)')</expres>
-        <page>https:$doregex[lacasitos]</page>
-        <referer>https://dailysport.pw/c1.php</referer>
-    </regex>
-    <regex>
-        <name>lacasitos</name>
-        <expres><![CDATA[iframe.+?src="(.+?)"]]></expres>
-        <page>https://dailysport.pw/c1.php</page>
-        <referer>https://dailysport.pw/c1.php</referer>
-    </regex>
+<title> La liga</title>        
+<link>https://cdo0.dailysport.pw/1/1.m3u8</link>
+<thumbnail>https://assets.laliga.com/assets/logos/laliga-v/laliga-v-1200x1200.jpg</thumbnail>
+<fanart></fanart>
 </item>
 
 <item>
