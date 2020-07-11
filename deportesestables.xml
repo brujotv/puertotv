@@ -10,6 +10,41 @@
 </item>
 
 <item>
+<title> Futbol multicanal castellano</title>
+<link>http://ignorame</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<externallink>https://raw.githubusercontent.com/OPIBOX/OPIBOX.1.3/master/DEPORTES/m3u8%20bis</externallink>
+<Info></Info>
+</item>
+
+<item>
+<title> Enlaces WEBS </title>
+<link>_</link>
+<externallink>https://raw.githubusercontent.com/OPIBOX/OPIBOX.1.3/master/DEPORTES/webs</externallink>
+<Info>Series de [COLOR blue]Web para ver el deporte via web a traves de tu KODI[/COLOR]</Info>
+<thumbnail>https://www.cualsitioweb.com/wp-content/uploads/webs-logo.png</thumbnail>
+<fanart></fanart>
+</item>
+<item>
+
+<item>
+<title> SPORTZONLINE</title>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<link>http://ignoreme</link>
+<externallink>https://raw.githubusercontent.com/brujotv/depor/master/sportzone.xml</externallink>
+</item>
+
+<item>
+<title> Requieren sportsdevil</title>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<link>http://ignoreme</link>
+<externallink>https://raw.githubusercontent.com/brujotv/depor/master/sportdevil.xml</externallink>
+</item>
+
+<item>
 <title> Nuevo deportes hoy ingles</title>
 <thumbnail></thumbnail>
 <fanart></fanart>
@@ -18,122 +53,10 @@
 </item>
 
 <item>
-<title> Futbol multicanal castellano</title>
-<link>http://ignorame</link>
+<title> Requieren sportsdevil</title>
 <thumbnail></thumbnail>
 <fanart></fanart>
-<externallink>https://raw.githubusercontent.com/OPIBOX/OPIBOX.1.3/master/DEPORTES/Menu%20Deportes</externallink>
-<Info></Info>
+<link>http://ignoreme</link>
+<externallink></externallink>
 </item>
-
-<item>
-<title> Canal 1 </title>
-<sportsdevil>https://dailysport.pw/c1.php</sportsdevil>
-<User-Agent></User-Agent>
-<referer></referer>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title> Canal 2 </title>
-<sportsdevil>https://dailysport.pw/c2.php</sportsdevil>
-<User-Agent></User-Agent>
-<referer></referer>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-   
-<item>
-<title> Canal 3 </title>
-<sportsdevil>https://dailysport.pw/c3.php</sportsdevil>
-<User-Agent></User-Agent>
-<referer></referer>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title> Canal 4 </title>
-<sportsdevil>https://dailysport.pw/c4.php</sportsdevil>
-<User-Agent></User-Agent>
-<referer></referer>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title> Canal 5 </title>
-<sportsdevil>https://dailysport.pw/c5.php</sportsdevil>
-<User-Agent></User-Agent>
-<referer></referer>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title> Canal 6 </title>
-<sportsdevil>https://dailysport.pw/c6.php</sportsdevil>
-<User-Agent></User-Agent>
-<referer></referer>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title> Canal 7 </title>
-<sportsdevil>https://dailysport.pw/c7.php</sportsdevil>
-<User-Agent></User-Agent>
-<referer></referer>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-
-
-<item>
-<title> Canal 8 </title>
-<sportsdevil>https://dailysport.pw/c8.php</sportsdevil>
-<User-Agent></User-Agent>
-<referer></referer>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title> laliga </title>
-<sportsdevil>https://freeservice.info/tg.php?id=live8x$$lsname=ADDON liveTV 1 </sportsdevil>
-<sportsdevil>https://freeservice.info/tg.php?id=live8w$$lsname=ADDON liveTV 2 </sportsdevil>
-<sportsdevil>https://freeservice.info/tg.php?id=live9x$$lsname=ADDON liveTV 3 </sportsdevil>
-<sportsdevil>https://freeservice.info/tg.php?id=live9w$$lsname=ADDON liveTV 4 </sportsdevil>
-<User-Agent></User-Agent>
-<referer></referer>
-<thumbnail>https://assets.laliga.com/assets/logos/laliga-v/laliga-v-1200x1200.jpg</thumbnail>
-<fanart>https://worldsoccertalk.com/wp-content/uploads/2019/08/la-liga-bein-sports-tv-600x332.png</fanart>
-</item> 
-
-   
- 
-  <item>
-<title>MOVISTAR LA LIGA HD6</title>  
-<thumbnail>https://assets.laliga.com/assets/logos/laliga-v/laliga-v-1200x1200.jpg</thumbnail>     
-    <link>$doregex[geturl]|user-agent=ipad&amp;referer=https:$doregex[lacasitos]</link>
-    <regex>
-        <name>geturl</name>
-        <expres>Clappr.Player[\w\W]*?(?:source|src|file):\s*[\'"]([^\'"]+)</expres>
-        <page>$doregex[getunpacked]</page>
-    </regex>
-    <regex>
-        <name>getunpacked</name>
-        <expres>$pyFunction:get_unpacked(page_data,'(eval\(function\(p,a,c,k,e,d.*m3u8.*)')</expres>
-        <page>https:$doregex[lacasitos]</page>
-        <referer>https://sportzonline.co/channels/hd/hd6.php</referer>
-    </regex>
-    <regex>
-        <name>lacasitos</name>
-        <expres><![CDATA[iframe.+?src="(.+?)"]]></expres>
-        <page>https://sportzonline.co/channels/hd/hd6.php</page>
-        <referer>https://sportzonline.co/channels/hd/hd6.php</referer>
-    </regex>
-</item>      
- 
 
