@@ -23,10 +23,10 @@ https://directo.atresmedia.com/1594508149_ecfbfba2bd2371d50e22475ae99534197ce7f6
 https://live.cuatro.com/hls/live/2004102/cuatro/bitrate_4.m3u8
 
 #EXTINF:-1 tvg-id="Telecinco.TV" tvg-logo="https://graph.facebook.com/tele5/picture?width=320&height=320" group-title="TDT España",Telecinco HD
-https://mt1gwj-lh.akamaihd.net/i/ent05_1@852746/index_1_av-p.m3u8?sd=10&rebase=on&hdntl=exp=1593276516~acl=*~data=hdntl~hmac=2758fa70d5aeeecdf60fddc1956ce7732e8393f3f55e7367ae68eb016d9f6892
+https://live.telecinco.es/hls/live/2004101/telecinco/bitrate_4.m3u8
 
 #EXTINF:-1 tvg-id="LaSexta.TV" tvg-logo="https://graph.facebook.com/laSexta/picture?width=320&height=320" group-title="TDT España",laSexta HD
-https://directo.atresmedia.com/1593293489_af7216585d0af5b9b7daaea787c0cd61cd131c39/lasexta/bitrate_4.m3u8
+https://directo.atresmedia.com/1594508485_f09b501eeb0e7f9fe6d2a9c6d1bccb33572fd44f/lasexta/bitrate_4.m3u8
 
 #EXTINF:-1 tvg-id="Neox.TV" tvg-logo="https://graph.facebook.com/neox/picture?width=320&height=320" group-title="TDT España",Neox HD
 https://directo.atresmedia.com/1593294747_48b4565f84be1eac05d1b28545899238b007880b/geoneox/bitrate_4.m3u8
