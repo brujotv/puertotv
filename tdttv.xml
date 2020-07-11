@@ -74,7 +74,7 @@ http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl8/24h_onlydash_
 http://paramount.live.flumotion.com/live/chunks.m3u8
 
 #EXTINF:-1 tvg-id="LaLiga TV FHD" tvg-logo="https://assets.laliga.com/assets/logos/laliga-v/laliga-v-1200x1200.jpg?width=320&height=320" group-title="DEPORTES",M.liga 
-https://cdo0.dailysport.pw/g1/1.m3u8
+https://cdo0.dailysport.pw/o1/1.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://assets.laliga.com/assets/logos/laliga-v/laliga-v-1200x1200.jpg?width=320&height=320" group-title="DEPORTES",M.liga SmartBank
 https://cdo0.dailysport.pw/7/7.m3u8
