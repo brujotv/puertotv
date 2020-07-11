@@ -79,6 +79,9 @@ https://cdo0.dailysport.pw/b1/1.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://assets.laliga.com/assets/logos/laliga-v/laliga-v-1200x1200.jpg?width=320&height=320" group-title="DEPORTES",M.liga SmartBank
 https://cdo0.dailysport.pw/7/7.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAPIO.png?width=320&height=320" group-title="DEPORTES",M.Liga de Campeones
+https://cdo0.dailysport.pw/11/11.m3u8
+
 #EXTINF:-1 tvg-id="M.FORMULA1" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MVF1.png?width=320&height=320" group-title="DEPORTES",M.formula 1 
 https://cdo0.dailysport.pw/21/21.m3u8
 
