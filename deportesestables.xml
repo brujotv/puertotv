@@ -60,7 +60,28 @@
 <externallink>http://mullafabz.xyz/HOST/LiveTV/sportsstreamz.xml</externallink>
 </item>
 
-
+<item>
+<title> [COLOR blue]M FORMULA 1 [/COLOR]</title>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Movistar_Formula_1.svg/1598px-Movistar_Formula_1.svg.png</thumbnail>
+<link>$doregex[geturl]|User-Agent=Mozilla/5.0 (Android 7.0; Tablet; rv:58.0.2) Gecko/58.0.2 Firefox/58.0.2</link>
+<regex>
+<name>geturl</name>
+<expres>source:"(.*?)"</expres>
+<page>$doregex[getunpacked]</page>
+</regex>
+<regex>
+<name>getunpacked</name>
+<expres>$pyFunction:get_unpacked(page_data,'(eval\(function\(p,a,c,k,e,d.*)' )</expres>
+<page>$doregex[pagina]</page>
+<referer>https://adictosalatele.com</referer>
+<connection>keep-alive</connection>
+</regex>
+<regex>
+<name>pagina</name>
+<expres>iframe.*?src="(.*?)"</expres>
+<page>https://adictosalatele.com/canal-0-plus-en-directo-online-gratis/</page>
+</regex>
+</item>
 
 
 
