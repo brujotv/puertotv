@@ -1,28 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
-<item>
-<title> Multicanal liga</title>        
-<link>https://cdo0.dailysport.pw/13/13.m3u8</link>
-<thumbnail>https://assets.laliga.com/assets/logos/laliga-v/laliga-v-1200x1200.jpg</thumbnail>
-<fanart></fanart>
-</item>
 
 <item>
-<title> Real Madrid vs Villarreal </title>        
-<link>https://cdo0.dailysport.pw/oo1/1.m3u8</link>
-<thumbnail>https://assets.laliga.com/assets/logos/laliga-v/laliga-v-1200x1200.jpg</thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title> Getafe vs At. Madrid </title>        
-<link>https://cdo0.dailysport.pw/12/12.m3u8</link>
-<thumbnail>https://assets.laliga.com/assets/logos/laliga-v/laliga-v-1200x1200.jpg</thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title> Barcelona vs Osasuna </title>        
+<title> La liga </title>        
 <link>https://cdo0.dailysport.pw/11/11.m3u8</link>
 <thumbnail>https://assets.laliga.com/assets/logos/laliga-v/laliga-v-1200x1200.jpg</thumbnail>
 <fanart></fanart>
@@ -44,7 +24,7 @@
 
 <item>
 <title> Formula 1</title>        
-<link>https://cdo0.dailysport.pw/21/21.m3u8</link>
+<link>https://cdo0.dailysport.pw/25/25.m3u8</link>
 <thumbnail>https://www.movistarplus.es/recorte/m-NEO/canal/MVF1.png</thumbnail>
 <fanart></fanart>
 </item>
