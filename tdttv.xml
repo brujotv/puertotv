@@ -10,6 +10,9 @@ http://hlsliveamdgl7-lh.akamaihd.net/i/hlsdvrlive_1@583042/master.m3u8
 #EXTINF:-1 tvg-id="La2.TV" tvg-logo="https://graph.facebook.com/la2detve/picture?width=320&height=320" group-title="TDT España",La 2 HD
 http://hlsliveamdgl1-lh.akamaihd.net/i/hlsdvrlive_1@60414/master.m3u8
 
+#EXTINF:-1 tvg-id="CanalSurA.TV" tvg-logo="https://scontent-mad1-1.xx.fbcdn.net/v/t1.0-1/p200x200/96734901_10163500758165246_2087247384508628992_n.png?_nc_cat=109&_nc_sid=0c64ff&_nc_ohc=ztBA7x9_EEkAX84LQ7l&_nc_ht=scontent-mad1-1.xx&oh=1c3eb69b8c7fd27c0fd805060e177b3f&oe=5F45E1AF?width=320&height=320" group-title="TDT España",Canal Sur Andalucía
+https://cdnlive.shooowit.net/rtvalive/channelDVR.smil/master.m3u8
+
 #EXTINF:-1 tvg-id="Antena3.TV" tvg-logo="https://graph.facebook.com/antena3/picture?width=320&height=320" group-title="TDT España",Antena 3 HD
 
 
@@ -47,13 +50,13 @@ https://linear01-i.akamaihd.net/hls/live/837812/divinity/01.m3u8
 https://linear02-i.akamaihd.net/hls/live/837815/bemad/01.m3u8
 
 #EXTINF:-1 tvg-id="Paramount.TDTChannelsEPG" tvg-logo="https://graph.facebook.com/ParamountNetworkES/picture?width=320&height=320" group-title="TDT España",Paramount Network
-https://paramount-live.flumotion.com/live/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="?width=320&height=320" group-title="TDT España",Ten
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://scontent-mad1-1.xx.fbcdn.net/v/t1.0-1/p200x200/22089174_1956008234638727_2963725894594557021_n.jpg?_nc_cat=108&_nc_sid=0c64ff&_nc_ohc=dDuV8mfpF_IAX_sLOQC&_nc_ht=scontent-mad1-1.xx&_nc_tp=6&oh=d983a8cae581385f4df36d2febd76b8c&oe=5F463D40"?width=320&height=320" group-title="TDT España",Ten
 http://91.126.141.201:1935/live/ten/chunklist_w506965236.m3u8
 
 #EXTINF:-1 tvg-id="DKISS.TDTChannelsEPG" tvg-logo="?width=320&height=320" group-title="TDT España",Dkiss
-https://r1---sn-h5q7knel.googlevideo.com/videoplayback?expire=1593213176&ei=mCz2Xr6sMYbD0wXbrqPYCA&ip=2a02%3A2e02%3A3808%3Ad300%3A5df4%3A7a0c%3A9c85%3Ac071&id=o-AMjSSsjZlANbMp6uWbXSHtgxrzhaZdErCjzy6rfsWXD3&itag=248&aitags=133%2C134%2C135%2C136%2C137%2C160%2C242%2C243%2C244%2C247%2C248%2C278%2C394%2C395%2C396%2C397&source=youtube&requiressl=yes&mh=h0&mm=31%2C29&mn=sn-h5q7knel%2Csn-h5q7rn7l&ms=au%2Crdu&mv=m&mvi=0&pl=44&gcr=es&initcwndbps=1568750&vprv=1&mime=video%2Fwebm&gir=yes&clen=102313884&dur=418.280&lmt=1552717272771440&mt=1593191497&fvip=1&keepalive=yes&beids=9466587&c=WEB_EMBEDDED_PLAYER&txp=5531432&sparams=expire%2Cei%2Cip%2Cid%2Caitags%2Csource%2Crequiressl%2Cgcr%2Cvprv%2Cmime%2Cgir%2Cclen%2Cdur%2Clmt&sig=AOq0QJ8wRQIhAO5CiFqspQmiFDV2lGKfbIGkjUS19Of4DmitJLIP6HirAiBEnnMWlUIgooylJTH-bNvwmuGVOpc74d4elsVMbhYyXA%3D%3D&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps&lsig=AG3C_xAwRgIhAJNtPhySp0f8H9tNxvSyZW2YMjy1x0-UrimKAwdEay-zAiEAi0P718zxCczxaf17LvCJZGHk3anpqAOi9OgP7_QaZhU%3D&alr=yes&cpn=ZXdonhILRQNC2T6z&cver=20200626&rn=1&rbuf=0
+
 
 #EXTINF:-1 tvg-id="DMax.TDTChannelsEPG" tvg-logo="https://i.imgur.com/x4fGu91.png/picture?width=320&height=320" group-title="TDT España",DMax
 http://91.126.141.12:1935/live/discoverymax/playlist.m3u8
@@ -68,28 +71,28 @@ https://hlsliveamdgl1-lh.akamaihd.net/i/hlslive_1@356291/master.m3u8
 https://rtvelivestream.akamaized.net/24h_dvr.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/GwoWMlF.jpg/picture?width=320&height=320" group-title="TDT España",Paramount Channel
-http://paramount.live.flumotion.com/live/chunks.m3u8
+
 
 #EXTINF:-1 tvg-id="LaLiga TV FHD" tvg-logo="https://assets.laliga.com/assets/logos/laliga-v/laliga-v-1200x1200.jpg?width=320&height=320" group-title="DEPORTES",M.liga 
-https://cdo0.dailysport.pw/o1/1.m3u8
+
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://assets.laliga.com/assets/logos/laliga-v/laliga-v-1200x1200.jpg?width=320&height=320" group-title="DEPORTES",M.liga SmartBank
-https://cdo0.dailysport.pw/7/7.m3u8
+
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAPIO.png?width=320&height=320" group-title="DEPORTES",M.Liga de Campeones
-https://cdo0.dailysport.pw/11/11.m3u8
+
 
 #EXTINF:-1 tvg-id="M.FORMULA1" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MVF1.png?width=320&height=320" group-title="DEPORTES",M.formula 1 
-https://cdo0.dailysport.pw/25/25.m3u8
+
 
 #EXTINF:-1 tvg-id="TDP.TV" tvg-logo="http://graph.facebook.com/teledeporteRTVE/picture?width=320&height=320" group-title="DEPORTES",Teledeporte HD	
 https://rtvelivestream.akamaized.net/tdp_dvr_4000.m3u8
 
 #EXTINF:-1 tvg-id="GOL.TDTChannelsEPG" tvg-logo="http://graph.facebook.com/goltv.es/picture?width=320&height=320?width=320&height=320" group-title="DEPORTES",Gol tv	
-https://d14yn9755o946w.cloudfront.net/Gol_24h/gol_24h/gol_24hhigh.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9kMTR5bjk3NTVvOTQ2dy5jbG91ZGZyb250Lm5ldC9Hb2xfMjRoL2dvbF8yNGgvZ29sXzI0aGhpZ2gubTN1OCIsIkNvbmRpdGlvbiI6eyJJcEFkZHJlc3MiOnsiQVdTOlNvdXJjZUlwIjoiOTUuMTYuMjQyLjE3OC8zMiJ9LCJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTU5MzI3NjYxMH19fV19&Signature=lyF1t43idmDHYNx-nK0yIxBzHOdU9e9fIiZmypOqDO6i75CxQR~IBbbOO1rIW4F3NPW~aFvRKHYhedOIUFQ0PtuPivh5AXwN~K1DHd225J-tOXa8aNZ6UEVc~4jNM7E8xZFOn4YlnWCBNTARWqlpGy0gs2qPgnba8au2OEt~4549ioKB9u3tyt27y6MTv5VwrWlAU1ov66WxXCHkptvpXDTzONg94-00yGrYig1dXsfVd4Ue32ymgzIc1J4WhV-tF1a7zuWgi9lLBYiGRWfSlaxRmRSnjAMtYqLjfVc1SRJ3JLWPwYoLelIhw3R6rZ~MmvMdRa-1isAZ2rMQG9T16Q__&Key-Pair-Id=APKAIAZ5PGRVVQBQUQTA
 
-#EXTINF:-1 tvg-id="RMTV.TDTChannelsEPG" tvg-logo="https://i.imgur.com/2M9WfqA.jpg?width=320&height=320" group-title="DEPORTES",Real Madrid TV
-http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-b.m3u8?sd=10&rebase=on
+
+#EXTINF:-1 tvg-id="RMTV.TDTChannelsEPG" tvg-logo="https://scontent-mad1-1.xx.fbcdn.net/v/t1.0-1/p200x200/20953693_1518583668201069_6293626457172400751_n.jpg?_nc_cat=100&_nc_sid=0c64ff&_nc_ohc=RR3C1-cCDiMAX8VvFIx&_nc_ht=scontent-mad1-1.xx&_nc_tp=6&oh=52add7286efccd6a166e532b28dd75ec&oe=5F486F46?width=320&height=320" group-title="DEPORTES",Real Madrid TV
+https://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hwebes_1@300661/master.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://photocall.tv/images/fighttime.png" group-title="DEPORTES", Fight Time
 http://node01.openfutbol.es/SVoriginOperatorEdge/128761.smil/.m3u8
