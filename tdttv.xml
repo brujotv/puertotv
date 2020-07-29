@@ -98,25 +98,25 @@ https://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hwebes_1@300661/master.m3u8
 http://node01.openfutbol.es/SVoriginOperatorEdge/128761.smil/.m3u8
 
 #EXTINF:-1 tvg-id="BetisTV.TDTChannelsEPG" tvg-logo="http://graph.facebook.com/realbetisbalompie/picture?width=320&height=320" group-title="Deportivos",Betis TV HD
-https://cdnlive.shooowit.net/rbetislive/smil:television.smil/playlist.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FTLjroU.png" group-title="DEPORTES", Sevilla FC
-http://sevillafc_live-lh.akamaihd.net/i/video_0@354142/master.m3u8
+
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://graph.facebook.com/OlympicChannel/picture?width=320&height=320" group-title="DEPORTES" ,Olympic Channel 1
-http://ott-live.olympicchannel.com/out/u/OC1_1.m3u8
+
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://graph.facebook.com/OlympicChannel/picture?width=320&height=320" group-title="DEPORTES" ,Olympic Channel 2
-http://ott-live.olympicchannel.com/out/u/OC2_1.m3u8
+
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://graph.facebook.com/OlympicChannel/picture?width=320&height=320" group-title="DEPORTES" ,Olympic Channel 3
-http://ott-live.olympicchannel.com/out/u/OC3_1.m3u8
+
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://graph.facebook.com/OlympicChannel/picture?width=320&height=320" group-title="DEPORTES" ,Olympic Channel 4
-http://ott-live.olympicchannel.com/out/u/OC4_1.m3u8
+
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://graph.facebook.com/OlympicChannel/picture?width=320&height=320" group-title="DEPORTES" ,Olympic Channel 5
-http://ott-live.olympicchannel.com/out/u/OC5_1.m3u8
+
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/dCI1w14.jpg?width=320&height=320" group-title="ADULTO", BSX (18+)
 http://publish.firestormmedia.tv:1935/bsx24/livestream/playlist.m3u8
