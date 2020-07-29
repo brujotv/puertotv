@@ -20,10 +20,10 @@ https://rtvelivestream.akamaized.net/la2_dvr_4000.m3u8
 https://linear02-i.akamaihd.net/hls/live/837811/cuatro/01.m3u8
 
 #EXTINF:-1 tvg-id="Cuatro.TV" tvg-logo="https://graph.facebook.com/cuatro/picture?width=320&height=320" group-title="TDT España",Cuatro HD
-https://live.cuatro.com/hls/live/2004102/cuatro/bitrate_4.m3u8
+https://linear02-i.akamaihd.net/hls/live/837811/cuatro/01.m3u8
 
 #EXTINF:-1 tvg-id="Telecinco.TV" tvg-logo="https://graph.facebook.com/tele5/picture?width=320&height=320" group-title="TDT España",Telecinco HD
-https://raw.githubusercontent.com/brujotv/pruebas/master/1.xml
+https://linear01-i.akamaihd.net/hls/live/837810/telecinco/01.m3u8
 
 #EXTINF:-1 tvg-id="LaSexta.TV" tvg-logo="https://graph.facebook.com/laSexta/picture?width=320&height=320" group-title="TDT España",laSexta HD
 https://directo.atresmedia.com/1594508485_f09b501eeb0e7f9fe6d2a9c6d1bccb33572fd44f/lasexta/bitrate_4.m3u8
@@ -41,13 +41,13 @@ https://directo.atresmedia.com/1593294856_ca0fb9ec02c1f9bdd4692b2d19826e01f1bce4
 
 
 #EXTINF:-1 tvg-id="FDF.TV" tvg-logo="https://graph.facebook.com/factoriadeficcion/picture?width=320&height=320" group-title="TDT España",FDF HD
-https://live.factoriadeficcion.com/hls/live/2005336/fdf/bitrate_4.m3u8
+https://linear02-i.akamaihd.net/hls/live/837813/fdf/01.m3u8
 
 #EXTINF:-1 tvg-id="Energy.TV" tvg-logo="https://graph.facebook.com/E.EnergyTV/picture?width=320&height=320" group-title="TDT España",Energy HD	
-https://live.energytv.es/hls/live/2005337/energy/master.m3u8?hdnts=st=1593179449~exp=1593193849~acl=/*~hmac=02f3839386aae0da35031ef56829c6a866a03bbc463b9afdaaa401cb8709ed7f
+https://linear02-i.akamaihd.net/hls/live/837816/energy/01.m3u8
 
 #EXTINF:-1 tvg-id="Divinity.TV" tvg-logo="https://graph.facebook.com/divinityes/picture?width=320&height=320" group-title="TDT España",Divinity HD
-https://live.divinity.es/hls/live/2005335/divinity/bitrate_4.m3u8
+https://linear01-i.akamaihd.net/hls/live/837812/divinity/01.m3u8
 
 #EXTINF:-1 tvg-id="Bemad.TV" tvg-logo="https://graph.facebook.com/BeMadTV/picture?width=320&height=320" group-title="TDT España",Be Mad HD
 https://live.bemad.es/hls/live/2005333/bemad/bitrate_4.m3u8
