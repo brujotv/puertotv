@@ -19,6 +19,29 @@ https://rtvelivestream.akamaized.net/la2_dvr_4000.m3u8
 #EXTINF:-1 tvg-id="Antena3.TV" tvg-logo="https://graph.facebook.com/antena3/picture?width=320&height=320" group-title="TDT España",Antena 3 HD
 https://linear02-i.akamaihd.net/hls/live/837811/cuatro/01.m3u8
 
+<item>
+<title> [COLOR blue]Antena 3  [/COLOR]</title>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/a/aa/Antena3_Atresmedia.png</thumbnail>
+<link>$doregex[geturl]|User-Agent=Mozilla/5.0 (Android 7.0; Tablet; rv:58.0.2) Gecko/58.0.2 Firefox/58.0.2</link>
+<regex>
+<name>geturl</name>
+<expres>source:"(.*?)"</expres>
+<page>$doregex[getunpacked]</page>
+</regex>
+<regex>
+<name>getunpacked</name>
+<expres>$pyFunction:get_unpacked(page_data,'(eval\(function\(p,a,c,k,e,d.*)' )</expres>
+<page>$doregex[pagina]</page>
+<referer>https://adictosalatele.com</referer>
+<connection>keep-alive</connection>
+</regex>
+<regex>
+<name>pagina</name>
+<expres>iframe.*?src="(.*?)"</expres>
+<page>https://adictosalatele.com/TV/espana/antena3/</page>
+</regex>
+</item>
+
 #EXTINF:-1 tvg-id="Cuatro.TV" tvg-logo="https://graph.facebook.com/cuatro/picture?width=320&height=320" group-title="TDT España",Cuatro HD
 https://linear02-i.akamaihd.net/hls/live/837811/cuatro/01.m3u8
 
