@@ -53,7 +53,7 @@ https://linear01-i.akamaihd.net/hls/live/837812/divinity/01.m3u8
 https://linear02-i.akamaihd.net/hls/live/837815/bemad/01.m3u8
 
 #EXTINF:-1 tvg-id="Paramount.TDTChannelsEPG" tvg-logo="https://graph.facebook.com/ParamountNetworkES/picture?width=320&height=320" group-title="TDT España",Paramount Network
-https://paramount-live.flumotion.com/live/chunks.m3u8
+https://paramount-live.flumotion.com/live/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="?width=320&height=320" group-title="TDT España",Ten
 http://91.126.141.201:1935/live/ten/chunklist_w506965236.m3u8
