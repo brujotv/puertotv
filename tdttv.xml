@@ -67,7 +67,7 @@ http://91.126.141.12:1935/live/discoverymax/playlist.m3u8
 #EXTINF:-1 tvg-id="Boing.TV" tvg-logo="https://i.imgur.com/ux2SEpi.jpg/picture?width=320&height=320" group-title="TDT España",Boing
 https://linear01-i.akamaihd.net/hls/live/837814/boing/01.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TDT España",clan
+#EXTINF:-1 tvg-id="Clan.TV" tvg-logo="https://scontent-mad1-1.xx.fbcdn.net/v/t1.0-1/28166839_10157050547942646_1410694500198860188_n.jpg?_nc_cat=101&_nc_sid=0c64ff&_nc_ohc=QV6SXnjg7r4AX8koPCG&_nc_ht=scontent-mad1-1.xx&oh=ee59e5e2aef3c3e51a43be01abad2b81&oe=5F4875EB" group-title="TDT España",clan
 https://hlsliveamdgl1-lh.akamaihd.net/i/hlslive_1@356291/master.m3u8
 
 #EXTINF:-1 tvg-id="24Horas.TDTChannelsEPG" tvg-logo="https://i.imgur.com/rYO7n4s.png/picture?width=320&height=320" group-title="TDT España",24h
