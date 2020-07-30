@@ -1,5 +1,30 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
+
+
+<item>
+<title>Estrenos</title>
+<link>$doregex[getUrl]</link>
+<regex>
+<name>getUrl</name>
+<expres><![CDATA[#$pyFunction
+import re,requests
+def GetLSProData(page_data,Cookie_Jar,m):#streamwatcher2013
+  url='https://vercanalestv1.com/'+re.findall('id=.video[\w\W]*?src="/([^"]+)',page_data)[0]
+  source=requests.get(url,headers={'user-agent':'Mozilla/5.0','host':'vercanalestv1.com','referer':'https://vercanalestv1.com/ver-canal-estrenos-en-directo-y-online-las-24h/','accept':'*/*'},cookies=Cookie_Jar).content
+  plink=re.findall('iframe.*?src="(.+live[^"]+)',source)[0];plink='https:'+plink if plink.startswith('//') else plink
+  source=requests.get(plink,headers={'user-agent':'Mozilla/5.0','referer':url,'accept':'*/*'},cookies=Cookie_Jar).content
+  pID=int(re.findall('Para\s*ver\s*el.+?(\d+)',source)[0]);data={'manzana66':pID}
+  source=requests.post(plink,headers={'user-agent':'Mozilla/5.0','referer':url,'origin':'https://vergol.com','x-requested-with':'XMLHttpRequest','accept':'*/*'},data=data,cookies=Cookie_Jar).content
+  m3u8=re.findall('player/player.js[\w\W]*?source:\s*[\'"]([^\'"]+)',source)[0];m3u8='https:'+m3u8 if m3u8.startswith('//') else m3u8
+  return '%s|user-agent=ipad&origin=https://vergol.com&referer=%s'%(m3u8,plink)
+]]></expres>
+<page>https://vercanalestv1.com/ver-canal-estrenos-en-directo-y-online-las-24h/</page>
+<referer>https://vercanalestv1.com/</referer>
+</regex>
+<thumbnail>https://vercanalestv1.com/imagenes/movistar-estrenos.jpg</thumbnail>
+</item>
+
 <item>
 <title>https://soccerlegacy.net/</title>
 <link>$doregex[makelist]</link>
