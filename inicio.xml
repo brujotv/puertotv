@@ -58,70 +58,6 @@
 </item>
 
 <item>
-<title>[COLOR lime]•[/COLOR] Novelas</title>
-<thumbnail>https://i.imgur.com/PbdTZSQ.png</thumbnail>
-<fanart></fanart>
-<link>http://ignoreme</link>
-<externallink>https://raw.githubusercontent.com/brujotv/Novelas/master/index.xml</externallink>
-</item>
-
-<item>
-<title>[COLOR lime]•[/COLOR] Programas TV</title>
-<thumbnail>https://i.imgur.com/PbdTZSQ.png</thumbnail>
-<fanart></fanart>
-<link>http://ignoreme</link>
-<externallink>https://raw.githubusercontent.com/brujotv/programastv/master/index.xml</externallink>
-</item>
-
-<item>
-<title>[COLOR lime]•[/COLOR] Manualidades</title>
-<thumbnail>https://i.imgur.com/HwR3EYu.png</thumbnail>
-<fanart></fanart>
-<link>http://ignoreme</link>
-<externallink>https://pastebin.com/raw/KkC1psuc</externallink>
-</item>
-
-<item>
-<title>[COLOR lime]•[/COLOR] Aerobic</title>
-<thumbnail>https://i.imgur.com/OFvh5Eg.png</thumbnail>
-<fanart></fanart>
-<link>http://ignoreme</link>
-<externallink>https://raw.githubusercontent.com/Delhia/Aerobic/master/index.xml</externallink>
-</item>
-
-<item>
-<title>[COLOR lime]•[/COLOR] Humor</title>
-<thumbnail>https://i.imgur.com/BtyrSnr.png</thumbnail>
-<fanart></fanart>
-<link>http://ignoreme</link>
-<externallink>https://raw.githubusercontent.com/brujotv/puertotv/master/humor.xml</externallink>
-</item>
-
-<item> 
-<title>[COLOR lime]•[/COLOR] Bricolaje</title>
-<link>http://Ignoreme</link>
-<thumbnail>https://i.imgur.com/wF1Uhpy.png</thumbnail>
-<fanart></fanart>
-<externallink>https://pastebin.com/raw/kRx9wbqx</externallink>	
-</item> 
-
-<item>
-<title>[COLOR lime]•[/COLOR] Recetas de cocina</title>
-<thumbnail>https://i.imgur.com/GXFJgqp.jpg</thumbnail>
-<fanart></fanart>
-<link>http://ignoreme</link>
-<externallink>https://raw.githubusercontent.com/brujotv/puertotv/master/index%20cocina.xml</externallink>
-</item>
-
-<item>
-<title>[COLOR lime]•[/COLOR] Documentales</title>
-<thumbnail>https://i.imgur.com/Uk4svlB.png</thumbnail>
-<fanart></fanart>
-<link>http://ignoreme</link>
-<externallink>https://raw.githubusercontent.com/brujotv/puertotv/master/cazaypesca.xml</externallink>
-</item>
-
-<item>
 <title>[COLOR lime]•[/COLOR][COLOR red] Zona adultos[/COLOR]</title>
 <thumbnail>http://comprarpegatinas.com/images/stories/virtuemart/product/pegatinas/pegatina_prohibido_paso.png</thumbnail>
 <fanart>https://i.ytimg.com/vi/IDF5aZKRSU0/maxresdefault.jpg</fanart>
@@ -135,6 +71,6 @@
 <thumbnail>http://comprarpegatinas.com/images/stories/virtuemart/product/pegatinas/pegatina_prohibido_paso.png</thumbnail>
 <fanart></fanart>
 <link>http://ignoreme</link>
-<externallink>https://github.com/alfilodeloimposible/Ibai/blob/master/index.xml</externallink>
+<externallink>https://raw.githubusercontent.com/brujotv/pruebas/master/index.xml</externallink>
 </item>
 
