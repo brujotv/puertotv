@@ -10,7 +10,7 @@ http://hlsliveamdgl7-lh.akamaihd.net/i/hlsdvrlive_1@583042/master.m3u8
 #EXTINF:-1 tvg-id="La 2 HD" tvg-logo="https://graph.facebook.com/la2detve/picture?width=320&height=320" group-title="TDT España",La 2 HD
 http://hlsliveamdgl1-lh.akamaihd.net/i/hlsdvrlive_1@60414/master.m3u8
 
-#EXTINF:-1 tvg-id="CanalSurA.TV" tvg-logo="https://visiona.tv/wp-content/uploads/2019/06/canal-sur-logo-png-transparent.png?width=320&height=320" group-title="TDT España",Canal Sur Andalucía
+#EXTINF:-1 tvg-id="" tvg-logo="https://visiona.tv/wp-content/uploads/2019/06/canal-sur-logo-png-transparent.png?width=320&height=320" group-title="TDT España",Canal Sur Andalucía
 https://cdnlive.shooowit.net/rtvalive/channelDVR.smil/master.m3u8
 
 #EXTINF:-1 tvg-id="Antena3.TV" tvg-logo="https://graph.facebook.com/antena3/picture?width=320&height=320" group-title="TDT España",Antena 3 HD
@@ -40,10 +40,10 @@ https://linear01-i.akamaihd.net/hls/live/837810/telecinco/01.m3u8
 #EXTINF:-1 tvg-id="FDF" tvg-logo="https://graph.facebook.com/factoriadeficcion/picture?width=320&height=320" group-title="TDT España",FDF HD
 https://linear02-i.akamaihd.net/hls/live/837813/fdf/01.m3u8
 
-#EXTINF:-1 tvg-id="Energy.TV" tvg-logo="https://graph.facebook.com/E.EnergyTV/picture?width=320&height=320" group-title="TDT España",Energy HD	
+#EXTINF:-1 tvg-id="ENERGY" tvg-logo="https://graph.facebook.com/E.EnergyTV/picture?width=320&height=320" group-title="TDT España",Energy HD	
 https://linear02-i.akamaihd.net/hls/live/837816/energy/01.m3u8
 
-#EXTINF:-1 tvg-id="Divinity.TV" tvg-logo="https://graph.facebook.com/divinityes/picture?width=320&height=320" group-title="TDT España",Divinity HD
+#EXTINF:-1 tvg-id="DIVINITY" tvg-logo="https://graph.facebook.com/divinityes/picture?width=320&height=320" group-title="TDT España",Divinity HD
 https://linear01-i.akamaihd.net/hls/live/837812/divinity/01.m3u8
 
 #EXTINF:-1 tvg-id="Bemad.TV" tvg-logo="https://graph.facebook.com/BeMadTV/picture?width=320&height=320" group-title="TDT España",Be Mad HD
@@ -61,10 +61,10 @@ http://91.126.141.201:1935/live/ten/chunklist_w506965236.m3u8
 #EXTINF:-1 tvg-id="DMax.TDTChannelsEPG" tvg-logo="https://i.imgur.com/x4fGu91.png/picture?width=320&height=320" group-title="TDT España",DMax
 http://91.126.141.12:1935/live/discoverymax/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Boing.TV" tvg-logo="https://i.imgur.com/ux2SEpi.jpg/picture?width=320&height=320" group-title="TDT España",Boing
+#EXTINF:-1 tvg-id="BOING" tvg-logo="https://i.imgur.com/ux2SEpi.jpg/picture?width=320&height=320" group-title="TDT España",Boing
 https://linear01-i.akamaihd.net/hls/live/837814/boing/01.m3u8
 
-#EXTINF:-1 tvg-id="Clan.TV" tvg-logo="https://scontent-mad1-1.xx.fbcdn.net/v/t1.0-1/28166839_10157050547942646_1410694500198860188_n.jpg?_nc_cat=101&_nc_sid=0c64ff&_nc_ohc=QV6SXnjg7r4AX8koPCG&_nc_ht=scontent-mad1-1.xx&oh=ee59e5e2aef3c3e51a43be01abad2b81&oe=5F4875EB" group-title="TDT España",clan
+#EXTINF:-1 tvg-id="CLAN  TVE" tvg-logo="https://scontent-mad1-1.xx.fbcdn.net/v/t1.0-1/28166839_10157050547942646_1410694500198860188_n.jpg?_nc_cat=101&_nc_sid=0c64ff&_nc_ohc=QV6SXnjg7r4AX8koPCG&_nc_ht=scontent-mad1-1.xx&oh=ee59e5e2aef3c3e51a43be01abad2b81&oe=5F4875EB" group-title="TDT España",clan
 https://hlsliveamdgl1-lh.akamaihd.net/i/hlslive_1@356291/master.m3u8
 
 #EXTINF:-1 tvg-id="24Horas.TDTChannelsEPG" tvg-logo="https://i.imgur.com/rYO7n4s.png/picture?width=320&height=320" group-title="TDT España",24h
@@ -85,7 +85,7 @@ https://rtvelivestream.akamaized.net/24h_dvr.m3u8
 #EXTINF:-1 tvg-id="M.FORMULA1" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MVF1.png?width=320&height=320" group-title="DEPORTES",M.formula 1 
 
 
-#EXTINF:-1 tvg-id="TDP.TV" tvg-logo="http://graph.facebook.com/teledeporteRTVE/picture?width=320&height=320" group-title="DEPORTES",Teledeporte HD	
+#EXTINF:-1 tvg-id="TELEDEPORTE" tvg-logo="http://graph.facebook.com/teledeporteRTVE/picture?width=320&height=320" group-title="DEPORTES",Teledeporte HD	
 https://rtvelivestream.akamaized.net/tdp_dvr_4000.m3u8
 
 #EXTINF:-1 tvg-id="GOL.TDTChannelsEPG" tvg-logo="http://graph.facebook.com/goltv.es/picture?width=320&height=320?width=320&height=320" group-title="DEPORTES",Gol tv	
