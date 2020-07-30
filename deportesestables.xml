@@ -41,7 +41,7 @@ def GetLSProData(page_data,Cookie_Jar,m):# streamwatcher2013
   else:
     return re.findall('window.atob.[\'"]([^\'"]+)',page)[0].decode('base64')+'|user-agent=ipad&referer='+hUrl
 ]]></expres>
-<page></page>
+<page>http://nowagoal.com/ch11.html</page>
 </regex>
 </item>
 
