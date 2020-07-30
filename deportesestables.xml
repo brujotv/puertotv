@@ -1,44 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
 
-<item>
-<title>https://dailysport.pw/ either English or Spanish Channels</title>
-<link>$doregex[makelist]</link>
-<regex>
-<name>makelist</name>
-<listrepeat><![CDATA[
-  <title>[COLOR dodgerblue][makelist.param1] [[makelist.param2]] - [COLOR gold][makelist.param3][/COLOR]</title>
-  <link>[makelist.param4]|user-agent=ipad</link>
-]]></listrepeat>
-<expres><![CDATA[#$pyFunction
-import re,requests,datetime
-def GetLSProData(page_data,Cookie_Jar,m):#streamwatcher2013
- source=requests.get('https://dailysport.pw/',headers={'user-agent':'Mozilla/5.0'},verify=False).text
- data=re.findall('<td>(\d+\/\d+)\s*(\d+:\d+).+\n.*?<td>([^<]+).+\n.+\n.+?Channel\s*(\d+)',source)  # English
-# data=re.findall('<td>(\d+\/\d+)\s*(\d+:\d+).+\n.*?<td>([^<]+).+\n.+?Channel\s*(\d+)',source)  # Spanish
- list=[]
- for d in data:
-#   tmp0=datetime.datetime.strptime(d[0], '%d/%m').strftime('%m/%d')   # month/day
-   tmp0=d[0]  # default day/month
-   tmp10=d[1]
-   time=tmp10.zfill(5)
-   localtime=int(time[:-3]) - 6
-   if localtime > 24:
-     localtime -= 24
-   if localtime < 1:
-     localtime += 24
-   localtime=str(localtime) + time[2:]
-   tmp1=localtime.zfill(5)
-   tmp2=d[2].encode('latin-1')
-   tmp30='https://dailysport.pw/c'+d[3]+'.php'
-   source=requests.get(tmp30,headers={'user-agent':'Mozilla/5.0'},verify=False).content
-   tmp3=re.findall('window.atob\("([^"]+)"\)',source)[0].decode('base64')
-   list.append((tmp0, tmp1, tmp2, tmp3))
- return sorted(list, key=lambda x: (x[0],x[1],x[2]))
-]]></expres>
-<page></page>
-</regex>
-</item>
+
 
 <item>
 <title> La liga </title>        
