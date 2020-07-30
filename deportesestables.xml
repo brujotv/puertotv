@@ -1,7 +1,58 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
 
+<item>
+<title>RetroPelisTV **https://retropelistv.com/**</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+  <title>[COLOR gold][makelist.param4][/COLOR] - [COLOR green][makelist.param5][/COLOR] [COLOR neon]([makelist.param6])[/COLOR]</title>
+  <link>$doregex[getUrl]</link>
+  <thumbnail>[makelist.param2]</thumbnail>
+]]></listrepeat>
+<expres><![CDATA[#$pyFunction
+import re,requests
+def GetLSProData(page_data,Cookie_Jar,m):
+  list=re.findall('article id="post-(.*?)".*?img.src="(.*?)".*?<h3>.*?href="(.*?)">(.*?)<.*?span>(.*?)<.*?(IMDb.*?)<',re.findall('<h1>Películas<.h1>(?s).+?class=.resppages',page_data)[0])
+  url='https://retropelistv.com/index.php/movies/'
+  #lastpg=re.findall('Página 1 de.(.*?)<',page_data)[0]
+  for pn in xrange(2,5):
+    source=requests.get(url+'page/'+str(pn),cookies=Cookie_Jar,headers={'user-agent':'Mozilla/5.0','Host':'retropelistv.com','referer':'https://retropelistv.com/','Upgrade-Insecure-Requests':'1','accept':'*/*'}).content
+    list +=re.findall('article id="post-(.*?)".*?img.src="(.*?)".*?<h3>.*?href="(.*?)">(.*?)<.*?span>(.*?)<.*?(IMDb.*?)<',re.findall('<h1>Películas<.h1>(?s).+?class=.resppages',source)[0])
+  return list
+]]></expres>
+<page>https://retropelistv.com/index.php/movies/</page>
+</regex>
 
+<regex>
+<name>id</name>
+<expres>embed_url":"https.*?v..(.*?)#</expres>
+<page>https://retropelistv.com/wp-json/dooplayer/v1/post/[makelist.param1]?type=movie&amp;source=1</page>
+</regex>
+
+<regex>
+<name>link</name>
+<expres>(?s).+?480p.+?"file":"(.*?)".+?720</expres>
+<page>https://feurl.com/api/source/$doregex[id]</page>
+<referer>https://feurl.com/v/$doregex[link]</referer>
+<rawpost>r=$doregex[EncodeURL]&amp;d=feurl.com</rawpost>
+<cookieJar></cookieJar>
+<x-req>XMLHttpRequest</x-req>
+</regex>
+
+<regex>
+<name>EncodeURL</name>
+<expres>$pyFunction:urllib.quote_plus('[makelist.param3]')<expres>
+<page></page>
+</regex>   
+
+<regex>
+<name>getUrl</name>
+<expres>$pyFunction:'$doregex[link]'.replace('\/','/')</expres>
+<page></page>
+</regex>
+</item>
 
 <item>
 <title> La liga </title>        
