@@ -29,7 +29,8 @@ def GetLSProData(page_data,Cookie_Jar,m,url = ''):
   import re
   r = re.findall('source:\s*\'([^\']*)', page_data)[0]
   r = r.replace('http:','')
-  r = r.replace('//','http://')
+  r = r.replace('https:','')
+  r = r.replace('//','https://')
   return r + '|user-agent=iPad&amp;referer=[makelist.param1]'
 ]]></expres>
 <page>[makelist.param1]</page>
