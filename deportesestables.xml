@@ -6,6 +6,63 @@
 <regex>
 <name>makelist</name>
 <listrepeat><![CDATA[
+  <title>[COLOR dodgerblue]([makelist.param1]) [COLOR gold][makelist.param3] vs. [makelist.param4][COLOR snow] ([makelist.param2])[/COLOR]</title>
+  <link>$doregex[getUrl]</link>
+  <thumbnail></thumbnail>
+]]></listrepeat>
+<expres><![CDATA[#$pyFunction
+import re
+def GetLSProData(page_data,Cookie_Jar,m):#streamwatcher2013
+  dates=re.findall('"date":"([^"]+)',page_data)
+  for d in dates:
+    ndate=d.replace('T',' | ')[5:-8]
+    page_data=page_data.replace(d,ndate)
+  return re.findall('"date":"([^"]+).,"competition":"([^"]+).+?"home":"([^"]+).,"away":"([^"]+)',page_data)
+]]></expres>
+<page>https://soccerlegacy.net/api/schedule</page>
+<referer>https://soccerlegacy.net/</referer>
+</regex>
+<regex>
+<name>Link</name>
+<expres><![CDATA[#$pyFunction
+import re
+def GetLSProData(page_data,Cookie_Jar,m):#streamwatcher2013
+  hteam='-'.join('[makelist.param3]'.lower().split());league='-'.join('[makelist.param2]'.lower().split())
+  ateam='-'.join('[makelist.param4]'.lower().split())
+  if len(ateam) >= 2:
+    return 'https://soccerlegacy.net/%s/%s-vs-%s'%(league,hteam,ateam)
+  else:
+    return 'https://soccerlegacy.net/%s/%s'%(league,hteamm)
+]]></expres>
+<page></page>
+</regex>
+<regex>
+<name>getUrl</name>
+<expres><![CDATA[#$pyFunction
+import re,requests,jsunpack
+def GetLSProData(page_data,Cookie_Jar,m):#streamwatcher2013
+  link=re.findall('embed-responsive.+?src="([^"]+)',page_data)[0]
+  source=requests.get(link,headers={'user-agent':'Mozilla/5.0','referer':'$doregex[Link]','accept':'*/*'}).content
+  slink=re.findall('iframe\s*src="([^"]+)',source)[0]
+  source=requests.get(slink,headers={'user-agent':'Mozilla/5.0','referer':link,'accept':'*/*'}).content
+  m3u8=jsunpack.unpack(re.findall('(eval.*(?:m3u8|mp4).*)',source)[0])
+  return re.findall('player[\w\W]*?(?:source|src|file):\s*[\'"]([^\'"]+)',m3u8)[0]+'|user-agent=ipad&referer='+slink
+]]></expres>
+<page>$doregex[Link]</page>
+<referer>https://soccerlegacy.net/</referer>
+</regex>
+</item>
+
+ 
+
+
+
+<item>
+<title>https://soccerlegacy.net/</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
   <title>[COLOR dodgerblue][makelist.param1] | [COLOR gold][makelist.param3] vs. [makelist.param4][COLOR snow] ([makelist.param2])[/COLOR]</title>
   <link>$doregex[getUrl]</link>
   <thumbnail></thumbnail>
