@@ -2,7 +2,7 @@
 
 
 <item>
-<title>F1</title>
+<title>https://dailysport.pw/ either English or Spanish Channels</title>
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
@@ -35,36 +35,6 @@ def GetLSProData(page_data,Cookie_Jar,m):#streamwatcher2013
    tmp3=re.findall('window.atob\("([^"]+)"\)',source)[0].decode('base64')
    list.append((tmp0, tmp1, tmp2, tmp3))
  return sorted(list, key=lambda x: (x[0],x[1],x[2]))
-]]></expres>
-<page>https://dailysport.pw/c11.php</page>
-</regex>
-</item>
-
-
-<item>
-<title>https://dailysport.pw/ all channels with F1</title>
-<link>$doregex[makelist]</link>
-<regex>
-<name>makelist</name>
-<listrepeat><![CDATA[
-  <title>[COLOR dodgerblue][[makelist.param1]] - [COLOR gold][makelist.param2][/COLOR]</title>
-  <link>[makelist.param3]|user-agent=ipad</link>
-]]></listrepeat>
-<expres><![CDATA[#$pyFunction
-import re,requests
-def GetLSProData(page_data,Cookie_Jar,m):#streamwatcher2013
- source=requests.get('https://dailysport.pw/',headers={'user-agent':'Mozilla/5.0'},verify=False).text
- data=re.findall('<td>([^<]+).+\n.*?<td>([^<]+).+\n.+\n.+?Channel\s*(\d+)',source)  # English
-# data=re.findall('<td>([^<]+).+\n.*?<td>([^<]+).+\n.+?Channel\s*(\d+)',source)  # Spanish
- list=[]
- for d in data:
-   tmp0=d[0]
-   tmp1=d[1].encode('latin-1')
-   tmp20='https://dailysport.pw/c'+d[2]+'.php'
-   source=requests.get(tmp20,headers={'user-agent':'Mozilla/5.0'},verify=False).content
-   tmp2=re.findall('window.atob\("([^"]+)"\)',source)[0].decode('base64')
-   list.append((tmp0, tmp1, tmp2))
- return sorted(list, key=lambda x: (x[0],x[1]))
 ]]></expres>
 <page></page>
 </regex>
