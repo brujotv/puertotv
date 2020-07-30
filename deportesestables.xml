@@ -2,6 +2,42 @@
 
 
 <item>
+<title>photocall</title>
+<link>$doregex[makelist]</link>
+<thumbnail></thumbnail>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+  <title>[makelist.param2]</title>
+  <link>$doregex[play]</link>
+  <thumbnail>[makelist.param3]</thumbnail>
+]]></listrepeat>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url = ''):
+  import re
+  r = re.findall('(?s)<div class="dropdown"><a href="([^"]*)(?:[^=]*)=(?:[^=]*)=(?:[^=]*)="([^"]*)(?:[^=]*)="([^"]*)', page_data)
+  r = [('http://photocall.tv/'+i[0],i[1],i[2]) for i in r if 'fD' in i[0]]
+  return r
+]]></expres>
+<page>http://photocall.tv/</page>
+<referer>http://photocall.tv/</referer>
+</regex>
+<regex>
+<name>play</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url = ''):
+  import re
+  r = re.findall('source:\s*\'([^\']*)', page_data)[0]
+  r = r.replace('http:','')
+  r = r.replace('//','http://')
+  return r + '|user-agent=iPad&amp;referer=[makelist.param1]'
+]]></expres>
+<page>[makelist.param1]</page>
+<referer>http://photocall.tv/</referer>
+</regex>
+</item>
+
+<item>
 <title> La liga </title>        
 <link>https://cdo0.dailysport.pw/11/11.m3u8</link>
 <thumbnail>https://assets.laliga.com/assets/logos/laliga-v/laliga-v-1200x1200.jpg</thumbnail>
