@@ -10,7 +10,7 @@ http://hlsliveamdgl7-lh.akamaihd.net/i/hlsdvrlive_1@583042/master.m3u8
 #EXTINF:-1 tvg-id="La 2 HD" tvg-logo="https://graph.facebook.com/la2detve/picture?width=320&height=320" group-title="TDT España",La 2 HD
 http://hlsliveamdgl1-lh.akamaihd.net/i/hlsdvrlive_1@60414/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://visiona.tv/wp-content/uploads/2019/06/canal-sur-logo-png-transparent.png?width=320&height=320" group-title="TDT España",Canal Sur Andalucía
+#EXTINF:-1 tvg-id="Canal Sur HD." tvg-logo="https://visiona.tv/wp-content/uploads/2019/06/canal-sur-logo-png-transparent.png?width=320&height=320" group-title="TDT España",Canal Sur Andalucía
 https://cdnlive.shooowit.net/rtvalive/channelDVR.smil/master.m3u8
 
 #EXTINF:-1 tvg-id="Antena3.TV" tvg-logo="https://graph.facebook.com/antena3/picture?width=320&height=320" group-title="TDT España",Antena 3 HD
@@ -46,13 +46,13 @@ https://linear02-i.akamaihd.net/hls/live/837816/energy/01.m3u8
 #EXTINF:-1 tvg-id="DIVINITY" tvg-logo="https://graph.facebook.com/divinityes/picture?width=320&height=320" group-title="TDT España",Divinity HD
 https://linear01-i.akamaihd.net/hls/live/837812/divinity/01.m3u8
 
-#EXTINF:-1 tvg-id="Bemad.TV" tvg-logo="https://graph.facebook.com/BeMadTV/picture?width=320&height=320" group-title="TDT España",Be Mad HD
+#EXTINF:-1 tvg-id="BE MAD" tvg-logo="https://graph.facebook.com/BeMadTV/picture?width=320&height=320" group-title="TDT España",Be Mad HD
 https://linear02-i.akamaihd.net/hls/live/837815/bemad/01.m3u8
 
 #EXTINF:-1 tvg-id="Paramount.TDTChannelsEPG" tvg-logo="https://graph.facebook.com/ParamountNetworkES/picture?width=320&height=320" group-title="TDT España",Paramount Network
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://scontent-mad1-1.xx.fbcdn.net/v/t1.0-1/p200x200/22089174_1956008234638727_2963725894594557021_n.jpg?_nc_cat=108&_nc_sid=0c64ff&_nc_ohc=dDuV8mfpF_IAX_sLOQC&_nc_ht=scontent-mad1-1.xx&_nc_tp=6&oh=d983a8cae581385f4df36d2febd76b8c&oe=5F463D40"?width=320&height=320" group-title="TDT España",Ten
+#EXTINF:-1 tvg-id="Ten" tvg-logo="https://scontent-mad1-1.xx.fbcdn.net/v/t1.0-1/p200x200/22089174_1956008234638727_2963725894594557021_n.jpg?_nc_cat=108&_nc_sid=0c64ff&_nc_ohc=dDuV8mfpF_IAX_sLOQC&_nc_ht=scontent-mad1-1.xx&_nc_tp=6&oh=d983a8cae581385f4df36d2febd76b8c&oe=5F463D40"?width=320&height=320" group-title="TDT España",Ten
 http://91.126.141.201:1935/live/ten/chunklist_w506965236.m3u8
 
 #EXTINF:-1 tvg-id="DKISS.TDTChannelsEPG" tvg-logo="?width=320&height=320" group-title="TDT España",Dkiss
@@ -67,7 +67,7 @@ https://linear01-i.akamaihd.net/hls/live/837814/boing/01.m3u8
 #EXTINF:-1 tvg-id="CLAN  TVE" tvg-logo="https://scontent-mad1-1.xx.fbcdn.net/v/t1.0-1/28166839_10157050547942646_1410694500198860188_n.jpg?_nc_cat=101&_nc_sid=0c64ff&_nc_ohc=QV6SXnjg7r4AX8koPCG&_nc_ht=scontent-mad1-1.xx&oh=ee59e5e2aef3c3e51a43be01abad2b81&oe=5F4875EB" group-title="TDT España",clan
 https://hlsliveamdgl1-lh.akamaihd.net/i/hlslive_1@356291/master.m3u8
 
-#EXTINF:-1 tvg-id="24Horas.TDTChannelsEPG" tvg-logo="https://i.imgur.com/rYO7n4s.png/picture?width=320&height=320" group-title="TDT España",24h
+#EXTINF:-1 tvg-id="24 HORAS" tvg-logo="https://i.imgur.com/rYO7n4s.png/picture?width=320&height=320" group-title="TDT España",24h
 https://rtvelivestream.akamaized.net/24h_dvr.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/GwoWMlF.jpg/picture?width=320&height=320" group-title="TDT España",Paramount Channel
