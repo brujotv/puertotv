@@ -77,7 +77,7 @@ https://rtvelivestream.akamaized.net/24h_dvr.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://assets.laliga.com/assets/logos/laliga-v/laliga-v-1200x1200.jpg?width=320&height=320" group-title="DEPORTES",M.liga SmartBank
-https://dailysport.pw/c10.php
+https://cds.dailysport.pw/10/10.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAPIO.png?width=320&height=320" group-title="DEPORTES",M.Liga de Campeones
 https://cds.dailysport.pw/1/1.m3u8
