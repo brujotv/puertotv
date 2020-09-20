@@ -3,6 +3,13 @@
 
 
 <item>
+<title> Gol tv </title>        
+<link>https://d27qpx558syegb.cloudfront.net/LiveApp/streams/912690895893524207341131.m3u8</link>
+<thumbnail>http://graph.facebook.com/goltv.es/picture</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
 <title> La liga </title>        
 <link>https://d27qpx558syegb.cloudfront.net/LiveApp/streams/866507095476202444049744.m3u8</link>
 <thumbnail>https://assets.laliga.com/assets/logos/laliga-v/laliga-v-1200x1200.jpg</thumbnail>
