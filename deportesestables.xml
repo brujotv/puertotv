@@ -55,21 +55,11 @@
 </item>
 
 <item>
-<title> Enlaces WEBS </title>
-<link>_</link>
-<externallink>https://raw.githubusercontent.com/OPIBOX/OPIBOX.1.3/master/DEPORTES/webs</externallink>
-<Info>Series de [COLOR blue]Web para ver el deporte via web a traves de tu KODI[/COLOR]</Info>
-<thumbnail>https://www.cualsitioweb.com/wp-content/uploads/webs-logo.png</thumbnail>
-<fanart></fanart>
-</item>
-<item>
-
-<item>
-<title> SPORTZONLINE</title>
+<title>deportes hoy</title>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <link>http://ignoreme</link>
-<externallink>https://raw.githubusercontent.com/brujotv/depor/master/sportzone.xml</externallink>
+<externallink>http://acestreampi.duckdns.org/dailys.m3u8</externallink>
 </item>
 
 <item>
