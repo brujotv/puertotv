@@ -1,5 +1,62 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
+<item>
+<title>https://www.verlatele.net</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+  <title>[makelist.param3]</title> 
+  <link>$doregex[getUrl]</link>
+  <thumbnail>[makelist.param2]</thumbnail>
+]]></listrepeat>
+<expres><![CDATA[#$pyFunction
+import re
+def GetLSProData(page_data,Cookie_Jar,m):#streamwatcher2013
+  gtitle=re.findall('class="blocks-gallery-item".+?alt="([^"]+)',page_data)
+  for t in gtitle:
+    title=t.title()
+    page_data=page_data.replace(t,title)
+  return re.findall('class="blocks-gallery-item".+?href="([^"]+).+?data-src="([^"]+).\s*alt="([^"]+)',page_data)
+]]></expres>
+<page>https://www.verlatele.net</page>
+</regex>
+<regex>
+<name>getUrl</name>
+<expres><![CDATA[#$pyFunction
+import re,requests,jsunpack
+def GetLSProData(page_data,Cookie_Jar,m):#streamwatcher2013
+  murl='[makelist.param1]';murl='https://www.verlatele.net'+murl if murl.startswith('/') else murl
+  msource=requests.get(murl,headers={'user-agent':'Mozilla/5.0','referer':'https://www.verlatele.net','accept':'*/*'}).content
+  url=re.findall('(?:(?:data-|src)|href)="(.+?/TV[^"]+)|$',msource)[0];url='https:'+url if url.startswith('//') else url
+  source=requests.get(url,headers={'user-agent':'Mozilla/5.0','referer':'[makelist.param1]','accept':'*/*'},cookies=Cookie_Jar).content
+  if 'm3u8' in source:
+    return re.findall('(?:P|p)layer[\w\W]*?(?:source|src|file):\s*[\'"]([^\'"]+)',source)[0]+'|user-agent=ipad&referer='+url
+  elif 'wstream' in source:
+    link=re.findall('iframe.+?src=[\'"]([^\'"]+)',source)[0]
+    source=requests.get(link,headers={'user-agent':'Mozilla/5.0','referer':url,'accept':'*/*'}).content
+    gm3u8=jsunpack.unpack(re.findall('(eval.*m3u8.*)',source)[0])
+    return re.findall('(?:P|p)layer[\w\W]*?(?:source|src|file):\s*[\'"]([^\'"]+)',gm3u8)[0]+'|user-agent=ipad&referer='+link
+  else:
+    link=re.findall('(?:(?:data-|src)|href)="(.+?/TV[^"]+)',source)[0];link='https:'+link if link.startswith('//') else link
+    source=requests.get(link,headers={'user-agent':'Mozilla/5.0','referer':url,'accept':'*/*'},cookies=Cookie_Jar).content
+    if 'wstream.to' in source:
+      turl=re.findall('src=[\'"](.+?wstream[^\'"]+)',source)[0];turl='https:'+turl if turl.startswith('//') else turl
+      source=requests.get(turl,headers={'user-agent':'Mozilla/5.0','referer':link,'accept':'*/*'}).content
+      gm3u8=jsunpack.unpack(re.findall('(eval.*m3u8.*)',source)[0])
+      return re.findall('(?:P|p)layer[\w\W]*?(?:source|src|file):\s*[\'"]([^\'"]+)',gm3u8)[0]+'|user-agent=ipad&referer='+turl
+    elif 'wstream' not in source:
+      turl=re.findall('iframe.+?src=[\'"]([^\'"]+)',source)[0];turl='https:'+turl if turl.startswith('//') else turl
+      source=requests.get(turl,headers={'user-agent':'Mozilla/5.0','referer':link,'accept':'*/*'},cookies=Cookie_Jar).content
+      html=re.findall('iframe.+?src=[\'"]([^\'"]+)',source)[0];html='https:'+html if html.startswith('//') else html
+      source=requests.get(html,headers={'user-agent':'Mozilla/5.0','referer':turl,'accept':'*/*'},cookies=Cookie_Jar).content
+      gm3u8=jsunpack.unpack(re.findall('(eval.*m3u8.*)',source)[0])
+      return re.findall('(?:P|p)layer[\w\W]*?(?:source|src|file):\s*[\'"]([^\'"]+)',gm3u8)[0]+'|user-agent=ipad&referer='+html
+]]></expres>
+<page></page>
+</regex>
+</item>
+
 
 
 <item>
