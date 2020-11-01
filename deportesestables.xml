@@ -1,5 +1,13 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
+
+<item>
+<title>[B]PLUTO TV MOVIES[/B]</title>
+<inputstream>http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5c5c3b948002db3c3e0b262e/master.m3u8?advertisingId=&amp;appName=web&amp;appVersion=5.5.1-47ae969efab27ec552faf45ab4c7e4c6a50ac344&amp;architecture=&amp;buildVersion=&amp;clientTime=&amp;deviceDNT=0&amp;deviceId=5c5c3b948002db3c3e0b262e&amp;deviceLat=&amp;deviceLon=&amp;deviceMake=Chrome&amp;deviceModel=Chrome&amp;deviceType=web&amp;deviceVersion=83.0.4103.116&amp;includeExtendedEvents=false&amp;marketingRegion=DE&amp;sid=f2b2e804-98d9-40db-95ed-1215e613a7e0&amp;userId=&amp;serverSideAds=true|User-Agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 Safari/537.36</inputstream>
+<thumbnail>http://images.pluto.tv/channels/5c5c3b948002db3c3e0b262e/thumbnail.jpg?w=250&amp;h=250&amp;fm=jpg&amp;q=75&amp;fit=fill&amp;fill=blur</thumbnail>
+<fanart>http://pluto.tv.s3.amazonaws.com/channels/5c5c3b948002db3c3e0b262e/featuredImage.jpg</fanart>
+</item>
+
 <item>
 <title> Gol tv </title>        
 <link>https://cdn2.dailysport.pw/12/12.m3u8</link>
