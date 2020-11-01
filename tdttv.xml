@@ -74,6 +74,21 @@ https://rtvelivestream.akamaized.net/24h_dvr.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/GwoWMlF.jpg/picture?width=320&height=320" group-title="TDT España",Paramount Channel
 
 
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f1ac1f1b66c76000790ef27/featuredImage.jpg?w=175&fm=jpg&q=75&fit=fill&fill=blur",cine
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1ac1f1b66c76000790ef27/master.m3u8?advertisingId=&appName=web&appVersion=5.9.1-e0b37ef76504d23c6bdc8157813d13333dfa33a3&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=9f03c6e0-5884-4903-be75-2dd300332925&deviceLat=40.0000&deviceLon=-4.0000&deviceMake=Firefox&deviceModel=Firefox&deviceType=web&deviceVersion=82.0&includeExtendedEvents=false&marketingRegion=ES&sid=68062985-1c29-11eb-aa98-0242ac110002&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f1ac2591dd8880007bb7d6d/featuredImage.jpg?w=175&fm=jpg&q=75&fit=fill&fill=blur",cine accion
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1ac2591dd8880007bb7d6d/master.m3u8?advertisingId=&appName=web&appVersion=5.9.1-e0b37ef76504d23c6bdc8157813d13333dfa33a3&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=9f03c6e0-5884-4903-be75-2dd300332925&deviceLat=40.0000&deviceLon=-4.0000&deviceMake=Firefox&deviceModel=Firefox&deviceType=web&deviceVersion=82.0&includeExtendedEvents=false&marketingRegion=ES&sid=1f1378fd-1c2a-11eb-bde1-0242ac110002&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f1ac8099c49f600076579b2/featuredImage.jpg?w=175&fm=jpg&q=75&fit=fill&fill=blur"cine comedia
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1ac947dcd00d0007937c08/3063648/playlist.m3u8?terminate=false&deviceId=9f03c6e0-5884-4903-be75-2dd300332925&deviceVersion=82.0&appVersion=5.9.1-e0b37ef76504d23c6bdc8157813d13333dfa33a3&deviceType=web&deviceMake=Firefox&sid=97772abb-1c27-11eb-85e0-0242ac110002&advertisingId=&deviceLat=40.0000&deviceLon=-4.0000&deviceDNT=false&deviceModel=Firefox&userId=&embedPartner=&appName=web&serverSideAds=true&architecture=&paln=&includeExtendedEvents=false
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f6a38eaa5b68b0007a00e7a/featuredImage.jpg?w=175&fm=jpg&q=75&fit=fill&fill=blur",cine sci-fi
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f6a38eaa5b68b0007a00e7a/master.m3u8?advertisingId=&appName=web&appVersion=5.9.1-e0b37ef76504d23c6bdc8157813d13333dfa33a3&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=9f03c6e0-5884-4903-be75-2dd300332925&deviceLat=40.0000&deviceLon=-4.0000&deviceMake=Firefox&deviceModel=Firefox&deviceType=web&deviceVersion=82.0&includeExtendedEvents=false&marketingRegion=ES&sid=57d82ed9-1c2a-11eb-a7c8-0242ac110002&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f1ac9a2d3611d0007a844bb/featuredImage.jpg?w=175&fm=jpg&q=75&fit=fill&fill=blur",cine romantico
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1ac9a2d3611d0007a844bb/subtitle/en/playlist.m3u8?terminate=false&deviceId=9f03c6e0-5884-4903-be75-2dd300332925&deviceVersion=82.0&appVersion=5.9.1-e0b37ef76504d23c6bdc8157813d13333dfa33a3&deviceType=web&deviceMake=Firefox&sid=fadb8367-1c2a-11eb-bde1-0242ac110002&advertisingId=&deviceLat=40.0000&deviceLon=-4.0000&deviceDNT=false&deviceModel=Firefox&userId=&embedPartner=&appName=web&serverSideAds=true&architecture=&paln=&includeExtendedEvents=false
+
 #EXTINF:-1 tvg-id="LaLiga TV FHD" tvg-logo="https://assets.laliga.com/assets/logos/laliga-v/laliga-v-1200x1200.jpg?width=320&height=320" group-title="DEPORTES",M.liga bar 
 https://storage.googleapis.com/dailst1/1/1.m3u8
 
