@@ -14,7 +14,7 @@ http://hlsliveamdgl1-lh.akamaihd.net/i/hlsdvrlive_1@60414/master.m3u8
 https://cdnlive.shooowit.net/rtvalive/channelDVR.smil/master.m3u8
 
 #EXTINF:-1 tvg-id="Antena3.TV" tvg-logo="https://graph.facebook.com/antena3/picture?width=320&height=320" group-title="TDT España",Antena 3 HD
-
+https://livestartover.atresmedia.com/antena3/master.m3u8
 
 #EXTINF:-1 tvg-id="CUATRO HD" tvg-logo="https://graph.facebook.com/cuatro/picture?width=320&height=320" group-title="TDT España",Cuatro HD
 https://linear02-i.akamaihd.net/hls/live/837811/cuatro/01.m3u8
@@ -26,13 +26,13 @@ https://linear01-i.akamaihd.net/hls/live/837810/telecinco/01.m3u8
 https://livestartover.atresmedia.com/geolasexta/master.m3u8
 
 #EXTINF:-1 tvg-id="Neox.TV" tvg-logo="https://graph.facebook.com/neox/picture?width=320&height=320" group-title="TDT España",Neox HD
-
+https://livestartover.atresmedia.com/geoneox/master.m3u8
 
 #EXTINF:-1 tvg-id="Nova.TV" tvg-logo="https://graph.facebook.com/novatdt/picture?width=320&height=320" group-title="TDT España",Nova HD
-
+https://livestartover.atresmedia.com/geonova/master.m3u8
 
 #EXTINF:-1 tvg-id="Mega.TV" tvg-logo="https://graph.facebook.com/megaTDT/picture?width=320&height=320" group-title="TDT España",Mega HD
-
+https://livestartover.atresmedia.com/geomega/master.m3u8
 
 #EXTINF:-1 tvg-id="Atreseries.TV" tvg-logo="https://graph.facebook.com/atreseries/picture?width=320&height=320" group-title="TDT España",Atreseries HD
 
@@ -50,7 +50,7 @@ https://linear01-i.akamaihd.net/hls/live/837812/divinity/01.m3u8
 https://linear02-i.akamaihd.net/hls/live/837815/bemad/01.m3u8
 
 #EXTINF:-1 tvg-id="Paramount.TDTChannelsEPG" tvg-logo="https://graph.facebook.com/ParamountNetworkES/picture?width=320&height=320" group-title="TDT España",Paramount Network
-
+https://paramount-live.flumotion.com/live/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Ten" tvg-logo="https://scontent-mad1-1.xx.fbcdn.net/v/t1.0-1/p200x200/22089174_1956008234638727_2963725894594557021_n.jpg?_nc_cat=108&_nc_sid=0c64ff&_nc_ohc=dDuV8mfpF_IAX_sLOQC&_nc_ht=scontent-mad1-1.xx&_nc_tp=6&oh=d983a8cae581385f4df36d2febd76b8c&oe=5F463D40"?width=320&height=320" group-title="TDT España",Ten
 http://91.126.141.201:1935/live/ten/chunklist_w506965236.m3u8
