@@ -23,7 +23,7 @@ https://linear02-i.akamaihd.net/hls/live/837811/cuatro/01.m3u8
 https://linear01-i.akamaihd.net/hls/live/837810/telecinco/01.m3u8
 
 #EXTINF:-1 tvg-id="LaSexta.TV" tvg-logo="https://graph.facebook.com/laSexta/picture?width=320&height=320" group-title="TDT España",laSexta HD
-
+https://livestartover.atresmedia.com/geolasexta/master.m3u8
 
 #EXTINF:-1 tvg-id="Neox.TV" tvg-logo="https://graph.facebook.com/neox/picture?width=320&height=320" group-title="TDT España",Neox HD
 
