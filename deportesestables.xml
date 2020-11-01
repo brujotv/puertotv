@@ -2,6 +2,71 @@
 
 
 <item>
+<title>https://fullmatchsports.co/</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+  <title>[makelist.param2]</title>
+  <link>$doregex[makelist2]</link>
+  <thumbnail>[makelist.param3]</thumbnail>
+]]></listrepeat>
+<expres><![CDATA[#$pyFunction
+import re,requests
+def GetLSProData(page_data,Cookie_Jar,m):#streamwatcher2013
+  source=requests.get('https://fullmatchsports.co/',headers={'user-agent':'Mozilla/5.0','accept':'*/*'}).content
+  data=re.findall('"content-thumbnail".+?href="([^"]+).+?:\s*(.*?)\s*Full.+?src="([^"]+)',source)
+  for pn in range(2,11):
+     pages='https://fullmatchsports.co/page/'+str(pn)+'/'
+     source=requests.get(pages,headers={'user-agent':'Mozilla/5.0','accept':'*/*'}).content
+     data +=re.findall('"content-thumbnail".+?href="([^"]+).+?:\s*(.*?)\s*Full.+?src="([^"]+)',source)
+  return data
+]]></expres>
+<page></page>
+</regex>
+<regex>
+<name>makelist2</name>
+<listrepeat><![CDATA[
+  <title>[makelist2.param2]</title>
+  <link>$doregex[getUrl]</link>
+  <thumbnail>[makelist.param3]</thumbnail>
+]]></listrepeat>
+<expres><![CDATA[#$pyFunction
+import re,requests
+def GetLSProData(page_data,Cookie_Jar,m):#streamwatcher2013
+  source=requests.get('[makelist.param1]',headers={'user-agent':'Mozilla/5.0','referer':'https://fullmatchsports.co/'}).content
+  return re.findall('"tab-title.+?href="\?tab=(?!server3)([^"]+).>(?!L)([^<]+)',re.findall('class="streaming">(?s)(.*?)class="tab-content',source)[0])
+]]></expres>
+<page></page>
+</regex>
+<regex>
+<name>getUrl</name>
+<expres><![CDATA[#$pyFunction
+import re,requests,urllib,jsunpack,urlresolver
+def GetLSProData(page_data,Cookie_Jar,m):#streamwatcher2013
+  ref='[makelist.param1]?tab=[makelist2.param1]'
+  source=requests.get(ref,headers={'user-agent':'Mozilla/5.0','referer':'[makelist.param1]'}).content
+  link,host=re.findall('"iframe-container".+?src="((.*?)/em[^"]+)',source)[0]
+  s=requests.get(link,headers={'user-agent':'Mozilla/5.0','referer':ref})
+  if 'fullmatchsports' not in link:
+    textlink,tok=re.findall('"videoUrl":"([^"]+).,"videoServer":"(\d+)',s.content.replace('\\',''))[0];txtlink='%s%s?s=%s&d='%(host,textlink,int(tok))
+    source=requests.get(txtlink,headers={'user-agent':'Mozilla/5.0','referer':link,'accept':'*/*'},cookies=s.cookies).content
+    if '1280' in source:
+       return re.findall('1280.*\n(.*)',source)[0]+'|user-agent=ipad&referer=%s'%txtlink
+    else:
+       return re.findall('640.*\n(.*)',source)[0]+'|user-agent=ipad&referer=%s'%txtlink
+  else:
+    data=jsunpack.unpack(re.findall('(eval.*)',s.content)[0]).replace('\\','')
+    if 'm38' in data:
+       return re.findall('player[\w\W]*?(?:source|src|file)":\s*[\'"]([^\'"]+)',data)[0]+'|user-agent=ipad&referer=%s'%link
+    else:
+       return urlresolver.resolve(re.findall('iframe\s*src="([^"]+)',data)[0])
+]]></expres>
+<page></page>
+</regex>
+</item>
+
+<item>
 <title> Gol tv </title>        
 <link>https://d27qpx558syegb.cloudfront.net/LiveApp/streams/912690895893524207341131.m3u8</link>
 <thumbnail>http://graph.facebook.com/goltv.es/picture</thumbnail>
