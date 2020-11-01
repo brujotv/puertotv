@@ -1,30 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
-
-<item>
-<title>Space TV</title>
-<link>$doregex[getUrl]|user-agent=iPad</link>
-<regex>
-<name>getUrl</name>
-<expres><![CDATA[#$pyFunction
-def GetLSProData(page_data,Cookie_Jar,m):
-  import re, requests, base64, jsunpack
-  url = 'https://espare.tk/embed/generator.php?id=space_lat'
-  headers = {'User-Agent': 'iPad',
-             'Referer': 'https://adictosalatele.com/'}
-  page_data = requests.get(url, headers=headers, verify=False).text
-  pdata = re.search('(eval\(function\(p,a,c,k,e.+?)</script', page_data, re.DOTALL)
-  if pdata:
-    page_data += jsunpack.unpack(pdata.group(1))
-  burl = re.findall('MARIOCSCryptOld\("([^"]+)', page_data)[0]
-  while 'm3u8' not in burl:
-    burl = base64.b64decode(burl)
-  return burl
-]]></expres>
-<page></page>
-</regex>
-</item>
-
 <item>
 <title> Gol tv </title>        
 <link>https://d27qpx558syegb.cloudfront.net/LiveApp/streams/912690895893524207341131.m3u8</link>
@@ -94,6 +69,14 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </item>
 
 
+<item>
+<title> PRUEBA </title>
+<link>http://ignorame</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<externallink>https://raw.githubusercontent.com/amod1/tv/master/SPAINTV.m3u</externallink>
+<Info></Info>
+</item>
 
 
 
