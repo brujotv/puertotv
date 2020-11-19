@@ -75,6 +75,42 @@
 <externallink>http://mullafabz.xyz/HOST/LiveTV/sportsstreamz.xml</externallink>
 </item>
 
-
+<item>
+<title>https://www.sestv.pw/</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+  <title>[COLOR gold][makelist.param2][/COLOR]</title>
+  <link>$doregex[getUrl]</link>
+  <thumbnail>https://www.sestv.pw[makelist.param3]</thumbnail>
+]]></listrepeat>
+<expres><![CDATA[#$pyFunction
+import re,requests
+def GetLSProData(page_data, Cookie_Jar, m, list='PLWRsR70qPhsE-rMNIV1SaBi_yfp9bN6mJ'):
+  pn=re.findall('p/(\d+).\s*title="Son\s.+?>Son',page_data)[0]
+  url='https://www.sestv.pw/p/{}'
+  data=[]
+  for p in range(1,int(pn)+1):
+     source=requests.get(url.format(p),headers={'user-agent':'Mozilla/5.0'}).content
+     data +=re.findall('li>\s*<a\s*href="([^"]+).\s*title="(.+?)Canl.+?src="(.+?/(\d+)\.[^"]+)',re.findall('(?:tv-list\s*tab-content|content\s*container)">(?s)(.*?)</ul',source)[0])
+  return data
+]]></expres>
+<page>https://www.sestv.pw/</page>
+</regex>
+<regex>
+<name>getUrl</name>
+<expres><![CDATA[#$pyFunction
+import re,requests
+def GetLSProData(page_data,Cookie_Jar,m):#streamwatcher2013
+  link=re.findall('class="(?:player|embedUrl).+?[\'"](http.+?embed[^\'"]+)',page_data)[0]
+  jdata=requests.post(link,headers={'user-agent':'Mozilla/5.0','referer':link,'x-requested-with':'XMLHttpRequest','accept':'*/*'},data={'e':'1','id':'[makelist.param4]'}).content[::-1]
+  stream=re.findall('(.*)',jdata)[0]+'=='
+  return stream.decode('base64')+'|user-agent=ipad&referer=%s'%link
+]]></expres>
+<page>https://www.sestv.pw[makelist.param1]</page>
+<referer>https://www.sestv.pw/</referer>
+</regex>
+</item>
 
 
