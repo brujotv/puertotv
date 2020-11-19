@@ -109,7 +109,7 @@ def GetLSProData(page_data,Cookie_Jar,m):#streamwatcher2013
   return stream.decode('base64')+'|user-agent=ipad&referer=%s'%link
 ]]></expres>
 <page>https://www.sestv.pw[makelist.param1]</page>
-<referer>https://www.sestv.pw/embed/beinsport-1-yedek1-live</referer>
+<referer>https://www.sestv.pw/</referer>
 </regex>
 </item>
 
