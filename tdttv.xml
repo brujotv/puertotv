@@ -83,7 +83,7 @@ https://storage.googleapis.com/dailylive12/6/6.m3u8
 https://storage.googleapis.com/dailylive12/8/8.m3u8
 
 #EXTINF:-1 tvg-id="M.FORMULA1" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MVF1.png?width=320&height=320" group-title="DEPORTES",M.formula 1 
-https://cdn2.dailysport.live/1/1.m3u8
+http://www.sportstream.live/en/player/7118e158e8ccc7fbc1f4840091a277a556a1a5501db0ee0cb0dc9e68913febd718f71573bf0d36d49b6f270d40b2a9f26146fe6cb0abda7bf54cd8b3bd0c4f18/5fb93fab5f88c
 
 #EXTINF:-1 tvg-id="TELEDEPORTE" tvg-logo="http://graph.facebook.com/teledeporteRTVE/picture?width=320&height=320" group-title="DEPORTES",Teledeporte HD	
 https://rtvelivestream.akamaized.net/tdp_dvr_4000.m3u8
