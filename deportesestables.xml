@@ -5,28 +5,28 @@
 
 <item>
 <title> M.Liga </title>        
-<link>https://stream.mux.com/LmDE8lyF008QSg400zrtGCKWBUwM5RA02LnGrAIiUq8bS4.m3u8</link>
+<link>https://storage.googleapis.com/dailylive12/1/1.m3u8</link>
 <thumbnail>https://assets.laliga.com/assets/logos/laliga-v/laliga-v-1200x1200.jpg</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
 <title> La liga SmartBank</title>        
-<link>https://cdn.dailysport.live/6/6.m3u8</link>
+<link>https://storage.googleapis.com/dailylive12/6/6.m3u8</link>
 <thumbnail>https://assets.laliga.com/assets/logos/laliga-v/laliga-v-1200x1200.jpg</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
 <title> M.Liga de Campeones</title>        
-<link>https://cdn.dailysport.live/8/8.m3u8</link>
+<link>https://storage.googleapis.com/dailylive12/8/8.m3u8</link>
 <thumbnail>https://www.movistarplus.es/recorte/m-NEO/canal/CHAPIO.png</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
 <title> M.Vamos</title>        
-<link>https://cdn1.dailysport.live/15/15.m3u8</link>
+<link>https://storage.googleapis.com/dailylive12/15/15.m3u8</link>
 <thumbnail>https://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/328x220/canal-v-328x220.png</thumbnail>
 <fanart></fanart>
 </item>	
