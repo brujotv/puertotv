@@ -32,6 +32,13 @@
 <item>
 <title> M.Vamos</title>        
 <link>https://cdn.dailysport.live/15/15.m3u8</link>
+<thumbnail>https://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/328x220/canal-v-328x220.png</thumbnail>
+<fanart></fanart>
+</item>	
+
+<item>
+<title> M.Deportes</title>        
+<link>https://e10.habrox.xyz/ingestnb4s/espn2_sur/f.m3u8</link>
 <thumbnail>https://i.imgur.com/JUwNUhT.png</thumbnail>
 <fanart></fanart>
 </item>	
