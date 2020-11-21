@@ -10,35 +10,35 @@
 
 <item>
 <title> M.Liga </title>        
-<link>https://cdn2.dailysport.live/4/4.m3u8</link>
+<link>https://cdn.dailysport.live/1/1.m3u8</link>
 <thumbnail>https://assets.laliga.com/assets/logos/laliga-v/laliga-v-1200x1200.jpg</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
 <title> La liga SmartBank</title>        
-<link>https://cdn2.dailysport.pw/7/7.m3u8</link>
+<link>https://cdn.dailysport.live/6/6.m3u8</link>
 <thumbnail>https://assets.laliga.com/assets/logos/laliga-v/laliga-v-1200x1200.jpg</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
 <title> M.Liga de Campeones</title>        
-<link>https://cdn2.dailysport.pw/8/8.m3u8</link>
+<link>https://daily-live.s3.eu-west-3.amazonaws.com/8a/8.m3u8</link>
 <thumbnail>https://www.movistarplus.es/recorte/m-NEO/canal/CHAPIO.png</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
-<title> M.deportes</title>        
-<link>https://www.sestv.pw/embed/beinsport-3-live</link>
+<title> M.Vamos</title>        
+<link>https://cdn.dailysport.live/15/15.m3u8</link>
 <thumbnail>https://i.imgur.com/JUwNUhT.png</thumbnail>
 <fanart></fanart>
 </item>	
 
 <item>
 <title> Moto GP </title>        
-<link>https://cdn2.dailysport.live/epl2/2.m3u8</link>
+<link>https://cdn.dailysport.live/20/20.m3u8</link>
 <thumbnail>https://i.imgur.com/RIyqluP.png</thumbnail>
 <fanart></fanart>
 </item>
@@ -73,109 +73,6 @@
 <fanart></fanart>
 <link>http://ignoreme</link>
 <externallink>http://mullafabz.xyz/HOST/LiveTV/sportsstreamz.xml</externallink>
-</item>
-
-<item>
-<title>https://www.sestv.pw/</title>
-<link>$doregex[makelist]</link>
-<regex>
-<name>makelist</name>
-<listrepeat><![CDATA[
-  <title>[COLOR gold][makelist.param2][/COLOR]</title>
-  <link>$doregex[getUrl]</link>
-  <thumbnail>https://www.sestv.pw[makelist.param3]</thumbnail>
-]]></listrepeat>
-<expres><![CDATA[#$pyFunction
-import re,requests
-def GetLSProData(page_data, Cookie_Jar, m, list='PLWRsR70qPhsE-rMNIV1SaBi_yfp9bN6mJ'):
-  pn=re.findall('p/(\d+).\s*title="Son\s.+?>Son',page_data)[0]
-  url='https://www.sestv.pw/p/{}'
-  data=[]
-  for p in range(1,int(pn)+1):
-     source=requests.get(url.format(p),headers={'user-agent':'Mozilla/5.0'}).content
-     data +=re.findall('li>\s*<a\s*href="([^"]+).\s*title="(.+?)Canl.+?src="(.+?/(\d+)\.[^"]+)',re.findall('(?:tv-list\s*tab-content|content\s*container)">(?s)(.*?)</ul',source)[0])
-  return data
-]]></expres>
-<page>https://www.sestv.pw/</page>
-</regex>
-<regex>
-<name>getUrl</name>
-<expres><![CDATA[#$pyFunction
-import re,requests
-def GetLSProData(page_data,Cookie_Jar,m):#streamwatcher2013
-  link=re.findall('class="(?:player|embedUrl).+?[\'"](http.+?embed[^\'"]+)',page_data)[0]
-  jdata=requests.post(link,headers={'user-agent':'Mozilla/5.0','referer':link,'x-requested-with':'XMLHttpRequest','accept':'*/*'},data={'e':'1','id':'[makelist.param4]'}).content[::-1]
-  stream=re.findall('(.*)',jdata)[0]+'=='
-  return stream.decode('base64')+'|user-agent=ipad&referer=%s'%link
-]]></expres>
-<page>https://www.sestv.pw[makelist.param1]</page>
-<referer>https://www.sestv.pw/</referer>
-</regex>
-</item>
-
-<item>
-<title>https://fullmatchsports.co/</title>
-<link>$doregex[makelist]</link>
-<regex>
-<name>makelist</name>
-<listrepeat><![CDATA[
-  <title>[makelist.param2]</title>
-  <link>$doregex[makelist2]</link>
-  <thumbnail>[makelist.param3]</thumbnail>
-]]></listrepeat>
-<expres><![CDATA[#$pyFunction
-import re,requests
-def GetLSProData(page_data,Cookie_Jar,m):#streamwatcher2013
-  source=requests.get('https://fullmatchsports.co/',headers={'user-agent':'Mozilla/5.0','accept':'*/*'}).content
-  data=re.findall('"content-thumbnail".+?href="([^"]+).+?:\s*(.*?)\s*Full.+?src="([^"]+)',source)
-  for pn in range(2,11):
-     pages='https://fullmatchsports.co/page/'+str(pn)+'/'
-     source=requests.get(pages,headers={'user-agent':'Mozilla/5.0','accept':'*/*'}).content
-     data +=re.findall('"content-thumbnail".+?href="([^"]+).+?:\s*(.*?)\s*Full.+?src="([^"]+)',source)
-  return data
-]]></expres>
-<page></page>
-</regex>
-<regex>
-<name>makelist2</name>
-<listrepeat><![CDATA[
-  <title>[makelist2.param2]</title>
-  <link>$doregex[getUrl]</link>
-  <thumbnail>[makelist.param3]</thumbnail>
-]]></listrepeat>
-<expres><![CDATA[#$pyFunction
-import re,requests
-def GetLSProData(page_data,Cookie_Jar,m):#streamwatcher2013
-  source=requests.get('[makelist.param1]',headers={'user-agent':'Mozilla/5.0','referer':'https://fullmatchsports.co/'}).content
-  return re.findall('"tab-title.+?href="\?tab=(?!server3)([^"]+).>(?!L)([^<]+)',re.findall('class="streaming">(?s)(.*?)class="tab-content',source)[0])
-]]></expres>
-<page></page>
-</regex>
-<regex>
-<name>getUrl</name>
-<expres><![CDATA[#$pyFunction
-import re,requests,urllib,jsunpack,urlresolver
-def GetLSProData(page_data,Cookie_Jar,m):#streamwatcher2013
-  ref='[makelist.param1]?tab=[makelist2.param1]'
-  source=requests.get(ref,headers={'user-agent':'Mozilla/5.0','referer':'[makelist.param1]'}).content
-  link,host=re.findall('"iframe-container".+?src="((.*?)/em[^"]+)',source)[0]
-  s=requests.get(link,headers={'user-agent':'Mozilla/5.0','referer':ref})
-  if 'fullmatchsports' not in link:
-    textlink,tok=re.findall('"videoUrl":"([^"]+).,"videoServer":"(\d+)',s.content.replace('\\',''))[0];txtlink='%s%s?s=%s&d='%(host,textlink,int(tok))
-    source=requests.get(txtlink,headers={'user-agent':'Mozilla/5.0','referer':link,'accept':'*/*'},cookies=s.cookies).content
-    if '1280' in source:
-       return re.findall('1280.*\n(.*)',source)[0]+'|user-agent=ipad&referer=%s'%txtlink
-    else:
-       return re.findall('640.*\n(.*)',source)[0]+'|user-agent=ipad&referer=%s'%txtlink
-  else:
-    data=jsunpack.unpack(re.findall('(eval.*)',s.content)[0]).replace('\\','')
-    if 'm38' in data:
-       return re.findall('player[\w\W]*?(?:source|src|file)":\s*[\'"]([^\'"]+)',data)[0]+'|user-agent=ipad&referer=%s'%link
-    else:
-       return urlresolver.resolve(re.findall('iframe\s*src="([^"]+)',data)[0])
-]]></expres>
-<page></page>
-</regex>
 </item>
 
 
