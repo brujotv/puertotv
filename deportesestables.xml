@@ -5,7 +5,8 @@
 
 <item>
 <title> M.Liga </title>        
-<link>https://stream.mux.com/LmDE8lyF008QSg400zrtGCKWBUwM5RA02LnGrAIiUq8bS4.m3u8</link>
+<link>	
+https://manifest-gce-us-east4-production.fastly.mux.com/5sjzDUnlHo1YHV84ABCDCBw01HREmmR4etpYYmyMNrr2lN25ABLWgp7XHr6mlK127fYm47jymupw/rendition.m3u8?cdn=highwinds&expires=1606579200&skid=default&live=1&signature=NWZjMjc0MDBfMzM0MWQ3OWYwZDVjYzZkZDRhNzg1MGYyY2E5MWY5ZDE5NzZhNDk3NWE1MzU5NzA5MWJmYzVlNjk2ZTRjZDAxMA==</link>
 <thumbnail>https://assets.laliga.com/assets/logos/laliga-v/laliga-v-1200x1200.jpg</thumbnail>
 <fanart></fanart>
 </item>
