@@ -1,16 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
 
-<item>
-<title> Gol tv </title>        
-<link>https://cdn2.dailysport.pw/12/12.m3u8</link>
-<thumbnail>http://graph.facebook.com/goltv.es/picture</thumbnail>
-<fanart></fanart>
-</item>
+
 
 <item>
 <title> M.Liga </title>        
-<link>https://cdn.dailysport.live/1/1.m3u8</link>
+<link>https://storage.googleapis.com/dailylive11/1/1.m3u8</link>
 <thumbnail>https://assets.laliga.com/assets/logos/laliga-v/laliga-v-1200x1200.jpg</thumbnail>
 <fanart></fanart>
 </item>
@@ -31,7 +26,7 @@
 
 <item>
 <title> M.Vamos</title>        
-<link>https://cdn.dailysport.live/15/15.m3u8</link>
+<link>https://storage.googleapis.com/dailylive11/15/15.m3u8</link>
 <thumbnail>https://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/328x220/canal-v-328x220.png</thumbnail>
 <fanart></fanart>
 </item>	
@@ -54,6 +49,13 @@
 <title> Formula 1</title>        
 <link>https://cdn2.dailysport.live/1/1.m3u8</link>
 <thumbnail>https://www.movistarplus.es/recorte/m-NEO/canal/MVF1.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title> Gol tv </title>        
+<link>https://cdn2.dailysport.pw/12/12.m3u8</link>
+<thumbnail>http://graph.facebook.com/goltv.es/picture</thumbnail>
 <fanart></fanart>
 </item>
 
