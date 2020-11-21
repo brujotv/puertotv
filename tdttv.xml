@@ -74,7 +74,7 @@ https://rtvelivestream.akamaized.net/24h_dvr.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/GwoWMlF.jpg/picture?width=320&height=320" group-title="TDT España",Paramount Channel
 
 #EXTINF:-1 tvg-id="LaLiga TV FHD" tvg-logo="https://assets.laliga.com/assets/logos/laliga-v/laliga-v-1200x1200.jpg?width=320&height=320" group-title="DEPORTES",M.liga bar 
-https://storage.googleapis.com/dailylive11/1/1.m3u8
+https://stream.mux.com/LmDE8lyF008QSg400zrtGCKWBUwM5RA02LnGrAIiUq8bS4.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://assets.laliga.com/assets/logos/laliga-v/laliga-v-1200x1200.jpg?width=320&height=320" group-title="DEPORTES",M.liga SmartBank
 https://cdn.dailysport.live/6/6.m3u8
