@@ -36,10 +36,10 @@ https://livestartover.atresmedia.com/geonova/master.m3u8
 https://livestartover.atresmedia.com/geomega/master.m3u8
 
 #EXTINF:-1 tvg-id="Atreseries.TV" tvg-logo="https://graph.facebook.com/atreseries/picture?width=320&height=320" group-title="TDT España",Atreseries HD
-
+https://directo.atresmedia.com/1606081901_60a6c00b5371930fdd45419b3cf8258235da7204/geoa3series/bitrate_1.m3u8
 
 #EXTINF:-1 tvg-id="FDF" tvg-logo="https://graph.facebook.com/factoriadeficcion/picture?width=320&height=320" group-title="TDT España",FDF HD
-https://linear02-i.akamaihd.net/hls/live/837813/fdf/01.m3u8
+https://live.mitele.es/hls/live/2004101/telecinco/master.m3u8?hdnts=st=1606052809~exp=1606067209~acl=/*~hmac=ad3accccee06c0d484cd5511bdf499c7636b801e2853de0743605b005f66a632
 
 #EXTINF:-1 tvg-id="ENERGY" tvg-logo="https://graph.facebook.com/E.EnergyTV/picture?width=320&height=320" group-title="TDT España",Energy HD	
 https://linear02-i.akamaihd.net/hls/live/837816/energy/01.m3u8
