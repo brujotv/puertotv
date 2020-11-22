@@ -3,7 +3,7 @@
 
 <item>
 <title>[COLOR lime]•[/COLOR] TV </title>
-<thumbnail>https://i.imgur.com/97jcZV9.png</thumbnail>
+<thumbnail>https://i.imgur.com/97jcZV9.png/picture?width=320&height=320</thumbnail>
 <fanart></fanart>
 <link>http://ignoreme</link>
 <externallink>https://raw.githubusercontent.com/brujotv/puertotv/master/tdttv.xml</externallink>
@@ -11,7 +11,7 @@
 
 <item>
 <title>[COLOR lime]•[/COLOR] Pluto tv españa </title>
-<thumbnail>https://i.imgur.com/J1fJ5bn.jpg</thumbnail>
+<thumbnail>https://i.imgur.com/J1fJ5bn.jpg/picture?width=320&height=320</thumbnail>
 <fanart></fanart>
 <link>http://ignoreme</link>
 <externallink>https://raw.githubusercontent.com/brujotv/puertotv/master/pluto.xml</externallink>
@@ -19,7 +19,7 @@
 
 <item>
 <title>[COLOR lime]•[/COLOR] Movistar </title>
-<thumbnail>https://i.imgur.com/LonmtZq.png</thumbnail>
+<thumbnail>https://i.imgur.com/LonmtZq.png/picture?width=320&height=320</thumbnail>
 <fanart></fanart>
 <link>http://ignoreme</link>
 <externallink>https://raw.githubusercontent.com/brujotv/movi/master/index.xml</externallink>
@@ -27,7 +27,7 @@
 
 <item>
 <title>[COLOR lime]•[/COLOR] Deportes</title>
-<thumbnail>https://i.imgur.com/Nl1SQyv.png</thumbnail>
+<thumbnail>https://i.imgur.com/Nl1SQyv.png/picture?width=320&height=320</thumbnail>
 <fanart></fanart>
 <link>http://ignoreme</link>
 <externallink>https://raw.githubusercontent.com/brujotv/puertotv/master/deportesestables.xml</externallink>
@@ -35,7 +35,7 @@
 
 <item>
 <title>[COLOR lime]•[/COLOR] Cine  </title>
-<thumbnail>https://i.imgur.com/mdOW5VH.gif</thumbnail>
+<thumbnail>https://i.imgur.com/mdOW5VH.gif/picture?width=320&height=320</thumbnail>
 <fanart></fanart>
 <link>http://ignoreme</link>
 <externallink>https://raw.githubusercontent.com/brujotv/supercine/master/index%20cine.xml</externallink>
@@ -43,7 +43,7 @@
 
 <item>
 <title>[COLOR lime]•[/COLOR] Musica</title>
-<thumbnail>https://i.imgur.com/O9hutCi.jpg</thumbnail>
+<thumbnail>https://i.imgur.com/O9hutCi.jpg/picture?width=320&height=320</thumbnail>
 <fanart></fanart>
 <link>http://ignoreme</link>
 <externallink>https://raw.githubusercontent.com/brujotv/puertotv/master/index%20musica.xml</externallink>
@@ -51,7 +51,7 @@
 
 <item>
 <title>[COLOR lime]•[/COLOR] Infantil</title>
-<thumbnail>https://i.imgur.com/pv0KRf2.png</thumbnail>
+<thumbnail>https://i.imgur.com/pv0KRf2.png/picture?width=320&height=320</thumbnail>
 <fanart></fanart>
 <link>http://ignoreme</link>
 <externallink>https://raw.githubusercontent.com/brujotv/infantil/master/zonainfantil.xml</externallink>
@@ -60,7 +60,7 @@
 <item>
 <title>[COLOR lime]•[/COLOR][COLOR red] Zona adultos[/COLOR]</title>
 <thumbnail>http://comprarpegatinas.com/images/stories/virtuemart/product/pegatinas/pegatina_prohibido_paso.png</thumbnail>
-<fanart>https://i.ytimg.com/vi/IDF5aZKRSU0/maxresdefault.jpg</fanart>
+<fanart>https://i.ytimg.com/vi/IDF5aZKRSU0/maxresdefault.jpg/picture?width=320&height=320</fanart>
 <link>http://ignoreme</link>
 <externallink>https://raw.githubusercontent.com/brujotv/puertotv/master/index%20adulto.xml</externallink>
 </item>
