@@ -86,7 +86,7 @@ https://daily-live.s3.eu-west-3.amazonaws.com/8/8.m3u8
 #EXTINF:-1 tvg-id="M. DEPORTE HD" tvg-logo="https://i.imgur.com/JUwNUhT.png?width=320&height=320" group-title="DEPORTES",M.Deportes
 https://daily-live.s3.eu-west-3.amazonaws.com/8/8.m3u8
 
-#EXTINF:-1 tvg-id="#VAMOS HD" tvg-logo="https://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/328x220/canal-v-328x220.png?width=320&height=320" group-title="DEPORTES",M.Vamos
+#EXTINF:-1 tvg-id="#VAMOS HD" tvg-logo="https://i.imgur.com/tas7PmQ.png?width=320&height=320" group-title="DEPORTES",M.Vamos
 https://daily-live.s3.eu-west-3.amazonaws.com/8/8.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/RIyqluP.png?width=320&height=320" group-title="DEPORTES",Motogp
