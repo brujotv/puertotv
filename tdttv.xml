@@ -21,7 +21,7 @@ https://livestartover.atresmedia.com/antena3/master.m3u8
 https://live.mitele.es/hls/live/2004102/cuatro/master.m3u8?hdnts=st=1606041017~exp=1606055417~acl=/*~hmac=000f80f4c7fa70978f4ed52fc52a90b56076189f0ae6bd31e94ff489cbe9cbd9
 
 #EXTINF:-1 tvg-id="TELECINCO HD" tvg-logo="https://graph.facebook.com/tele5/picture?width=320&height=320" group-title="TDT España",Telecinco HD
-https://live.mitele.es/hls/live/2004101/telecinco/bitrate_4.m3u8
+https://tna5.bozztv.com/telecinco/index.m3u8
 
 #EXTINF:-1 tvg-id="LaSexta.TV" tvg-logo="https://graph.facebook.com/laSexta/picture?width=320&height=320" group-title="TDT España",laSexta HD
 https://livestartover-i.akamaized.net/lasexta/bitrate_4.m3u8
