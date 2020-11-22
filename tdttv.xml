@@ -2,7 +2,7 @@
 #EXTM3U @LaQuay https://github.com/LaQuay/TDTChannels - Última actualización 02/02/2020
 
 
-#EXTM3U url-tvg="https://raw.githubusercontent.com/HelmerLuzo/TDTChannels_EPG/master/TDTChannels_EPG.xml"
+#EXTM3U url-tvg="https://raw.githubusercontent.com/brujotv/puertotv/master/guide_IPTV.xml"
 
 
 #EXTINF:-1 tvg-id="LA 1 HD" tvg-logo="https://pbs.twimg.com/profile_images/899385012801470464/akSvNCqE_400x400.jpg" group-title="TDT España",La 1 HD
