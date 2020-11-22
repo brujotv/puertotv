@@ -18,7 +18,7 @@ https://cdnlive.shooowit.net/rtvalive/channelDVR.smil/master.m3u8
 https://livestartover.atresmedia.com/antena3/master.m3u8
 
 #EXTINF:-1 tvg-id="CUATRO HD" tvg-logo="https://graph.facebook.com/cuatro/picture?width=320&height=320" group-title="TDT España",Cuatro HD
-https://live.cuatro.com/hls/live/2004102/cuatro/bitrate_4.m3u8
+https://live.mitele.es/hls/live/2004102/cuatro/master.m3u8?hdnts=st=1606041017~exp=1606055417~acl=/*~hmac=000f80f4c7fa70978f4ed52fc52a90b56076189f0ae6bd31e94ff489cbe9cbd9
 
 #EXTINF:-1 tvg-id="TELECINCO HD" tvg-logo="https://graph.facebook.com/tele5/picture?width=320&height=320" group-title="TDT España",Telecinco HD
 https://live.mitele.es/hls/live/2004101/telecinco/bitrate_4.m3u8
