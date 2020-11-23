@@ -18,10 +18,10 @@ https://cdnlive.shooowit.net/rtvalive/channelDVR.smil/master.m3u8
 https://livestartover.atresmedia.com/antena3/master.m3u8
 
 #EXTINF:-1 tvg-id="CUATRO HD" tvg-logo="https://graph.facebook.com/cuatro/picture?width=320&height=320" group-title="TDT España",Cuatro HD
-https://linear02-i.akamaihd.net/hls/live/837811/cuatro/01.m3u8
+
 
 #EXTINF:-1 tvg-id="Telecinco HD" tvg-logo="https://graph.facebook.com/tele5/picture?width=320&height=320" group-title="TDT España",Telecinco HD
-https://live.telecinco.es/hls/live/2004101/telecinco/bitrate_4.m3u8
+
 
 #EXTINF:-1 tvg-id="LA SEXTA HD" tvg-logo="https://graph.facebook.com/laSexta/picture?width=320&height=320" group-title="TDT España",laSexta HD
 https://livestartover-i.akamaized.net/lasexta/bitrate_4.m3u8
@@ -56,8 +56,10 @@ https://livestartover.atresmedia.com/geomega/master.m3u8
 #EXTINF:-1 tvg-id="Ten" tvg-logo="https://scontent-mad1-1.xx.fbcdn.net/v/t1.0-1/p200x200/22089174_1956008234638727_2963725894594557021_n.jpg?_nc_cat=108&_nc_sid=0c64ff&_nc_ohc=dDuV8mfpF_IAX_sLOQC&_nc_ht=scontent-mad1-1.xx&_nc_tp=6&oh=d983a8cae581385f4df36d2febd76b8c&oe=5F463D40"?width=320&height=320" group-title="TDT España",Ten
 http://91.126.141.201:1935/live/ten/chunklist_w506965236.m3u8
 
-#EXTINF:-1 tvg-id="DKISS" tvg-logo="?width=320&height=320" group-title="TDT España",Dkiss
+#EXTINF:-1 tvg-id="DKISS" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DKISS.png?width=320&height=320" group-title="TDT España",Dkiss
 
+#EXTINF:-1 tvg-id="COSMO HD" tvg-logo="https://raw.githubusercontent.com/dracohe/picon/master/COSMO.png?width=320&height=320" group-title="TDT España",COSMO HD
+https://livestartover.atresmedia.com/geomega/master.m3u8
 
 #EXTINF:-1 tvg-id="DMax.TDTChannelsEPG" tvg-logo="https://i.imgur.com/x4fGu91.png/picture?width=320&height=320" group-title="TDT España",DMax
 http://91.126.141.12:1935/live/discoverymax/playlist.m3u8
