@@ -21,7 +21,7 @@ https://livestartover.atresmedia.com/antena3/master.m3u8
 
 
 #EXTINF:-1 tvg-id="Telecinco HD" tvg-logo="https://graph.facebook.com/tele5/picture?width=320&height=320" group-title="TDT España",Telecinco HD
-
+https://live.telecinco.es/hls/live/2004101/telecinco/master.m3u8?hdnts=st=1606130980~exp=1606145379~acl=/*~hmac=cd01f79731e735e72eaed13a3668896bf13a7c9ea06ca71162582175f14e7b74
 
 #EXTINF:-1 tvg-id="LA SEXTA HD" tvg-logo="https://graph.facebook.com/laSexta/picture?width=320&height=320" group-title="TDT España",laSexta HD
 https://livestartover-i.akamaized.net/lasexta/bitrate_4.m3u8
