@@ -75,6 +75,37 @@
 <externallink>http://mullafabz.xyz/HOST/LiveTV/sportsstreamz.xml</externallink>
 </item>
 
+<item>
+<title>[COLOR lightgreen]Multicanales[COLOR white] Eventos Deportivos[/COLOR]</title>
+<link>$doregex[fullcristal]</link>
+<regex>
+<name>fullcristal</name>
+<listrepeat><![CDATA[
+<title>[COLOR lightgreen]Evento[COLOR white] [fullcristal.param1][/COLOR]</title>
+<link>$doregex[cristalazul]</link>
+]]></listrepeat>
+<expres>'(.*?)'</expres>
+<page>'1','2','3','4','5','6','7','8','9'</page>
+</regex>  
+<regex>
+<name>cristalazul</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+    import re
+    import requests
+    url = 'https://tumarcador.xyz/ac[fullcristal.param1].html'
+    html = requests.post(url, headers={'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0', 'Referer': 'https://tumarcador.xyz/'}, verify=False).text
+    return re.findall('(?s)file:.\'(.*?)\'', html)[0]
+]]></expres>
+<page></page>
+<Referer>https://tumarcador.xyz/ac1.html</Referer>
+<Accept>*/*</Accept>
+<Connection>keep-alive</Connection>
+<cookieJar></cookieJar>
+</regex>
+<info>[COLOR lightgreen]Multicanales[/COLOR]</info>
+</item>
+
 
 
 
