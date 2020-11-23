@@ -45,7 +45,7 @@ https://livestartover.atresmedia.com/geomega/master.m3u8
 
 
 #EXTINF:-1 tvg-id="DIVINITY" tvg-logo="https://graph.facebook.com/divinityes/picture?width=320&height=320" group-title="TDT España",Divinity HD
-
+http://mdslivehls-i.akamaihd.net/hls/live/571648/divinity/bitrate_4.m3u8
 
 #EXTINF:-1 tvg-id="BE MAD" tvg-logo="https://graph.facebook.com/BeMadTV/picture?width=320&height=320" group-title="TDT España",Be Mad HD
 
@@ -107,8 +107,9 @@ https://d14yn9755o946w.cloudfront.net/Gol_24h/gol_24h/gol_24hhigh.m3u8?Policy=ey
 #EXTINF:-1 tvg-id="R. MADRID TV" tvg-logo="https://i.imgur.com/EQAvfdp.jpg?width=320&height=320" group-title="DEPORTES",Real Madrid TV
 https://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hwebes_1@300661/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://photocall.tv/images/fighttime.png" group-title="DEPORTES", Fight Time
 
+#EXTINF:-1 tvg-id="" tvg-logo="http://photocall.tv/images/fighttime.png" group-title="DEPORTES", Fight Time
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8?sd=10&rebase=on?iptvgratis?chile.m3u8
 
 #EXTINF:-1 tvg-id="Betis TV HD" tvg-logo="http://graph.facebook.com/realbetisbalompie/picture?width=320&height=320" group-title="Deportivos",Betis TV HD
 https://betistv-live.flumotion.com/tb3uTPq80uDPK-sKc9Slyg/1606125503/betistv/live_all/betistv/live_480p/chunks.m3u8
@@ -159,10 +160,10 @@ https://59ec5453559f0.streamlock.net/miamitv/smil:miamitv/chunklist_w1796638301_
 
 
 #EXTINF:-1 tvg-logo="http://lh6.ggpht.com/_9PDHPy5tdyU/S70enxyhZ9I/AAAAAAAAAH4/MHpKKNOd6Ts/classificacao_indicativa_18_anos_thumb%5B1%5D.gif?width=320&height=320" group-title="ADULTO", Playboy TV (18+)
-
+	http://s850023221.mialojamiento.es/mp2485.php/http://50.7.220.130:8081/playboy/index.m3u8?wmsAuthSign=07e997f560626dde4e182dc3119a731d-1606094002-32i58i561i28
 
 #EXTINF:-1 tvg-logo="http://lh6.ggpht.com/_9PDHPy5tdyU/S70enxyhZ9I/AAAAAAAAAH4/MHpKKNOd6Ts/classificacao_indicativa_18_anos_thumb%5B1%5D.gif?width=320&height=320" group-title="ADULTO", Brazzers TV Europe (18+)
-
+http://s850023221.mialojamiento.es/mp2485.php/http://50.7.220.130:8081/brazzers_eu/index.m3u8?wmsAuthSign=3184f67f8c6eb06358110ba911f92b29-1606094584-32i58i561i28
 
 #EXTINF:-1 tvg-logo="https://files.company.fashiontv.com/wp-content/uploads/2017/03/fashiontv_logo_blue_horizontal.png" group-title="ADULTO",FTV Midnight Secrets (HD)
 https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/chunklist_b2800000_t64NzIwcA==.m3u8
