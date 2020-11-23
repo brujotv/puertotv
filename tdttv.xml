@@ -45,7 +45,7 @@ https://livestartover.atresmedia.com/geomega/master.m3u8
 
 
 #EXTINF:-1 tvg-id="DIVINITY" tvg-logo="https://graph.facebook.com/divinityes/picture?width=320&height=320" group-title="TDT España",Divinity HD
-http://mdslivehls-i.akamaihd.net/hls/live/571648/divinity/bitrate_4.m3u8
+
 
 #EXTINF:-1 tvg-id="BE MAD" tvg-logo="https://graph.facebook.com/BeMadTV/picture?width=320&height=320" group-title="TDT España",Be Mad HD
 
@@ -109,7 +109,7 @@ https://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hwebes_1@300661/master.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://photocall.tv/images/fighttime.png" group-title="DEPORTES", Fight Time
-http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8?sd=10&rebase=on?iptvgratis?chile.m3u8
+
 
 #EXTINF:-1 tvg-id="Betis TV HD" tvg-logo="http://graph.facebook.com/realbetisbalompie/picture?width=320&height=320" group-title="Deportivos",Betis TV HD
 https://betistv-live.flumotion.com/tb3uTPq80uDPK-sKc9Slyg/1606125503/betistv/live_all/betistv/live_480p/chunks.m3u8
