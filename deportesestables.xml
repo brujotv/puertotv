@@ -2,7 +2,6 @@
 
 
 
-
 <item>
 <title> M.Liga </title>        
 <link>https://cdn.dailysport.live/1/1.m3u8</link>
@@ -57,6 +56,14 @@
 <link>https://d14yn9755o946w.cloudfront.net/Gol_24h/gol_24h/gol_24hhigh.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9kMTR5bjk3NTVvOTQ2dy5jbG91ZGZyb250Lm5ldC9Hb2xfMjRoL2dvbF8yNGgvZ29sXzI0aGhpZ2gubTN1OCIsIkNvbmRpdGlvbiI6eyJJcEFkZHJlc3MiOnsiQVdTOlNvdXJjZUlwIjoiOTUuMTYuMjQyLjU5LzMyIn0sIkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNjA2MTI3MTE5fX19XX0_&Signature=EQkybpE6nARIwL8cREr3kxiJwRQ335WUDHLv2hq84wtUYa3JiUshuok9U~rsk93aygZeP4-z4CxJBbO~xxw~9SSxx-cj2b7kSWbJnsxkrNlzJYhBtBhveodoe6xEHNfdGRY9Ud6pskYqwMtw-Ksc-FAxXp-ps13SHqSw28sbsl~rXChlxgA-Sm7JflR8r63kUKFXafAu7j6doGuXkkbqJ4bnATaYZo7downqn32UIQXQF9rWktTpSdVGWNfhdzIkWZcGTiQ7eFaW5511UvNCOY4G~hsdRP1dvH74eNnewkPsRlFlZnM57WXyfa2rn~v0U0k5CISh~rpMqEYbvHjP6g__&Key-Pair-Id=APKAIAZ5PGRVVQBQUQTA</link>
 <thumbnail>http://graph.facebook.com/goltv.es/picture</thumbnail>
 <fanart></fanart>
+</item>
+
+<item>
+<title>php</title>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<link>http://ignoreme</link>
+<externallink>https://raw.githubusercontent.com/sefiuorstar/1.0.1/master/bein.m3u</externallink>
 </item>
 
 <item>
