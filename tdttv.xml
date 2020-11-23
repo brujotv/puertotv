@@ -57,9 +57,10 @@ https://livestartover.atresmedia.com/geomega/master.m3u8
 http://91.126.141.201:1935/live/ten/chunklist_w506965236.m3u8
 
 #EXTINF:-1 tvg-id="DKISS" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DKISS.png?width=320&height=320" group-title="TDT España",Dkiss
+http://91.126.141.201:1935/live/kiss/chunklist_w831239812.m3u8
 
 #EXTINF:-1 tvg-id="COSMO HD" tvg-logo="https://raw.githubusercontent.com/dracohe/picon/master/COSMO.png?width=320&height=320" group-title="TDT España",COSMO HD
-https://livestartover.atresmedia.com/geomega/master.m3u8
+http://91.126.141.201:1935/live/cosmoHD/chunklist_w210990477.m3u8
 
 #EXTINF:-1 tvg-id="DMax.TDTChannelsEPG" tvg-logo="https://i.imgur.com/x4fGu91.png/picture?width=320&height=320" group-title="TDT España",DMax
 http://91.126.141.12:1935/live/discoverymax/playlist.m3u8
