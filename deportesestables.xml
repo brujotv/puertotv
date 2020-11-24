@@ -3,8 +3,15 @@
 
 
 <item>
-<title> M.Liga </title>        
-<link>https://cdn.dailysport.live/1/1.m3u8</link>
+<title> M.Liga -Castellón vs Alcorcón</title>        
+<link>https://cdn3.dailysport.live/20/20.m3u8</link>
+<thumbnail>https://assets.laliga.com/assets/logos/laliga-v/laliga-v-1200x1200.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title> M.Liga 1 - Girona vs Málaga</title>        
+<link>https://cdn3.dailysport.live/21/21.m3u8</link>
 <thumbnail>https://assets.laliga.com/assets/logos/laliga-v/laliga-v-1200x1200.jpg</thumbnail>
 <fanart></fanart>
 </item>
@@ -17,8 +24,36 @@
 </item>
 
 <item>
-<title> M.Liga de Campeones</title>        
-<link>https://daily-live.s3.eu-west-3.amazonaws.com/8/8.m3u8</link>
+<title> M.Liga de Campeones 1 - PSG vs RB Leipzig</title>        
+<link>https://cdn.dailysport.live/2/2.m3u8</link>
+<thumbnail>https://www.movistarplus.es/recorte/m-NEO/canal/CHAPIO.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title> M.Liga de Campeones 2 - Krasnodar vs Sevilla FC</title>        
+<link>https://cdn.dailysport.live/2/2.m3u8</link>
+<thumbnail>https://www.movistarplus.es/recorte/m-NEO/canal/CHAPIO.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title> M.Liga de Campeones 3 - Manchester Utd. vs Istanbul Basaksehir </title>        
+<link>https://cdn.dailysport.live/2/2.m3u8</link>
+<thumbnail>https://www.movistarplus.es/recorte/m-NEO/canal/CHAPIO.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title> M.Liga de Campeones 4 - Dynamo Kyiv vs FC Barcelona </title>        
+<link>https://cdn.dailysport.live/2/2.m3u8</link>
+<thumbnail>https://www.movistarplus.es/recorte/m-NEO/canal/CHAPIO.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title> M.Liga de Campeones 5 - Juventus vs Ferencvaros </title>        
+<link>https://cdn.dailysport.live/2/2.m3u8</link>
 <thumbnail>https://www.movistarplus.es/recorte/m-NEO/canal/CHAPIO.png</thumbnail>
 <fanart></fanart>
 </item>
