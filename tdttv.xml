@@ -18,10 +18,10 @@ https://cdnlive.shooowit.net/rtvalive/channelDVR.smil/master.m3u8
 https://livestartover.atresmedia.com/antena3/master.m3u8
 
 #EXTINF:-1 tvg-id="CUATRO HD" tvg-logo="https://graph.facebook.com/cuatro/picture?width=320&height=320" group-title="TDT España",Cuatro HD
-https://live.mitele.es/hls/live/2004102/cuatro/bitrate_4.m3u8
+
 
 #EXTINF:-1 tvg-id="Telecinco HD" tvg-logo="https://graph.facebook.com/tele5/picture?width=320&height=320" group-title="TDT España",Telecinco HD
-https://live.mitele.es/hls/live/2004101/telecinco/bitrate_4.m3u8
+
 
 #EXTINF:-1 tvg-id="LA SEXTA HD" tvg-logo="https://graph.facebook.com/laSexta/picture?width=320&height=320" group-title="TDT España",laSexta HD
 https://livestartover-i.akamaized.net/lasexta/bitrate_4.m3u8
@@ -80,25 +80,25 @@ https://rtvelivestream.akamaized.net/24h_dvr.m3u8
 http://127.0.0.1:6878/ace/m/ae2c30af1866637cfcadcd88bcf88c0d7eebbc27/f528764d624db129b32c21fbca0cb8d6.m3u8
 
 #EXTINF:-1 tvg-id="M. LaLiga HD" tvg-logo="https://assets.laliga.com/assets/logos/laliga-v/laliga-v-1200x1200.jpg?width=320&height=320" group-title="DEPORTES",M.liga  
-https://cdn.dailysport.live/1/1.m3u8
+https://storage.googleapis.com/dailyspace/1/1.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/MPfpjze.png?width=320&height=320" group-title="DEPORTES",M.liga SmartBank
 https://cdn.dailysport.live/6/6.m3u8
 
 #EXTINF:-1 tvg-id="M.LCAMPEONES HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAPIO.png?width=320&height=320" group-title="DEPORTES",M.Liga de Campeones
-https://daily-live.s3.eu-west-3.amazonaws.com/8/8.m3u8
+https://storage.googleapis.com/dailyspace/8/8.m3u8
 
 #EXTINF:-1 tvg-id="M. DEPORTE HD" tvg-logo="https://i.imgur.com/JUwNUhT.png?width=320&height=320" group-title="DEPORTES",M.Deportes
 https://daily-live.s3.eu-west-3.amazonaws.com/8/8.m3u8
 
 #EXTINF:-1 tvg-id="#VAMOS HD" tvg-logo="https://i.imgur.com/tas7PmQ.png?width=320&height=320" group-title="DEPORTES",M.Vamos
-https://daily-live.s3.eu-west-3.amazonaws.com/8/8.m3u8
+https://storage.googleapis.com/dailyspace/15/15.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/RIyqluP.png?width=320&height=320" group-title="DEPORTES",Motogp
 https://cdn.dailysport.live/20/20.m3u8
 
 #EXTINF:-1 tvg-id="M Formula 1 HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MVF1.png?width=320&height=320" group-title="DEPORTES",M.formula 1 
-http://127.0.0.1:6878/ace/manifest.m3u8?id=e4f6cb6a8ef90c504152430e69f3cd411a5fd871&pd=?arenavision
+https://storage.googleapis.com/dailyspace/10/10.m3u8
 
 #EXTINF:-1 tvg-id="TELEDEPORTE" tvg-logo="http://graph.facebook.com/teledeporteRTVE/picture?width=320&height=320" group-title="DEPORTES",Teledeporte HD	
 https://rtvelivestream.akamaized.net/tdp_dvr_4000.m3u8
