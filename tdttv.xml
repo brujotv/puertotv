@@ -80,10 +80,10 @@ https://rtvelivestream.akamaized.net/24h_dvr.m3u8
 http://127.0.0.1:6878/ace/m/ae2c30af1866637cfcadcd88bcf88c0d7eebbc27/f528764d624db129b32c21fbca0cb8d6.m3u8
 
 #EXTINF:-1 tvg-id="M. LaLiga HD" tvg-logo="https://assets.laliga.com/assets/logos/laliga-v/laliga-v-1200x1200.jpg?width=320&height=320" group-title="DEPORTES",M.liga  
-https://storage.googleapis.com/dailyspace/1/1.m3u8
+https://dailyspace.s3.eu-central-1.amazonaws.com/6/6.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/MPfpjze.png?width=320&height=320" group-title="DEPORTES",M.liga SmartBank
-https://cdn.dailysport.live/6/6.m3u8
+https://dailyspace.s3.eu-central-1.amazonaws.com/6/6.m3u8
 
 #EXTINF:-1 tvg-id="M.LCAMPEONES HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAPIO.png?width=320&height=320" group-title="DEPORTES",M.Liga de Campeones
 https://storage.googleapis.com/dailyspace/8/8.m3u8
