@@ -86,7 +86,7 @@ https://cdndailys.azureedge.net/LiveApp/streams/551211189932388215081921.m3u8
 https://dailyspace.s3.eu-central-1.amazonaws.com/6/6.m3u8
 
 #EXTINF:-1 tvg-id="M.LCAMPEONES HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAPIO.png?width=320&height=320" group-title="DEPORTES",M.Liga de Campeones
-https://dailyspace.s3.eu-central-1.amazonaws.com/8/8.m3u8
+https://dailyspace.s3.eu-central-1.amazonaws.com/1d/1.m3u8
 
 #EXTINF:-1 tvg-id="M. DEPORTE HD" tvg-logo="https://i.imgur.com/JUwNUhT.png?width=320&height=320" group-title="DEPORTES",M.Deportes
 https://daily-live.s3.eu-west-3.amazonaws.com/8/8.m3u8
