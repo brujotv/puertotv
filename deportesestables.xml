@@ -3,7 +3,7 @@
 
 <item>
 <title>[COLOR orange]Todo deportes[/COLOR]</title>
-<info>Web dailysport</info>
+<info>todo el futbol en casa</info>
 <thumbnail>https://articles-images.sftcdn.net/wp-content/uploads/sites/2/2013/08/47-256x256.png</thumbnail>
 <fanart>https://www.reasonwhy.es/sites/default/files/ranking-marcas-futbol-valiosas-fuertes.jpg</fanart>
  <link>$doregex[makelist]</link>
@@ -11,8 +11,8 @@
 <name>makelist</name>
 <listrepeat><![CDATA[
 <title>[COLOR orange][makelist.param1][/COLOR][COLOR yellow] [makelist.param2][/COLOR] [COLOR white][makelist.param3][/COLOR][COLOR red] [makelist.param5][/COLOR]</title>
-<thumbnail>https://upload.wikimedia.org/wikinews/en/1/18/DailySport_logo.png</thumbnail>
-<fanart>https://www.scamcard.com/images/Daily%20Sport%202011.png</fanart>
+<thumbnail>https://articles-images.sftcdn.net/wp-content/uploads/sites/2/2013/08/47-256x256.png</thumbnail>
+<fanart>https://www.reasonwhy.es/sites/default/files/ranking-marcas-futbol-valiosas-fuertes.jpg</fanart>
 <link>$doregex[get-decode]|User-Agent=iPad</link>
 <thumbnail>https://articles-images.sftcdn.net/wp-content/uploads/sites/2/2013/08/47-256x256.png</thumbnail>
 <fanart>https://www.reasonwhy.es/sites/default/files/ranking-marcas-futbol-valiosas-fuertes.jpg</fanart>
