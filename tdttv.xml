@@ -15,16 +15,16 @@ http://hlsliveamdgl1-lh.akamaihd.net/i/hlsdvrlive_1@60414/master.m3u8
 https://cdnlive.shooowit.net/rtvalive/channelDVR.smil/master.m3u8
 
 #EXTINF:-1 tvg-id="ANTENA 3 HD" tvg-logo="https://graph.facebook.com/antena3/picture?width=320&height=320" group-title="TDT España",Antena 3 HD
-https://livestartover.atresmedia.com/antena3/master.m3u8
+http://uv2.sinantena.live:9966/range44/DOcHBXwDmy/500
 
 #EXTINF:-1 tvg-id="CUATRO HD" tvg-logo="https://graph.facebook.com/cuatro/picture?width=320&height=320" group-title="TDT España",Cuatro HD
-
+http://uv2.sinantena.live:9966/range44/DOcHBXwDmy/497
 
 #EXTINF:-1 tvg-id="Telecinco HD" tvg-logo="https://graph.facebook.com/tele5/picture?width=320&height=320" group-title="TDT España",Telecinco HD
-
+http://uv2.sinantena.live:9966/range44/DOcHBXwDmy/488
 
 #EXTINF:-1 tvg-id="LA SEXTA HD" tvg-logo="https://graph.facebook.com/laSexta/picture?width=320&height=320" group-title="TDT España",laSexta HD
-https://livestartover-i.akamaized.net/lasexta/bitrate_4.m3u8
+http://uv2.sinantena.live:9966/range44/DOcHBXwDmy/492
 
 #EXTINF:-1 tvg-id="NEOX" tvg-logo="https://graph.facebook.com/neox/picture?width=320&height=320" group-title="TDT España",Neox HD
 https://livestartover.atresmedia.com/geoneox/master.m3u8
@@ -39,7 +39,7 @@ https://livestartover.atresmedia.com/geomega/master.m3u8
 
 
 #EXTINF:-1 tvg-id="FDF" tvg-logo="https://graph.facebook.com/factoriadeficcion/picture?width=320&height=320" group-title="TDT España",FDF HD
-
+http://uv2.sinantena.live:9966/range44/DOcHBXwDmy/550
 
 #EXTINF:-1 tvg-id="ENERGY" tvg-logo="https://graph.facebook.com/E.EnergyTV/picture?width=320&height=320" group-title="TDT España",Energy HD	
 
@@ -147,16 +147,16 @@ http://uv2.sinantena.live:9966/range44/DOcHBXwDmy/568
 http://uv2.sinantena.live:9966/range44/DOcHBXwDmy/570
 
 #EXTINF:-1 tvg-ID="HISTORIA" tvg-name="[ES] HISTORIA HD **" tvg-logo="https://raw.githubusercontent.com/dracohe/picon/master/HIST.png" group-title="M. Espana",HISTORIA 
-http://uv2.sinantena.live:9966/range44/DOcHBXwDmy/17791
+http://uv2.sinantena.live:9966/range44/DOcHBXwDmy/3402
 
 #EXTINF:-1 tvg-ID="CANAL COCINA" tvg-name="[ES] CANAL COCINA HD **" tvg-logo="https://raw.githubusercontent.com/dracohe/picon/master/CACOC.png" group-title="M. Espana",CANAL COCINA 
-http://uv2.sinantena.live:9966/range44/DOcHBXwDmy/17784
+http://uv2.sinantena.live:9966/range44/DOcHBXwDmy/17781
 
 #EXTINF:-1 tvg-ID="BLAZE" tvg-name="[ES] BLAZE HD **" tvg-logo="https://raw.githubusercontent.com/dracohe/picon/master/BIOGRA.png" group-title="M. Espana",BLAZE
-http://uv2.sinantena.live:9966/range44/DOcHBXwDmy/17796
+http://uv2.sinantena.live:9966/range44/DOcHBXwDmy/586
 
 #EXTINF:-1 tvg-ID="XTRM" tvg-name="[ES] XTREM HD **" tvg-logo="https://raw.githubusercontent.com/pakito71/Logos/master/xtrm.png" group-title="M. Espana",XTREM 
-http://uv2.sinantena.live:9966/range44/DOcHBXwDmy/17776
+
 
 #EXTINF:-1 tvg-ID="CAZAyPESCA HD" tvg-name="ES: CAZA Y PESCA" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CAZPES.png" group-title="M. Espana",CAZA Y PESCA
 http://uv2.sinantena.live:9966/range44/DOcHBXwDmy/571
@@ -174,10 +174,10 @@ https://dailyspace.s3.eu-central-1.amazonaws.com/6/6.m3u8
 https://cdnx.dailysportlist.xyz/1/1.m3u8
 
 #EXTINF:-1 tvg-id="M. DEPORTE HD" tvg-logo="https://i.imgur.com/JUwNUhT.png?width=320&height=320" group-title="DEPORTES",M.Deportes
-https://daily-live.s3.eu-west-3.amazonaws.com/8/8.m3u8
+http://uv2.sinantena.live:9966/range44/DOcHBXwDmy/614
 
 #EXTINF:-1 tvg-id="#VAMOS" tvg-logo="https://i.imgur.com/tas7PmQ.png?width=320&height=320" group-title="DEPORTES",M.Vamos
-https://storage.googleapis.com/dailyspace/15/15.m3u8
+http://uv2.sinantena.live:9966/range44/DOcHBXwDmy/616
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/RIyqluP.png?width=320&height=320" group-title="DEPORTES",Motogp
 https://cdn.dailysport.live/20/20.m3u8
