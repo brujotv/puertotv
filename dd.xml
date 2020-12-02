@@ -2,6 +2,24 @@
 
 
 <item>
+<title>[B]-LA 1-[/B]</title>
+<link>https:$doregex[GetPageUrl]|User-Agent=Mozilla/5.0</link>
+<regex>
+<name>GetPageUrl</name>
+<expres>'(//.*m3u8.*?)'</expres>
+<rawpost>manzana66=12345</rawpost>
+<connection>keep-alive</connection>
+<accept>*/*</accept>
+<X-Req>XMLHttpRequest</X-Req>
+<cookieJar></cookieJar>
+<page>https://vergol.com/bgjhykdmbtj668/live/la1.php</page>
+<referer>https://vergol.com/bgjhykdmbtj668/live/la1.php</referer>
+</regex>
+<thumbnail>http://img2.rtve.es/v/3621345/?w=904&crop=no&preview=1464949771672.jpg</thumbnail>
+<fanart>http://img2.rtve.es/v/3621345/?w=904&crop=no&preview=1464949771672.jpg</fanart>
+</item>
+
+<item>
 <title>•  [B]PHOTOCALL[/B]</title>
 
 <link>$doregex[makelist]</link>
