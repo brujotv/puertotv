@@ -79,7 +79,7 @@ https://rtvelivestream.akamaized.net/24h_dvr.m3u8
 #EXTINF:-1 tvg-id="PARAMOUNT" tvg-logo="https://i.imgur.com/GwoWMlF.jpg/picture?width=320&height=320" group-title="TDT España",Paramount Channel
 http://127.0.0.1:6878/ace/m/ae2c30af1866637cfcadcd88bcf88c0d7eebbc27/f528764d624db129b32c21fbca0cb8d6.m3u8
 
-#EXTINF:-1 tvg-id="0.es" tvg-logo="https://sincroguia-tv.expansion.com/uploads/images/0/j/p/0.jpg?width=320&height=320" group-title="TDT España",#0 HD
+#EXTINF:-1 tvg-id="0.es" tvg-logo="https://i.imgur.com/VCJKsMa.jpg/picture?width=320&height=320" group-title="TDT España",#0 HD
 http://uv2.sinantena.live:9966/range44/DOcHBXwDmy/503
 
 #EXTINF:-1 tvg-id="M.ESTRENOS HD" tvg-logo="https://raw.githubusercontent.com/pakito71/Logos/master/estrenos.png?width=320&height=320" group-title="TDT España",M.Estrenos
