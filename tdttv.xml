@@ -42,13 +42,13 @@ https://livestartover.atresmedia.com/geomega/master.m3u8
 
 
 #EXTINF:-1 tvg-id="ENERGY" tvg-logo="https://graph.facebook.com/E.EnergyTV/picture?width=320&height=320" group-title="TDT España",Energy HD	
-http://uv2.sinantena.live:9966/range44/DOcHBXwDmy/14351
+
 
 #EXTINF:-1 tvg-id="DIVINITY" tvg-logo="https://graph.facebook.com/divinityes/picture?width=320&height=320" group-title="TDT España",Divinity HD
 http://uv2.sinantena.live:9966/range44/DOcHBXwDmy/13980
 
 #EXTINF:-1 tvg-id="BE MAD" tvg-logo="https://graph.facebook.com/BeMadTV/picture?width=320&height=320" group-title="TDT España",Be Mad HD
-http://uv2.sinantena.live:9966/range44/DOcHBXwDmy/17793
+
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://album.mediaset.es/cimg/1000060/2019/10/18/cajamtmad_54a1.jpg?width=320&height=320" group-title="TDT España",mt mad
 https://mdssplive-lh.akamaihd.net/i/mtmad_1@744785/index_2500_av-p.m3u8?sd=10&rebase=on
