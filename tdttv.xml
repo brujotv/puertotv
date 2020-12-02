@@ -79,6 +79,21 @@ https://rtvelivestream.akamaized.net/24h_dvr.m3u8
 #EXTINF:-1 tvg-id="PARAMOUNT" tvg-logo="https://i.imgur.com/GwoWMlF.jpg/picture?width=320&height=320" group-title="TDT España",Paramount Channel
 http://127.0.0.1:6878/ace/m/ae2c30af1866637cfcadcd88bcf88c0d7eebbc27/f528764d624db129b32c21fbca0cb8d6.m3u8
 
+#EXTINF:0 tvg-logo="", MSERIES
+https://srregio.net/Sr_Regio151120/dip.php?c=3&f.m3u8
+
+#EXTINF:0 tvg-logo="", MESTRENOS
+https://srregio.net/Sr_Regio151120/dip.php?c=4&f.m3u8
+
+#EXTINF:0 tvg-logo="", MLIGA
+https://srregio.net/Sr_Regio151120/dip.php?c=5&f.m3u8
+
+#EXTINF:0 tvg-logo="", REAL MADRID
+https://srregio.net/Sr_Regio151120/dip.php?c=6&f.m3u8
+
+#EXTINF:0 tvg-logo="", SYFY
+https://srregio.net/Sr_Regio151120/dip.php?c=7&f.m3u8
+
 #EXTINF:-1 tvg-id="M. LaLiga HD" tvg-logo="https://assets.laliga.com/assets/logos/laliga-v/laliga-v-1200x1200.jpg?width=320&height=320" group-title="DEPORTES",M.liga  
 https://cdndailys.azureedge.net/LiveApp/streams/551211189932388215081921.m3u8
 
