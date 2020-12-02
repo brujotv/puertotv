@@ -1,5 +1,104 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
+
+<item>
+<title>•  [B]PHOTOCALL[/B]</title>
+
+<link>$doregex[makelist]</link>
+
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+  <title>[makelist.param2]</title>
+  <link>$doregex[play]</link>
+  <thumbnail>[makelist.param3]</thumbnail>
+]]></listrepeat>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url = ''):
+  import re
+  r = re.findall('(?s)<div class="dropdown"><a href="([^"]*)(?:[^=]*)=(?:[^=]*)=(?:[^=]*)="([^"]*)(?:[^=]*)="([^"]*)', page_data)
+  r = [('http://photocall.tv/'+i[0],i[1],i[2]) for i in r if 'fD' in i[0]]
+  return r
+]]></expres>
+<page>http://photocall.tv/</page>
+<referer>http://photocall.tv/</referer>
+</regex>
+<regex>
+<name>play</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url = ''):
+  import re
+  r = re.findall('source:\s*\'([^\']*)', page_data)[0]
+  r = r.replace('http:','')
+  r = r.replace('https:','')
+  r = r.replace('//','https://')
+  return r + '|user-agent=iPad&amp;referer=[makelist.param1]'
+]]></expres>
+<page>[makelist.param1]</page>
+<referer>http://photocall.tv/</referer>
+</regex>
+
+
+
+<thumbnail>https://raw.githubusercontent.com/blackghostaddon/gray/master/gray/img/tp.png</thumbnail>
+<fanart>https://raw.githubusercontent.com/blackghostaddon/gray/master/gray/img/fanart.jpg</fanart></item>
+
+
+
+
+
+ 
+
+ 
+
+
+
+	
+ 
+<item>
+ <title>Probar tsdownloader</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=$doregex[link]</link>
+
+<regex>
+<name>link</name>
+<expres><![CDATA[#$pyFunction
+import xbmc
+import xbmcaddon
+import xbmcgui
+def GetLSProData(page_data,Cookie_Jar,m):
+    dialog = xbmcgui.Dialog()
+    d = dialog.input('Ingresa un link :', type=xbmcgui.INPUT_ALPHANUM).replace(" ", "+")
+    return d
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>https://raw.githubusercontent.com/blackghostaddon/gray/master/gray/img/tp.png</thumbnail>
+<fanart>https://raw.githubusercontent.com/blackghostaddon/gray/master/gray/img/fanart.jpg</fanart>
+  </item>
+
+ <item>
+ <title>Probar hls</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=$doregex[link]</link>
+
+<regex>
+<name>link</name>
+<expres><![CDATA[#$pyFunction
+import xbmc
+import xbmcaddon
+import xbmcgui
+def GetLSProData(page_data,Cookie_Jar,m):
+    dialog = xbmcgui.Dialog()
+    d = dialog.input('Ingresa un link :', type=xbmcgui.INPUT_ALPHANUM).replace(" ", "+")
+    return d
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>https://raw.githubusercontent.com/blackghostaddon/gray/master/gray/img/tp.png</thumbnail>
+<fanart>https://raw.githubusercontent.com/blackghostaddon/gray/master/gray/img/fanart.jpg</fanart>
+  </item>
+
 <item>
 <title>[COLOR palegreen]●[/COLOR][COLOR lightslategray]●[/COLOR][COLOR lightslategray]●[/COLOR]  [COLOR lightcyan][B]EVENTO [/COLOR][COLOR lightblue]FORMULA 1 | MOTOGP[/COLOR][/B]  [COLOR lightslategray] [/COLOR]</title>
 <link>$doregex[makelist2]</link>
