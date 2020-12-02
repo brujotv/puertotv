@@ -1,5 +1,17 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
+ <item>
+<title>[B]MEGA HD[/B]</title>
+<link>$doregex[getUrl]|user-agent=ipad&amp;referer=http://photocall.tv/</link>
+<regex>
+<name>getUrl</name>
+<expres><![CDATA[new Clappr.Player[\w\W]*?source.+?[\'"]([^\'"]+)]]></expres>
+<page>http://hls.giize.com/d96ARFY0sx/a3?ch=mega</page>
+<referer>http://photocall.tv/</referer>
+</regex>
+<thumbnail>http://photocall.tv/images/MEGA.png</thumbnail>
+<fanart>http://photocall.tv/images/MEGA.png</fanart>
+</item>
 
 <item>
 <title>[B]-LA 1-[/B]</title>
