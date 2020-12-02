@@ -55,7 +55,7 @@ https://mdssplive-lh.akamaihd.net/i/mtmad_1@744785/index_2500_av-p.m3u8?sd=10&re
 #EXTINF:-1 tvg-id="" tvg-logo="https://graph.facebook.com/ParamountNetworkES/picture?width=320&height=320" group-title="TDT España",Paramount Network
 
 
-#EXTINF:-1 tvg-id="Ten" tvg-logo="https://scontent-mad1-1.xx.fbcdn.net/v/t1.0-1/p200x200/22089174_1956008234638727_2963725894594557021_n.jpg?_nc_cat=108&_nc_sid=0c64ff&_nc_ohc=dDuV8mfpF_IAX_sLOQC&_nc_ht=scontent-mad1-1.xx&_nc_tp=6&oh=d983a8cae581385f4df36d2febd76b8c&oe=5F463D40"?width=320&height=320" group-title="TDT España",Ten
+#EXTINF:-1 tvg-id="Ten" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/TEN.png?width=320&height=320" group-title="TDT España",Ten
 http://91.126.141.201:1935/live/ten/chunklist_w506965236.m3u8
 
 #EXTINF:-1 tvg-id="DKISS" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DKISS.png?width=320&height=320" group-title="TDT España",Dkiss
@@ -70,7 +70,7 @@ http://91.126.141.12:1935/live/discoverymax/playlist.m3u8
 #EXTINF:-1 tvg-id="BOING" tvg-logo="https://i.imgur.com/ux2SEpi.jpg/picture?width=320&height=320" group-title="TDT España",Boing
 
 
-#EXTINF:-1 tvg-id="CLAN  TVE" tvg-logo="https://scontent-mad1-1.xx.fbcdn.net/v/t1.0-1/28166839_10157050547942646_1410694500198860188_n.jpg?_nc_cat=101&_nc_sid=0c64ff&_nc_ohc=QV6SXnjg7r4AX8koPCG&_nc_ht=scontent-mad1-1.xx&oh=ee59e5e2aef3c3e51a43be01abad2b81&oe=5F4875EB" group-title="TDT España",clan
+#EXTINF:-1 tvg-id="CLAN  TVE" tvg-logo="https://raw.githubusercontent.com/dracohe/picon/master/CLANTV.png" group-title="TDT España",clan
 https://hlsliveamdgl1-lh.akamaihd.net/i/hlslive_1@356291/master.m3u8
 
 #EXTINF:-1 tvg-id="24 HORAS" tvg-logo="https://i.imgur.com/rYO7n4s.png/picture?width=320&height=320" group-title="TDT España",24h
@@ -112,43 +112,43 @@ http://uv2.sinantena.live:9966/range44/DOcHBXwDmy/516
 #EXTINF:-1 tvg-ID="CALLE 13 HD" tvg-name="ES: CALLE 13" tvg-logo="https://raw.githubusercontent.com/dracohe/picon/master/CL13.png" group-title="M. Espana",CALLE 13
 http://uv2.sinantena.live:9966/range44/DOcHBXwDmy/536
 
-#EXTINF:-1 tvg-ID="TNT HD" tvg-name="ES: TNT HD" tvg-logo="" group-title="M. Espana",TNT HD
+#EXTINF:-1 tvg-ID="TNT HD" tvg-name="ES: TNT HD" tvg-logo="https://raw.githubusercontent.com/dracohe/picon/master/TNT.png" group-title="M. Espana",TNT HD
 http://uv2.sinantena.live:9966/range44/DOcHBXwDmy/532
 
-#EXTINF:-1 tvg-ID="TCM HD" tvg-name="ES: TCM" tvg-logo="" group-title="M. Espana",TCM
+#EXTINF:-1 tvg-ID="TCM HD" tvg-name="ES: TCM" tvg-logo="https://raw.githubusercontent.com/dracohe/picon/master/TCM.png" group-title="M. Espana",TCM
 http://uv2.sinantena.live:9966/range44/DOcHBXwDmy/518
 
-#EXTINF:-1 tvg-ID="SYFY HD" tvg-name="ES: SYFY" tvg-logo="" group-title="M. Espana",SYFY
+#EXTINF:-1 tvg-ID="SYFY HD" tvg-name="ES: SYFY" tvg-logo="https://raw.githubusercontent.com/dracohe/picon/master/SCI-FI.png" group-title="M. Espana",SYFY
 http://uv2.sinantena.live:9966/range44/DOcHBXwDmy/546
 
-#EXTINF:-1 tvg-ID="AMC HD" tvg-name="ES: AMC" tvg-logo="" group-title="M. Espana",AMC
+#EXTINF:-1 tvg-ID="AMC HD" tvg-name="ES: AMC" tvg-logo="https://raw.githubusercontent.com/dracohe/picon/master/AMC.png" group-title="M. Espana",AMC
 http://uv2.sinantena.live:9966/range44/DOcHBXwDmy/540
 
-#EXTINF:-1 tvg-ID="FOX HD" tvg-name="ES: FOX HD" tvg-logo="" group-title="M. Espana",FOX HD
+#EXTINF:-1 tvg-ID="FOX HD" tvg-name="ES: FOX HD" tvg-logo="https://raw.githubusercontent.com/dracohe/picon/master/FOXGE.png" group-title="M. Espana",FOX HD
 http://uv2.sinantena.live:9966/range44/DOcHBXwDmy/528
 
-#EXTINF:-1 tvg-ID="FOX LIFE HD" tvg-name="ES: FOX LIFE HD" tvg-logo="" group-title="M. Espana",FOX LIFE HD
+#EXTINF:-1 tvg-ID="FOX LIFE FHD" tvg-name="ES: FOX LIFE HD" tvg-logo="" group-title="M. Espana",FOX LIFE HD
 http://uv2.sinantena.live:9966/range44/DOcHBXwDmy/542
 
-#EXTINF:-1 tvg-ID="AXN HD" tvg-name="ES: AXN HD" tvg-logo="" group-title="M. Espana",AXN HD
+#EXTINF:-1 tvg-ID="AXN HD" tvg-name="ES: AXN HD" tvg-logo="https://raw.githubusercontent.com/dracohe/picon/master/AXN.png" group-title="M. Espana",AXN HD
 http://uv2.sinantena.live:9966/range44/DOcHBXwDmy/530
 
-#EXTINF:-1 tvg-ID="AXN WHITE HD" tvg-name="ES: AXN WHITE" tvg-logo="" group-title="M. Espana",AXN WHITE
+#EXTINF:-1 tvg-ID="AXN WHITE HD" tvg-name="ES: AXN WHITE" tvg-logo="https://raw.githubusercontent.com/dracohe/picon/master/SET.png" group-title="M. Espana",AXN WHITE
 http://uv2.sinantena.live:9966/range44/DOcHBXwDmy/544
 
-#EXTINF:-1 tvg-ID="NG WILD HD" tvg-name="ES: NG WILD HD" tvg-logo="" group-title="M. Espana",NG WILD HD
+#EXTINF:-1 tvg-ID="NAT GEO WILD HD" tvg-name="ES: NG WILD HD" tvg-logo="https://raw.githubusercontent.com/dracohe/picon/master/NATGW.png" group-title="M. Espana",NG WILD HD
 http://uv2.sinantena.live:9966/range44/DOcHBXwDmy/566
 
-#EXTINF:-1 tvg-ID="NAT GEO HD" tvg-name="ES: NAT GEO HD" tvg-logo="" group-title="M. Espana",NAT GEO HD
+#EXTINF:-1 tvg-ID="NAT GEO HD" tvg-name="ES: NAT GEO HD" tvg-logo="https://raw.githubusercontent.com/dracohe/picon/master/NATGEO.png" group-title="M. Espana",NAT GEO HD
 http://uv2.sinantena.live:9966/range44/DOcHBXwDmy/568
 
-#EXTINF:-1 tvg-ID="DISCOVERY" tvg-name="ES: DISCOVERY" tvg-logo="" group-title="M. Espana",DISCOVERY
+#EXTINF:-1 tvg-ID="DISCOVERY" tvg-name="ES: DISCOVERY" tvg-logo="https://raw.githubusercontent.com/dracohe/picon/master/DCR.png" group-title="M. Espana",DISCOVERY
 http://uv2.sinantena.live:9966/range44/DOcHBXwDmy/570
 
-#EXTINF:-1 tvg-ID="" tvg-name="[ES] HISTORIA HD **" tvg-logo="" group-title="M. Espana",HISTORIA 
+#EXTINF:-1 tvg-ID="HISTORIA" tvg-name="[ES] HISTORIA HD **" tvg-logo="https://raw.githubusercontent.com/dracohe/picon/master/HIST.png" group-title="M. Espana",HISTORIA 
 http://uv2.sinantena.live:9966/range44/DOcHBXwDmy/17791
 
-#EXTINF:-1 tvg-ID="CAZAyPESCA HD" tvg-name="ES: CAZA Y PESCA" tvg-logo="" group-title="M. Espana",CAZA Y PESCA
+#EXTINF:-1 tvg-ID="CAZAyPESCA HD" tvg-name="ES: CAZA Y PESCA" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CAZPES.png" group-title="M. Espana",CAZA Y PESCA
 http://uv2.sinantena.live:9966/range44/DOcHBXwDmy/571
 
 #EXTINF:-1 tvg-id="M. LaLiga HD" tvg-logo="https://assets.laliga.com/assets/logos/laliga-v/laliga-v-1200x1200.jpg?width=320&height=320" group-title="DEPORTES",M.liga  
