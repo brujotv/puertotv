@@ -82,6 +82,9 @@ http://127.0.0.1:6878/ace/m/ae2c30af1866637cfcadcd88bcf88c0d7eebbc27/f528764d624
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/EIWUH5a.jpg/picture?width=320&height=320" group-title="TDT España",M.ESTRENOS
 https://srregio.net/Sr_Regio151120/dip.php?c=4&f.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/EIWUH5a.jpg/picture?width=320&height=320" group-title="TDT España",M. ACCION HD
+http://uv2.sinantena.live:9966/range44/DOcHBXwDmy/510
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/QZcZvRO.png/picture?width=320&height=320" group-title="TDT España",M.SERIES
 https://srregio.net/Sr_Regio151120/dip.php?c=3&f.m3u8
 
