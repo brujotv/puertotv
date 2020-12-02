@@ -168,7 +168,7 @@ http://uv2.sinantena.live:9966/range44/DOcHBXwDmy/598
 https://cdndailys.azureedge.net/LiveApp/streams/551211189932388215081921.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/MPfpjze.png?width=320&height=320" group-title="DEPORTES",M.liga SmartBank
-https://dailyspace.s3.eu-central-1.amazonaws.com/6/6.m3u8
+https://cdnx.dailysportlist.xyz/21/21.m3u8
 
 #EXTINF:-1 tvg-id="M.LCAMPEONES HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAPIO.png?width=320&height=320" group-title="DEPORTES",M.Liga de Campeones
 https://cdnx.dailysportlist.xyz/1/1.m3u8
