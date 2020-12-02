@@ -85,8 +85,20 @@ https://srregio.net/Sr_Regio151120/dip.php?c=4&f.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="/picture?width=320&height=320" group-title="TDT España",M. ACCION HD
 http://uv2.sinantena.live:9966/range44/DOcHBXwDmy/510
 
+#EXTINF:-1 tvg-ID="M.COMEDIA HD" tvg-name="ES: M. COMEDIA" tvg-logo="http://www.movistarplus.es/recorte/m-NEO/canal/CPCOME.png" group-title="M. Espana",ES: M. COMEDIA
+http://uv2.sinantena.live:9966/range44/DOcHBXwDmy/512
+
+#EXTINF:-1 tvg-ID="M. DRAMA" tvg-name="ES: M. DRAMA HD" tvg-logo="http://www.movistarplus.es/recorte/m-NEO/canal/CPCOLE.png" group-title="M. Espana",ES: M. DRAMA HD
+http://uv2.sinantena.live:9966/range44/DOcHBXwDmy/508
+
+#EXTINF:-1 tvg-ID="M.CineDoc&Roll" tvg-name="ES: M.CINEDOC&ROLL HD" tvg-logo="https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-original/1_0_19_74D8_3F8_1_C00000_0_0_0.png" group-title="M. Espana",ES: M.CINEDOC&ROLL HD
+http://uv2.sinantena.live:9966/range44/DOcHBXwDmy/717
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/QZcZvRO.png/picture?width=320&height=320" group-title="TDT España",M.SERIES
 https://srregio.net/Sr_Regio151120/dip.php?c=3&f.m3u8
+
+#EXTINF:-1 tvg-ID="HOLLYWOODHD" tvg-name="ES: HOLLYWOOD HD" tvg-logo="" group-title="M. Espana",ES: HOLLYWOOD HD
+http://uv2.sinantena.live:9966/range44/DOcHBXwDmy/516
 
 #EXTINF:-1 tvg-id="M. LaLiga HD" tvg-logo="https://assets.laliga.com/assets/logos/laliga-v/laliga-v-1200x1200.jpg?width=320&height=320" group-title="DEPORTES",M.liga  
 https://srregio.net/Sr_Regio151120/dip.php?c=5&f.m3u8
