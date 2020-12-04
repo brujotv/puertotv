@@ -18,7 +18,7 @@
 <fanart>https://www.reasonwhy.es/sites/default/files/ranking-marcas-futbol-valiosas-fuertes.jpg</fanart>
 ]]></listrepeat>
 <expres><![CDATA[(?s)<tr><th>(.+?)</th></tr>|<td>(\d.*?)</td>.*?<td>(.+?)</td>|href="(.+?)">(.+?)<]]></expres>
-<page>https://dailysport.space/</page>
+<page>https://dailysport.cloud/</page>
 </regex>
  
  <regex>
@@ -31,7 +31,7 @@
 <regex>
 <name>get-enctext</name>
 <expres>(?s)if \(false\).*?else.*?var player =.*?new Clappr.Player\(.*?source:.*?window.atob\("(.+?)"</expres>
-<page>https://dailysport.space/[makelist.param4]</page>
+<page>https://dailysport.cloud/[makelist.param4]</page>
 </regex>
  </item>
 
