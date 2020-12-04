@@ -192,7 +192,7 @@ http://uv2.sinantena.live:9966/range44/DOcHBXwDmy/617
 https://rtvelivestream.akamaized.net/tdp_dvr_4000.m3u8
 
 #EXTINF:-1 tvg-id="GOL HD" tvg-logo="http://graph.facebook.com/goltv.es/picture?width=320&height=320?width=320&height=320" group-title="DEPORTES",Gol tv	
-https://d14yn9755o946w.cloudfront.net/Gol_24h/gol_24h/gol_24hhigh.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9kMTR5bjk3NTVvOTQ2dy5jbG91ZGZyb250Lm5ldC9Hb2xfMjRoL2dvbF8yNGgvZ29sXzI0aGhpZ2gubTN1OCIsIkNvbmRpdGlvbiI6eyJJcEFkZHJlc3MiOnsiQVdTOlNvdXJjZUlwIjoiOTUuMTYuMjQyLjU5LzMyIn0sIkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNjA2MTI3MTE5fX19XX0_&Signature=EQkybpE6nARIwL8cREr3kxiJwRQ335WUDHLv2hq84wtUYa3JiUshuok9U~rsk93aygZeP4-z4CxJBbO~xxw~9SSxx-cj2b7kSWbJnsxkrNlzJYhBtBhveodoe6xEHNfdGRY9Ud6pskYqwMtw-Ksc-FAxXp-ps13SHqSw28sbsl~rXChlxgA-Sm7JflR8r63kUKFXafAu7j6doGuXkkbqJ4bnATaYZo7downqn32UIQXQF9rWktTpSdVGWNfhdzIkWZcGTiQ7eFaW5511UvNCOY4G~hsdRP1dvH74eNnewkPsRlFlZnM57WXyfa2rn~v0U0k5CISh~rpMqEYbvHjP6g__&Key-Pair-Id=APKAIAZ5PGRVVQBQUQTA
+http://uv2.sinantena.live:9966/range44/DOcHBXwDmy/602
 
 #EXTINF:-1 tvg-id="R. MADRID TV" tvg-logo="https://i.imgur.com/EQAvfdp.jpg?width=320&height=320" group-title="DEPORTES",Real Madrid TV
 https://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hwebes_1@300661/master.m3u8
@@ -202,10 +202,10 @@ https://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hwebes_1@300661/master.m3u8
 
 
 #EXTINF:-1 tvg-id="Betis TV HD" tvg-logo="http://graph.facebook.com/realbetisbalompie/picture?width=320&height=320" group-title="Deportivos",Betis TV HD
-https://betistv-live.flumotion.com/tb3uTPq80uDPK-sKc9Slyg/1606125503/betistv/live_all/betistv/live_480p/chunks.m3u8
+http://uv2.sinantena.live:9966/range44/DOcHBXwDmy/734
 
 #EXTINF:-1 tvg-id="SEVILLAFC TV" tvg-logo="https://i.imgur.com/FTLjroU.png" group-title="DEPORTES", Sevilla FC
-
+http://uv2.sinantena.live:9966/range44/DOcHBXwDmy/631
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://graph.facebook.com/OlympicChannel/picture?width=320&height=320" group-title="DEPORTES" ,Olympic Channel 1
 
