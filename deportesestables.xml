@@ -141,4 +141,25 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <info>[COLOR lightgreen]Multicanales[/COLOR]</info>
 </item>
 
+<item>
+<title>Bien Espanyol</title>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=http://totalsport.me/zona21.html</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>LIGA CAMPEONES</title>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=http://totalsport.me/zona18.html</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>LA LIGA TV</title>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=http://totalsport.me/zona17.html</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
  
