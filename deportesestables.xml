@@ -52,10 +52,7 @@
 <expres>(?s)if \(false\).*?else.*?var player =.*?new Clappr.Player\(.*?source:.*?window.atob\("(.+?)"</expres>
 <page>https://dailysport.cloud/[makelist.param4]</page>
 </regex>
- </item>
-
-
-
+</item>
 
 <item>
 <title> M.Liga</title>        
@@ -78,39 +75,7 @@
 <fanart></fanart>
 </item>
 
-<item>
-<title> Lazio vs Club Brugge 18:55 </title>        
-<link>https://cdn.dailysportlist.xyz/3/3.m3u8</link>
-<thumbnail>https://www.movistarplus.es/recorte/m-NEO/canal/CHAPIO.png</thumbnail>
-<fanart></fanart>
-</item>
 
-<item>
-<title> Zenit vs Borussia Dortmund 18:55</title>        
-<link>https://cdn.dailysportlist.xyz/2/2.m3u8</link>
-<thumbnail>https://www.movistarplus.es/recorte/m-NEO/canal/CHAPIO.png</thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title> FC Barcelona vs Juventus 21:00</title>        
-<link>https://cdn.dailysportlist.xyz/1/1.m3u8</link>
-<thumbnail>https://www.movistarplus.es/recorte/m-NEO/canal/CHAPIO.png</thumbnail>
-<fanart></fanart>
-</item>
-<item>
-<title> Rennes vs Sevilla FCs 21:00</title>        
-<link>https://cdn.dailysportlist.xyz/2/2.m3u8</link>
-<thumbnail>https://www.movistarplus.es/recorte/m-NEO/canal/CHAPIO.png</thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title> Chelsea vs Krasnodar 21:00</title>        
-<link>https://cdn.dailysportlist.xyz/4/4.m3u8</link>
-<thumbnail>https://www.movistarplus.es/recorte/m-NEO/canal/CHAPIO.png</thumbnail>
-<fanart></fanart>
-</item>
 
 <item>
 <title> M.Vamos</title>        
