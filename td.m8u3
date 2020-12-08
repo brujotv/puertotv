@@ -156,12 +156,6 @@ http://uv2.sinantena.live:9966/range44/DOcHBXwDmy/586
 #EXTINF:-1 tvg-ID="CAZAyPESCA HD" tvg-name="ES: CAZA Y PESCA" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CAZPES.png" group-title="M. Espana",CAZA Y PESCA
 http://uv2.sinantena.live:9966/range44/DOcHBXwDmy/571
 
-#EXTINF:-1 tvg-id="M.LCAMPEONES HD#" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAPIO.png?width=320&height=320" group-title="DEPORTES",FC Barcelona vs Juventus
-https://cdn.dailysportlist.xyz/1/1.m3u8
-
-#EXTINF:-1 tvg-id="M.LCAMPEONES HD#" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAPIO.png?width=320&height=320" group-title="DEPORTES",Rennes vs Sevilla FC
-https://cdn.dailysportlist.xyz/2/2.m3u8
-
 #EXTINF:-1 tvg-id="LALIGATV BAR HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/LIGBAR.png?width=320&height=320" group-title="DEPORTES",M.liga bar 
 http://uv2.sinantena.live:9966/range44/DOcHBXwDmy/597
 
