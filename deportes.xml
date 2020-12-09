@@ -56,3 +56,57 @@ def GetLSProData(page_data,Cookie_Jar,m):#streamwatcher2013
 <referer>https://www.sestv.pw/</referer>
 </regex>
 </item>
+
+<items>
+<item>
+<title>SPORT | LIVE SPORT - CHANNEL 1</title>
+<thumbnail>https://i.imgur.com/99gUA0f.png</thumbnail>
+<fanart>https://i.imgur.com/eRgwqhO.png</fanart>     
+<link>https://e14.weplaylive.stream/stream/$doregex[makelist1]/masterm.m3u8|Referer=$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<expres><![CDATA[iframe src="(.*?)"]]></expres>
+<page>https://live-sports-stream.net/embed/video.php?channel=1</page>
+<Agent>Mozilla/5.0 (Windows NT 10.0; rv:70.0) Gecko/20100101 Firefox/70.0</Agent>
+</regex>
+<regex>
+<name>makelist1</name>
+<expres><![CDATA[player","(.*?)"]]></expres>
+<page>$doregex[makelist]</page>
+<Agent>Mozilla/5.0 (Windows NT 10.0; rv:70.0) Gecko/20100101 Firefox/70.0</Agent>
+</regex>
+</item>
+
+<item>
+<title>[COLOR orange]Todo deportes[/COLOR]</title>
+<info>todo el futbol en casa</info>
+<thumbnail>https://articles-images.sftcdn.net/wp-content/uploads/sites/2/2013/08/47-256x256.png</thumbnail>
+<fanart>https://www.reasonwhy.es/sites/default/files/ranking-marcas-futbol-valiosas-fuertes.jpg</fanart>
+ <link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<title>[COLOR orange][makelist.param1][/COLOR][COLOR yellow] [makelist.param2][/COLOR] [COLOR white][makelist.param3][/COLOR][COLOR red] [makelist.param5][/COLOR]</title>
+<thumbnail>https://articles-images.sftcdn.net/wp-content/uploads/sites/2/2013/08/47-256x256.png</thumbnail>
+<fanart>https://www.reasonwhy.es/sites/default/files/ranking-marcas-futbol-valiosas-fuertes.jpg</fanart>
+<link>$doregex[get-decode]|User-Agent=iPad</link>
+<thumbnail>https://articles-images.sftcdn.net/wp-content/uploads/sites/2/2013/08/47-256x256.png</thumbnail>
+<fanart>https://www.reasonwhy.es/sites/default/files/ranking-marcas-futbol-valiosas-fuertes.jpg</fanart>
+]]></listrepeat>
+<expres><![CDATA[(?s)<tr><th>(.+?)</th></tr>|<td>(\d.*?)</td>.*?<td>(.+?)</td>|href="(.+?)">(.+?)<]]></expres>
+<page>https://dailysport.cloud/</page>
+</regex>
+ 
+ <regex>
+<name>get-decode</name>
+<expres>$pyFunction:base64.b64decode("$doregex[get-enctext]")</expres>
+<page></page>
+</regex>
+
+
+<regex>
+<name>get-enctext</name>
+<expres>(?s)if \(false\).*?else.*?var player =.*?new Clappr.Player\(.*?source:.*?window.atob\("(.+?)"</expres>
+<page>https://dailysport.cloud/[makelist.param4]</page>
+</regex>
+</item>
