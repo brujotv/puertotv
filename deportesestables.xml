@@ -17,28 +17,14 @@
 
 <item>
 <title> M.Liga de Campeones </title>        
-<link>https://storage.googleapis.com/dailycl4/4/4.m3u8</link>
-<thumbnail>https://www.movistarplus.es/recorte/m-NEO/canal/CHAPIO.png</thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title> Real Madrid vs Borussia </title>        
-<link>https://storage.googleapis.com/dailycl4/1/1.m3u8</link>
-<thumbnail>https://www.movistarplus.es/recorte/m-NEO/canal/CHAPIO.png</thumbnail>
-<fanart></fanart>
-</item>
- 
- <item>
-<title> Red Bull Salzburg vs At. Madrid </title>        
-<link>https://storage.googleapis.com/dailycl4/2/2.m3u8</link>
+<link>https://storage.googleapis.com/dailycl4/8/8.m3u8</link>
 <thumbnail>https://www.movistarplus.es/recorte/m-NEO/canal/CHAPIO.png</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
 <title> M.Vamos</title>        
-<link>https://bucketdaily0.s3.amazonaws.com/15/15.m3u8</link>
+<link>https://storage.googleapis.com/dailycl4/15/15.m3u8</link>
 <thumbnail>https://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/328x220/canal-v-328x220.png</thumbnail>
 <fanart></fanart>
 </item>	
