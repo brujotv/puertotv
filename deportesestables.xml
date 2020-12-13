@@ -17,7 +17,7 @@
 
 <item>
 <title> M.Liga de Campeones </title>        
-<link>https://storage.googleapis.com/dailycl4/8/8.m3u8</link>
+<link>https://storage.googleapis.com/dailycl4/4/4.m3u8</link>
 <thumbnail>https://www.movistarplus.es/recorte/m-NEO/canal/CHAPIO.png</thumbnail>
 <fanart></fanart>
 </item>
@@ -31,7 +31,7 @@
 
 <item>
 <title> M.Deportes</title>        
-<link>https://cdn.dailysportlist.xyz/4/4.m3u8</link>
+<link>https://storage.googleapis.com/dailycl4/16/16.m3u8</link>
 <thumbnail>https://i.imgur.com/JUwNUhT.png</thumbnail>
 <fanart></fanart>
 </item>	
@@ -45,7 +45,7 @@
 
 <item>
 <title> Formula 1</title>        
-<link>https://storage.googleapis.com/dailycl4/10/10.m3u8</link>
+<link>https://dailycl4.s3-eu-west-1.amazonaws.com/10/10.m3u8</link>
 <thumbnail>https://www.movistarplus.es/recorte/m-NEO/canal/MVF1.png</thumbnail>
 <fanart></fanart>
 </item>
