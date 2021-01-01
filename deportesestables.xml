@@ -2,41 +2,61 @@
 
 
 
-
 <item>
-<title> M.Liga</title>        
-<link>https://storage.googleapis.com/dailyspace/1/1.m3u8</link>
+<title> M.Liga HD </title> 
+<link>https://storage.googleapis.com/dailyks/1a/1.m3u8</link>
 <thumbnail>https://assets.laliga.com/assets/logos/laliga-v/laliga-v-1200x1200.jpg</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
+<title> M.Liga1 HD </title>        
+<link>https://storage.googleapis.com/dailycl14/10/10.m3u8</link>
+<thumbnail>https://assets.laliga.com/assets/logos/laliga-v/laliga-v-1200x1200.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title> Bein ñ</title>        
+<link>https://storage.googleapis.com/dailycl14/3/3.m3u8</link>
+<thumbnail>https://i.pinimg.com/originals/ba/6d/2c/ba6d2cd52d20ab906ab39fa6af4c242d.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
 <title> La liga SmartBank </title>        
-<link>https://cdn.dailysport.live/6/6.m3u8</link>
+<link>https://storage.googleapis.com/dailycl4/7/7.m3u8</link>
 <thumbnail>https://i.imgur.com/MPfpjze.png</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
 <title> M.Liga de Campeones </title>        
-<link>https://storage.googleapis.com/dailyspace/8/8.m3u8</link>
+<link>https://dailycl9.s3.eu-west-3.amazonaws.com/4/4.m3u8</link>
 <thumbnail>https://www.movistarplus.es/recorte/m-NEO/canal/CHAPIO.png</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
 <title> M.Vamos</title>        
-<link>https://storage.googleapis.com/dailyspace/15/15.m3u8</link>
+<link>https://dailycl9.s3.eu-west-3.amazonaws.com/15/15.m3u8</link>
 <thumbnail>https://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/328x220/canal-v-328x220.png</thumbnail>
 <fanart></fanart>
 </item>	
 
 <item>
 <title> M.Deportes</title>        
-<link>https://cdn.dailysport.live/17/17.m3u8</link>
+<link>https://storage.googleapis.com/dailyks/16/16.m3u8</link>
 <thumbnail>https://i.imgur.com/JUwNUhT.png</thumbnail>
 <fanart></fanart>
 </item>	
+
+<item>
+<title> DAZN </title>        
+<link>https://cdn.dailysport.live/20/20.m3u8</link>
+<thumbnail>https://d1sgwhnao7452x.cloudfront.net/dazn-og.jpg</thumbnail>
+<fanart></fanart>
+</item>
 
 <item>
 <title> Moto GP </title>        
@@ -47,7 +67,7 @@
 
 <item>
 <title> Formula 1</title>        
-<link>https://storage.googleapis.com/dailyspace/10/10.m3u8</link>
+<link>https://dailycl4.s3-eu-west-1.amazonaws.com/10/10.m3u8</link>
 <thumbnail>https://www.movistarplus.es/recorte/m-NEO/canal/MVF1.png</thumbnail>
 <fanart></fanart>
 </item>
@@ -106,6 +126,25 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <info>[COLOR lightgreen]Multicanales[/COLOR]</info>
 </item>
 
+<item>
+<title>Bein Espanyol</title>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=http://totalsport.me/zona21.html</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
 
+<item>
+<title>LIGA CAMPEONES</title>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=http://totalsport.me/zona18.html</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
 
+<item>
+<title>LA LIGA TV</title>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=http://totalsport.me/zona17.html</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
 
+ 

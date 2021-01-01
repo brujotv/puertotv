@@ -1,4 +1,3 @@
-
 #EXTM3U 
 
 #EXTINF:-1 tvg-id="LA 1 HD" tvg-logo="https://pbs.twimg.com/profile_images/899385012801470464/akSvNCqE_400x400.jpg" group-title="TDT España",La 1 HD
@@ -79,8 +78,14 @@ http://127.0.0.1:6878/ace/m/ae2c30af1866637cfcadcd88bcf88c0d7eebbc27/f528764d624
 #EXTINF:-1 tvg-id="0.es" tvg-logo="https://i.imgur.com/VCJKsMa.jpg/picture?width=320&height=320" group-title="TDT España",#0 
 http://uv2.sinantena.live:9966/range44/DOcHBXwDmy/503
 
-#EXTINF:-1 tvg-id="M.ESTRENOS HD" tvg-logo="https://raw.githubusercontent.com/pakito71/Logos/master/estrenos.png?width=320&height=320" group-title="TDT España",M.Estrenos
-https://srregio.net/Sr_Regio151120/dip.php?c=4&f.m3u8
+#EXTINF:-1 tvg-id="M.ESTRENOS HD" tvg-logo="https://raw.githubusercontent.com/pakito71/Logos/master/estrenos.png?width=320&height=320" group-title="TDT España",M.Estrenos SD
+http://uv2.sinantena.live:9966/range44/DOcHBXwDmy/23091
+
+#EXTINF:-1 tvg-id="M.ESTRENOS HD" tvg-logo="https://raw.githubusercontent.com/pakito71/Logos/master/estrenos.png?width=320&height=320" group-title="TDT España",M.Estrenos HD
+http://uv2.sinantena.live:9966/range44/DOcHBXwDmy/506
+
+#EXTINF:-1 tvg-id="M.ESTRENOS HD" tvg-logo="https://raw.githubusercontent.com/pakito71/Logos/master/estrenos.png?width=320&height=320" group-title="TDT España",M.Estrenos FHD
+http://uv2.sinantena.live:9966/range44/DOcHBXwDmy/507
 
 #EXTINF:-1 tvg-id="M. ACCION HD" tvg-logo="https://raw.githubusercontent.com/pakito71/Logos/master/accion.png?width=320&height=320" group-title="TDT España",M. Accion 
 http://uv2.sinantena.live:9966/range44/DOcHBXwDmy/510
@@ -157,17 +162,20 @@ http://uv2.sinantena.live:9966/range44/DOcHBXwDmy/586
 #EXTINF:-1 tvg-ID="CAZAyPESCA HD" tvg-name="ES: CAZA Y PESCA" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CAZPES.png" group-title="M. Espana",CAZA Y PESCA
 http://uv2.sinantena.live:9966/range44/DOcHBXwDmy/571
 
-#EXTINF:-1 tvg-id="LALIGATV BAR HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/LIGBAR.png?width=320&height=320" group-title="DEPORTES",M.liga bar 
-http://uv2.sinantena.live:9966/range44/DOcHBXwDmy/597
+#EXTINF:-1 tvg-id="M. LaLiga FHD" tvg-logo="https://assets.laliga.com/assets/logos/laliga-v/laliga-v-1200x1200.jpg?width=320&height=320" group-title="DEPORTES",M.liga  SD
+http://uv2.sinantena.live:9966/range44/DOcHBXwDmy/23100
 
-#EXTINF:-1 tvg-id="LALIGATV BAR HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/LIGBAR.png?width=320&height=320" group-title="DEPORTES",M.liga bar FHD
-http://uv2.sinantena.live:9966/range44/DOcHBXwDmy/598
+#EXTINF:-1 tvg-id="M. LaLiga FHD" tvg-logo="https://assets.laliga.com/assets/logos/laliga-v/laliga-v-1200x1200.jpg?width=320&height=320" group-title="DEPORTES",M.liga  HD
+http://uv2.sinantena.live:9966/range44/DOcHBXwDmy/4606
+
+#EXTINF:-1 tvg-id="M. LaLiga FHD" tvg-logo="https://assets.laliga.com/assets/logos/laliga-v/laliga-v-1200x1200.jpg?width=320&height=320" group-title="DEPORTES",M.liga  FHD
+http://uv2.sinantena.live:9966/range44/DOcHBXwDmy/4605
 
 #EXTINF:-1 tvg-id="M. LaLiga FHD" tvg-logo="https://assets.laliga.com/assets/logos/laliga-v/laliga-v-1200x1200.jpg?width=320&height=320" group-title="DEPORTES",M.liga  
 https://storage.googleapis.com/dailyks/1a/1.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/MPfpjze.png?width=320&height=320" group-title="DEPORTES",M.liga SmartBank
-https://storage.googleapis.com/dailycl11/1b/1.m3u8
+https://cdnx.dailysportlist.xyz/21/21.m3u8
 
 #EXTINF:-1 tvg-id="M.LCAMPEONES HD#" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAPIO.png?width=320&height=320" group-title="DEPORTES",M.Liga de Campeones
 http://uv2.sinantena.live:9966/range44/DOcHBXwDmy/12345
@@ -183,9 +191,6 @@ https://cdn.dailysport.live/20/20.m3u8
 
 #EXTINF:-1 tvg-id="M.FORMULA1 HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MVF1.png?width=320&height=320" group-title="DEPORTES",M.formula 1 
 http://uv2.sinantena.live:9966/range44/DOcHBXwDmy/617
-
-#EXTINF:-1 tvg-id="M.FORMULA1 HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MVF1.png?width=320&height=320" group-title="DEPORTES",M.formula 1 
-https://storage.googleapis.com/dailycl4/10/10.m3u8
 
 #EXTINF:-1 tvg-id="TELEDEPORTE" tvg-logo="http://graph.facebook.com/teledeporteRTVE/picture?width=320&height=320" group-title="DEPORTES",Teledeporte HD	
 https://rtvelivestream.akamaized.net/tdp_dvr_4000.m3u8
@@ -264,4 +269,6 @@ http://59ec5453559f0.streamlock.net:1935/mexicotv/smil:miamitvmexicoROKU/chunkli
 https://5a2a51fc4cfde.streamlock.net/free/_definst_/Stream1/chunklist.m3u8?fluxustv.m3u8
  
 
+
+ 
 
