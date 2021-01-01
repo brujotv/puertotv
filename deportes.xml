@@ -18,6 +18,13 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1ac947dcd00d0007
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f1ac9a2d3611d0007a844bb/featuredImage.jpg?w=175&fm=jpg&q=75&fit=fill&fill=blur",cine romantico
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1ac9a2d3611d0007a844bb/subtitle/en/playlist.m3u8?terminate=false&deviceId=9f03c6e0-5884-4903-be75-2dd300332925&deviceVersion=82.0&appVersion=5.9.1-e0b37ef76504d23c6bdc8157813d13333dfa33a3&deviceType=web&deviceMake=Firefox&sid=fadb8367-1c2a-11eb-bde1-0242ac110002&advertisingId=&deviceLat=40.0000&deviceLon=-4.0000&deviceDNT=false&deviceModel=Firefox&userId=&embedPartner=&appName=web&serverSideAds=true&architecture=&paln=&includeExtendedEvents=false
 
+<item>
+<title>[COLOR lime]•[/COLOR] Movistar [COLOR red]****off line****[/COLOR]</title>
+<thumbnail>https://i.imgur.com/LonmtZq.png/picture?width=320&height=320</thumbnail>
+<fanart></fanart>
+<link>http://ignoreme</link>
+<externallink></externallink>
+</item>
 
 <item>
 <title>https://www.sestv.pw/</title>
