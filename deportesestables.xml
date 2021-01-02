@@ -95,36 +95,6 @@
 <externallink>http://mullafabz.xyz/HOST/LiveTV/sportsstreamz.xml</externallink>
 </item>
 
-<item>
-<title>[COLOR lightgreen]Multicanales[COLOR white] Eventos Deportivos[/COLOR]</title>
-<link>$doregex[fullcristal]</link>
-<regex>
-<name>fullcristal</name>
-<listrepeat><![CDATA[
-<title>[COLOR lightgreen]Evento[COLOR white] [fullcristal.param1][/COLOR]</title>
-<link>$doregex[cristalazul]</link>
-]]></listrepeat>
-<expres>'(.*?)'</expres>
-<page>'1','2','3','4','5','6','7','8','9'</page>
-</regex>  
-<regex>
-<name>cristalazul</name>
-<expres><![CDATA[#$pyFunction
-def GetLSProData(page_data,Cookie_Jar,m):
-    import re
-    import requests
-    url = 'https://tumarcador.xyz/ac[fullcristal.param1].html'
-    html = requests.post(url, headers={'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0', 'Referer': 'https://tumarcador.xyz/'}, verify=False).text
-    return re.findall('(?s)file:.\'(.*?)\'', html)[0]
-]]></expres>
-<page></page>
-<Referer>https://tumarcador.xyz/ac1.html</Referer>
-<Accept>*/*</Accept>
-<Connection>keep-alive</Connection>
-<cookieJar></cookieJar>
-</regex>
-<info>[COLOR lightgreen]Multicanales[/COLOR]</info>
-</item>
 
 <item>
 <title>Bein Espanyol</title>
@@ -147,36 +117,4 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <fanart></fanart>
 </item>
 
-  <item>
-<title>[COLOR blue]Dailysport[/COLOR]</title>
-<info>Web dailysport</info>
-<thumbnail>https://media.info/i/lf/300/1405339467/1567.png</thumbnail>
-<fanart>https://www.scamcard.com/images/Daily%20Sport%202011.png</fanart>
- <link>$doregex[makelist]</link>
-<regex>
-<name>makelist</name>
-<listrepeat><![CDATA[
-<title>[COLOR orange][makelist.param1][/COLOR][COLOR yellow] [makelist.param2][/COLOR] [COLOR white][makelist.param3][/COLOR][COLOR red] [makelist.param5][/COLOR]</title>
-<thumbnail>https://upload.wikimedia.org/wikinews/en/1/18/DailySport_logo.png</thumbnail>
-<fanart>https://www.scamcard.com/images/Daily%20Sport%202011.png</fanart>
-<link>$doregex[get-decode]|User-Agent=iPad</link>
-<thumbnail>https://upload.wikimedia.org/wikinews/en/1/18/DailySport_logo.png</thumbnail>
-<fanart>https://www.scamcard.com/images/Daily%20Sport%202011.png</fanart>
-]]></listrepeat>
-<expres><![CDATA[(?s)<tr><th>(.+?)</th></tr>|<td>(\d.*?)</td>.*?<td>(.+?)</td>|href="(.+?)">(.+?)<]]></expres>
-<page>https://dailysport.website/</page>
-</regex>
- 
- <regex>
-<name>get-decode</name>
-<expres>$pyFunction:base64.b64decode("$doregex[get-enctext]")</expres>
-<page></page>
-</regex>
 
-
-<regex>
-<name>get-enctext</name>
-<expres>(?s)if \(false\).*?else.*?var player =.*?new Clappr.Player\(.*?source:.*?window.atob\("(.+?)"</expres>
-<page>https://dailysport.website/[makelist.param4]</page>
-</regex>
- </item>
