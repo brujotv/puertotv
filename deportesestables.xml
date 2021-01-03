@@ -1,39 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
 
- <item>
-<title>[COLOR blue]Dailysport[/COLOR]</title>
-<info>Web dailysport</info>
-<thumbnail>https://media.info/i/lf/300/1405339467/1567.png</thumbnail>
-<fanart>https://www.scamcard.com/images/Daily%20Sport%202011.png</fanart>
- <link>$doregex[makelist]</link>
-<regex>
-<name>makelist</name>
-<listrepeat><![CDATA[
-<title>[COLOR orange][makelist.param1][/COLOR][COLOR yellow] [makelist.param2][/COLOR] [COLOR white][makelist.param3][/COLOR][COLOR red] [makelist.param5][/COLOR]</title>
-<thumbnail>https://upload.wikimedia.org/wikinews/en/1/18/DailySport_logo.png</thumbnail>
-<fanart>https://www.scamcard.com/images/Daily%20Sport%202011.png</fanart>
-<link>$doregex[get-decode]|User-Agent=iPad</link>
-<thumbnail>https://upload.wikimedia.org/wikinews/en/1/18/DailySport_logo.png</thumbnail>
-<fanart>https://www.scamcard.com/images/Daily%20Sport%202011.png</fanart>
-]]></listrepeat>
-<expres><![CDATA[(?s)<tr><th>(.+?)</th></tr>|<td>(\d.*?)</td>.*?<td>(.+?)</td>|href="(.+?)">(.+?)<]]></expres>
-<page>https://dailysport.website/</page>
-</regex>
- 
- <regex>
-<name>get-decode</name>
-<expres>$pyFunction:base64.b64decode("$doregex[get-enctext]")</expres>
-<page></page>
-</regex>
-
-
-<regex>
-<name>get-enctext</name>
-<expres>(?s)if \(false\).*?else.*?var player =.*?new Clappr.Player\(.*?source:.*?window.atob\("(.+?)"</expres>
-<page>https://dailysport.website/[makelist.param4]</page>
-</regex>
- </item>
 
 <item>
 <title> M.Liga HD </title> 
