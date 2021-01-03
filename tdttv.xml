@@ -165,7 +165,10 @@ http://uv2.sinantena.live:9966/range44/DOcHBXwDmy/597
 http://uv2.sinantena.live:9966/range44/DOcHBXwDmy/598
 
 #EXTINF:-1 tvg-id="M. LaLiga FHD" tvg-logo="https://assets.laliga.com/assets/logos/laliga-v/laliga-v-1200x1200.jpg?width=320&height=320" group-title="DEPORTES",M.liga Estable 
-https://qfydzuw9r6a57djf.ezcdn462.net:8443/hls/twvdxsasapkt36.m3u8?s=b3K98tEk0CgZg8SPFoZVrw&e=1609648979
+https://44bzcccu2du7n229.ezcdn462.net:8443/hls/twvdxsasapkt36.m3u8?s=iBNIxo4T9ut_hNVNz8fpUQ&e=1609726181
+
+#EXTINF:-1 tvg-id="M. LaLiga FHD" tvg-logo="https://assets.laliga.com/assets/logos/laliga-v/laliga-v-1200x1200.jpg?width=320&height=320" group-title="DEPORTES",M.liga Estable 
+https://dailysb3.s3.amazonaws.com/1/1.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/MPfpjze.png?width=320&height=320" group-title="DEPORTES",M.liga SmartBank
 https://storage.googleapis.com/dailycl11/1b/1.m3u8
