@@ -195,7 +195,7 @@ https://cdn.dailysport.live/20/20.m3u8
 http://uv2.sinantena.live:9966/range44/DOcHBXwDmy/617
 
 #EXTINF:-1 tvg-id="M.FORMULA1 HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MVF1.png?width=320&height=320" group-title="DEPORTES",M.formula 1 
-https://storage.googleapis.com/dailycl4/10/10.m3u8
+http://assia1.tv/live2/mix-sport28/?lang=es
 
 #EXTINF:-1 tvg-id="TELEDEPORTE" tvg-logo="http://graph.facebook.com/teledeporteRTVE/picture?width=320&height=320" group-title="DEPORTES",Teledeporte HD	
 https://rtvelivestream.akamaized.net/tdp_dvr_4000.m3u8
