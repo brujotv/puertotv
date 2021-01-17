@@ -173,11 +173,14 @@ https://dailysportbucket5.s3.eu-west-2.amazonaws.com/1/1.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/MPfpjze.png?width=320&height=320" group-title="DEPORTES",M.liga SmartBank
 https://storage.googleapis.com/dailycl11/1b/1.m3u8
 
+#EXTINF:-1 tvg-id="M.LCAMPEONES HD#" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAPIO.png?width=320&height=320" group-title="DEPORTES",M.Liga de Campeones Estable
+https://dailysportbucket7.s3.eu-west-2.amazonaws.com/8/8.m3u8
+
 #EXTINF:-1 tvg-id="M.LCAMPEONES HD#" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAPIO.png?width=320&height=320" group-title="DEPORTES",M.Liga de Campeones
 http://uv2.sinantena.live:9966/range44/DOcHBXwDmy/12345
 
 #EXTINF:-1 tvg-id="M. DEPORTE HD" tvg-logo="https://i.imgur.com/JUwNUhT.png?width=320&height=320" group-title="DEPORTES",M.Deportes Estable
-https://qfydzuw9r6a57djf.ezcdn462.net:8443/hls/l9fodxwrw01tz5.m3u8?s=qvleAPHzKops2N2SYCFemA&e=1609662751
+https://dailysportbucket7.s3.eu-west-2.amazonaws.com/16/16.m3u8
 
 #EXTINF:-1 tvg-id="M. DEPORTE HD" tvg-logo="https://i.imgur.com/JUwNUhT.png?width=320&height=320" group-title="DEPORTES",M.Deportes
 http://uv2.sinantena.live:9966/range44/DOcHBXwDmy/614
