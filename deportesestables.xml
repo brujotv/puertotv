@@ -32,7 +32,7 @@
 
 <item>
 <title> M.Liga de Campeones </title>        
-<link>https://dailycl9.s3.eu-west-3.amazonaws.com/4/4.m3u8</link>
+<link>https://dailysportbucket7.s3.eu-west-2.amazonaws.com/8/8.m3u8</link>
 <thumbnail>https://www.movistarplus.es/recorte/m-NEO/canal/CHAPIO.png</thumbnail>
 <fanart></fanart>
 </item>
@@ -53,7 +53,7 @@
 
 <item>
 <title> M.Deportes</title>        
-<link>https://storage.googleapis.com/dailyks/16/16.m3u8</link>
+<link>https://dailysportbucket7.s3.eu-west-2.amazonaws.com/16/16.m3u8</link>
 <thumbnail>https://i.imgur.com/JUwNUhT.png</thumbnail>
 <fanart></fanart>
 </item>	
