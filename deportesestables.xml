@@ -66,6 +66,13 @@
 </item>
 
 <item>
+<title> ESPN+ </title>        
+<link>https://dailysportbucket7.s3.eu-west-2.amazonaws.com/2/2.m3u8</link>
+<thumbnail>https://espnpressroom.com/us/files/2016/03/RS1129_ESPN_Deportes_CLR_Pos-scr-1-850x610.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
 <title> Moto GP </title>        
 <link>https://cdn.dailysport.live/20/20.m3u8</link>
 <thumbnail>https://i.imgur.com/RIyqluP.png</thumbnail>
