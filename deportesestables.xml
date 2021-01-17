@@ -39,7 +39,7 @@
 
 <item>
 <title> M.Vamos</title>        
-<link>https://dailysportbucket6.s3.eu-west-2.amazonaws.com/15/15.m3u8</link>
+<link>https://dailysportbucket7.s3.eu-west-2.amazonaws.com/15/15.m3u8</link>
 <thumbnail>https://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/328x220/canal-v-328x220.png</thumbnail>
 <fanart></fanart>
 </item>	
@@ -60,7 +60,7 @@
 
 <item>
 <title> DAZN </title>        
-<link>https://cdn.dailysport.live/20/20.m3u8</link>
+<link>https://dailysportbucket7.s3.eu-west-2.amazonaws.com/4/4.m3u8</link>
 <thumbnail>https://d1sgwhnao7452x.cloudfront.net/dazn-og.jpg</thumbnail>
 <fanart></fanart>
 </item>
