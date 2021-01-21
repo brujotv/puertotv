@@ -295,3 +295,28 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <page>https://dailysport.cyou/[makelist.param4]</page>
 </regex>
  </item>
+       
+ <item>
+<title>[COLOR blue][COLOR blue]-[/COLOR]Deportes_tu_Marcador </title>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<link>http://ignoreme</link>
+<externallink>https://raw.githubusercontent.com/antoniosanter/amigosdelajedrez/master/tore.xml</externallink>
+</item>
+
+item>
+<title>[COLOR blue][COLOR blue]-[/COLOR]directos2</title>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<link>http://ignoreme</link>
+<externallink>https://raw.githubusercontent.com/antoniosanter/amigosdelajedrez/master/tore2.xml</externallink>
+</item>
+
+
+item>
+<title>[COLOR blue][COLOR blue]-[/COLOR]deportes hoy</title>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<link>http://ignoreme</link>
+<externallink>http://acestreampi.duckdns.org/dailys.m3u8</externallink>
+</item>
