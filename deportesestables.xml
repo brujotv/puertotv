@@ -272,14 +272,14 @@
 import re , requests , xbmc , xbmcaddon , xbmcgui
 def GetLSProData(page_data,Cookie_Jar,m):
  
-    url= 'https://dailysport.cyou/'
-    agent = {'User-Agent': 'Mozilla/5.0 (Windows NT 6.2; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36', 'Referer': 'https://dailysport.cyou/'}
+    url= 'https://dailysport.store/'
+    agent = {'User-Agent': 'Mozilla/5.0 (Windows NT 6.2; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36', 'Referer': 'https://dailysport.store/'}
     extraer = requests.get(url, headers=agent)
     links = re.findall('(?s)<td><b>(.+?)<|<td>(\d\d.*?)<.*?<td>(.+?)<.*?href="(.+?)">(.+?)<', extraer.text)
     return links
 ]]></expres>
 <page></page>
-<referer>https://dailysport.cyou/</referer>
+<referer>https://dailysport.store/</referer>
 <cookieJar>__cfduid=d328bf84a9e848be74037db6c007368251608050648</cookieJar>
 </regex>
 
@@ -292,112 +292,8 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <regex>
 <name>get-enctext</name>
 <expres>(?s)initClapprPlayer.*?atob\("([^"]+).*?plugins</expres>
-<page>https://dailysport.cyou/[makelist.param4]</page>
+<page>https://dailysport.store/[makelist.param4]</page>
 </regex>
  </item>
        
- <item>
-<title>[COLOR blue][COLOR blue]-[/COLOR]Deportes_tu_Marcador </title>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<link>http://ignoreme</link>
-<externallink>https://raw.githubusercontent.com/antoniosanter/amigosdelajedrez/master/tore.xml</externallink>
-</item>
-
-item>
-<title>[COLOR blue][COLOR blue]-[/COLOR]directos2</title>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<link>http://ignoreme</link>
-<externallink>https://raw.githubusercontent.com/antoniosanter/amigosdelajedrez/master/tore2.xml</externallink>
-</item>
-
-
-item>
-<title>[COLOR blue][COLOR blue]-[/COLOR]deportes hoy</title>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<link>http://ignoreme</link>
-<externallink>http://acestreampi.duckdns.org/dailys.m3u8</externallink>
-</item>
-
-  
-<item>
-<title>[B][LOWERCASE][CAPITALIZE][COLOR white] DEPORTES TU MARCADOR CORTESIA TORETE[COLOR lime][/CAPITALIZE][/LOWERCASE][/B][/COLOR]</title>        
-<link>$doregex[yaestaarreglada]</link>
  
- 
- 
-<regex>
-<name>F4mProxytengo</name>
-<expres><![CDATA[#$pyFunction
-def GetLSProData(page_data,Cookie_Jar,m):
- import re, requests
- headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; rv:72.0) Gecko/20100101 Firefox/72.0', 'Referer': 'http://nowagoal.com/ch6.html', 'Accept' : 'application/json, text/plain, */*', 'Accept-Language' : 'es-ES,es;q=0.8,en-US;q=0.5,en;q=0.3'}
- a = requests.get("https://dailysport.cyou/", headers=headers, verify=False)
- return a.cookies
-]]></expres>
-<page></page>
-</regex>
- 
-<regex>
-<name>F4mProxytengo2</name>
-<expres><![CDATA[=(.*?)for]]></expres>
-<page>$doregex[F4mProxytengo]</page>
-</regex>
- &amp;cookie=auth=$doregex[paginas]
- <regex>
-    <name>yaestaarreglada</name>
-    <listrepeat><![CDATA[
-      <title>[B][LOWERCASE][CAPITALIZE][COLOR white][yaestaarreglada.param1] - [COLOR gold][yaestaarreglada.param2][COLOR aqua][yaestaarreglada.param5][/CAPITALIZE][/LOWERCASE][/B][/COLOR]</title>
-<thumbnail>https://i.imgur.com/Vq1pYBs.jpg</thumbnail>
-<fanart>https://i.imgur.com/py1aH72.jpg</fanart>
-   <link>$doregex[get-decode]|user-agent=Mozilla/5.0 (Windows NT 10.0; rv:73.0) Gecko/20100101 Firefox/73.0&amp;referer=https://v3.sportzonline.to/channels/hd/hd6.php&amp;cookie=auth=$doregex[paginas]</link>  
-    ]]></listrepeat>
-<expres><![CDATA[#$pyFunction
-def GetLSProData(page_data,Cookie_Jar,m):
-     import re, requests    
-     r = requests.get("https://v3.sportzonline.to/channels/hd/", verify=False)
-     contenido = r.text
-     return  re.findall('(?s)<td>(\d.*?)<.*?>.*?([A-Z].*?)</td>|d><a href="(hd(.*?).php)">(.*?)<', contenido)    
-]]></expres>
-    <page></page>
-  </regex>
- 
- 
-<regex>
-<name>paginas</name>
-<expres><![CDATA[#$pyFunction
-def GetLSProData(page_data,Cookie_Jar,m):
- import xbmcgui
- dialog = xbmcgui.Dialog()
- ret = dialog.select('[B][LOWERCASE][CAPITALIZE][COLOR lightsalmon]elige servidor[/COLOR][/CAPITALIZE][/LOWERCASE][/B]', ['[B][LOWERCASE][CAPITALIZE][COLOR aqua]server 1[/COLOR][/CAPITALIZE][/LOWERCASE][/B]', '[B][LOWERCASE][CAPITALIZE][COLOR aquamarine]server 2[/COLOR][/CAPITALIZE][/LOWERCASE][/B]', '[B][LOWERCASE][CAPITALIZE][COLOR aquamarine]server 3[/COLOR][/CAPITALIZE][/LOWERCASE][/B]', '[B][LOWERCASE][CAPITALIZE][COLOR aquamarine]server 4[/COLOR][/CAPITALIZE][/LOWERCASE][/B]', '[B][LOWERCASE][CAPITALIZE][COLOR aquamarine]server 5[/COLOR][/CAPITALIZE][/LOWERCASE][/B]', '[B][LOWERCASE][CAPITALIZE][COLOR aquamarine]server 6[/COLOR][/CAPITALIZE][/LOWERCASE][/B]', '[B][LOWERCASE][CAPITALIZE][COLOR aquamarine]server 7[/COLOR][/CAPITALIZE][/LOWERCASE][/B]', '[B][LOWERCASE][CAPITALIZE][COLOR aquamarine]server 8[/COLOR][/CAPITALIZE][/LOWERCASE][/B]', '[B][LOWERCASE][CAPITALIZE][COLOR aquamarine]server 9[/COLOR][/CAPITALIZE][/LOWERCASE][/B]', '[B][LOWERCASE][CAPITALIZE][COLOR aquamarine]server 10[/COLOR][/CAPITALIZE][/LOWERCASE][/B]'])
- lists = ['$doregex[F4mProxytengo2]','$doregex[F4mProxytengo2]','$doregex[F4mProxytengo2]','$doregex[F4mProxytengo2]','$doregex[F4mProxytengo2]','$doregex[F4mProxytengo2]','$doregex[F4mProxytengo2]','$doregex[F4mProxytengo2]','$doregex[F4mProxytengo2]','$doregex[F4mProxytengo2]']
- return lists[ret]
-]]></expres>
-<page></page>
-</regex>
- 
- <regex>
-    <name>ea-ya-la-tienes-arreglaita</name>
-<expres><![CDATA[#$pyFunction
-def GetLSProData(page_data,Cookie_Jar,m):
-     import re, requests
-     url = 'https://v3.sportzonline.to/channels/hd/'+'[yaestaarreglada.param3]'
-     headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:73.0) Gecko/20100101 Firefox/73.0', 'Referer': 'https://v3.sportzonline.to/channels/hd/'}
-     marcador = requests.get(url, headers=headers, verify=False)
-     r = marcador.text
-     return re.findall('window.atob."(.*?)"', r)[0]
-]]></expres>
-    <page></page>
-  </regex>
- 
- <regex>
-        <name>get-decode</name>
-        <expres>$pyFunction:base64.b64decode("$doregex[ea-ya-la-tienes-arreglaita]")</expres>
-        <page></page>
-    </regex>
-	
-<thumbnail>https://i.imgur.com/Vq1pYBs.jpg</thumbnail>
-<fanart>https://i.imgur.com/py1aH72.jpg</fanart>
-</item>     
