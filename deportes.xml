@@ -19,6 +19,104 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1ac947dcd00d0007
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1ac9a2d3611d0007a844bb/subtitle/en/playlist.m3u8?terminate=false&deviceId=9f03c6e0-5884-4903-be75-2dd300332925&deviceVersion=82.0&appVersion=5.9.1-e0b37ef76504d23c6bdc8157813d13333dfa33a3&deviceType=web&deviceMake=Firefox&sid=fadb8367-1c2a-11eb-bde1-0242ac110002&advertisingId=&deviceLat=40.0000&deviceLon=-4.0000&deviceDNT=false&deviceModel=Firefox&userId=&embedPartner=&appName=web&serverSideAds=true&architecture=&paln=&includeExtendedEvents=false
 
 <item>
+<title>[COLOR red]DailySport[/COLOR]</title>
+<info>Web dailysport</info>
+<thumbnail>https://media.info/i/lf/300/1405339467/1567.png</thumbnail>
+<fanart>https://www.scamcard.com/images/Daily%20Sport%202011.png</fanart>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<title>[COLOR orange][B][makelist.param1][/B][/COLOR] - [COLOR white][makelist.param2][/COLOR][COLOR lime] [makelist.param3] [/COLOR][COLOR gold][makelist.param5][/COLOR]</title>
+<fanart>https://i.imgur.com/kHOtn4i.jpg</fanart>
+<link>$doregex[get-decode]|User-Agent=iPad</link>
+<thumbnail>https://media.info/i/lf/300/1405339467/1567.png</thumbnail>
+<fanart>https://www.scamcard.com/images/Daily%20Sport%202011.png</fanart>
+]]></listrepeat>
+<expres><![CDATA[.tr><th>(.*?)</|.tr>\n.*?td>(.*?)<.*\n.*?td>(.*?)<.*\n|href="(.*?)">(.*?)<]]></expres>
+<page>https://dailysport.store/</page>
+</regex>
+<regex>
+<name>get-decode</name>
+<expres>$pyFunction:base64.b64decode("$doregex[get-enctext]")</expres>
+<page></page>
+</regex>
+<regex>
+<name>get-enctext</name>
+<expres>(?s)initClapprPlayer.*?atob\("([^"]+).*?plugins</expres>
+<page>https://dailysport.store/[makelist.param4]</page>
+</regex>
+ </item>
+
+<item>
+<title>[COLOR red]DailySport opcion 2[/COLOR]</title>
+<info>Web dailysport</info>
+<thumbnail>https://media.info/i/lf/300/1405339467/1567.png</thumbnail>
+<fanart>https://www.scamcard.com/images/Daily%20Sport%202011.png</fanart>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<title>[COLOR red][B][makelist.param1][/B][/COLOR] - [COLOR white][makelist.param2][/COLOR][COLOR lime] [makelist.param3] [/COLOR][COLOR gold][makelist.param5][/COLOR]</title>
+<fanart>https://i.imgur.com/kHOtn4i.jpg</fanart>
+<link>$doregex[get-decode]|User-Agent=iPad</link>
+<thumbnail>https://media.info/i/lf/300/1405339467/1567.png</thumbnail>
+<fanart>https://www.scamcard.com/images/Daily%20Sport%202011.png</fanart>
+]]></listrepeat>
+<expres><![CDATA[.tr><th>(.*?)</|.tr>\n.*?td>(.*?)<.*\n.*?td>(.*?)<.*\n|href="(.*?)">(.*?)<]]></expres>
+<page>https://dailysport.store/</page>
+</regex>
+<regex>
+<name>get-decode</name>
+<expres>$pyFunction:base64.b64decode("$doregex[get-enctext]")</expres>
+<page></page>
+</regex>
+<regex>
+<name>get-enctext</name>
+<expres>(?s)initClapprPlayer.*?atob\("([^"]+).*?plugins</expres>
+<page>https://dailysport.store/[makelist.param4]</page>
+</regex>
+ </item>
+ 
+ 
+ 
+ <item>
+<title>[COLOR blue]Dailysport opcion 3[/COLOR]</title>
+<info>Web dailysport</info>
+<thumbnail>https://media.info/i/lf/300/1405339467/1567.png</thumbnail>
+<fanart>https://www.scamcard.com/images/Daily%20Sport%202011.png</fanart>
+ <link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<title>[COLOR red][makelist.param1][/COLOR][COLOR yellow] [makelist.param2][/COLOR] [COLOR white][makelist.param3][/COLOR][COLOR red] [makelist.param5][/COLOR]</title>
+<thumbnail>https://upload.wikimedia.org/wikinews/en/1/18/DailySport_logo.png</thumbnail>
+<fanart>https://www.scamcard.com/images/Daily%20Sport%202011.png</fanart>
+<link>$doregex[get-decode]|User-Agent=iPad</link>
+<thumbnail>https://upload.wikimedia.org/wikinews/en/1/18/DailySport_logo.png</thumbnail>
+<fanart>https://www.scamcard.com/images/Daily%20Sport%202011.png</fanart>
+]]></listrepeat>
+<expres><![CDATA[(?s)<tr><th>(.+?)</th></tr>|<td>(\d.*?)</td>.*?<td>(.+?)</td>|href="(.+?)">(.+?)<]]></expres>
+<page>https://dailysport.store/</page>
+</regex>
+<regex>
+<name>get-decode</name>
+<expres>$pyFunction:base64.b64decode("$doregex[get-enctext]")</expres>
+<page></page>
+</regex>
+<regex>
+<name>get-enctext</name>
+<expres>(?s)initClapprPlayer.*?atob\("([^"]+).*?plugins</expres>
+<page>https://dailysport.store/[makelist.param4]</page>
+</regex>
+ </item>
+ 
+
+       
+ 
+
+
+<item>
 <title>[COLOR lime]•[/COLOR] Movistar [COLOR red]****off line****[/COLOR]</title>
 <thumbnail>https://i.imgur.com/LonmtZq.png/picture?width=320&height=320</thumbnail>
 <fanart></fanart>
