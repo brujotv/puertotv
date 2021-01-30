@@ -10,7 +10,7 @@
 
 <item>
 <title> M.Liga1 HD </title>        
-<link>https://dailysportbucket9.s3.eu-west-2.amazonaws.com/11/11.m3u8</link>
+<link>https://dailysportbucket23.s3.eu-west-3.amazonaws.com/7/7.m3u8</link>
 <thumbnail>https://assets.laliga.com/assets/logos/laliga-v/laliga-v-1200x1200.jpg</thumbnail>
 <fanart></fanart>
 </item>
@@ -38,7 +38,7 @@
 
 <item>
 <title> M.Vamos</title>        
-<link>https://dailysportbucket14.s3.eu-west-3.amazonaws.com/15/15.m3u8</link>
+<link>https://dailysportbucket23.s3.eu-west-3.amazonaws.com/15/15.m3u8</link>
 <thumbnail>https://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/328x220/canal-v-328x220.png</thumbnail>
 <fanart></fanart>
 </item>	
