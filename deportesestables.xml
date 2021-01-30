@@ -16,7 +16,7 @@
 <fanart></fanart>
 ]]></listrepeat>
 <expres><![CDATA[.tr><th>(.*?)</|.tr>\n.*?td>(.*?)<.*\n.*?td>(.*?)<.*\n|href="(.*?)">(.*?)<]]></expres>
-<page>https://dailysport.store/</page>
+<page>https://dailysport.work/</page>
 </regex>
 <regex>
 <name>get-decode</name>
@@ -26,13 +26,13 @@
 <regex>
 <name>get-enctext</name>
 <expres>(?s)initClapprPlayer.*?atob\("([^"]+).*?plugins</expres>
-<page>https://dailysport.store/[makelist.param4]</page>
+<page>https://dailysport.work/[makelist.param4]</page>
 </regex>
  </item>
 
 <item>
 <title> M.Liga HD </title> 
-<link>https://dailysportbucket14.s3.eu-west-3.amazonaws.com/1b/1.m3u8</link>
+<link>https://dailysportbucket23.s3.eu-west-3.amazonaws.com/1/1.m3u8</link>
 <thumbnail>https://assets.laliga.com/assets/logos/laliga-v/laliga-v-1200x1200.jpg</thumbnail>
 <fanart></fanart>
 </item>
@@ -81,7 +81,7 @@
 
 <item>
 <title> DAZN </title>        
-<link>https://dailysportbucket14.s3.eu-west-3.amazonaws.com/4a/4.m3u8</link>
+<link>https://dailysportbucket23.s3.eu-west-3.amazonaws.com/10/10.m3u8</link>
 <thumbnail>https://d1sgwhnao7452x.cloudfront.net/dazn-og.jpg</thumbnail>
 <fanart></fanart>
 </item>
