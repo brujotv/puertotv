@@ -165,34 +165,31 @@ http://uv2.sinantena.live:9966/range44/DOcHBXwDmy/597
 http://uv2.sinantena.live:9966/range44/DOcHBXwDmy/598
 
 #EXTINF:-1 tvg-id="M. LaLiga FHD" tvg-logo="https://assets.laliga.com/assets/logos/laliga-v/laliga-v-1200x1200.jpg?width=320&height=320" group-title="DEPORTES",M.liga Estable 
-https://dailysportbucket23.s3.eu-west-3.amazonaws.com/1/1.m3u8
+https://dailysportbucket40.s3.eu-west-3.amazonaws.com/1/1.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/MPfpjze.png?width=320&height=320" group-title="DEPORTES",M.liga SmartBank
-https://dailysportbucket14.s3.eu-west-3.amazonaws.com/7/7.m3u8
+https://dailysportbucket40.s3.eu-west-3.amazonaws.com/7/7.m3u8
 
 #EXTINF:-1 tvg-id="M.LCAMPEONES HD#" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAPIO.png?width=320&height=320" group-title="DEPORTES",M.Liga de Campeones Estable
-https://dailysportbucket14.s3.eu-west-3.amazonaws.com/8/8.m3u8
+https://dailysportbucket40.s3.eu-west-3.amazonaws.com/8/8.m3u8
 
 #EXTINF:-1 tvg-id="M.LCAMPEONES HD#" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAPIO.png?width=320&height=320" group-title="DEPORTES",M.Liga de Campeones
 http://uv2.sinantena.live:9966/range44/DOcHBXwDmy/12345
 
 #EXTINF:-1 tvg-id="M. DEPORTE HD" tvg-logo="https://i.imgur.com/JUwNUhT.png?width=320&height=320" group-title="DEPORTES",M.Deportes Estable
-https://dailysportbucket14.s3.eu-west-3.amazonaws.com/16/16.m3u8
+https://dailysportbucket40.s3.eu-west-3.amazonaws.com/16/16.m3u8
 
 #EXTINF:-1 tvg-id="M. DEPORTE HD" tvg-logo="https://i.imgur.com/JUwNUhT.png?width=320&height=320" group-title="DEPORTES",M.Deportes
 http://uv2.sinantena.live:9966/range44/DOcHBXwDmy/614
 
-#EXTINF:-1 tvg-id="#VAMOS" tvg-logo="https://i.imgur.com/tas7PmQ.png?width=320&height=320" group-title="DEPORTES",M.Vamos Estable 1
-https://dailysportbucket7.s3.eu-west-2.amazonaws.com/15/15.m3u8
-
-#EXTINF:-1 tvg-id="#VAMOS" tvg-logo="https://i.imgur.com/tas7PmQ.png?width=320&height=320" group-title="DEPORTES",M.Vamos Estable 2
-http://www.sportstreams.live/en/player/b5a13516af600acc12b0cc3d857828da9435b28b8f4c57eb51d7cbcc5a01229d659851323c3b8f50ebf15ed81fdffc0fce80ed4a3cd6739144905d9b15de2193/6004a07ea2281
+#EXTINF:-1 tvg-id="#VAMOS" tvg-logo="https://i.imgur.com/tas7PmQ.png?width=320&height=320" group-title="DEPORTES",M.Vamos Estable 
+https://dailysportbucket40.s3.eu-west-3.amazonaws.com/15/15.m3u8
 
 #EXTINF:-1 tvg-id="#VAMOS" tvg-logo="https://i.imgur.com/tas7PmQ.png?width=320&height=320" group-title="DEPORTES",M.Vamos
 http://uv2.sinantena.live:9966/range44/DOcHBXwDmy/616
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://d1sgwhnao7452x.cloudfront.net/dazn-og.jpg?width=320&height=320" group-title="DEPORTES",dazn
-https://dailysportbucket14.s3.eu-west-3.amazonaws.com/4a/4.m3u8
+https://dailysportbucket40.s3.eu-west-3.amazonaws.com/10/10.m3u8
 
 #EXTINF:-1 tvg-id="M.FORMULA1 HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MVF1.png?width=320&height=320" group-title="DEPORTES",M.formula 1 
 http://uv2.sinantena.live:9966/range44/DOcHBXwDmy/617
