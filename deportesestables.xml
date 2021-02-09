@@ -3,7 +3,7 @@
 
 <item>
 <title> M.Liga HD </title> 
-<link>https://dailysportbucket40.s3.eu-west-3.amazonaws.com/1/1.m3u8</link>
+<link>https://dailysportbucket50.s3.eu-west-3.amazonaws.com/1/1.m3u8</link>
 <thumbnail>https://assets.laliga.com/assets/logos/laliga-v/laliga-v-1200x1200.jpg</thumbnail>
 <fanart></fanart>
 </item>
@@ -11,20 +11,6 @@
 <item>
 <title> M.Liga HD op 2</title> 
 <link>https://dailysportbucket50.s3.eu-west-3.amazonaws.com/13/13.m3u8</link>
-<thumbnail>https://assets.laliga.com/assets/logos/laliga-v/laliga-v-1200x1200.jpg</thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title> M.Liga HD op 3</title> 
-<link>https://qqgy2btbq626ry2e.ezcdn462.net:8443/hls/659emi1n06e.m3u8?s=RvWyqFLzBuEwgTLMz62Qwg&e=1612922293</link>
-<thumbnail>https://assets.laliga.com/assets/logos/laliga-v/laliga-v-1200x1200.jpg</thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title> M.Liga HD op 3</title> 
-<link>http://pool.assia2.tv/hls/93.m3u8?md5=PahIjo75b7xHPGSSGLLnAw&expires=1612904442</link>
 <thumbnail>https://assets.laliga.com/assets/logos/laliga-v/laliga-v-1200x1200.jpg</thumbnail>
 <fanart></fanart>
 </item>
