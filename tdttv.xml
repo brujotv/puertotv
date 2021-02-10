@@ -21,8 +21,7 @@ http://uv2.sinantena.live:9966/range44/DOcHBXwDmy/497
 http://uv2.sinantena.live:9966/range44/DOcHBXwDmy/488
 
 #EXTINF:-1 tvg-id="Telecinco HD" tvg-logo="https://graph.facebook.com/tele5/picture?width=320&height=320" group-title="TDT España",Telecinco HD
-http://iptvsp.xyz/live/telecinco/index.m3u8
-http://s2.iptvsp.xyz/live/telecinco/index.m3u8
+https://live.telecinco.es/hls/live/2004101/telecinco/bitrate_4.m3u8
 
 #EXTINF:-1 tvg-id="LA SEXTA HD" tvg-logo="https://graph.facebook.com/laSexta/picture?width=320&height=320" group-title="TDT España",laSexta HD
 http://uv2.sinantena.live:9966/range44/DOcHBXwDmy/492
