@@ -1,5 +1,20 @@
 <?xml version="1.0" encoding="UTF-8" ?>
- <root>
+ 
+<item>
+<title>[COLOR lime]•[/COLOR]Canale 7</title>        
+<url>https://rtvelivestream.akamaized.net/la1_dvr.m3u8</url>
+             <url1>https://hlsliveamdgl7-lh.akamaihd.net/i/hlsdvrlive_1@583042/master.m3u8</url1>
+             <url2>http://iptvsp.xyz/live/la_1/index.m3u8</url2>
+             <url3>http://s2.iptvsp.xyz/live/la_1/index.m3u8</url3>
+             <urlweb>http://www.rtve.es/directo/la-1/</urlweb>
+<thumbnail>http://www.sudestival.org/wp-content/uploads/2015/01/canale7.png</thumbnail>
+<fanart></fanart>
+</item>
+
+
+
+
+<root>
      <name>TV España</name>
      <author>TV España</author>
      <url>https://verlatvonline.com/database/playlist.json</url>
