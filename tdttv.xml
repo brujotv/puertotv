@@ -1,10 +1,6 @@
 
 #EXTM3U 
 
-#EXTINF:-1 tvg-id="LA 1 HD" tvg-logo="https://pbs.twimg.com/profile_images/899385012801470464/akSvNCqE_400x400.jpg" group-title="TDT España",La 1 
-http://iptvsp.xyz/live/axn/index.m3u8
-http://iptvsp.xyz/live/axn/index.m3u8
-http://s2.iptvsp.xyz/live/axn/index.m3u8
 
 #EXTINF:-1 tvg-id="LA 1 HD" tvg-logo="https://pbs.twimg.com/profile_images/899385012801470464/akSvNCqE_400x400.jpg" group-title="TDT España",La 1 HD
 http://hlsliveamdgl7-lh.akamaihd.net/i/hlsdvrlive_1@583042/master.m3u8
