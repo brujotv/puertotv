@@ -1,0 +1,1661 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+ <root>
+     <name>TV España</name>
+     <author>TV España</author>
+     <url>https://verlatvonline.com/database/playlist.json</url>
+     <epg></epg>
+     <image>https://verlatvonline.com/img/tvespa.png</image>
+     <telegram>tv_espa_full</telegram>
+     <info>Tu plataforma de emisiones online para ver la televisión, totalmente gratuita!</info>
+     <groups>
+         <name>Nacionales</name>
+         <image></image>
+         <stations>
+             <name>LA 1</name>
+             <image>img/canales/la1.png</image>
+             <url>https://rtvelivestream.akamaized.net/la1_dvr.m3u8</url>
+             <url1>https://hlsliveamdgl7-lh.akamaihd.net/i/hlsdvrlive_1@583042/master.m3u8</url1>
+             <url2>http://iptvsp.xyz/live/la_1/index.m3u8</url2>
+             <url3>http://s2.iptvsp.xyz/live/la_1/index.m3u8</url3>
+             <urlweb>http://www.rtve.es/directo/la-1/</urlweb>
+             <epgId>LA1.TV</epgId>
+         </stations>
+         <stations>
+             <name>LA 2</name>
+             <image>img/canales/la2.png</image>
+             <url>https://hlsliveamdgl1-lh.akamaihd.net/i/hlsdvrlive_1@60414/master.m3u8</url>
+             <url1>https://rtvelivestream.akamaized.net/la2_dvr.m3u8</url1>
+             <url2>http://iptvsp.xyz/live/la_2/index.m3u8</url2>
+             <url3>http://s2.iptvsp.xyz/live/la_2/index.m3u8</url3>
+             <urlweb>http://www.rtve.es/directo/la-2/</urlweb>
+             <epgId>LA2.TV</epgId>
+         </stations>
+         <stations>
+             <name>Antena 3</name>
+             <image>img/canales/antena3.png</image>
+             <url>http://iptvsp.xyz/live/antena_3/index.m3u8</url>
+             <url1>https://directo.atresmedia.com/1608011979_512feb2ea89b01ae66d39bf79efd383f84db8eec/antena3/master.m3u8</url1>
+             <url2>http://iptvsp.xyz/live/antena_3/index.m3u8</url2>
+             <url3>http://s2.iptvsp.xyz/live/antena_3/index.m3u8</url3>
+             <urlweb>https://www.atresplayer.com/directos/antena3/</urlweb>
+             <epgId>Antena3.TV</epgId>
+         </stations>
+         <stations>
+             <name>Cuatro</name>
+             <image>img/canales/cuatro.png</image>
+             <url>http://iptvsp.xyz/live/cuatro/index.m3u8</url>
+             <url1>http://iptvsp.xyz/live/cuatro/index.m3u8</url1>
+             <url2>http://s2.iptvsp.xyz/live/cuatro/index.m3u8</url2>
+             <urlweb>https://www.mitele.es/directo/cuatro</urlweb>
+             <epgId>Cuatro.TV</epgId>
+         </stations>
+         <stations>
+             <name>Telecinco</name>
+             <image>img/canales/telecinco.png</image>
+             <url>http://iptvsp.xyz/live/telecinco/index.m3u8</url>
+             <url1>http://iptvsp.xyz/live/telecinco/index.m3u8</url1>
+             <url2>http://s2.iptvsp.xyz/live/telecinco/index.m3u8</url2>
+             <urlweb>https://www.telecinco.es/endirecto/</urlweb>
+             <epgId>Telecinco.TV</epgId>
+         </stations>
+         <stations>
+             <name>La Sexta</name>
+             <image>img/canales/seis.png</image>
+             <url>http://iptvsp.xyz/live/la_sexta/index.m3u8</url>
+             <url1>http://iptvsp.xyz/live/la_sexta/index.m3u8</url1>
+             <url2>http://s2.iptvsp.xyz/live/la_sexta/index.m3u8</url2>
+             <urlweb>https://www.atresplayer.com/directos/lasexta/</urlweb>
+             <epgId>LaSexta.TV</epgId>
+         </stations>
+         <stations>
+             <name>24 Horas</name>
+             <image>img/canales/24h.png</image>
+             <url>https://rtvelivestream.akamaized.net/24h_dvr.m3u8</url>
+             <url1>https://rtvelivestream.akamaized.net/24h_dvr.m3u8</url1>
+             <urlweb>http://www.rtve.es/directo/canal-24h/</urlweb>
+             <epgId>24Horas.TV</epgId>
+         </stations>
+         <stations>
+             <name>Neox</name>
+             <image>img/canales/neox.png</image>
+             <url>http://iptvsp.xyz/live/neox/index.m3u8</url>
+             <url1>http://iptvsp.xyz/live/neox/index.m3u8</url1>
+             <urlweb>http://www.atresplayer.com/directos/television</urlweb>
+             <epgId>Neox.TV</epgId>
+         </stations>
+         <stations>
+             <name>Nova</name>
+             <image>img/canales/nova.png</image>
+             <url>http://iptvsp.xyz/live/nova/index.m3u8</url>
+             <url1>http://iptvsp.xyz/live/nova/index.m3u8</url1>
+             <urlweb>http://www.atresplayer.com/directos/television</urlweb>
+             <epgId>Nova.TV</epgId>
+         </stations>
+         <stations>
+             <name>Factoría de Ficción</name>
+             <image>img/canales/fdf.png</image>
+             <url>http://iptvsp.xyz/live/fdf/index.m3u8</url>
+             <url1>http://iptvsp.xyz/live/fdf/index.m3u8</url1>
+             <epgId>FactoríadeFicción.TV</epgId>
+         </stations>
+         <stations>
+             <name>Energy</name>
+             <image>img/canales/energy.png</image>
+             <url>http://iptvsp.xyz/live/energy/index.m3u8</url>
+             <url1>http://iptvsp.xyz/live/energy/index.m3u8</url1>
+             <urlweb>https://www.energytv.es/en-directo/</urlweb>
+             <epgId>Energy.TV</epgId>
+         </stations>
+         <stations>
+             <name>Divinity</name>
+             <image>img/canales/divinity.png</image>
+             <url>http://iptvsp.xyz/live/divinity/index.m3u8</url>
+             <url1>http://iptvsp.xyz/live/divinity/index.m3u8</url1>
+             <urlweb>https://www.divinity.es/endirecto/</urlweb>
+             <epgId>Divinity.TV</epgId>
+         </stations>
+         <stations>
+             <name>Mega</name>
+             <image>img/canales/mega.png</image>
+             <url>http://iptvsp.xyz/live/mega/index.m3u8</url>
+             <url1>http://iptvsp.xyz/live/mega/index.m3u8</url1>
+             <urlweb>http://www.atresplayer.com/directos/television/mega/</urlweb>
+             <epgId>Mega.TV</epgId>
+         </stations>
+         <stations>
+             <name>Paramount Channel</name>
+             <image>img/canales/paramountchannel.png</image>
+             <url>http://iptvsp.xyz/live/paramount_channel/index.m3u8</url>
+             <url1>http://iptvsp.xyz/live/paramount_channel/index.m3u8</url1>
+             <url2>http://s2.iptvsp.xyz/live/paramount_channel/index.m3u8</url2>
+             <urlweb>http://www.paramountchannel.es/programacion/en-directo</urlweb>
+             <epgId>ParamountChannel.TV</epgId>
+         </stations>
+         <stations>
+             <name>Ten</name>
+             <image>img/canales/ten.png</image>
+             <url>http://iptvsp.xyz/live/ten/index.m3u8</url>
+             <url1>http://iptvsp.xyz/live/ten/index.m3u8</url1>
+             <urlweb>http://tentv.es/</urlweb>
+             <epgId>Ten.TV</epgId>
+         </stations>
+         <stations>
+             <name>DKISS</name>
+             <image>img/canales/dkiss.png</image>
+             <url>http://iptvsp.xyz/live/dkiss/index.m3u8</url>
+             <url1>http://iptvsp.xyz/live/dkiss/index.m3u8</url1>
+             <urlweb>http://www.dkiss.es/</urlweb>
+             <epgId>DKISS.TV</epgId>
+         </stations>
+         <stations>
+             <name>BEMAD</name>
+             <image>img/canales/bemad.png</image>
+             <url>http://iptvsp.xyz/live/be_mad/index.m3u8</url>
+             <url1>http://iptvsp.xyz/live/be_mad/index.m3u8</url1>
+             <urlweb>https://www.bemad.es/endirecto/</urlweb>
+             <epgId>BEMAD.TV</epgId>
+         </stations>
+         <stations>
+             <name>Trece</name>
+             <image>img/canales/13tv.png</image>
+             <url>https://play.cdn.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/live.smil/playlist.m3u8</url>
+             <url1>https://play.cdn.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/live.smil/playlist.m3u8</url1>
+             <urlweb>http://trecetv.es/directo</urlweb>
+             <epgId>Trece.TV</epgId>
+         </stations>
+         <stations>
+             <name>Viajar</name>
+             <image>img/canales/viajar.png</image>
+             <url>http://iptvsp.xyz/live/viajar/index.m3u8</url>
+             <url1>http://iptvsp.xyz/live/viajar/index.m3u8</url1>
+             <epgId>Viajar.TV</epgId>
+         </stations>
+         <stations>
+             <name>7RM</name>
+             <image>img/canales/siete.png</image>
+             <url>http://rtvmurcia_01-lh.akamaihd.net/i/rtvmurcia_1_0@507973/master.m3u8</url>
+             <url1>http://rtvmurcia_01-lh.akamaihd.net/i/rtvmurcia_1_0@507973/master.m3u8</url1>
+             <urlweb>http://webtv.7tvregiondemurcia.es/</urlweb>
+             <epgId>7RM.TV</epgId>
+         </stations>
+         <stations>
+             <name>TeleMadrid</name>
+             <image>img/canales/telemadrid.png</image>
+             <url>http://www.telemadrid.es/emision-en-directo</url>
+             <urlweb>http://www.telemadrid.es/emision-en-directo</urlweb>
+             <epgId>TeleMadrid.TV</epgId>
+         </stations>
+         <stations>
+             <name>La Otra</name>
+             <image>img/canales/laotra.png</image>
+             <url>http://laotrahls-live.hls.adaptive.level3.net/telemadrid/laotra1/master.m3u8</url>
+             <urlweb>http://www.telemadrid.es/emision-en-directo-laotra</urlweb>
+             <epgId>LaOtra.TV</epgId>
+         </stations>
+         <stations>
+             <name>Navarra TV</name>
+             <image>img/canales/navarratv.png</image>
+             <url>https://pc-sumandocomunicacion-hls.flumotion.com/promecal/live1_720p/chunks.m3u8</url>
+             <url1>https://pc-sumandocomunicacion-hls.flumotion.com/promecal/live1_720p/chunks.m3u8</url1>
+             <urlweb>http://www.natv.es/Directo</urlweb>
+             <epgId>NavarraTV.TV</epgId>
+         </stations>
+         <stations>
+             <name>CyL 7</name>
+             <image>img/canales/rtvcyl.png</image>
+             <url>https://cdnlive.shooowit.net/la7live/smil:channel1.smil/master.m3u8</url>
+             <url1>https://cdnlive.shooowit.net/la7live/smil:channel1.smil/master.m3u8</url1>
+             <urlweb>http://www.rtvcyl.es/DirectoCylTV</urlweb>
+             <epgId>CyL7.TV</epgId>
+         </stations>
+         <stations>
+             <name>7 Valencia</name>
+             <image>img/canales/sietevalencia.png</image>
+             <url>https://live-edge-lon-1.cdn.enetres.net/9E9557EFCEBB43A89CEC8FBD3C500247022/llive-500/index.m3u8</url>
+             <urlweb>http://7televalencia.com/directo-7televalencia/</urlweb>
+             <epgId>7Valencia.TV</epgId>
+         </stations>
+         <stations>
+             <name>LevanteTV</name>
+             <image>img/canales/levantetv.png</image>
+             <url>https://play.cdn.enetres.net/C2F6CBB67E5B4D08A16CE5FE67ABCEC9023/029/playlist.m3u8</url>
+             <urlweb>http://www.levantetv.es/default.jsp</urlweb>
+             <epgId>LevanteTV.TV</epgId>
+         </stations>
+         <stations>
+             <name>8tv</name>
+             <image>img/canales/ochotv.png</image>
+             <url>https://5940924978228.streamlock.net/8289/smil:8289.smil/master.m3u8</url>
+             <urlweb>http://www.8tv.cat/directe/</urlweb>
+             <epgId>8tv.TV</epgId>
+         </stations>
+         <stations>
+             <name>TV3 Cat</name>
+             <image>img/canales/tv3.png</image>
+             <url>https://directes-tv-cat.ccma.cat/cat/ngrp:tv3_web/playlist_DVR.m3u8</url>
+             <url1>https://directes-tv-es.ccma.cat/es/ngrp:tv3_web/playlist_DVR.m3u8</url1>
+             <url2>https://directes-tv-int.ccma.cat/int/ngrp:tv3_web/playlist_DVR.m3u8</url2>
+             <urlweb>http://www.ccma.cat/tv3/directe/super3/</urlweb>
+             <epgId>TV3Cat.TV</epgId>
+         </stations>
+         <stations>
+             <name>Canal 33</name>
+             <image>img/canales/33.png</image>
+             <url>https://directes-tv-cat.ccma.cat/cat/ngrp:c33_web/playlist_DVR.m3u8</url>
+             <url1>https://directes-tv-es.ccma.cat/es/ngrp:c33_web/playlist_DVR.m3u8</url1>
+             <url2>https://directes-tv-int.ccma.cat/int/ngrp:c33_web/playlist_DVR.m3u8</url2>
+             <urlweb>http://www.telemadrid.es/emision-en-directo-laotra</urlweb>
+             <epgId>Canal33.TV</epgId>
+         </stations>
+         <stations>
+             <name>Aragón TV Int</name>
+             <image>img/canales/aragon.png</image>
+             <url>http://www.aragontelevision.es/directo</url>
+             <urlweb>http://www.aragontelevision.es/directo</urlweb>
+             <epgId>AragónTVInt.TV</epgId>
+         </stations>
+         <stations>
+             <name>ETB Sat</name>
+             <image>img/canales/eitb.png</image>
+             <url>https://etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/master.m3u8</url>
+             <urlweb>http://www.eitb.eus/es/television/etb-sat/</urlweb>
+             <epgId>ETBSat.TV</epgId>
+         </stations>
+         <stations>
+             <name>Canal Sur</name>
+             <image>img/canales/canalsur.png</image>
+             <url></url>
+             <urlweb>http://www.canalsur.es/tv_directo-1193.html</urlweb>
+             <epgId>CanalSur.TV</epgId>
+         </stations>
+         <stations>
+             <name>TV Galicia</name>
+             <image>img/canales/tvg.png</image>
+             <url>http://europa-crtvg.flumotion.com/playlist.m3u8</url>
+             <urlweb>http://www.crtvg.es/tvg/tvg-en-directo</urlweb>
+             <epgId>TVGalicia.TV</epgId>
+         </stations>
+     </groups>
+     <groups>
+         <name>Series</name>
+         <image></image>
+         <stations>
+             <name>A3series</name>
+             <image>img/canales/a3s.png</image>
+             <url>http://iptvsp.xyz/live/atreseries/index.m3u8</url>
+             <url1>http://iptvsp.xyz/live/atreseries/index.m3u8</url1>
+             <epgId>A3series.TV</epgId>
+         </stations>
+         <stations>
+             <name>Movistar Series</name>
+             <image>img/canales/mseries.png</image>
+             <url>http://iptvsp.xyz/live/movistar_series/index.m3u8</url>
+             <url1>http://iptvsp.xyz/live/movistar_series/index.m3u8</url1>
+             <url2>http://s2.iptvsp.xyz/live/movistar_series/index.m3u8</url2>
+             <epgId>MovistarSeries.TV</epgId>
+         </stations>
+         <stations>
+             <name>M. Seriesmanía</name>
+             <image>img/canales/mseriesmania.png</image>
+             <url>http://iptvsp.xyz/live/movistar_seriesmania/index.m3u8</url>
+             <url1>http://iptvsp.xyz/live/movistar_seriesmania/index.m3u8</url1>
+             <url2>http://s2.iptvsp.xyz/live/movistar_seriesmania/index.m3u8</url2>
+             <epgId>M.Seriesmanía.TV</epgId>
+         </stations>
+         <stations>
+             <name>Comedy Central</name>
+             <image>img/canales/comedy.png</image>
+             <url>http://iptvsp.xyz/live/comedy_central/index.m3u8</url>
+             <url1>http://iptvsp.xyz/live/comedy_central/index.m3u8</url1>
+             <url2>http://s2.iptvsp.xyz/live/comedy_central/index.m3u8</url2>
+             <epgId>ComedyCentral.TV</epgId>
+         </stations>
+         <stations>
+             <name>#0</name>
+             <image>img/canales/m0.png</image>
+             <url>http://iptvsp.xyz/live/0/index.m3u8</url>
+             <url1>http://iptvsp.xyz/live/0/index.m3u8</url1>
+             <url2>http://s2.iptvsp.xyz/live/0/index.m3u8</url2>
+             <epgId>#0.TV</epgId>
+         </stations>
+         <stations>
+             <name>Sundance</name>
+             <image>img/canales/sundance.png</image>
+             <url>http://iptvsp.xyz/live/sundance/index.m3u8</url>
+             <url1>http://iptvsp.xyz/live/sundance/index.m3u8</url1>
+             <epgId>Sundance.TV</epgId>
+         </stations>
+         <stations>
+             <name>Fox</name>
+             <image>img/canales/fox.png</image>
+             <url>http://iptvsp.xyz/live/fox/index.m3u8</url>
+             <url1>http://iptvsp.xyz/live/fox/index.m3u8</url1>
+             <url2>http://s2.iptvsp.xyz/live/fox/index.m3u8</url2>
+             <epgId>Fox.TV</epgId>
+         </stations>
+         <stations>
+             <name>Fox Life</name>
+             <image>img/canales/foxlife.png</image>
+             <url>http://iptvsp.xyz/live/fox_life/index.m3u8</url>
+             <url1>http://iptvsp.xyz/live/fox_life/index.m3u8</url1>
+             <epgId>FoxLife.TV</epgId>
+         </stations>
+         <stations>
+             <name>SYFY</name>
+             <image>img/canales/syfy.png</image>
+             <url>http://iptvsp.xyz/live/syfy/index.m3u8</url>
+             <url1>http://iptvsp.xyz/live/syfy/index.m3u8</url1>
+             <url2>http://s2.iptvsp.xyz/live/syfy/index.m3u8</url2>
+             <epgId>SYFY.TV</epgId>
+         </stations>
+     </groups>
+     <groups>
+         <name>Cine</name>
+         <image></image>
+         <stations>
+             <name>AXN</name>
+             <image>img/canales/axn.png</image>
+             <url>http://iptvsp.xyz/live/axn/index.m3u8</url>
+             <url1>http://iptvsp.xyz/live/axn/index.m3u8</url1>
+             <url2>http://s2.iptvsp.xyz/live/axn/index.m3u8</url2>
+             <epgId>AXN.TV</epgId>
+         </stations>
+         <stations>
+             <name>AXN White</name>
+             <image>img/canales/axnwhite.png</image>
+             <url>http://iptvsp.xyz/live/axn_white/index.m3u8</url>
+             <url1>http://iptvsp.xyz/live/axn_white/index.m3u8</url1>
+             <url2>http://s2.iptvsp.xyz/live/axn_white/index.m3u8</url2>
+             <epgId>AXNWhite.TV</epgId>
+         </stations>
+         <stations>
+             <name>Hollywood</name>
+             <image>img/canales/holly.png</image>
+             <url>http://iptvsp.xyz/live/hollywood/index.m3u8</url>
+             <url1>http://iptvsp.xyz/live/hollywood/index.m3u8</url1>
+             <url2>http://s2.iptvsp.xyz/live/hollywood/index.m3u8</url2>
+             <epgId>Hollywood.TV</epgId>
+         </stations>
+         <stations>
+             <name>Dark</name>
+             <image>img/canales/dark.png</image>
+             <url>http://iptvsp.xyz/live/dark/index.m3u8</url>
+             <url1>http://iptvsp.xyz/live/dark/index.m3u8</url1>
+             <epgId>Dark.TV</epgId>
+         </stations>
+         <stations>
+             <name>AMC</name>
+             <image>img/canales/amc.png</image>
+             <url>http://iptvsp.xyz/live/amc/index.m3u8</url>
+             <url1>http://iptvsp.xyz/live/amc/index.m3u8</url1>
+             <url2>http://s2.iptvsp.xyz/live/amc/index.m3u8</url2>
+             <epgId>AMC.TV</epgId>
+         </stations>
+         <stations>
+             <name>TCM</name>
+             <image>img/canales/tcm.png</image>
+             <url>http://iptvsp.xyz/live/tcm/index.m3u8</url>
+             <url1>http://iptvsp.xyz/live/tcm/index.m3u8</url1>
+             <url2>http://s2.iptvsp.xyz/live/tcm/index.m3u8</url2>
+             <epgId>TCM.TV</epgId>
+         </stations>
+         <stations>
+             <name>Calle 13</name>
+             <image>img/canales/calle13.png</image>
+             <url>http://iptvsp.xyz/live/calle_13/index.m3u8</url>
+             <url1>http://iptvsp.xyz/live/calle_13/index.m3u8</url1>
+             <url2>http://s2.iptvsp.xyz/live/calle_13/index.m3u8</url2>
+             <epgId>Calle13.TV</epgId>
+         </stations>
+         <stations>
+             <name>Somos</name>
+             <image>img/canales/somos.png</image>
+             <url>http://iptvsp.xyz/live/somos/index.m3u8</url>
+             <url1>http://iptvsp.xyz/live/somos/index.m3u8</url1>
+             <epgId>Somos.TV</epgId>
+         </stations>
+         <stations>
+             <name>M. Drama</name>
+             <image>img/canales/drama.png</image>
+             <url>http://iptvsp.xyz/live/movistar_drama/index.m3u8</url>
+             <url1>http://iptvsp.xyz/live/movistar_drama/index.m3u8</url1>
+             <url2>http://s2.iptvsp.xyz/live/movistar_drama/index.m3u8</url2>
+             <epgId>M.Drama.TV</epgId>
+         </stations>
+         <stations>
+             <name>Movistar Estrenos</name>
+             <image>img/canales/mestrenos.png</image>
+             <url>http://iptvsp.xyz/live/movistar_estrenos/index.m3u8</url>
+             <url1>http://iptvsp.xyz/live/movistar_estrenos/index.m3u8</url1>
+             <url2>http://s2.iptvsp.xyz/live/movistar_estrenos/index.m3u8</url2>
+             <epgId>MovistarEstrenos.TV</epgId>
+         </stations>
+         <stations>
+             <name>M.CineDoc&Roll</name>
+             <image>img/canales/mdocroll.png</image>
+             <url>http://iptvsp.xyz/live/movistar_cinedocroll/index.m3u8</url>
+             <url1>http://iptvsp.xyz/live/movistar_cinedocroll/index.m3u8</url1>
+             <url2>http://s2.iptvsp.xyz/live/movistar_cinedocroll/index.m3u8</url2>
+             <epgId>M.CineDoc&Roll.TV</epgId>
+         </stations>
+         <stations>
+             <name>Movistar Comedia</name>
+             <image>img/canales/mcomedia.png</image>
+             <url>http://iptvsp.xyz/live/movistar_comedia/index.m3u8</url>
+             <url1>http://iptvsp.xyz/live/movistar_comedia/index.m3u8</url1>
+             <url2>http://s2.iptvsp.xyz/live/movistar_comedia/index.m3u8</url2>
+             <epgId>MovistarComedia.TV</epgId>
+         </stations>
+         <stations>
+             <name>Movistar Acción</name>
+             <image>img/canales/maccion.png</image>
+             <url>http://iptvsp.xyz/live/movistar_accion/index.m3u8</url>
+             <url1>http://iptvsp.xyz/live/movistar_accion/index.m3u8</url1>
+             <url2>http://50.7.172.138/live/movistar_accion/index.m3u8</url2>
+             <epgId>MovistarAcción.TV</epgId>
+         </stations>
+         <stations>
+             <name>Movistar Cine N</name>
+             <image>img/canales/maccion.png</image>
+             <url>http://iptvsp.xyz/live/movistar_cine_espanol/index.m3u8</url>
+             <url1>http://iptvsp.xyz/live/movistar_cine_espanol/index.m3u8</url1>
+             <url2>http://s2.iptvsp.xyz/live/movistar_cine_espanol/index.m3u8</url2>
+             <epgId>MovistarCineN.TV</epgId>
+         </stations>
+         <stations>
+             <name>Xtrm</name>
+             <image>img/canales/xtrm.png</image>
+             <url>http://iptvsp.xyz/live/xtrm/index.m3u8</url>
+             <url1>http://iptvsp.xyz/live/xtrm/index.m3u8</url1>
+             <url2>http://s2.iptvsp.xyz/live/xtrm/index.m3u8</url2>
+             <epgId>Xtrm.TV</epgId>
+         </stations>
+         <stations>
+             <name>TNT</name>
+             <image>img/canales/tnt.png</image>
+             <url>http://iptvsp.xyz/live/tnt/index.m3u8</url>
+             <url1>http://iptvsp.xyz/live/tnt/index.m3u8</url1>
+             <url2>http://s2.iptvsp.xyz/live/tnt/index.m3u8</url2>
+             <epgId>TNT.TV</epgId>
+         </stations>
+         <stations>
+             <name>COSMO</name>
+             <image>img/canales/cosmo.png</image>
+             <url>http://iptvsp.xyz/live/cosmo/index.m3u8</url>
+             <url1>http://iptvsp.xyz/live/cosmo/index.m3u8</url1>
+             <url2>http://s2.iptvsp.xyz/live/cosmo/index.m3u8</url2>
+             <epgId>COSMO.TV</epgId>
+         </stations>
+     </groups>
+     <groups>
+         <name>Taquillas</name>
+         <image></image>
+         <stations>
+             <name>Taquilla 1</name>
+             <image>img/canales/taquilla.png</image>
+             <url>http://iptvsp.xyz/live/taquilla_1/index.m3u8</url>
+             <url1>http://iptvsp.xyz/live/taquilla_1/index.m3u8</url1>
+             <epgId></epgId>
+         </stations>
+         <stations>
+             <name>Taquilla 2</name>
+             <image>img/canales/taquilla.png</image>
+             <url>http://iptvsp.xyz/live/taquilla_2/index.m3u8</url>
+             <url1>http://iptvsp.xyz/live/taquilla_2/index.m3u8</url1>
+             <epgId></epgId>
+         </stations>
+         <stations>
+             <name>Taquilla 3</name>
+             <image>img/canales/taquilla.png</image>
+             <url>http://iptvsp.xyz/live/taquilla_3/index.m3u8</url>
+             <url1>http://iptvsp.xyz/live/taquilla_3/index.m3u8</url1>
+             <epgId></epgId>
+         </stations>
+         <stations>
+             <name>Taquilla 4</name>
+             <image>img/canales/taquilla.png</image>
+             <url>http://iptvsp.xyz/live/taquilla_4/index.m3u8</url>
+             <url1>http://iptvsp.xyz/live/taquilla_4/index.m3u8</url1>
+             <epgId></epgId>
+         </stations>
+         <stations>
+             <name>Taquilla 5</name>
+             <image>img/canales/taquilla.png</image>
+             <url>http://iptvsp.xyz/live/taquilla_5/index.m3u8</url>
+             <url1>http://iptvsp.xyz/live/taquilla_5/index.m3u8</url1>
+             <epgId></epgId>
+         </stations>
+     </groups>
+     <groups>
+         <name>Fútbol</name>
+         <image></image>
+         <stations>
+             <name>Betis TV</name>
+             <image>img/canales/betistv.png</image>
+             <url>https://betistv-live.flumotion.com/RmM3t9nhk1ShpnihFtwMmg/1607999980/betistv/live_all/betistv/live_source/chunks.m3u8</url>
+             <urlweb>http://www.realbetisbalompie.es/es/rtvbetis/</urlweb>
+             <epgId>BetisTV.TV</epgId>
+         </stations>
+         <stations>
+             <name>La Liga TV</name>
+             <image>img/canales/liga123.png</image>
+             <url>http://iptvsp.xyz/live/la_liga_tv/index.m3u8</url>
+             <url1>http://iptvsp.xyz/live/la_liga_tv/index.m3u8</url1>
+             <url2>http://s2.iptvsp.xyz/live/la_liga_tv/index.m3u8</url2>
+             <urlweb>https://dailysport.monster/</urlweb>
+             <epgId>LaLigaTV.TV</epgId>
+         </stations>
+         <stations>
+             <name>M. LaLiga</name>
+             <image>img/canales/mliga.png</image>
+             <url>http://iptvsp.xyz/live/movistar_laliga/index.m3u8</url>
+             <url1>http://iptvsp.xyz/live/movistar_laliga_HD/index.m3u8</url1>
+             <url2>http://iptvsp.xyz/live/movistar_laliga_HD/index.m3u8</url2>
+             <url3>http://s2.iptvsp.xyz/live/movistar_laliga_HD/index.m3u8</url3>
+             <url4>https://dailysportbucket50.s3.eu-west-3.amazonaws.com/1/1.m3u8</url4>
+             <urlweb>https://dailysport.monster/</urlweb>
+             <epgId>M.LaLiga.TV</epgId>
+         </stations>
+         <stations>
+             <name>M. LaLiga 1</name>
+             <image>img/canales/mliga.png</image>
+             <url>http://iptvsp.xyz/live/movistar_laliga_1/index.m3u8</url>
+             <url1>http://iptvsp.xyz/live/movistar_laliga_1_HD/index.m3u8</url1>
+             <url2>http://iptvsp.xyz/live/movistar_laliga_1_HD/index.m3u8</url2>
+             <url3>http://s2.iptvsp.xyz/live/movistar_laliga_1_HD/index.m3u8</url3>
+             <url4>https://storage.googleapis.com/dailycl14/10/10.m3u8</url4>
+             <urlweb>https://dailysport.monster/</urlweb>
+             <epgId>M.LaLiga1.TV</epgId>
+         </stations>
+         <stations>
+             <name>M.LaLiga 2</name>
+             <image>img/canales/mliga.png</image>
+             <url>http://iptvsp.xyz/live/movistar_laliga_2/index.m3u8</url>
+             <urlweb>https://dailysport.monster/</urlweb>
+             <epgId>M.LaLiga2.TV</epgId>
+         </stations>
+         <stations>
+             <name>M.LaLiga 3</name>
+             <image>img/canales/mliga.png</image>
+             <url>http://iptvsp.xyz/live/movistar_laliga_3/index.m3u8</url>
+             <urlweb>https://dailysport.monster/</urlweb>
+             <epgId>M.LaLiga3.TV</epgId>
+         </stations>
+         <stations>
+             <name>Real Madrid TV</name>
+             <image>img/canales/realmadridtv.png</image>
+             <url>http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hwebes_1@300661/master.m3u8</url>
+             <url1>http://iptvsp.xyz/live/real_madrid_tv/index.m3u8</url1>
+             <urlweb>https://www.realmadrid.com/real-madrid-tv</urlweb>
+             <epgId>RealMadridTV.TV</epgId>
+         </stations>
+         <stations>
+             <name>M. Liga de Campeones</name>
+             <image>img/canales/mligacampeones.png</image>
+             <url>http://iptvsp.xyz/live/movistar_liga_de_campeones/index.m3u8</url>
+             <url1>http://iptvsp.xyz/live/movistar_liga_de_campeones_HD/index.m3u8</url1>
+             <url2>http://iptvsp.xyz/live/movistar_liga_de_campeones_HD/index.m3u8</url2>
+             <url3>http://s2.iptvsp.xyz/live/movistar_liga_de_campeones_HD/index.m3u8</url3>
+             <url4>https://storage.googleapis.com/dailycl4/1/1.m3u8</url4>
+             <urlweb>https://dailysport.monster/</urlweb>
+             <epgId>M.LigadeCampeones.TV</epgId>
+         </stations>
+         <stations>
+             <name>M. Liga de Campeones 1</name>
+             <image>img/canales/mligacampeones.png</image>
+             <url>http://iptvsp.xyz/live/movistar_liga_de_campeones_1_HD/index.m3u8</url>
+             <url1>http://s2.iptvsp.xyz/live/movistar_liga_de_campeones_1_HD/index.m3u8</url1>
+             <url2>http://iptvsp.xyz/live/movistar_liga_de_campeones_1/index.m3u8</url2>
+             <url3>http://iptvsp.xyz/live/movistar_liga_de_campeones_1/index.m3u8</url3>
+             <url4>https://cdn.dailysport.pw/2/2.m3u8</url4>
+             <urlweb>https://dailysport.monster/</urlweb>
+             <epgId>M.LigadeCampeones1.TV</epgId>
+         </stations>
+         <stations>
+             <name>M. Liga de Campeones 2</name>
+             <image>img/canales/mligacampeones.png</image>
+             <url>http://iptvsp.xyz/live/movistar_liga_de_campeones_2/index.m3u8</url>
+             <url1>https://cdn.dailysport.pw/3/3.m3u8</url1>
+             <urlweb>https://dailysport.monster/</urlweb>
+             <epgId>M.LigadeCampeones2.TV</epgId>
+         </stations>
+         <stations>
+             <name>M. Liga de Campeones 3</name>
+             <image>img/canales/mligacampeones.png</image>
+             <url>http://iptvsp.xyz/live/movistar_liga_de_campeones_3/index.m3u8</url>
+             <url1>https://cdn.dailysport.pw/2/2.m3u8</url1>
+             <urlweb>https://dailysport.monster/</urlweb>
+             <epgId>M.LigadeCampeones3.TV</epgId>
+         </stations>
+         <stations>
+             <name>M. Liga de Campeones 4</name>
+             <image>img/canales/mligacampeones.png</image>
+             <url>http://iptvsp.xyz/live/movistar_liga_de_campeones_4/index.m3u8</url>
+             <url1>https://cdn.dailysport.pw/2/2.m3u8</url1>
+             <urlweb>https://dailysport.monster/</urlweb>
+             <epgId>M.LigadeCampeones4.TV</epgId>
+         </stations>
+         <stations>
+             <name>M. Liga de Campeones 5</name>
+             <image>img/canales/mligacampeones.png</image>
+             <url>http://iptvsp.xyz/live/movistar_liga_de_campeones_5/index.m3u8</url>
+             <url1>https://cdn.dailysport.pw/21/21.m3u8</url1>
+             <urlweb>https://dailysport.monster/</urlweb>
+             <epgId>M.LigadeCampeones5.TV</epgId>
+         </stations>
+         <stations>
+             <name>M. Liga de Campeones 6</name>
+             <image>img/canales/mligacampeones.png</image>
+             <url>http://iptvsp.xyz/live/movistar_liga_de_campeones_6/index.m3u8</url>
+             <urlweb>https://dailysport.monster/</urlweb>
+             <epgId>M.LigadeCampeones6.TV</epgId>
+         </stations>
+         <stations>
+             <name>M. Liga de Campeones 7</name>
+             <image>img/canales/mligacampeones.png</image>
+             <url>http://iptvsp.xyz/live/movistar_liga_de_campeones_7/index.m3u8</url>
+             <urlweb>https://dailysport.monster/</urlweb>
+             <epgId>M.LigadeCampeones7.TV</epgId>
+         </stations>
+     </groups>
+     <groups>
+         <name>Deportes</name>
+         <image></image>
+         <stations>
+             <name>Esport 3</name>
+             <image>img/canales/esport3.png</image>
+             <url>https://directes-tv-es.ccma.cat/es/ngrp:es3_web/playlist.m3u8</url>
+             <urlweb>http://www.ccma.cat/tv3/directe/esport3/</urlweb>
+             <epgId>Esport3.TV</epgId>
+         </stations>
+         <stations>
+             <name>Win Sport</name>
+             <image>img/canales/winsport.png</image>
+             <url>http://iptvsp.xyz/live/winsport/index.m3u8</url>
+             <epgId>WinSport.TV</epgId>
+         </stations>
+         <stations>
+             <name>Fox Sport</name>
+             <image>img/canales/foxsport.png</image>
+             <url>http://iptvsp.xyz/live/fox_sports1/index.m3u8</url>
+             <epgId>FoxSport.TV</epgId>
+         </stations>
+         <stations>
+             <name>Fox Sport 2</name>
+             <image>img/canales/foxsport2.png</image>
+             <url>http://iptvsp.xyz/live/fox_sports2/index.m3u8</url>
+             <epgId>FoxSport2.TV</epgId>
+         </stations>
+         <stations>
+             <name>ESPN</name>
+             <image>img/canales/espn.png</image>
+             <url>http://iptvsp.xyz/live/espn/index.m3u8</url>
+             <url1>http://iptvsp.xyz/live/espn_2/index.m3u8</url1>
+             <epgId>ESPN.TV</epgId>
+         </stations>
+         <stations>
+             <name>Fox Sport 2</name>
+             <image>img/canales/foxsport2.png</image>
+             <url>http://iptvsp.xyz/live/fox_sports2/index.m3u8</url>
+             <epgId>FoxSport2.TV</epgId>
+         </stations>
+         <stations>
+             <name>Movistar Golf</name>
+             <image>img/canales/mgolf.png</image>
+             <url>http://iptvsp.xyz/live/movistar_golf/index.m3u8</url>
+             <url1>http://iptvsp.xyz/live/movistar_golf/index.m3u8</url1>
+             <epgId>MovistarGolf.TV</epgId>
+         </stations>
+         <stations>
+             <name>Cazavision</name>
+             <image>img/canales/tycsport.png</image>
+             <url>http://iptvsp.xyz/live/cazavision/index.m3u8</url>
+             <url1>http://iptvsp.xyz/live/cazavision/index.m3u8</url1>
+             <epgId>Cazavision.TV</epgId>
+         </stations>
+         <stations>
+             <name>Teledeporte</name>
+             <image>img/canales/tdp.png</image>
+             <url>http://iptvsp.xyz/live/teledeporte/index.m3u8</url>
+             <url1>https://rtvelivestream.akamaized.net/tdp_dvr.m3u8</url1>
+             <url2>https://rtvelivestream.akamaized.net/tdp_dvr.m3u8</url2>
+             <urlweb>http://www.rtve.es/directo/teledeporte/</urlweb>
+             <epgId>Teledeporte.TV</epgId>
+         </stations>
+         <stations>
+             <name>Eurosport 1</name>
+             <image>img/canales/eurosport.png</image>
+             <url>http://iptvsp.xyz/live/eurosport/index.m3u8</url>
+             <url1>http://iptvsp.xyz/live/eurosport/index.m3u8</url1>
+             <urlweb>https://www.eurosport.es/</urlweb>
+             <epgId>Eurosport1.TV</epgId>
+         </stations>
+         <stations>
+             <name>Eurosport 2</name>
+             <image>img/canales/eurosport.png</image>
+             <url>http://iptvsp.xyz/live/eurosport_2/index.m3u8</url>
+             <url1>http://iptvsp.xyz/live/eurosport_2/index.m3u8</url1>
+             <urlweb>https://www.eurosport.es/</urlweb>
+             <epgId>Eurosport2.TV</epgId>
+         </stations>
+         <stations>
+             <name>Caza y Pesca</name>
+             <image>img/canales/caza.png</image>
+             <url>http://iptvsp.xyz/live/caza_y_pesca/index.m3u8</url>
+             <url1>http://iptvsp.xyz/live/caza_y_pesca/index.m3u8</url1>
+             <epgId>CazayPesca.TV</epgId>
+         </stations>
+         <stations>
+             <name>Iberalia TV</name>
+             <image>img/canales/iberalia.png</image>
+             <url>http://iptvsp.xyz/live/iberalia/index.m3u8</url>
+             <url1>http://iptvsp.xyz/live/iberalia/index.m3u8</url1>
+             <epgId>IberaliaTV.TV</epgId>
+         </stations>
+         <stations>
+             <name>Direct Sport</name>
+             <image>img/canales/directsport.png</image>
+             <url>http://iptvsp.xyz/live/direct_sports/index.m3u8</url>
+             <epgId>DirectSport.TV</epgId>
+         </stations>
+         <stations>
+             <name>Movistar Fórmula 1</name>
+             <image>img/canales/formula1.png</image>
+             <url>http://iptvsp.xyz/live/movistar_formula_1/index.m3u8</url>
+             <url1>http://s2.iptvsp.xyz/live/movistar_formula_1/index.m3u8</url1>
+             <url2>http://iptvsp.xyz/live/movistar_formula_1_HD/index.m3u8</url2>
+             <url3>http://s2.iptvsp.xyz/live/movistar_formula_1_HD/index.m3u8</url3>
+             <url4>https://cdndailys.azureedge.net/LiveApp/streams/062648843338317181280381.m3u8</url4>
+             <urlweb>https://dailysport.monster/</urlweb>
+             <epgId>MovistarFórmula1.TV</epgId>
+         </stations>
+         <stations>
+             <name>Toros</name>
+             <image>img/canales/toros.png</image>
+             <url>http://iptvsp.xyz/live/toros_tv/index.m3u8</url>
+             <url1>http://iptvsp.xyz/live/toros_tv/index.m3u8</url1>
+             <epgId>Toros.TV</epgId>
+         </stations>
+         <stations>
+             <name>GOL</name>
+             <image>img/canales/goltv.png</image>
+             <url>http://iptvsp.xyz/live/gol_tv/index.m3u8</url>
+             <url1>http://iptvsp.xyz/live/gol_tv/index.m3u8</url1>
+             <urlweb>https://www.goltelevision.com/</urlweb>
+             <epgId>GOL.TV</epgId>
+         </stations>
+         <stations>
+             <name>Movistar Deportes 1</name>
+             <image>img/canales/mdeportes1.png</image>
+             <url>http://iptvsp.xyz/live/movistar_deportes/index.m3u8</url>
+             <url1>http://iptvsp.xyz/live/movistar_deportes/index.m3u8</url1>
+             <url2>https://cdn.dailysport.pw/16/16.m3u8</url2>
+             <epgId>MovistarDeportes1.TV</epgId>
+         </stations>
+         <stations>
+             <name>#Vamos</name>
+             <image>img/canales/vamos.png</image>
+             <url>http://iptvsp.xyz/live/vamos/index.m3u8</url>
+             <url1>http://s2.iptvsp.xyz/live/vamos/index.m3u8</url1>
+             <url2>https://dailysportbucket7.s3.eu-west-2.amazonaws.com/15/15.m3u8</url2>
+             <epgId>Vamos.TV</epgId>
+         </stations>
+         <stations>
+             <name>UFC</name>
+             <image>img/canales/ufc.png</image>
+             <url>http://iptvsp.xyz/live/ufc/index.m3u8</url>
+             <epgId>UFC.TV</epgId>
+         </stations>
+         <stations>
+             <name>Bein N</name>
+             <image>img/canales/being.png</image>
+             <url>http://iptvsp.xyz/live/bein_n/index.m3u8</url>
+             <epgId>BeinN.TV</epgId>
+         </stations>
+     </groups>
+     <groups>
+         <name>Documentales</name>
+         <image></image>
+         <stations>
+             <name>Discovery Max</name>
+             <image>img/canales/dmax.png</image>
+             <url>http://iptvsp.xyz/live/dmax/index.m3u8</url>
+             <url1>http://iptvsp.xyz/live/dmax/index.m3u8</url1>
+             <epgId>DiscoveryMax.TV</epgId>
+         </stations>
+         <stations>
+             <name>Crimen + Investigación</name>
+             <image>img/canales/ci.png</image>
+             <url>http://iptvsp.xyz/live/crimen_investigacion/index.m3u8</url>
+             <url1>http://iptvsp.xyz/live/crimen_investigacion/index.m3u8</url1>
+             <epgId>Crimen+Investigación.TV</epgId>
+         </stations>
+         <stations>
+             <name>Blaze</name>
+             <image>img/canales/blaze.png</image>
+             <url>http://iptvsp.xyz/live/blaze/index.m3u8</url>
+             <url1>http://iptvsp.xyz/live/blaze/index.m3u8</url1>
+             <epgId>Blaze.TV</epgId>
+         </stations>
+         <stations>
+             <name>Discovery</name>
+             <image>img/canales/dchanel.png</image>
+             <url>http://iptvsp.xyz/live/discovery_channel/index.m3u8</url>
+             <url1>http://iptvsp.xyz/live/discovery_channel/index.m3u8</url1>
+             <epgId>Discovery.TV</epgId>
+         </stations>
+         <stations>
+             <name>Discovery Science</name>
+             <image>img/canales/dscience.png</image>
+             <url>http://iptvsp.xyz/live/discovery_science/index.m3u8</url>
+             <epgId>DiscoveryScience.TV</epgId>
+         </stations>
+         <stations>
+             <name>Historia</name>
+             <image>img/canales/historia.png</image>
+             <url>http://iptvsp.xyz/live/historia/index.m3u8</url>
+             <url1>http://iptvsp.xyz/live/historia/index.m3u8</url1>
+             <epgId>Historia.TV</epgId>
+         </stations>
+         <stations>
+             <name>National Geographic</name>
+             <image>img/canales/natgeo.png</image>
+             <url>http://iptvsp.xyz/live/national_geographic_channel/index.m3u8</url>
+             <url1>http://iptvsp.xyz/live/national_geographic_channel/index.m3u8</url1>
+             <urlweb>https://www.nationalgeographic.es/</urlweb>
+             <epgId>NationalGeographic.TV</epgId>
+         </stations>
+         <stations>
+             <name>Nat Geo Wild</name>
+             <image>img/canales/natwild.png</image>
+             <url>http://iptvsp.xyz/live/national_geographic_wild/index.m3u8</url>
+             <url1>http://iptvsp.xyz/live/national_geographic_wild/index.m3u8</url1>
+             <epgId>NatGeoWild.TV</epgId>
+         </stations>
+         <stations>
+             <name>Odisea</name>
+             <image>img/canales/odisea.png</image>
+             <url>http://iptvsp.xyz/live/odisea/index.m3u8</url>
+             <url1>http://iptvsp.xyz/live/odisea/index.m3u8</url1>
+             <urlweb>https://www.nationalgeographic.es/</urlweb>
+             <epgId>Odisea.TV</epgId>
+         </stations>
+         <stations>
+             <name>MTV</name>
+             <image>img/canales/mtv.png</image>
+             <url>http://iptvsp.xyz/live/mtv/index.m3u8</url>
+             <url1>http://iptvsp.xyz/live/mtv/index.m3u8</url1>
+             <urlweb>http://www.mtv.es/</urlweb>
+             <epgId>MTV.TV</epgId>
+         </stations>
+         <stations>
+             <name>Canal Cocina</name>
+             <image>img/canales/cocina.png</image>
+             <url>http://iptvsp.xyz/live/canal_cocina/index.m3u8</url>
+             <url1>http://iptvsp.xyz/live/canal_cocina/index.m3u8</url1>
+             <urlweb>http://canalcocina.es/</urlweb>
+             <epgId>CanalCocina.TV</epgId>
+         </stations>
+         <stations>
+             <name>Canal Decasa</name>
+             <image>img/canales/decasa.png</image>
+             <url>http://iptvsp.xyz/live/decasa/index.m3u8</url>
+             <url1>http://iptvsp.xyz/live/decasa/index.m3u8</url1>
+             <epgId>CanalDecasa.TV</epgId>
+         </stations>
+     </groups>
+     <groups>
+         <name>Infantiles</name>
+         <image></image>
+         <stations>
+             <name>Disney +</name>
+             <image>img/canales/disney.png</image>
+             <url>http://iptvsp.xyz/live/disney_/index.m3u8</url>
+             <url1>http://iptvsp.xyz/live/disney_/index.m3u8</url1>
+             <epgId>Disney+.TV</epgId>
+         </stations>
+         <stations>
+             <name>Baby TV</name>
+             <image>img/canales/babytv.png</image>
+             <url>http://iptvsp.xyz/live/baby_tv/index.m3u8</url>
+             <url1>http://iptvsp.xyz/live/baby_tv/index.m3u8</url1>
+             <epgId>BabyTV.TV</epgId>
+         </stations>
+         <stations>
+             <name>Disney Channel</name>
+             <image>img/canales/disneychannel.png</image>
+             <url>http://iptvsp.xyz/live/disney_channel/index.m3u8</url>
+             <url1>http://iptvsp.xyz/live/disney_channel/index.m3u8</url1>
+             <urlweb>http://tv.disney.es/disney-channel</urlweb>
+             <epgId>DisneyChannel.TV</epgId>
+         </stations>
+         <stations>
+             <name>Boing</name>
+             <image>img/canales/boing.png</image>
+             <url>http://iptvsp.xyz/live/boing/index.m3u8</url>
+             <url1>http://iptvsp.xyz/live/boing/index.m3u8</url1>
+             <urlweb>https://www.mitele.es/directo/boing</urlweb>
+             <epgId>Boing.TV</epgId>
+         </stations>
+         <stations>
+             <name>Clan TVE</name>
+             <image>img/canales/clan.png</image>
+             <url>https://hlsliveamdgl1-lh.akamaihd.net/i/hlslive_1@356291/master.m3u8</url>
+             <url1>http://iptvsp.xyz/live/clan/index.m3u8</url1>
+             <urlweb>http://www.rtve.es/infantil/</urlweb>
+             <epgId>ClanTVE.TV</epgId>
+         </stations>
+         <stations>
+             <name>Disney Junior</name>
+             <image>img/canales/disneyjunior.png</image>
+             <url>http://iptvsp.xyz/live/disney_junior/index.m3u8</url>
+             <url1>http://iptvsp.xyz/live/disney_junior/index.m3u8</url1>
+             <epgId>DisneyJunior.TV</epgId>
+         </stations>
+         <stations>
+             <name>Canal Panda</name>
+             <image>img/canales/panda.png</image>
+             <url>http://iptvsp.xyz/live/canal_panda/index.m3u8</url>
+             <url1>http://iptvsp.xyz/live/canal_panda/index.m3u8</url1>
+             <epgId>CanalPanda.TV</epgId>
+         </stations>
+         <stations>
+             <name>NICK JR</name>
+             <image>img/canales/nick.png</image>
+             <url>http://iptvsp.xyz/live/nick_jr/index.m3u8</url>
+             <url1>http://iptvsp.xyz/live/nick_jr/index.m3u8</url1>
+             <urlweb>http://www.nickelodeon.es/</urlweb>
+             <epgId>NICKJR.TV</epgId>
+         </stations>
+         <stations>
+             <name>Nickelodeon</name>
+             <image>img/canales/nick.png</image>
+             <url>http://iptvsp.xyz/live/nickelodeon/index.m3u8</url>
+             <url1>http://iptvsp.xyz/live/nickelodeon/index.m3u8</url1>
+             <urlweb>http://www.nickelodeon.es/</urlweb>
+             <epgId>Nickelodeon.TV</epgId>
+         </stations>
+     </groups>
+     <groups>
+         <name>Eventos Dazn</name>
+         <image></image>
+         <stations>
+             <name>Movistar DAZN 1</name>
+             <image>img/canales/dazn.png</image>
+             <url>http://iptvsp.xyz/live/movistar_dazn_1/index.m3u8</url>
+             <url1>http://iptvsp.xyz/live/movistar_dazn_1_HD/index.m3u8</url1>
+             <url2>http://iptvsp.xyz/live/movistar_dazn_1_HD/index.m3u8</url2>
+             <url3>http://s2.iptvsp.xyz/live/movistar_dazn_1_HD/index.m3u8</url3>
+             <urlweb>https://dailysport.monster/</urlweb>
+             <epgId>MDAZN1.TV</epgId>
+         </stations>
+         <stations>
+             <name>Movistar DAZN 2</name>
+             <image>img/canales/dazn.png</image>
+             <url>http://iptvsp.xyz/live/movistar_dazn_2/index.m3u8</url>
+             <url1>http://iptvsp.xyz/live/movistar_dazn_2_HD/index.m3u8</url1>
+             <url2>http://iptvsp.xyz/live/movistar_dazn_2_HD/index.m3u8</url2>
+             <url3>http://s2.iptvsp.xyz/live/movistar_dazn_2_HD/index.m3u8</url3>
+             <urlweb>https://dailysport.monster/</urlweb>
+             <epgId>MDAZN2.TV</epgId>
+         </stations>
+         <stations>
+             <name>DAZN 1</name>
+             <image>img/canales/dazn.png</image>
+             <url>http://iptvsp.xyz/live/dazn_1/index.m3u8</url>
+             <url1>http://iptvsp.xyz/live/dazn_1_HD/index.m3u8</url1>
+             <url2>http://iptvsp.xyz/live/dazn_1_HD/index.m3u8</url2>
+             <url3>http://s2.iptvsp.xyz/live/dazn_1_HD/index.m3u8</url3>
+             <urlweb>https://dailysport.monster/</urlweb>
+             <epgId>DAZN1.TV</epgId>
+         </stations>
+         <stations>
+             <name>DAZN 2</name>
+             <image>img/canales/dazn.png</image>
+             <url>http://iptvsp.xyz/live/dazn_2/index.m3u8</url>
+             <url1>http://iptvsp.xyz/live/dazn_2_HD/index.m3u8</url1>
+             <url2>http://iptvsp.xyz/live/dazn_2_HD/index.m3u8</url2>
+             <url3>http://s2.iptvsp.xyz/live/dazn_2_HD/index.m3u8</url3>
+             <urlweb>https://dailysport.monster/</urlweb>
+             <epgId>DAZN2.TV</epgId>
+         </stations>
+         <stations>
+             <name>DAZN 3</name>
+             <image>img/canales/dazn.png</image>
+             <url>http://iptvsp.xyz/live/dazn_3/index.m3u8</url>
+             <url1>http://iptvsp.xyz/live/dazn_3/index.m3u8</url1>
+             <urlweb>https://dailysport.monster/</urlweb>
+             <epgId>DAZN3.TV</epgId>
+         </stations>
+         <stations>
+             <name>DAZN 4</name>
+             <image>img/canales/dazn.png</image>
+             <url>http://iptvsp.xyz/live/dazn_4/index.m3u8</url>
+             <urlweb>https://dailysport.monster/</urlweb>
+             <epgId>DAZN4.TV</epgId>
+         </stations>
+         <stations>
+             <name>DAZN 5</name>
+             <image>img/canales/dazn.png</image>
+             <url>http://iptvsp.xyz/live/dazn_5/index.m3u8</url>
+             <urlweb>https://dailysport.monster/</urlweb>
+             <epgId>DAZN5.TV</epgId>
+         </stations>
+         <stations>
+             <name>DAZN 6</name>
+             <image>img/canales/dazn.png</image>
+             <url>http://iptvsp.xyz/live/dazn_6/index.m3u8</url>
+             <urlweb>https://dailysport.monster/</urlweb>
+             <epgId>DAZN6.TV</epgId>
+         </stations>
+         <stations>
+             <name>DAZN 7</name>
+             <image>img/canales/dazn.png</image>
+             <url>http://iptvsp.xyz/live/dazn_7/index.m3u8</url>
+             <urlweb>https://dailysport.monster/</urlweb>
+             <epgId>DAZN7.TV</epgId>
+         </stations>
+         <stations>
+             <name>DAZN 8</name>
+             <image>img/canales/dazn.png</image>
+             <url>http://iptvsp.xyz/live/dazn_8/index.m3u8</url>
+             <urlweb>https://dailysport.monster/</urlweb>
+             <epgId>DAZN8.TV</epgId>
+         </stations>
+         <stations>
+             <name>DAZN 9</name>
+             <image>img/canales/dazn.png</image>
+             <url>http://iptvsp.xyz/live/dazn_9/index.m3u8</url>
+             <urlweb>https://dailysport.monster/</urlweb>
+             <epgId>DAZN9.TV</epgId>
+         </stations>
+         <stations>
+             <name>DAZN 10</name>
+             <image>img/canales/dazn.png</image>
+             <url>http://iptvsp.xyz/live/dazn_10/index.m3u8</url>
+             <urlweb>https://dailysport.monster/</urlweb>
+             <epgId>DAZN10.TV</epgId>
+         </stations>
+         <stations>
+             <name>DAZN 11</name>
+             <image>img/canales/dazn.png</image>
+             <url>http://iptvsp.xyz/live/dazn_11/index.m3u8</url>
+             <urlweb>https://dailysport.monster/</urlweb>
+             <epgId>DAZN11.TV</epgId>
+         </stations>
+         <stations>
+             <name>DAZN 12</name>
+             <image>img/canales/dazn.png</image>
+             <url>http://iptvsp.xyz/live/dazn_12/index.m3u8</url>
+             <urlweb>https://dailysport.monster/</urlweb>
+             <epgId>DAZN12.TV</epgId>
+         </stations>
+     </groups>
+     <groups>
+         <name>Latinos</name>
+         <image></image>
+         <stations>
+             <name>Telemundo</name>
+             <image>img/canales/canales/.png</image>
+             <url>http://iptvsp.xyz/live/telemundo/index.m3u8</url>
+             <epgId>Telemundo.TV</epgId>
+         </stations>
+         <stations>
+             <name>Warner</name>
+             <image>img/canales/warner.png</image>
+             <url>http://iptvsp.xyz/live/warner/index.m3u8</url>
+             <epgId>Warner.TV</epgId>
+         </stations>
+         <stations>
+             <name>Cinemax</name>
+             <image>img/canales/cinemax.png</image>
+             <url>http://iptvsp.xyz/live/cinemax/index.m3u8</url>
+             <epgId>Cinemax.TV</epgId>
+         </stations>
+         <stations>
+             <name>Fox Action</name>
+             <image>img/canales/foxaction.png</image>
+             <url>http://iptvsp.xyz/live/fox_action/index.m3u8</url>
+             <urlweb>https://www.foxtv.es/</urlweb>
+             <epgId>.TV</epgId>
+         </stations>
+         <stations>
+             <name>Fox Latino</name>
+             <image>img/canales/fox.png</image>
+             <url>http://iptvsp.xyz/live/fox_latino/index.m3u8</url>
+             <urlweb>https://www.foxtv.es/</urlweb>
+             <epgId>.TV</epgId>
+         </stations>
+         <stations>
+             <name>Fox Live Latino</name>
+             <image>img/canales/foxlive.png</image>
+             <url>http://iptvsp.xyz/live/fox_life_latino/index.m3u8</url>
+             <urlweb>https://www.foxtv.es/</urlweb>
+             <epgId>.TV</epgId>
+         </stations>
+         <stations>
+             <name>Fox Comedy</name>
+             <image>img/canales/foxcomedy.png</image>
+             <url>http://iptvsp.xyz/live/fox_comedy/index.m3u8</url>
+             <urlweb>https://www.foxtv.es/</urlweb>
+             <epgId>.TV</epgId>
+         </stations>
+         <stations>
+             <name>Fox Series</name>
+             <image>img/canales/foxseries.png</image>
+             <url>http://iptvsp.xyz/live/fox_series/index.m3u8</url>
+             <urlweb>https://www.foxtv.es/</urlweb>
+             <epgId>.TV</epgId>
+         </stations>
+         <stations>
+             <name>Fox Family</name>
+             <image>img/canales/foxfamily.png</image>
+             <url>http://iptvsp.xyz/live/fox_family/index.m3u8</url>
+             <urlweb>https://www.foxtv.es/</urlweb>
+             <epgId>.TV</epgId>
+         </stations>
+         <stations>
+             <name>Fox Movie</name>
+             <image>img/canales/foxmovies.png</image>
+             <url>http://iptvsp.xyz/live/fox_movie/index.m3u8</url>
+             <urlweb>https://www.foxtv.es/</urlweb>
+             <epgId>.TV</epgId>
+         </stations>
+         <stations>
+             <name>Fox Classics</name>
+             <image>img/canales/fox.png</image>
+             <url>http://iptvsp.xyz/live/fox_classics/index.m3u8</url>
+             <urlweb>https://www.foxtv.es/</urlweb>
+             <epgId>.TV</epgId>
+         </stations>
+         <stations>
+             <name>Fox Sports 1</name>
+             <image>img/canales/foxsport.png</image>
+             <url>http://iptvsp.xyz/live/fox_sports_1/index.m3u8</url>
+             <urlweb>https://www.foxtv.es/</urlweb>
+             <epgId>.TV</epgId>
+         </stations>
+         <stations>
+             <name>Fox Sports 2</name>
+             <image>img/canales/foxsport2.png</image>
+             <url>http://iptvsp.xyz/live/fox_sports_2/index.m3u8</url>
+             <urlweb>https://www.foxtv.es/</urlweb>
+             <epgId>.TV</epgId>
+         </stations>
+         <stations>
+             <name>Fox Sports 3</name>
+             <image>img/canales/foxsport3.png</image>
+             <url>http://iptvsp.xyz/live/fox_sports_3/index.m3u8</url>
+             <urlweb>https://www.foxtv.es/</urlweb>
+             <epgId>.TV</epgId>
+         </stations>
+         <stations>
+             <name>Space Latino</name>
+             <image>img/canales/space.png</image>
+             <url>http://iptvsp.xyz/live/space_latino/index.m3u8</url>
+             <urlweb>https://www.foxtv.es/</urlweb>
+             <epgId>Space.TV</epgId>
+         </stations>
+         <stations>
+             <name>FX</name>
+             <image>img/canales/fx.png</image>
+             <url>http://iptvsp.xyz/live/fx/index.m3u8</url>
+             <urlweb>https://www.foxtv.es/</urlweb>
+             <epgId>FX.TV</epgId>
+         </stations>
+         <stations>
+             <name>HBO</name>
+             <image>img/canales/hbo.png</image>
+             <url>http://iptvsp.xyz/live/hbo/index.m3u8</url>
+             <epgId>HBO.TV</epgId>
+         </stations>
+         <stations>
+             <name>HBO 2</name>
+             <image>img/canales/hbo.png</image>
+             <url>http://iptvsp.xyz/live/hbo_2/index.m3u8</url>
+             <epgId>HBO2.TV</epgId>
+         </stations>
+         <stations>
+             <name>HBO Plus</name>
+             <image>img/canales/hbo.png</image>
+             <url>http://iptvsp.xyz/live/hbo_plus/index.m3u8</url>
+             <epgId>.TV</epgId>
+         </stations>
+         <stations>
+             <name>HBO Family</name>
+             <image>img/canales/hbo.png</image>
+             <url>http://iptvsp.xyz/live/hbo_family/index.m3u8</url>
+             <epgId>.TV</epgId>
+         </stations>
+         <stations>
+             <name>HBO Pop</name>
+             <image>img/canales/hbo.png</image>
+             <url>http://iptvsp.xyz/live/hbo_pop/index.m3u8</url>
+             <epgId>.TV</epgId>
+         </stations>
+         <stations>
+             <name>HBO Xtreme</name>
+             <image>img/canales/hbo.png</image>
+             <url>http://iptvsp.xyz/live/hbo_xtreme/index.m3u8</url>
+             <epgId>.TV</epgId>
+         </stations>
+         <stations>
+             <name>AXN Latino</name>
+             <image>img/canales/axn.png</image>
+             <url>http://iptvsp.xyz/live/axn_latino/index.m3u8</url>
+             <epgId>AXNLATINO.TV</epgId>
+         </stations>
+         <stations>
+             <name>AMC Latino</name>
+             <image>img/canales/amc.png</image>
+             <url>http://iptvsp.xyz/live/amc_latino/index.m3u8</url>
+             <epgId>AMCLATINO.TV</epgId>
+         </stations>
+         <stations>
+             <name>Cine Canal</name>
+             <image>img/canales/cinecanal.png</image>
+             <url>http://iptvsp.xyz/live/cinecanal/index.m3u8</url>
+             <epgId>CINECANAL.TV</epgId>
+         </stations>
+         <stations>
+             <name>Comedy Central Latino</name>
+             <image>img/canales/comedy.png</image>
+             <url>http://iptvsp.xyz/live/comedy_central_latino/index.m3u8</url>
+             <epgId>COMEDYCENTRALLATINO.TV</epgId>
+         </stations>
+         <stations>
+             <name>TNT Latino</name>
+             <image>img/canales/tnt.png</image>
+             <url>http://iptvsp.xyz/live/tnt_latino/index.m3u8</url>
+             <epgId>TNTLATINO.TV</epgId>
+         </stations>
+         <stations>
+             <name>TNT Series</name>
+             <image>img/canales/tnt.png</image>
+             <url>http://iptvsp.xyz/live/tnt_series/index.m3u8</url>
+             <epgId>TNTSERIES.TV</epgId>
+         </stations>
+         <stations>
+             <name>Studio Universal</name>
+             <image>img/canales/.png</image>
+             <url>http://iptvsp.xyz/live/studio_universal/index.m3u8</url>
+             <epgId>STUDIOUNIVERSAL.TV</epgId>
+         </stations>
+         <stations>
+             <name>SyFy Latino</name>
+             <image>img/canales/syfy.png</image>
+             <url>http://iptvsp.xyz/live/syfy_latino/index.m3u8</url>
+             <epgId>SYFYLATINO.TV</epgId>
+         </stations>
+         <stations>
+             <name>Sony Latino</name>
+             <image>img/canales/.png</image>
+             <url>http://iptvsp.xyz/live/sony_latino/index.m3u8</url>
+             <epgId>SONYLATINO.TV</epgId>
+         </stations>
+         <stations>
+             <name>FXM</name>
+             <image>img/canales/.png</image>
+             <url>http://iptvsp.xyz/live/fxm/index.m3u8</url>
+             <epgId>FXM.TV</epgId>
+         </stations>
+         <stations>
+             <name>National Geographic latino</name>
+             <image>img/canales/natgeo.png</image>
+             <url>http://iptvsp.xyz/live/national_geographic_latino/index.m3u8</url>
+             <epgId>NATIONALGEOGRAPHICLATINO.TV</epgId>
+         </stations>
+         <stations>
+             <name>NatGeo Kids</name>
+             <image>img/canales/natgeo.png</image>
+             <url>http://iptvsp.xyz/live/natgeo_kids/index.m3u8</url>
+             <epgId>NATGEOKIDS.TV</epgId>
+         </stations>
+         <stations>
+             <name>Natgeo widl latino</name>
+             <image>img/canales/natwild.png</image>
+             <url>http://iptvsp.xyz/live/natgeo_widl_latino/index.m3u8</url>
+             <epgId>.TV</epgId>
+         </stations>
+         <stations>
+             <name>History</name>
+             <image>img/canales/historia.png</image>
+             <url>http://iptvsp.xyz/live/history/index.m3u8</url>
+             <epgId>HISTORY.TV</epgId>
+         </stations>
+         <stations>
+             <name>Univision</name>
+             <image>img/canales/.png</image>
+             <url>http://iptvsp.xyz/live/univision/index.m3u8</url>
+             <epgId>.TV</epgId>
+         </stations>
+         <stations>
+             <name>Discovery Channel Latino</name>
+             <image>img/canales/dchanel.png</image>
+             <url>http://iptvsp.xyz/live/discovery_channel_latino/index.m3u8</url>
+             <epgId>.TV</epgId>
+         </stations>
+         <stations>
+             <name>Discovery TLC</name>
+             <image>img/canales/dchanel.png</image>
+             <url>http://iptvsp.xyz/live/discovery_tlc/index.m3u8</url>
+             <epgId>.TV</epgId>
+         </stations>
+         <stations>
+             <name>Discovery HH</name>
+             <image>img/canales/dchanel.png</image>
+             <url>http://iptvsp.xyz/live/discovery_hh/index.m3u8</url>
+             <epgId>.TV</epgId>
+         </stations>
+         <stations>
+             <name>Discovery Theater</name>
+             <image>img/canales/dchanel.png</image>
+             <url>http://iptvsp.xyz/live/discovery_theater/index.m3u8</url>
+             <epgId>.TV</epgId>
+         </stations>
+         <stations>
+             <name>Discovery Turbo</name>
+             <image>img/canales/dchanel.png</image>
+             <url>http://iptvsp.xyz/live/discovery_turbo/index.m3u8</url>
+             <epgId>.TV</epgId>
+         </stations>
+         <stations>
+             <name>Discovery Kids</name>
+             <image>img/canales/dchanel.png</image>
+             <url>http://iptvsp.xyz/live/discovery_kids/index.m3u8</url>
+             <epgId>.TV</epgId>
+         </stations>
+         <stations>
+             <name>Discovery Civilizacion</name>
+             <image>img/canales/dchanel.png</image>
+             <url>http://iptvsp.xyz/live/discovery_civilizacion/index.m3u8</url>
+             <epgId>.TV</epgId>
+         </stations>
+         <stations>
+             <name>Discovery Science</name>
+             <image>img/canales/dsciencie.png</image>
+             <url>http://iptvsp.xyz/live/discovery_science/index.m3u8</url>
+             <epgId>.TV</epgId>
+         </stations>
+         <stations>
+             <name>Discovery World</name>
+             <image>img/canales/dchanel.png</image>
+             <url>http://iptvsp.xyz/live/discovery_world/index.m3u8</url>
+             <epgId>.TV</epgId>
+         </stations>
+         <stations>
+             <name>ESPN 1</name>
+             <image>img/canales/espn1.png</image>
+             <url>http://iptvsp.xyz/live/espn_1/index.m3u8</url>
+             <epgId>.TV</epgId>
+         </stations>
+         <stations>
+             <name>ESPN 2</name>
+             <image>img/canales/espn2.png</image>
+             <url>http://iptvsp.xyz/live/espn_2/index.m3u8</url>
+             <epgId>.TV</epgId>
+         </stations>
+         <stations>
+             <name>ESPN 3</name>
+             <image>img/canales/espn3.png</image>
+             <url>http://iptvsp.xyz/live/espn_3/index.m3u8</url>
+             <epgId>.TV</epgId>
+         </stations>
+         <stations>
+             <name>Directv Sports</name>
+             <image>img/canales/directsport.png</image>
+             <url>http://iptvsp.xyz/live/directv_sports/index.m3u8</url>
+             <epgId>.TV</epgId>
+         </stations>
+         <stations>
+             <name>Directv Sport 2</name>
+             <image>img/canales/directsport.png</image>
+             <url>http://iptvsp.xyz/live/directv_sport_2/index.m3u8</url>
+             <epgId>.TV</epgId>
+         </stations>
+         <stations>
+             <name>Club MTV</name>
+             <image>img/canales/mtv.png</image>
+             <url>http://iptvsp.xyz/live/club_mtv/index.m3u8</url>
+             <epgId>.TV</epgId>
+         </stations>
+         <stations>
+             <name>MTV Hits</name>
+             <image>img/canales/mtv.png</image>
+             <url>http://iptvsp.xyz/live/mtv_hits/index.m3u8</url>
+             <epgId>.TV</epgId>
+         </stations>
+         <stations>
+             <name>MTV Base</name>
+             <image>img/canales/mtv.png</image>
+             <url>http://iptvsp.xyz/live/mtv_base/index.m3u8</url>
+             <epgId>.TV</epgId>
+         </stations>
+         <stations>
+             <name>MTV Rock</name>
+             <image>img/canales/mtv.png</image>
+             <url>http://iptvsp.xyz/live/mtv_rock/index.m3u8</url>
+             <epgId>.TV</epgId>
+         </stations>
+         <stations>
+             <name>TYC Sports</name>
+             <image>img/canales/tycsport.png</image>
+             <url>http://iptvsp.xyz/live/tyc_sports/index.m3u8</url>
+             <epgId>.TV</epgId>
+         </stations>
+         <stations>
+             <name>CDF</name>
+             <image>img/canales/cdf.png</image>
+             <url>http://iptvsp.xyz/live/cdf/index.m3u8</url>
+             <epgId>.TV</epgId>
+         </stations>
+         <stations>
+             <name>Win Sport</name>
+             <image>img/canales/winsport.png</image>
+             <url>http://iptvsp.xyz/live/win_sport/index.m3u8</url>
+             <epgId>.TV</epgId>
+         </stations>
+         <stations>
+             <name>Telenovelas</name>
+             <image>img/canales/.png</image>
+             <url>http://iptvsp.xyz/live/telenovelas/index.m3u8</url>
+             <epgId>.TV</epgId>
+         </stations>
+         <stations>
+             <name>Caracol</name>
+             <image>img/canales/.png</image>
+             <url>http://iptvsp.xyz/live/caracol/index.m3u8</url>
+             <epgId>.TV</epgId>
+         </stations>
+         <stations>
+             <name>Canal13 Chile</name>
+             <image>img/canales/.png</image>
+             <url>http://iptvsp.xyz/live/canal13_chile/index.m3u8</url>
+             <epgId>.TV</epgId>
+         </stations>
+         <stations>
+             <name>La Red Chile</name>
+             <image>img/canales/.png</image>
+             <url>http://iptvsp.xyz/live/la_red_chile/index.m3u8</url>
+             <epgId>.TV</epgId>
+         </stations>
+         <stations>
+             <name>Chilevision</name>
+             <image>img/canales/.png</image>
+             <url>http://iptvsp.xyz/live/chilevision/index.m3u8</url>
+             <epgId>.TV</epgId>
+         </stations>
+         <stations>
+             <name>Movistar Laliga SD</name>
+             <image>img/canales/mliga.png</image>
+             <url>http://iptvsp.xyz/live/movistar_laliga_sd/index.m3u8</url>
+             <epgId>MOVISTARLALIGA.TV</epgId>
+         </stations>
+     </groups>
+     <groups>
+         <name>Adultos</name>
+         <image></image>
+         <stations>
+             <name>Playboy TV</name>
+             <image>img/canales/playboy.png</image>
+             <url>http://iptvsp.xyz/live/playboy/index.m3u8</url>
+             <epgId>PlayboyTV.TV</epgId>
+         </stations>
+         <stations>
+             <name>Hot</name>
+             <image>img/canales/hot.png</image>
+             <url>http://iptvsp.xyz/live/hot/index.m3u8</url>
+             <epgId>Hot.TV</epgId>
+         </stations>
+         <stations>
+             <name>Dorcel</name>
+             <image>img/canales/dorcel.png</image>
+             <url>http://iptvsp.xyz/live/dorcell/index.m3u8</url>
+             <epgId>Dorcel.TV</epgId>
+         </stations>
+         <stations>
+             <name>Blue Hustler</name>
+             <image>img/canales/hustler.png</image>
+             <url>http://iptvsp.xyz/live/blue_hustler/index.m3u8</url>
+             <epgId>BlueHustler.TV</epgId>
+         </stations>
+         <stations>
+             <name>Redlight</name>
+             <image>img/canales/redlight.png</image>
+             <url>http://iptvsp.xyz/live/redlight/index.m3u8</url>
+             <epgId>Redlight.TV</epgId>
+         </stations>
+         <stations>
+             <name>Penthouse</name>
+             <image>img/canales/pent.png</image>
+             <url>http://iptvsp.xyz/live/penthouse/index.m3u8</url>
+             <epgId>Penthouse.TV</epgId>
+         </stations>
+         <stations>
+             <name>Penthouse 1</name>
+             <image>img/canales/pent.png</image>
+             <url>http://iptvsp.xyz/live/dusk/index.m3u8</url>
+             <epgId>Penthouse1.TV</epgId>
+         </stations>
+         <stations>
+             <name>Hustler</name>
+             <image>img/canales/hustler.png</image>
+             <url>http://iptvsp.xyz/live/hustler/index.m3u8</url>
+             <epgId>Hustler.TV</epgId>
+         </stations>
+         <stations>
+             <name>Brazzers</name>
+             <image>img/canales/brazzers.png</image>
+             <url>http://iptvsp.xyz/live/brazzers/index.m3u8</url>
+             <epgId>Brazzers.TV</epgId>
+         </stations>
+         <stations>
+             <name>Red XXX</name>
+             <image>img/canales/red_xxx.png</image>
+             <url>http://iptvsp.xyz/live/alba_xxx/index.m3u8</url>
+             <epgId>RedXXX.TV</epgId>
+         </stations>
+         <stations>
+             <name>Venus</name>
+             <image>img/canales/venus.png</image>
+             <url>http://iptvsp.xyz/live/venus/index.m3u8</url>
+             <epgId>Venus.TV</epgId>
+         </stations>
+         <stations>
+             <name>Private</name>
+             <image>img/canales/red_xxx.png</image>
+             <url>http://iptvsp.xyz/live/private/index.m3u8</url>
+             <epgId>Private.TV</epgId>
+         </stations>
+         <stations>
+             <name>Vip Big Ass</name>
+             <image>img/canales/red_xxx.png</image>
+             <url>http://cdn.adultiptv.net/bigass.m3u8</url>
+             <epgId>VipBigAss.TV</epgId>
+         </stations>
+         <stations>
+             <name>Vip Big Dick</name>
+             <image>img/canales/red_xxx.png</image>
+             <url>http://cdn.adultiptv.net/bigdick.m3u8</url>
+             <epgId>VipBigDick.TV</epgId>
+         </stations>
+         <stations>
+             <name>Vip Big Tits</name>
+             <image>img/canales/red_xxx.png</image>
+             <url>http://cdn.adultiptv.net/bigtits.m3u8</url>
+             <epgId>VipBigTits.TV</epgId>
+         </stations>
+         <stations>
+             <name>Vip Blowjob</name>
+             <image>img/canales/red_xxx.png</image>
+             <url>http://cdn.adultiptv.net/blowjob.m3u8</url>
+             <epgId>VipBlowjob.TV</epgId>
+         </stations>
+         <stations>
+             <name>Vip Cuckold</name>
+             <image>img/canales/red_xxx.png</image>
+             <url>http://cdn.adultiptv.net/cuckold.m3u8</url>
+             <epgId>VipCuckold.TV</epgId>
+         </stations>
+         <stations>
+             <name>Vip Fetish</name>
+             <image>img/canales/red_xxx.png</image>
+             <url>http://cdn.adultiptv.net/fetish.m3u8</url>
+             <epgId>VipFetish.TV</epgId>
+         </stations>
+         <stations>
+             <name>Vip Hardcore</name>
+             <image>img/canales/red_xxx.png</image>
+             <url>http://cdn.adultiptv.net/hardcore.m3u8</url>
+             <epgId>VipHardcore.TV</epgId>
+         </stations>
+         <stations>
+             <name>Vip Interracial</name>
+             <image>img/canales/red_xxx.png</image>
+             <url>http://cdn.adultiptv.net/interracial.m3u8</url>
+             <epgId>VipInterracial.TV</epgId>
+         </stations>
+         <stations>
+             <name>Vip Latina</name>
+             <image>img/canales/red_xxx.png</image>
+             <url>http://cdn.adultiptv.net/latina.m3u8</url>
+             <epgId>VipLatina.TV</epgId>
+         </stations>
+         <stations>
+             <name>Vip Milf</name>
+             <image>img/canales/red_xxx.png</image>
+             <url>http://cdn.adultiptv.net/milf.m3u8</url>
+             <epgId>VipMilf.TV</epgId>
+         </stations>
+         <stations>
+             <name>Vip Pornstar</name>
+             <image>img/canales/red_xxx.png</image>
+             <url>http://cdn.adultiptv.net/pornstar.m3u8</url>
+             <epgId>VipPornstar.TV</epgId>
+         </stations>
+         <stations>
+             <name>Vip Pov</name>
+             <image>img/canales/red_xxx.png</image>
+             <url>http://cdn.adultiptv.net/pov.m3u8</url>
+             <epgId>VipPov.TV</epgId>
+         </stations>
+         <stations>
+             <name>Vip Russian</name>
+             <image>img/canales/red_xxx.png</image>
+             <url>http://cdn.adultiptv.net/russian.m3u8</url>
+             <epgId>VipRussian.TV</epgId>
+         </stations>
+         <stations>
+             <name>Vip Teen</name>
+             <image>img/canales/red_xxx.png</image>
+             <url>http://cdn.adultiptv.net/teen.m3u8</url>
+             <epgId>VipTeen.TV</epgId>
+         </stations>
+         <stations>
+             <name>Vip Threesome</name>
+             <image>img/canales/red_xxx.png</image>
+             <url>http://cdn.adultiptv.net/threesome.m3u8</url>
+             <epgId>VipThreesome.TV</epgId>
+         </stations>
+     </groups>
+ </root>
