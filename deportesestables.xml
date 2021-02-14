@@ -3,16 +3,10 @@
 	
 
 
-<item>
-<title> M.Liga HD </title> 
-<link>http://127.0.0.1:41455/Content/DAB57FBCF28DDC89442402B699C9CA48F9865B3D-0.mkv</link>
-<thumbnail>https://assets.laliga.com/assets/logos/laliga-v/laliga-v-1200x1200.jpg</thumbnail>
-<fanart></fanart>
-</item>
 
 <item>
 <title> M.Liga HD </title> 
-<link>https://dailysportbucket50.s3.eu-west-3.amazonaws.com/1/1.m3u8</link>
+<link>https://dailysportbucket80.s3.eu-west-3.amazonaws.com/1/1.m3u8</link>
 <thumbnail>https://assets.laliga.com/assets/logos/laliga-v/laliga-v-1200x1200.jpg</thumbnail>
 <fanart></fanart>
 </item>
