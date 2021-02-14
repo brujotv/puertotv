@@ -13,35 +13,21 @@
 
 <item>
 <title> M.Liga HD op 2</title> 
-<link>https://dailysportbucket50.s3.eu-west-3.amazonaws.com/13/13.m3u8</link>
-<thumbnail>https://assets.laliga.com/assets/logos/laliga-v/laliga-v-1200x1200.jpg</thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title> M.Liga HD op 3</title> 
-<link>http://emb.x148097.apl23.me/player/live.php?id=148097&w=728&h=480</link>
-<thumbnail>https://assets.laliga.com/assets/logos/laliga-v/laliga-v-1200x1200.jpg</thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title> M.Liga1 HD </title>        
-<link>http://uv2.sinantena.live:9966/range44/DOcHBXwDmy/598</link>
+<link>https://dailysportbucket80.s3.eu-west-3.amazonaws.com/2/2.m3u8</link>
 <thumbnail>https://assets.laliga.com/assets/logos/laliga-v/laliga-v-1200x1200.jpg</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
 <title> Bein ñ</title>        
-<link>https://dailysportbucket80.s3.eu-west-3.amazonaws.com/2/2.m3u8</link>
+<link>https://dailysportbucket80.s3.eu-west-3.amazonaws.com/3/3.m3u8</link>
 <thumbnail>https://i.pinimg.com/originals/ba/6d/2c/ba6d2cd52d20ab906ab39fa6af4c242d.jpg</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
 <title> La liga SmartBank </title>        
-<link>https://dailysportbucket40.s3.eu-west-3.amazonaws.com/7/7.m3u8</link>
+<link>https://dailysportbucket80.s3.eu-west-3.amazonaws.com/7/7.m3u8</link>
 <thumbnail>https://i.imgur.com/MPfpjze.png</thumbnail>
 <fanart></fanart>
 </item>
