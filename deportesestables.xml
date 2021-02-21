@@ -2,11 +2,18 @@
 
 	
 
-
+<item>
+<title>[COLOR lime]•[/COLOR] TV </title>
+<thumbnail>https://i.imgur.com/97jcZV9.png/picture?width=320&height=320</thumbnail>
+<fanart></fanart>
+<link>http://ignoreme</link>
+<externallink>https://raw.githubusercontent.com/brujotv/puertotv/master/tdttv.xml</externallink>
+</item>
 
 <item>
 <title> M.Liga HD </title> 
-<link>https://raw.githubusercontent.com/brujotv/puertotv/master/td.m8u3</link>
+<link>http://ignoreme</link>
+<externallink>https://raw.githubusercontent.com/brujotv/puertotv/master/td.m8u3</externallink>
 <thumbnail>https://assets.laliga.com/assets/logos/laliga-v/laliga-v-1200x1200.jpg</thumbnail>
 <fanart></fanart>
 </item>
