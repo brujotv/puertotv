@@ -78,22 +78,31 @@ https://rtvelivestream.akamaized.net/24h_dvr.m3u8
 http://127.0.0.1:6878/ace/m/ae2c30af1866637cfcadcd88bcf88c0d7eebbc27/f528764d624db129b32c21fbca0cb8d6.m3u8
 
 #EXTINF:-1 tvg-id="0.es" tvg-logo="https://i.imgur.com/VCJKsMa.jpg/picture?width=320&height=320" group-title="TDT España",#0 
-http://uv2.sinantena.live:9966/range44/DOcHBXwDmy/490
+https://ep95juyqjpyk764.ezcdn462.net:8443/hls/12fxk.m3u8?s=NGxYqQl501GzjTdd4ghAhw&e=1613930770
 
-#EXTINF:-1 tvg-id="M.ESTRENOS HD" tvg-logo="https://raw.githubusercontent.com/pakito71/Logos/master/estrenos.png?width=320&height=320" group-title="TDT España",M.Estrenos HD
-http://uv2.sinantena.live:9966/range44/DOcHBXwDmy/506
+#EXTINF:-1 tvg-id="0.es" tvg-logo="https://i.imgur.com/VCJKsMa.jpg/picture?width=320&height=320" group-title="TDT España",#0 
+http://uv2.sinantena.live:9966/range44/DOcHBXwDmy/490
 
 #EXTINF:-1 tvg-id="M.ESTRENOS HD" tvg-logo="https://raw.githubusercontent.com/pakito71/Logos/master/estrenos.png?width=320&height=320" group-title="TDT España",M.Estrenos HD
 https://ep95juyqjpyk764.ezcdn462.net:8443/hls/yahigmfat.m3u8?s=vrDh_PjgQ-Z_SrHE8cBY8A&e=1613929208
 
-#EXTINF:-1 tvg-id="M. ACCION HD" tvg-logo="https://raw.githubusercontent.com/pakito71/Logos/master/accion.png?width=320&height=320" group-title="TDT España",M. Accion 
-http://uv2.sinantena.live:9966/range44/DOcHBXwDmy/510
+#EXTINF:-1 tvg-id="M.ESTRENOS HD" tvg-logo="https://raw.githubusercontent.com/pakito71/Logos/master/estrenos.png?width=320&height=320" group-title="TDT España",M.Estrenos HD
+http://uv2.sinantena.live:9966/range44/DOcHBXwDmy/506
 
 #EXTINF:-1 tvg-id="M. ACCION HD" tvg-logo="https://raw.githubusercontent.com/pakito71/Logos/master/accion.png?width=320&height=320" group-title="TDT España",M. Accion 
 https://ep95juyqjpyk764.ezcdn462.net:8443/hls/kybasi1635v6.m3u8?s=FxwBGekRxt2R3P-WcBLyZg&e=1613929364
 
+#EXTINF:-1 tvg-id="M. ACCION HD" tvg-logo="https://raw.githubusercontent.com/pakito71/Logos/master/accion.png?width=320&height=320" group-title="TDT España",M. Accion 
+http://uv2.sinantena.live:9966/range44/DOcHBXwDmy/510
+
+#EXTINF:-1 tvg-id="M.COMEDIA HD" tvg-logo="https://raw.githubusercontent.com/pakito71/Logos/master/comedia.png?width=320&height=320" group-title="TDT España",M. Comedia
+https://ep95juyqjpyk764.ezcdn462.net:8443/hls/m9psjyy4b7p.m3u8?s=HenAXCWg3CkMeMcSHdf8TQ&e=1613930697
+
 #EXTINF:-1 tvg-id="M.COMEDIA HD" tvg-logo="https://raw.githubusercontent.com/pakito71/Logos/master/comedia.png?width=320&height=320" group-title="TDT España",M. Comedia
 http://uv2.sinantena.live:9966/range44/DOcHBXwDmy/512
+
+#EXTINF:-1 tvg-ID="M. DRAMA HD" tvg-name="ES: M. DRAMA HD" tvg-logo="http://www.movistarplus.es/recorte/m-NEO/canal/CPCOLE.png" group-title="M. Espana",M. DRAMA 
+https://ep95juyqjpyk764.ezcdn462.net:8443/hls/ngw10prw.m3u8?s=e9KR11B8oS6E_IMhO4U-ig&e=1613930741
 
 #EXTINF:-1 tvg-ID="M. DRAMA HD" tvg-name="ES: M. DRAMA HD" tvg-logo="http://www.movistarplus.es/recorte/m-NEO/canal/CPCOLE.png" group-title="M. Espana",M. DRAMA 
 http://uv2.sinantena.live:9966/range44/DOcHBXwDmy/508
