@@ -20,9 +20,6 @@ http://uv2.sinantena.live:9966/range44/DOcHBXwDmy/497
 #EXTINF:-1 tvg-id="Telecinco HD" tvg-logo="https://graph.facebook.com/tele5/picture?width=320&height=320" group-title="TDT España",Telecinco HD
 http://uv2.sinantena.live:9966/range44/DOcHBXwDmy/488
 
-#EXTINF:-1 tvg-id="Telecinco HD" tvg-logo="https://graph.facebook.com/tele5/picture?width=320&height=320" group-title="TDT España",Telecinco HD
-https://live.telecinco.es/hls/live/2004101/telecinco/bitrate_4.m3u8
-
 #EXTINF:-1 tvg-id="LA SEXTA HD" tvg-logo="https://graph.facebook.com/laSexta/picture?width=320&height=320" group-title="TDT España",laSexta HD
 http://uv2.sinantena.live:9966/range44/DOcHBXwDmy/492
 
@@ -88,6 +85,9 @@ http://uv2.sinantena.live:9966/range44/DOcHBXwDmy/506
 
 #EXTINF:-1 tvg-id="M. ACCION HD" tvg-logo="https://raw.githubusercontent.com/pakito71/Logos/master/accion.png?width=320&height=320" group-title="TDT España",M. Accion 
 http://uv2.sinantena.live:9966/range44/DOcHBXwDmy/510
+
+#EXTINF:-1 tvg-id="M. ACCION HD" tvg-logo="https://raw.githubusercontent.com/pakito71/Logos/master/accion.png?width=320&height=320" group-title="TDT España",M. Accion 	
+https://ep95juyqjpyk764.ezcdn462.net:8443/hls/yahigmfat.m3u8?s=vrDh_PjgQ-Z_SrHE8cBY8A&e=1613929208
 
 #EXTINF:-1 tvg-id="M.COMEDIA HD" tvg-logo="https://raw.githubusercontent.com/pakito71/Logos/master/comedia.png?width=320&height=320" group-title="TDT España",M. Comedia
 http://uv2.sinantena.live:9966/range44/DOcHBXwDmy/512
