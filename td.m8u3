@@ -1,5 +1,9 @@
 #EXTM3U 
 
+
+#EXTINF:-1 tvg-id="M. LaLiga FHD" tvg-logo="https://assets.laliga.com/assets/logos/laliga-v/laliga-v-1200x1200.jpg?width=320&height=320" group-title="DEPORTES",M.liga
+https://dailylast0.s3.eu-west-3.amazonaws.com/1/1.m3u8
+
 #EXTINF:-1 tvg-id="M. LaLiga FHD" tvg-logo="https://assets.laliga.com/assets/logos/laliga-v/laliga-v-1200x1200.jpg?width=320&height=320" group-title="DEPORTES",M.liga
 https://ep95juyqjpyk764.ezcdn462.net:8443/hls/eviy3tp9sa8v04t.m3u8?s=1S02P2RUAvXygKv7LVqoIw&e=1613923365
 
