@@ -167,16 +167,19 @@ http://uv2.sinantena.live:9966/range44/DOcHBXwDmy/597
 #EXTINF:-1 tvg-id="LALIGATV BAR HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/LIGBAR.png?width=320&height=320" group-title="DEPORTES",M.liga bar FHD
 http://uv2.sinantena.live:9966/range44/DOcHBXwDmy/598
 
-#EXTINF:-1 tvg-id="M. LaLiga FHD" tvg-logo="https://assets.laliga.com/assets/logos/laliga-v/laliga-v-1200x1200.jpg?width=320&height=320" group-title="DEPORTES",M.liga wenger.stream
+#EXTINF:-1 tvg-id="M. LaLiga FHD" tvg-logo="https://assets.laliga.com/assets/logos/laliga-v/laliga-v-1200x1200.jpg?width=320&height=320" group-title="DEPORTES",M.liga 
 https://ep95juyqjpyk764.ezcdn462.net:8443/hls/eviy3tp9sa8v04t.m3u8?s=1S02P2RUAvXygKv7LVqoIw&e=1613923365
+
+#EXTINF:-1 tvg-id="M. LaLiga FHD" tvg-logo="https://assets.laliga.com/assets/logos/laliga-v/laliga-v-1200x1200.jpg?width=320&height=320" group-title="DEPORTES",M.liga 
 https://ep95juyqjpyk764.ezcdn462.net:8443/hls/eviy3tp9sa8v04t.m3u8?s=M5ozWbdCgE8R2MVPsb3Kyg&e=1613923467
+
+#EXTINF:-1 tvg-id="M. LaLiga FHD" tvg-logo="https://assets.laliga.com/assets/logos/laliga-v/laliga-v-1200x1200.jpg?width=320&height=320" group-title="DEPORTES",M.liga 
 https://ep95juyqjpyk764.ezcdn462.net:8443/hls/eviy3tp9sa8v04t.m3u8?s=cHl-iiheEGDz0RMw1PETDQ&e=1613923556
 
 #EXTINF:-1 tvg-id="M. LaLiga FHD" tvg-logo="https://assets.laliga.com/assets/logos/laliga-v/laliga-v-1200x1200.jpg?width=320&height=320" group-title="DEPORTES",M.liga sportzonline
 
 
 #EXTINF:-1 tvg-id="M. LaLiga FHD" tvg-logo="https://assets.laliga.com/assets/logos/laliga-v/laliga-v-1200x1200.jpg?width=320&height=320" group-title="DEPORTES",M.liga elixx
-
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/MPfpjze.png?width=320&height=320" group-title="DEPORTES",M.liga SmartBank
