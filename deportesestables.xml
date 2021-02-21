@@ -2,82 +2,12 @@
 
 	
 
-<item>
-<title>[COLOR lime]•[/COLOR] TV </title>
-<thumbnail>https://i.imgur.com/97jcZV9.png/picture?width=320&height=320</thumbnail>
-<fanart></fanart>
-<link>http://ignoreme</link>
-<externallink>https://raw.githubusercontent.com/brujotv/puertotv/master/tdttv.xml</externallink>
-</item>
 
 <item>
 <title> M.Liga HD </title> 
 <link>http://ignoreme</link>
 <externallink>https://raw.githubusercontent.com/brujotv/puertotv/master/td.m8u3</externallink>
 <thumbnail>https://assets.laliga.com/assets/logos/laliga-v/laliga-v-1200x1200.jpg</thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title> Bein ñ</title>        
-<link>https://dailysportbucket80.s3.eu-west-3.amazonaws.com/3/3.m3u8</link>
-<thumbnail>https://i.pinimg.com/originals/ba/6d/2c/ba6d2cd52d20ab906ab39fa6af4c242d.jpg</thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title> La liga SmartBank </title>        
-<link>https://dailybar3.s3.eu-west-3.amazonaws.com/7/7.m3u8</link>
-<thumbnail>https://i.imgur.com/MPfpjze.png</thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title> M.Liga de Campeones </title>        
-<link>https://dailysportbucket40.s3.eu-west-3.amazonaws.com/8/8.m3u8</link>
-<thumbnail>https://www.movistarplus.es/recorte/m-NEO/canal/CHAPIO.png</thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title> M.Vamos</title>        
-<link>https://dailybar3.s3.eu-west-3.amazonaws.com/15/15.m3u8</link>
-<thumbnail>https://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/328x220/canal-v-328x220.png</thumbnail>
-<fanart></fanart>
-</item>	
-
-<item>
-<title> M.Deportes</title>        
-<link>https://dailysportbucket40.s3.eu-west-3.amazonaws.com/16/16.m3u8</link>
-<thumbnail>https://i.imgur.com/JUwNUhT.png</thumbnail>
-<fanart></fanart>
-</item>	
-
-<item>
-<title> DAZN </title>        
-<link>https://dailybar3.s3.eu-west-3.amazonaws.com/10/10.m3u8</link>
-<thumbnail>https://d1sgwhnao7452x.cloudfront.net/dazn-og.jpg</thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title> Moto GP </title>        
-<link>https://cdn.dailysport.live/20/20.m3u8</link>
-<thumbnail>https://i.imgur.com/RIyqluP.png</thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title> Formula 1</title>        
-<link>https://dailycl4.s3-eu-west-1.amazonaws.com/10/10.m3u8</link>
-<thumbnail>https://www.movistarplus.es/recorte/m-NEO/canal/MVF1.png</thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title> Gol tv </title>        
-<link>https://d14yn9755o946w.cloudfront.net/Gol_24h/gol_24h/gol_24hhigh.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9kMTR5bjk3NTVvOTQ2dy5jbG91ZGZyb250Lm5ldC9Hb2xfMjRoL2dvbF8yNGgvZ29sXzI0aGhpZ2gubTN1OCIsIkNvbmRpdGlvbiI6eyJJcEFkZHJlc3MiOnsiQVdTOlNvdXJjZUlwIjoiOTUuMTYuMjQyLjU5LzMyIn0sIkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNjA2MTI3MTE5fX19XX0_&Signature=EQkybpE6nARIwL8cREr3kxiJwRQ335WUDHLv2hq84wtUYa3JiUshuok9U~rsk93aygZeP4-z4CxJBbO~xxw~9SSxx-cj2b7kSWbJnsxkrNlzJYhBtBhveodoe6xEHNfdGRY9Ud6pskYqwMtw-Ksc-FAxXp-ps13SHqSw28sbsl~rXChlxgA-Sm7JflR8r63kUKFXafAu7j6doGuXkkbqJ4bnATaYZo7downqn32UIQXQF9rWktTpSdVGWNfhdzIkWZcGTiQ7eFaW5511UvNCOY4G~hsdRP1dvH74eNnewkPsRlFlZnM57WXyfa2rn~v0U0k5CISh~rpMqEYbvHjP6g__&Key-Pair-Id=APKAIAZ5PGRVVQBQUQTA</link>
-<thumbnail>http://graph.facebook.com/goltv.es/picture</thumbnail>
 <fanart></fanart>
 </item>
 
