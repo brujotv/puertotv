@@ -19,21 +19,20 @@ https://ep95juyqjpyk764.ezcdn462.net:8443/hls/659emi1n06e.m3u8?s=ASUUFoMD9tT4rHz
 #EXTINF:-1 tvg-id="M. LaLiga FHD" tvg-logo="https://assets.laliga.com/assets/logos/laliga-v/laliga-v-1200x1200.jpg?width=320&height=320" group-title="DEPORTES",M.liga 5
 http://62.182.81.67:8081/live/laliga.m3u8?e=1613918240&st=tIKLzoHzWd7y5I0Bu9v0MQ
 
-
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/MPfpjze.png?width=320&height=320" group-title="DEPORTES",M.liga SmartBank
 https://ep95juyqjpyk764.ezcdn462.net:8443/hls/nx7s8.m3u8?s=oYq-HIPKn2u5rgrnHeA1Rw&e=1613930203
 
 #EXTINF:-1 tvg-id="M.LCAMPEONES HD#" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAPIO.png?width=320&height=320" group-title="DEPORTES",M.Liga de Campeones 
-https://ep95juyqjpyk764.ezcdn462.net:8443/hls/es7vp53q9k397.m3u8?s=SwIe4OEtDH-vYmXUwE5R9g&e=1613930265
+https://jwa6auusyxfh7jdu.ezcdn462.net:8443/hls/es7vp53q9k397.m3u8?s=hX1kbWHWxAptw6TlHBECvA&e=1614125201
 
 #EXTINF:-1 tvg-id="M. DEPORTE HD" tvg-logo="https://i.imgur.com/JUwNUhT.png?width=320&height=320" group-title="DEPORTES",M.Deportes
-https://ep95juyqjpyk764.ezcdn462.net:8443/hls/u8sutdeb.m3u8?s=i1Us18pmZuhcd4OICDMdfQ&e=1613930313
+https://jwa6auusyxfh7jdu.ezcdn462.net:8443/hls/u8sutdeb.m3u8?s=7-oxw-0RWzLMOuD7kUrHsQ&e=1614125259
 
 #EXTINF:-1 tvg-id="M. LaLiga FHD" tvg-logo="https://i.pinimg.com/564x/ba/6d/2c/ba6d2cd52d20ab906ab39fa6af4c242d.jpg?width=320&height=320" group-title="DEPORTES",Bein Ñ
-https://ep95juyqjpyk764.ezcdn462.net:8443/hls/d76woup38t7p.m3u8?s=6w9Z8LQWvq4KkrDQp3iiWQ&e=1613929938
+https://jwa6auusyxfh7jdu.ezcdn462.net:8443/hls/d76woup38t7p.m3u8?s=cz5UuVfppZafzMW7xrgifQ&e=1614125336
 
 #EXTINF:-1 tvg-id="#VAMOS" tvg-logo="https://i.imgur.com/tas7PmQ.png?width=320&height=320" group-title="DEPORTES",M.Vamos 
-https://ep95juyqjpyk764.ezcdn462.net:8443/hls/d2x27uc0svfu.m3u8?s=TllYfxLsHoVwEHkrtrOsRg&e=1613930141
+https://jwa6auusyxfh7jdu.ezcdn462.net:8443/hls/d2x27uc0svfu.m3u8?s=lon8pcA6c7e5py2I_3MJxg&e=1614125290
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://d1sgwhnao7452x.cloudfront.net/dazn-og.jpg?width=320&height=320" group-title="DEPORTES",dazn
 https://ep95juyqjpyk764.ezcdn462.net:8443/hls/kw7ptom.m3u8?s=GDV22H-sufFQxLAmRKTWPA&e=1613930084
