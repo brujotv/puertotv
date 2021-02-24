@@ -4,26 +4,14 @@
 #EXTINF:-1 tvg-id="M. LaLiga FHD" tvg-logo="https://assets.laliga.com/assets/logos/laliga-v/laliga-v-1200x1200.jpg?width=320&height=320" group-title="DEPORTES",M.liga
 https://dailylast0.s3.eu-west-3.amazonaws.com/1/1.m3u8
 
-#EXTINF:-1 tvg-id="M. LaLiga FHD" tvg-logo="https://assets.laliga.com/assets/logos/laliga-v/laliga-v-1200x1200.jpg?width=320&height=320" group-title="DEPORTES",M.liga 1
-https://ep95juyqjpyk764.ezcdn462.net:8443/hls/eviy3tp9sa8v04t.m3u8?s=1S02P2RUAvXygKv7LVqoIw&e=1613923365
-
-#EXTINF:-1 tvg-id="M. LaLiga FHD" tvg-logo="https://assets.laliga.com/assets/logos/laliga-v/laliga-v-1200x1200.jpg?width=320&height=320" group-title="DEPORTES",M.liga 2
-https://ep95juyqjpyk764.ezcdn462.net:8443/hls/eviy3tp9sa8v04t.m3u8?s=M5ozWbdCgE8R2MVPsb3Kyg&e=1613923467
-
-#EXTINF:-1 tvg-id="M. LaLiga FHD" tvg-logo="https://assets.laliga.com/assets/logos/laliga-v/laliga-v-1200x1200.jpg?width=320&height=320" group-title="DEPORTES",M.liga 3
-https://ep95juyqjpyk764.ezcdn462.net:8443/hls/eviy3tp9sa8v04t.m3u8?s=cHl-iiheEGDz0RMw1PETDQ&e=1613923556
-
-#EXTINF:-1 tvg-id="M. LaLiga FHD" tvg-logo="https://assets.laliga.com/assets/logos/laliga-v/laliga-v-1200x1200.jpg?width=320&height=320" group-title="DEPORTES",M.liga 4
-https://ep95juyqjpyk764.ezcdn462.net:8443/hls/659emi1n06e.m3u8?s=ASUUFoMD9tT4rHzmzisyQg&e=1613925578
-
-#EXTINF:-1 tvg-id="M. LaLiga FHD" tvg-logo="https://assets.laliga.com/assets/logos/laliga-v/laliga-v-1200x1200.jpg?width=320&height=320" group-title="DEPORTES",M.liga 5
-http://62.182.81.67:8081/live/laliga.m3u8?e=1613918240&st=tIKLzoHzWd7y5I0Bu9v0MQ
-
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/MPfpjze.png?width=320&height=320" group-title="DEPORTES",M.liga SmartBank
 https://ep95juyqjpyk764.ezcdn462.net:8443/hls/nx7s8.m3u8?s=oYq-HIPKn2u5rgrnHeA1Rw&e=1613930203
 
 #EXTINF:-1 tvg-id="M.LCAMPEONES HD#" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAPIO.png?width=320&height=320" group-title="DEPORTES",M.Liga de Campeones 
 https://3sywwtv2g647qjud.ezcdn483.net:8443/hls/es7vp53q9k397.m3u8?s=hdS-nxHklj1R5h8-jwGLzQ&e=1614217200
+
+#EXTINF:-1 tvg-id="M.LCAMPEONES HD#" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAPIO.png?width=320&height=320" group-title="DEPORTES",Liga de Campeones HD 
+https://e15.dotice.me/plyvivo/W7eFg6KkhEQ4om2n1lSA/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="M. DEPORTE HD" tvg-logo="https://i.imgur.com/JUwNUhT.png?width=320&height=320" group-title="DEPORTES",M.Deportes
 https://jwa6auusyxfh7jdu.ezcdn462.net:8443/hls/u8sutdeb.m3u8?s=7-oxw-0RWzLMOuD7kUrHsQ&e=1614125259
