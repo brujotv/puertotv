@@ -10,6 +10,9 @@ https://ep95juyqjpyk764.ezcdn462.net:8443/hls/nx7s8.m3u8?s=oYq-HIPKn2u5rgrnHeA1R
 #EXTINF:-1 tvg-id="M.LCAMPEONES HD#" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAPIO.png?width=320&height=320" group-title="DEPORTES",M.Liga de Campeones 
 https://3sywwtv2g647qjud.ezcdn483.net:8443/hls/es7vp53q9k397.m3u8?s=hdS-nxHklj1R5h8-jwGLzQ&e=1614217200
 
+#EXTINF:-1 tvg-id="M.LCAMPEONES HD#" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAPIO.png?width=320&height=320" group-title="DEPORTES",M.Liga de Campeones 
+http://62.182.85.108:8081/live/campeones.m3u8?e=1614203059&st=R-Nv2nkrWVbKUo_5JlcJ5g
+
 #EXTINF:-1 tvg-id="M.LCAMPEONES HD#" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAPIO.png?width=320&height=320" group-title="DEPORTES",Liga de Campeones HD 
 https://e15.dotice.me/plyvivo/W7eFg6KkhEQ4om2n1lSA/chunklist.m3u8
 
