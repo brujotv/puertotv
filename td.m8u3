@@ -20,7 +20,7 @@ http://91.126.141.13:1935/live/51/4000-def.m3u8
 https://3nk9kx42pn.azcdn381.net:8443/hls/qat4aem7kmh4c.m3u8?s=t8Z1THpTFN83_3emsPVXcg&e=1625357108
 
 #EXTINF:-1 tvg-id="LA SEXTA HD" tvg-logo="https://graph.facebook.com/laSexta/picture?width=320&height=320" group-title="TDT España",laSexta HD
-
+https://directo.atresmedia.com/22d90ee14575a7635427fb4f51d71842a8cba59a_1625365307/lasexta/master.m3u8
 
 #EXTINF:-1 tvg-id="NEOX" tvg-logo="https://graph.facebook.com/neox/picture?width=320&height=320" group-title="TDT España",Neox HD
 
@@ -41,7 +41,7 @@ https://3nk9kx42pn.azcdn381.net:8443/hls/qat4aem7kmh4c.m3u8?s=t8Z1THpTFN83_3emsP
 
 
 #EXTINF:-1 tvg-id="DIVINITY" tvg-logo="https://graph.facebook.com/divinityes/picture?width=320&height=320" group-title="TDT España",Divinity HD
-https://live.divinity.es/hls/live/2005335/divinity/master.m3u8?hdnts=st=1625335806~exp=1625335880~ip=154.47.140.227~acl=/*~hmac=3ebe3d3dfd2dccdd465234a81aeff8290768152af550f64e6c95cd9101a06ea6
+https://live.divinity.es/hls/live/2005335/divinity/bitrate_4.m3u8
 
 #EXTINF:-1 tvg-id="BE MAD" tvg-logo="https://graph.facebook.com/BeMadTV/picture?width=320&height=320" group-title="TDT España",Be Mad HD
 
