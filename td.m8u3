@@ -41,7 +41,7 @@ http://uv2.sinantena.live:9966/range44/DOcHBXwDmy/550
 
 
 #EXTINF:-1 tvg-id="DIVINITY" tvg-logo="https://graph.facebook.com/divinityes/picture?width=320&height=320" group-title="TDT España",Divinity HD
-http://uv2.sinantena.live:9966/range44/DOcHBXwDmy/13980
+https://live.mitele.es/hls/live/2005335/divinity/bitrate_4.m3u8
 
 #EXTINF:-1 tvg-id="BE MAD" tvg-logo="https://graph.facebook.com/BeMadTV/picture?width=320&height=320" group-title="TDT España",Be Mad HD
 
@@ -65,7 +65,7 @@ http://91.126.141.201:1935/live/cosmoHD/chunklist_w210990477.m3u8
 http://91.126.141.12:1935/live/discoverymax/playlist.m3u8
 
 #EXTINF:-1 tvg-id="BOING" tvg-logo="https://i.imgur.com/ux2SEpi.jpg/picture?width=320&height=320" group-title="TDT España",Boing
-http://uv2.sinantena.live:9966/range44/DOcHBXwDmy/557
+https://live.mitele.es/hls/live/2005334/boing/bitrate_3.m3u8
 
 #EXTINF:-1 tvg-id="CLAN  TVE" tvg-logo="https://raw.githubusercontent.com/dracohe/picon/master/CLANTV.png" group-title="TDT España",clan
 https://hlsliveamdgl1-lh.akamaihd.net/i/hlslive_1@356291/master.m3u8
