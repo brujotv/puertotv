@@ -14,13 +14,13 @@ https://cdnlive.shooowit.net/rtvalive/channelDVR.smil/master.m3u8
 https://directo.atresmedia.com/6daec192f3ee6beefe7a5ff01dacdda83be5e77d_1625330125/antena3/master.m3u8
 
 #EXTINF:-1 tvg-id="CUATRO HD" tvg-logo="https://graph.facebook.com/cuatro/picture?width=320&height=320" group-title="TDT España",Cuatro HD
-http://uv2.sinantena.live:9966/range44/DOcHBXwDmy/497
+http://91.126.141.13:1935/live/51/4000-def.m3u8
 
 #EXTINF:-1 tvg-id="Telecinco HD" tvg-logo="https://graph.facebook.com/tele5/picture?width=320&height=320" group-title="TDT España",Telecinco HD
 http://uv2.sinantena.live:9966/range44/DOcHBXwDmy/488
 
 #EXTINF:-1 tvg-id="LA SEXTA HD" tvg-logo="https://graph.facebook.com/laSexta/picture?width=320&height=320" group-title="TDT España",laSexta HD
-http://uv2.sinantena.live:9966/range44/DOcHBXwDmy/492
+https://directo.atresmedia.com/4af07b843ba22db16a7398f8980566ee38217214_1625331089/lasexta/master.m3u8
 
 #EXTINF:-1 tvg-id="NEOX" tvg-logo="https://graph.facebook.com/neox/picture?width=320&height=320" group-title="TDT España",Neox HD
 https://livestartover.atresmedia.com/geoneox/master.m3u8
