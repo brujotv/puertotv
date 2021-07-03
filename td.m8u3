@@ -8,34 +8,34 @@ http://hlsliveamdgl7-lh.akamaihd.net/i/hlsdvrlive_1@583042/master.m3u8
 http://hlsliveamdgl1-lh.akamaihd.net/i/hlsdvrlive_1@60414/master.m3u8
 
 #EXTINF:-1 tvg-id="Canal Sur HD." tvg-logo="https://visiona.tv/wp-content/uploads/2019/06/canal-sur-logo-png-transparent.png?width=320&height=320" group-title="TDT España",Canal Sur Andalucía
-https://cdnlive.shooowit.net/rtvalive/channelDVR.smil/master.m3u8
+
 
 #EXTINF:-1 tvg-id="ANTENA 3 HD" tvg-logo="https://graph.facebook.com/antena3/picture?width=320&height=320" group-title="TDT España",Antena 3 HD
-https://directo.atresmedia.com/6daec192f3ee6beefe7a5ff01dacdda83be5e77d_1625330125/antena3/master.m3u8
+
 
 #EXTINF:-1 tvg-id="CUATRO HD" tvg-logo="https://graph.facebook.com/cuatro/picture?width=320&height=320" group-title="TDT España",Cuatro HD
 http://91.126.141.13:1935/live/51/4000-def.m3u8
 
 #EXTINF:-1 tvg-id="Telecinco HD" tvg-logo="https://graph.facebook.com/tele5/picture?width=320&height=320" group-title="TDT España",Telecinco HD
-http://uv2.sinantena.live:9966/range44/DOcHBXwDmy/488
+
 
 #EXTINF:-1 tvg-id="LA SEXTA HD" tvg-logo="https://graph.facebook.com/laSexta/picture?width=320&height=320" group-title="TDT España",laSexta HD
-https://directo.atresmedia.com/4af07b843ba22db16a7398f8980566ee38217214_1625331089/lasexta/master.m3u8
+
 
 #EXTINF:-1 tvg-id="NEOX" tvg-logo="https://graph.facebook.com/neox/picture?width=320&height=320" group-title="TDT España",Neox HD
-https://livestartover.atresmedia.com/geoneox/master.m3u8
+
 
 #EXTINF:-1 tvg-id="NOVA" tvg-logo="https://graph.facebook.com/novatdt/picture?width=320&height=320" group-title="TDT España",Nova HD
-https://livestartover.atresmedia.com/geonova/master.m3u8
+
 
 #EXTINF:-1 tvg-id="Mega HD" tvg-logo="https://graph.facebook.com/megaTDT/picture?width=320&height=320" group-title="TDT España",Mega HD
-https://livestartover.atresmedia.com/geomega/master.m3u8
+
 
 #EXTINF:-1 tvg-id="Atreseries HD" tvg-logo="https://graph.facebook.com/atreseries/picture?width=320&height=320" group-title="TDT España",Atreseries HD
 
 
 #EXTINF:-1 tvg-id="FDF" tvg-logo="https://graph.facebook.com/factoriadeficcion/picture?width=320&height=320" group-title="TDT España",FDF HD
-http://uv2.sinantena.live:9966/range44/DOcHBXwDmy/550
+
 
 #EXTINF:-1 tvg-id="ENERGY" tvg-logo="https://graph.facebook.com/E.EnergyTV/picture?width=320&height=320" group-title="TDT España",Energy HD	
 
@@ -47,7 +47,7 @@ https://live.mitele.es/hls/live/2005335/divinity/bitrate_4.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://album.mediaset.es/cimg/1000060/2019/10/18/cajamtmad_54a1.jpg?width=320&height=320" group-title="TDT España",mt mad
-https://mdssplive-lh.akamaihd.net/i/mtmad_1@744785/index_2500_av-p.m3u8?sd=10&rebase=on
+
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://graph.facebook.com/ParamountNetworkES/picture?width=320&height=320" group-title="TDT España",Paramount Network
 
@@ -62,19 +62,19 @@ http://91.126.141.201:1935/live/kiss/chunklist_w831239812.m3u8
 http://91.126.141.201:1935/live/cosmoHD/chunklist_w210990477.m3u8
 
 #EXTINF:-1 tvg-id="DMax.TDTChannelsEPG" tvg-logo="https://i.imgur.com/x4fGu91.png/picture?width=320&height=320" group-title="TDT España",DMax
-http://91.126.141.12:1935/live/discoverymax/playlist.m3u8
+
 
 #EXTINF:-1 tvg-id="BOING" tvg-logo="https://i.imgur.com/ux2SEpi.jpg/picture?width=320&height=320" group-title="TDT España",Boing	
-https://live.mitele.es/hls/live/2005335/divinity/master.m3u8?hdnts=st=1625302075~exp=1625316475~acl=/*~hmac=d2a629511542bc87680e5323d72387964f1f9c880d6b338998e3e8efa4092258
+
 
 #EXTINF:-1 tvg-id="CLAN  TVE" tvg-logo="https://raw.githubusercontent.com/dracohe/picon/master/CLANTV.png" group-title="TDT España",clan
 https://hlsliveamdgl1-lh.akamaihd.net/i/hlslive_1@356291/master.m3u8
 
 #EXTINF:-1 tvg-id="24 HORAS" tvg-logo="https://i.imgur.com/rYO7n4s.png/picture?width=320&height=320" group-title="TDT España",24h
-https://rtvelivestream.akamaized.net/24h_dvr.m3u8
+
 
 #EXTINF:-1 tvg-id="PARAMOUNT" tvg-logo="https://i.imgur.com/GwoWMlF.jpg/picture?width=320&height=320" group-title="TDT España",Paramount Channel
-http://127.0.0.1:6878/ace/m/ae2c30af1866637cfcadcd88bcf88c0d7eebbc27/f528764d624db129b32c21fbca0cb8d6.m3u8
+
 
 #EXTINF:-1 tvg-id="0.es" tvg-logo="https://i.imgur.com/VCJKsMa.jpg/picture?width=320&height=320" group-title="TDT España",#0 
 https://3nk9kx42pn.azcdn381.net:8443/hls/12fxk.m3u8?s=nVzCyPmq2Qh30z33M3xC6A&e=1625355685
@@ -122,7 +122,7 @@ https://ep95juyqjpyk764.ezcdn462.net:8443/hls/ngw10prw.m3u8?s=e9KR11B8oS6E_IMhO4
 
 
 #EXTINF:-1 tvg-ID="AMC HD" tvg-name="ES: AMC" tvg-logo="https://raw.githubusercontent.com/dracohe/picon/master/AMC.png" group-title="M. Espana",AMC
-
+https://3nk9kx42pn.azcdn381.net:8443/hls/e12qvvmfkp.m3u8?s=otM1UXVGARKLjJOEw9lbDw&e=1625356827
 
 #EXTINF:-1 tvg-ID="FOX HD" tvg-name="ES: FOX HD" tvg-logo="https://raw.githubusercontent.com/dracohe/picon/master/FOXGE.png" group-title="M. Espana",FOX 
 https://3nk9kx42pn.azcdn381.net:8443/hls/v0u19cwy59.m3u8?s=ADwpPshfsBh7XwVgsQksIQ&e=1625356080
