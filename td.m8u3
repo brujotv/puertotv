@@ -11,7 +11,7 @@ http://hlsliveamdgl1-lh.akamaihd.net/i/hlsdvrlive_1@60414/master.m3u8
 https://cdnlive.shooowit.net/rtvalive/channelDVR.smil/master.m3u8
 
 #EXTINF:-1 tvg-id="ANTENA 3 HD" tvg-logo="https://graph.facebook.com/antena3/picture?width=320&height=320" group-title="TDT España",Antena 3 HD
-http://uv2.sinantena.live:9966/range44/DOcHBXwDmy/500
+https://directo.atresmedia.com/6daec192f3ee6beefe7a5ff01dacdda83be5e77d_1625330125/antena3/master.m3u8
 
 #EXTINF:-1 tvg-id="CUATRO HD" tvg-logo="https://graph.facebook.com/cuatro/picture?width=320&height=320" group-title="TDT España",Cuatro HD
 http://uv2.sinantena.live:9966/range44/DOcHBXwDmy/497
