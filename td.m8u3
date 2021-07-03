@@ -77,22 +77,13 @@ https://rtvelivestream.akamaized.net/24h_dvr.m3u8
 http://127.0.0.1:6878/ace/m/ae2c30af1866637cfcadcd88bcf88c0d7eebbc27/f528764d624db129b32c21fbca0cb8d6.m3u8
 
 #EXTINF:-1 tvg-id="0.es" tvg-logo="https://i.imgur.com/VCJKsMa.jpg/picture?width=320&height=320" group-title="TDT España",#0 
-https://ep95juyqjpyk764.ezcdn462.net:8443/hls/12fxk.m3u8?s=NGxYqQl501GzjTdd4ghAhw&e=1613930770
-
-#EXTINF:-1 tvg-id="0.es" tvg-logo="https://i.imgur.com/VCJKsMa.jpg/picture?width=320&height=320" group-title="TDT España",#0 
-http://uv2.sinantena.live:9966/range44/DOcHBXwDmy/490
+http://titanmedia.one:2082/live/UBfvYxNmhq/h8yrWCbDSO/51471.ts
 
 #EXTINF:-1 tvg-id="M.ESTRENOS HD" tvg-logo="https://raw.githubusercontent.com/pakito71/Logos/master/estrenos.png?width=320&height=320" group-title="TDT España",M.Estrenos HD
 https://ep95juyqjpyk764.ezcdn462.net:8443/hls/yahigmfat.m3u8?s=vrDh_PjgQ-Z_SrHE8cBY8A&e=1613929208
 
-#EXTINF:-1 tvg-id="M.ESTRENOS HD" tvg-logo="https://raw.githubusercontent.com/pakito71/Logos/master/estrenos.png?width=320&height=320" group-title="TDT España",M.Estrenos HD
-http://uv2.sinantena.live:9966/range44/DOcHBXwDmy/506
-
 #EXTINF:-1 tvg-id="M. ACCION HD" tvg-logo="https://raw.githubusercontent.com/pakito71/Logos/master/accion.png?width=320&height=320" group-title="TDT España",M. Accion 
-https://ep95juyqjpyk764.ezcdn462.net:8443/hls/kybasi1635v6.m3u8?s=FxwBGekRxt2R3P-WcBLyZg&e=1613929364
-
-#EXTINF:-1 tvg-id="M. ACCION HD" tvg-logo="https://raw.githubusercontent.com/pakito71/Logos/master/accion.png?width=320&height=320" group-title="TDT España",M. Accion 
-http://uv2.sinantena.live:9966/range44/DOcHBXwDmy/510
+http://titanmedia.one:2082/live/UBfvYxNmhq/h8yrWCbDSO/51489.ts
 
 #EXTINF:-1 tvg-id="M.COMEDIA HD" tvg-logo="https://raw.githubusercontent.com/pakito71/Logos/master/comedia.png?width=320&height=320" group-title="TDT España",M. Comedia
 https://ep95juyqjpyk764.ezcdn462.net:8443/hls/m9psjyy4b7p.m3u8?s=HenAXCWg3CkMeMcSHdf8TQ&e=1613930697
@@ -134,7 +125,7 @@ http://uv2.sinantena.live:9966/range44/DOcHBXwDmy/518
 http://uv2.sinantena.live:9966/range44/DOcHBXwDmy/546
 
 #EXTINF:-1 tvg-ID="AMC HD" tvg-name="ES: AMC" tvg-logo="https://raw.githubusercontent.com/dracohe/picon/master/AMC.png" group-title="M. Espana",AMC
-http://uv2.sinantena.live:9966/range44/DOcHBXwDmy/540
+http://titanmedia.one:2082/live/UBfvYxNmhq/h8yrWCbDSO/51519.ts
 
 #EXTINF:-1 tvg-ID="FOX HD" tvg-name="ES: FOX HD" tvg-logo="https://raw.githubusercontent.com/dracohe/picon/master/FOXGE.png" group-title="M. Espana",FOX 
 http://uv2.sinantena.live:9966/range44/DOcHBXwDmy/528
