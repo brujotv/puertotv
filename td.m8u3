@@ -17,7 +17,7 @@ https://directo.atresmedia.com/b6be793ea256dfb16e877b486c225dfe1b4bbf4b_16253641
 http://91.126.141.13:1935/live/51/4000-def.m3u8
 
 #EXTINF:-1 tvg-id="Telecinco HD" tvg-logo="https://graph.facebook.com/tele5/picture?width=320&height=320" group-title="TDT España",Telecinco HD
-https://3nk9kx42pn.azcdn381.net:8443/hls/qat4aem7kmh4c.m3u8?s=t8Z1THpTFN83_3emsPVXcg&e=1625357108
+https://live.mitele.es/hls/live/2004101/telecinco/01.m3u8
 
 #EXTINF:-1 tvg-id="LA SEXTA HD" tvg-logo="https://graph.facebook.com/laSexta/picture?width=320&height=320" group-title="TDT España",laSexta HD
 https://directo.atresmedia.com/22d90ee14575a7635427fb4f51d71842a8cba59a_1625365307/lasexta/master.m3u8
