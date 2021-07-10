@@ -8,7 +8,7 @@ http://hlsliveamdgl7-lh.akamaihd.net/i/hlsdvrlive_1@583042/master.m3u8
 http://hlsliveamdgl1-lh.akamaihd.net/i/hlsdvrlive_1@60414/master.m3u8
 
 #EXTINF:-1 tvg-id="Canal Sur HD." tvg-logo="https://visiona.tv/wp-content/uploads/2019/06/canal-sur-logo-png-transparent.png?width=320&height=320" group-title="TDT España",Canal Sur Andalucía
-
+https://cdnlive.shooowit.net/rtvalive/smil:83CRxkDnV6DVR.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ANTENA 3 HD" tvg-logo="https://graph.facebook.com/antena3/picture?width=320&height=320" group-title="TDT España",Antena 3 HD
 https://directo.atresmedia.com/b6be793ea256dfb16e877b486c225dfe1b4bbf4b_1625364162/antena3/bitrate_4.m3u8
@@ -63,6 +63,8 @@ http://91.126.141.201:1935/live/cosmoHD/chunklist_w210990477.m3u8
 
 #EXTINF:-1 tvg-id="DMax.TDTChannelsEPG" tvg-logo="https://i.imgur.com/x4fGu91.png/picture?width=320&height=320" group-title="TDT España",DMax
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://scontent-mad1-1.xx.fbcdn.net/v/t1.6435-1/137505682_4153665437990360_979126257898789074_n.png?_nc_cat=102&ccb=1-3&_nc_sid=0c64ff&_nc_ohc=8ArLNh5CgggAX8YYfyP&_nc_ht=scontent-mad1-1.xx&oh=bf8bd4c33cb9327e3a3239be3d003ac6&oe=60EE9CE8/picture?width=320&height=320" group-title="TDT España",Del 40 al 1
+https://prisaradio-live.prisasd.com/live-content/directo40al1/master.m3u8
 
 #EXTINF:-1 tvg-id="BOING" tvg-logo="https://i.imgur.com/ux2SEpi.jpg/picture?width=320&height=320" group-title="TDT España",Boing	
 
