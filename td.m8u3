@@ -44,10 +44,10 @@ https://photocall.tv/vq8w/mt?ch=energy
 https://photocall.tv/vq8w/mt?ch=divinity
 
 #EXTINF:-1 tvg-id="BE MAD" tvg-logo="https://graph.facebook.com/BeMadTV/picture?width=320&height=320" group-title="TDT España",Be Mad HD
-
+https://photocall.tv/vq8w/mt?ch=bemad
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://album.mediaset.es/cimg/1000060/2019/10/18/cajamtmad_54a1.jpg?width=320&height=320" group-title="TDT España",mt mad
-https://photocall.tv/vq8w/mt?ch=bemad
+
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://graph.facebook.com/ParamountNetworkES/picture?width=320&height=320" group-title="TDT España",Paramount Network
 
@@ -65,7 +65,7 @@ http://91.126.141.201:1935/live/cosmoHD/chunklist_w210990477.m3u8
 http://photocall.xyz/vq8w/l2?ch=dmax
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://scontent-mad1-1.xx.fbcdn.net/v/t1.6435-1/137505682_4153665437990360_979126257898789074_n.png?_nc_cat=102&ccb=1-3&_nc_sid=0c64ff&_nc_ohc=8ArLNh5CgggAX8YYfyP&_nc_ht=scontent-mad1-1.xx&oh=bf8bd4c33cb9327e3a3239be3d003ac6&oe=60EE9CE8/picture?width=320&height=320" group-title="TDT España",Del 40 al 1
-
+https://photocall.tv/vq8w/mt?ch=mtmad-24h
 
 #EXTINF:-1 tvg-id="BOING" tvg-logo="https://i.imgur.com/ux2SEpi.jpg/picture?width=320&height=320" group-title="TDT España",Boing	
 https://photocall.tv/vq8w/mt?ch=boing
