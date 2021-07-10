@@ -11,7 +11,7 @@ http://hlsliveamdgl1-lh.akamaihd.net/i/hlsdvrlive_1@60414/master.m3u8
 https://cdnlive.shooowit.net/rtvalive/smil:83CRxkDnV6DVR.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ANTENA 3 HD" tvg-logo="https://graph.facebook.com/antena3/picture?width=320&height=320" group-title="TDT España",Antena 3 HD
-https://directo.atresmedia.com/b6be793ea256dfb16e877b486c225dfe1b4bbf4b_1625364162/antena3/bitrate_4.m3u8
+
 
 #EXTINF:-1 tvg-id="CUATRO HD" tvg-logo="https://graph.facebook.com/cuatro/picture?width=320&height=320" group-title="TDT España",Cuatro HD
 http://91.126.141.13:1935/live/51/4000-def.m3u8
@@ -20,7 +20,7 @@ http://91.126.141.13:1935/live/51/4000-def.m3u8
 https://photocall.tv/vq8w/mt?ch=telecinco
 
 #EXTINF:-1 tvg-id="LA SEXTA HD" tvg-logo="https://graph.facebook.com/laSexta/picture?width=320&height=320" group-title="TDT España",laSexta HD
-https://directo.atresmedia.com/22d90ee14575a7635427fb4f51d71842a8cba59a_1625365307/lasexta/master.m3u8
+
 
 #EXTINF:-1 tvg-id="NEOX" tvg-logo="https://graph.facebook.com/neox/picture?width=320&height=320" group-title="TDT España",Neox HD
 
@@ -41,7 +41,7 @@ https://directo.atresmedia.com/22d90ee14575a7635427fb4f51d71842a8cba59a_16253653
 
 
 #EXTINF:-1 tvg-id="DIVINITY" tvg-logo="https://graph.facebook.com/divinityes/picture?width=320&height=320" group-title="TDT España",Divinity HD
-https://live.mitele.es/hls/live/2005335/divinity/01.m3u8
+https://photocall.tv/vq8w/mt?ch=divinity
 
 #EXTINF:-1 tvg-id="BE MAD" tvg-logo="https://graph.facebook.com/BeMadTV/picture?width=320&height=320" group-title="TDT España",Be Mad HD
 
