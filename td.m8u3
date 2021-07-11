@@ -70,7 +70,7 @@ http://photocall.xyz/od4g/l2?ch=paramount_es
 #EXTINF:-1 tvg-id="BOING" tvg-logo="https://i.imgur.com/ux2SEpi.jpg/picture?width=320&height=320" group-title="TDT España",Boing	
 https://photocall.tv/od4g/mt?ch=boing
 
-#EXTINF:-1 tvg-id="CLAN  TVE" tvg-logo="https://raw.githubusercontent.com/dracohe/picon/master/CLANTV.png" group-title="TDT España",clan
+#EXTINF:-1 tvg-id="CLAN  TVE" tvg-logo="https://i.imgur.com/ZrlQyAL.jpg/picture?width=320&height=320" group-title="TDT España",clan
 https://rtvelivestreamv3.akamaized.net/clan_main_dvr_1080.m3u8
 
 #EXTINF:-1 tvg-id="24 HORAS" tvg-logo="https://i.imgur.com/rYO7n4s.png/picture?width=320&height=320" group-title="TDT España",24h
