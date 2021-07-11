@@ -11,7 +11,7 @@ https://rtvelivestreamv3.akamaized.net/la2_main_dvr.m3u8
 https://cdnlive.shooowit.net/rtvalive/smil:83CRxkDnV6DVR.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ANTENA 3 HD" tvg-logo="https://graph.facebook.com/antena3/picture?width=320&height=320" group-title="TDT España",Antena 3 HD
-https://gyf2kx7w2g.azcdn381.net:8443/hls/eviy3tp9sa8v04t.m3u8?s=ygllxu_e5XXW-PCUi-Paog&e=1626018189
+
 
 #EXTINF:-1 tvg-id="CUATRO HD" tvg-logo="https://graph.facebook.com/cuatro/picture?width=320&height=320" group-title="TDT España",Cuatro HD
 http://91.126.141.13:1935/live/51/4000-def.m3u8
@@ -92,19 +92,19 @@ https://api.goltelevision.com/api/v1/stream/live/stream.m3u8
 
 
 #EXTINF:-1 tvg-id="0.es" tvg-logo="https://i.imgur.com/VCJKsMa.jpg/picture?width=320&height=320" group-title="TDT España",#0 
-https://3nk9kx42pn.azcdn381.net:8443/hls/12fxk.m3u8?s=nVzCyPmq2Qh30z33M3xC6A&e=1625355685
+https://gyf2kx7w2g.azcdn381.net:8443/hls/12fxk.m3u8?s=ROCLjX6wgVOkK_jeWTNfTw&e=1626021294
 
 #EXTINF:-1 tvg-id="M.ESTRENOS HD" tvg-logo="https://raw.githubusercontent.com/pakito71/Logos/master/estrenos.png?width=320&height=320" group-title="TDT España",M.Estrenos HD
-https://3nk9kx42pn.azcdn381.net:8443/hls/yahigmfat.m3u8?s=121VE_RzJ-xkt3PdEsBObA&e=1625354940
+https://gyf2kx7w2g.azcdn381.net:8443/hls/yahigmfat.m3u8?s=XI0V8DKzzPM2k4-qJR-FfQ&e=1626021130
 
 #EXTINF:-1 tvg-id="M. ACCION HD" tvg-logo="https://raw.githubusercontent.com/pakito71/Logos/master/accion.png?width=320&height=320" group-title="TDT España",M. Accion 
-https://3nk9kx42pn.azcdn381.net:8443/hls/kybasi1635v6.m3u8?s=dkICwko5MoY-no4ADhxDpA&e=1625355617
+https://gyf2kx7w2g.azcdn381.net:8443/hls/kybasi1635v6.m3u8?s=dkICwko5MoY-no4ADhxDpA&e=1625355617
 
 #EXTINF:-1 tvg-id="M.COMEDIA HD" tvg-logo="https://raw.githubusercontent.com/pakito71/Logos/master/comedia.png?width=320&height=320" group-title="TDT España",M. Comedia
-https://3nk9kx42pn.azcdn381.net:8443/hls/m9psjyy4b7p.m3u8?s=EkuWi2SOm5-czV7jXJcCNw&e=1625355755
+https://gyf2kx7w2g.azcdn381.net:8443/hls/m9psjyy4b7p.m3u8?s=EkuWi2SOm5-czV7jXJcCNw&e=1625355755
 
 #EXTINF:-1 tvg-ID="M. DRAMA HD" tvg-name="ES: M. DRAMA HD" tvg-logo="http://www.movistarplus.es/recorte/m-NEO/canal/CPCOLE.png" group-title="M. Espana",M. DRAMA 
-https://ep95juyqjpyk764.ezcdn462.net:8443/hls/ngw10prw.m3u8?s=e9KR11B8oS6E_IMhO4U-ig&e=1613930741
+https://gyf2kx7w2g.ezcdn462.net:8443/hls/ngw10prw.m3u8?s=e9KR11B8oS6E_IMhO4U-ig&e=1613930741
 
 #EXTINF:-1 tvg-ID="M. DRAMA HD" tvg-name="ES: M. DRAMA HD" tvg-logo="http://www.movistarplus.es/recorte/m-NEO/canal/CPCOLE.png" group-title="M. Espana",M. DRAMA 
 
