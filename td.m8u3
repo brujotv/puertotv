@@ -82,6 +82,15 @@ https://rtvelivestreamv3.akamaized.net/tdp_main_dvr.m3u8
 #EXTINF:-1 tvg-id="GOL" tvg-logo="https://graph.facebook.com/goltv.es/picture?width=320&height=320" group-title="TDT España",GOL TV
 https://api.goltelevision.com/api/v1/stream/live/stream.m3u8
 
+#EXTINF:-1 tvg-id="R. MADRID TV" tvg-logo="https://i.imgur.com/EQAvfdp.jpg?width=320&height=320" group-title="DEPORTES",Real Madrid TV
+
+
+#EXTINF:-1 tvg-id="Betis TV HD" tvg-logo="http://graph.facebook.com/realbetisbalompie/picture?width=320&height=320" group-title="Deportivos",Betis TV HD
+
+
+#EXTINF:-1 tvg-id="SEVILLAFC TV" tvg-logo="https://i.imgur.com/FTLjroU.png" group-title="DEPORTES", Sevilla FC
+
+
 #EXTINF:-1 tvg-id="0.es" tvg-logo="https://i.imgur.com/VCJKsMa.jpg/picture?width=320&height=320" group-title="TDT España",#0 
 https://3nk9kx42pn.azcdn381.net:8443/hls/12fxk.m3u8?s=nVzCyPmq2Qh30z33M3xC6A&e=1625355685
 
@@ -211,14 +220,10 @@ https://3nk9kx42pn.azcdn381.net:8443/hls/v0u19cwy59.m3u8?s=ADwpPshfsBh7XwVgsQksI
 #EXTINF:-1 tvg-id="M.FORMULA1 HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MVF1.png?width=320&height=320" group-title="DEPORTES",M.formula 1 
 
 
-#EXTINF:-1 tvg-id="TELEDEPORTE" tvg-logo="http://graph.facebook.com/teledeporteRTVE/picture?width=320&height=320" group-title="DEPORTES",Teledeporte HD	
-https://rtvelivestream.akamaized.net/tdp_dvr_4000.m3u8
-
-#EXTINF:-1 tvg-id="GOL HD" tvg-logo="http://graph.facebook.com/goltv.es/picture?width=320&height=320?width=320&height=320" group-title="DEPORTES",Gol tv	
 
 
-#EXTINF:-1 tvg-id="R. MADRID TV" tvg-logo="https://i.imgur.com/EQAvfdp.jpg?width=320&height=320" group-title="DEPORTES",Real Madrid TV
-https://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hwebes_1@300661/master.m3u8
+
+
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://photocall.tv/images/fighttime.png" group-title="DEPORTES", Fight Time
@@ -273,7 +278,7 @@ https://59ec5453559f0.streamlock.net/miamitv/smil:miamitv/chunklist_w1796638301_
 
 
 #EXTINF:-1 tvg-logo="http://lh6.ggpht.com/_9PDHPy5tdyU/S70enxyhZ9I/AAAAAAAAAH4/MHpKKNOd6Ts/classificacao_indicativa_18_anos_thumb%5B1%5D.gif?width=320&height=320" group-title="ADULTO", Playboy TV (18+)
-	http://s850023221.mialojamiento.es/mp2485.php/http://50.7.220.130:8081/playboy/index.m3u8?wmsAuthSign=07e997f560626dde4e182dc3119a731d-1606094002-32i58i561i28
+http://s850023221.mialojamiento.es/mp2485.php/http://50.7.220.130:8081/playboy/index.m3u8?wmsAuthSign=07e997f560626dde4e182dc3119a731d-1606094002-32i58i561i28
 
 #EXTINF:-1 tvg-logo="http://lh6.ggpht.com/_9PDHPy5tdyU/S70enxyhZ9I/AAAAAAAAAH4/MHpKKNOd6Ts/classificacao_indicativa_18_anos_thumb%5B1%5D.gif?width=320&height=320" group-title="ADULTO", Brazzers TV Europe (18+)
 http://s850023221.mialojamiento.es/mp2485.php/http://50.7.220.130:8081/brazzers_eu/index.m3u8?wmsAuthSign=3184f67f8c6eb06358110ba911f92b29-1606094584-32i58i561i28
