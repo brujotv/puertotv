@@ -11,7 +11,7 @@ https://rtvelivestreamv3.akamaized.net/la2_main_dvr.m3u8
 https://cdnlive.shooowit.net/rtvalive/smil:83CRxkDnV6DVR.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ANTENA 3 HD" tvg-logo="https://graph.facebook.com/antena3/picture?width=320&height=320" group-title="TDT España",Antena 3 HD
-https://www.atresplayer.com/directos/antena3/
+
 
 #EXTINF:-1 tvg-id="CUATRO HD" tvg-logo="https://graph.facebook.com/cuatro/picture?width=320&height=320" group-title="TDT España",Cuatro HD
 http://91.126.141.13:1935/live/51/4000-def.m3u8
