@@ -67,6 +67,9 @@ http://flus1.sanpedrowifi.com/live/discoverymax.sd.ird/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://scontent-mad1-1.xx.fbcdn.net/v/t1.6435-1/137505682_4153665437990360_979126257898789074_n.png?_nc_cat=102&ccb=1-3&_nc_sid=0c64ff&_nc_ohc=8ArLNh5CgggAX8YYfyP&_nc_ht=scontent-mad1-1.xx&oh=bf8bd4c33cb9327e3a3239be3d003ac6&oe=60EE9CE8/picture?width=320&height=320" group-title="TDT España",Del 40 al 1
 https://photocall.tv/od4g/mt?ch=mtmad-24h
 
+#EXTINF:-1 tvg-id="PARAMOUNT" tvg-logo="https://i.imgur.com/GwoWMlF.jpg/picture?width=320&height=320" group-title="TDT España",Paramount Channel
+http://photocall.xyz/od4g/l2?ch=paramount_es
+
 #EXTINF:-1 tvg-id="BOING" tvg-logo="https://i.imgur.com/ux2SEpi.jpg/picture?width=320&height=320" group-title="TDT España",Boing	
 https://photocall.tv/od4g/mt?ch=boing
 
@@ -74,10 +77,13 @@ https://photocall.tv/od4g/mt?ch=boing
 https://rtvelivestreamv3.akamaized.net/clan_main_dvr_1080.m3u8
 
 #EXTINF:-1 tvg-id="24 HORAS" tvg-logo="https://i.imgur.com/rYO7n4s.png/picture?width=320&height=320" group-title="TDT España",24h
+https://rtvelivestreamv3.akamaized.net/24h_main_dvr.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://graph.facebook.com/goltv.es/picture?width=320&height=320" group-title="TDT España",Teledeporte
+https://rtvelivestreamv3.akamaized.net/tdp_main_dvr.m3u8
 
-#EXTINF:-1 tvg-id="PARAMOUNT" tvg-logo="https://i.imgur.com/GwoWMlF.jpg/picture?width=320&height=320" group-title="TDT España",Paramount Channel
-http://photocall.xyz/od4g/l2?ch=paramount_es
+#EXTINF:-1 tvg-id="GOL" tvg-logo="https://graph.facebook.com/goltv.es/picture?width=320&height=320" group-title="TDT España",GOL TV
+https://api.goltelevision.com/api/v1/stream/live/stream.m3u8
 
 #EXTINF:-1 tvg-id="0.es" tvg-logo="https://i.imgur.com/VCJKsMa.jpg/picture?width=320&height=320" group-title="TDT España",#0 
 https://3nk9kx42pn.azcdn381.net:8443/hls/12fxk.m3u8?s=nVzCyPmq2Qh30z33M3xC6A&e=1625355685
