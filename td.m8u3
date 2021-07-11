@@ -98,16 +98,12 @@ https://gyf2kx7w2g.azcdn381.net:8443/hls/12fxk.m3u8?s=ROCLjX6wgVOkK_jeWTNfTw&e=1
 https://gyf2kx7w2g.azcdn381.net:8443/hls/yahigmfat.m3u8?s=XI0V8DKzzPM2k4-qJR-FfQ&e=1626021130
 
 #EXTINF:-1 tvg-id="M. ACCION HD" tvg-logo="https://raw.githubusercontent.com/pakito71/Logos/master/accion.png?width=320&height=320" group-title="TDT España",M. Accion 
-https://gyf2kx7w2g.azcdn381.net:8443/hls/kybasi1635v6.m3u8?s=dkICwko5MoY-no4ADhxDpA&e=1625355617
+https://gyf2kx7w2g.azcdn381.net:8443/hls/12fxk.m3u8?s=ROCLjX6wgVOkK_jeWTNfTw&e=1626021294
 
 #EXTINF:-1 tvg-id="M.COMEDIA HD" tvg-logo="https://raw.githubusercontent.com/pakito71/Logos/master/comedia.png?width=320&height=320" group-title="TDT España",M. Comedia
-https://gyf2kx7w2g.azcdn381.net:8443/hls/m9psjyy4b7p.m3u8?s=EkuWi2SOm5-czV7jXJcCNw&e=1625355755
+https://gyf2kx7w2g.azcdn381.net:8443/hls/m9psjyy4b7p.m3u8?s=aqLVBAVKxP4ooqilH38dtA&e=1626021566
 
 #EXTINF:-1 tvg-ID="M. DRAMA HD" tvg-name="ES: M. DRAMA HD" tvg-logo="http://www.movistarplus.es/recorte/m-NEO/canal/CPCOLE.png" group-title="M. Espana",M. DRAMA 
-https://gyf2kx7w2g.ezcdn462.net:8443/hls/ngw10prw.m3u8?s=e9KR11B8oS6E_IMhO4U-ig&e=1613930741
-
-#EXTINF:-1 tvg-ID="M. DRAMA HD" tvg-name="ES: M. DRAMA HD" tvg-logo="http://www.movistarplus.es/recorte/m-NEO/canal/CPCOLE.png" group-title="M. Espana",M. DRAMA 
-
 
 #EXTINF:-1 tvg-ID="M.CineDocRoll" tvg-name="ES: M.CINEDOC&ROLL HD" tvg-logo="https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-original/1_0_19_74D8_3F8_1_C00000_0_0_0.png" group-title="M. Espana",M.CINEDOC&ROLL HD
 
@@ -137,10 +133,10 @@ https://gyf2kx7w2g.ezcdn462.net:8443/hls/ngw10prw.m3u8?s=e9KR11B8oS6E_IMhO4U-ig&
 
 
 #EXTINF:-1 tvg-ID="AMC HD" tvg-name="ES: AMC" tvg-logo="https://raw.githubusercontent.com/dracohe/picon/master/AMC.png" group-title="M. Espana",AMC
-https://3nk9kx42pn.azcdn381.net:8443/hls/e12qvvmfkp.m3u8?s=otM1UXVGARKLjJOEw9lbDw&e=1625356827
+
 
 #EXTINF:-1 tvg-ID="FOX HD" tvg-name="ES: FOX HD" tvg-logo="https://raw.githubusercontent.com/dracohe/picon/master/FOXGE.png" group-title="M. Espana",FOX 
-https://3nk9kx42pn.azcdn381.net:8443/hls/v0u19cwy59.m3u8?s=ADwpPshfsBh7XwVgsQksIQ&e=1625356080
+
 
 #EXTINF:-1 tvg-ID="FOX LIFE FHD" tvg-name="ES: FOX LIFE HD" tvg-logo="https://raw.githubusercontent.com/dracohe/picon/master/FOXCR.png" group-title="M. Espana",FOX LIFE 
 
@@ -205,8 +201,6 @@ https://3nk9kx42pn.azcdn381.net:8443/hls/v0u19cwy59.m3u8?s=ADwpPshfsBh7XwVgsQksI
 #EXTINF:-1 tvg-id="M. DEPORTE HD" tvg-logo="https://i.imgur.com/JUwNUhT.png?width=320&height=320" group-title="DEPORTES",M.Deportes
 
 
-#EXTINF:-1 tvg-id="#VAMOS" tvg-logo="https://i.imgur.com/tas7PmQ.png?width=320&height=320" group-title="DEPORTES",M.Vamos Estable 
-
 
 #EXTINF:-1 tvg-id="#VAMOS" tvg-logo="https://i.imgur.com/tas7PmQ.png?width=320&height=320" group-title="DEPORTES",M.Vamos
 
@@ -217,15 +211,6 @@ https://3nk9kx42pn.azcdn381.net:8443/hls/v0u19cwy59.m3u8?s=ADwpPshfsBh7XwVgsQksI
 #EXTINF:-1 tvg-id="M.FORMULA1 HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MVF1.png?width=320&height=320" group-title="DEPORTES",M.formula 1 
 
 
-#EXTINF:-1 tvg-id="M.FORMULA1 HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MVF1.png?width=320&height=320" group-title="DEPORTES",M.formula 1 
-
-
-
-
-
-
-
-
 #EXTINF:-1 tvg-id="" tvg-logo="http://photocall.tv/images/fighttime.png" group-title="DEPORTES", Fight Time
 
 
@@ -233,22 +218,6 @@ https://3nk9kx42pn.azcdn381.net:8443/hls/v0u19cwy59.m3u8?s=ADwpPshfsBh7XwVgsQksI
 
 
 #EXTINF:-1 tvg-id="SEVILLAFC TV" tvg-logo="https://i.imgur.com/FTLjroU.png" group-title="DEPORTES", Sevilla FC
-
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://graph.facebook.com/OlympicChannel/picture?width=320&height=320" group-title="DEPORTES" ,Olympic Channel 1
-
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://graph.facebook.com/OlympicChannel/picture?width=320&height=320" group-title="DEPORTES" ,Olympic Channel 2
-
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://graph.facebook.com/OlympicChannel/picture?width=320&height=320" group-title="DEPORTES" ,Olympic Channel 3
-
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://graph.facebook.com/OlympicChannel/picture?width=320&height=320" group-title="DEPORTES" ,Olympic Channel 4
-
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://graph.facebook.com/OlympicChannel/picture?width=320&height=320" group-title="DEPORTES" ,Olympic Channel 5
-
 
 #EXTINF:-1 tvg-id="." tvg-logo="https://i.imgur.com/dCI1w14.jpg?width=320&height=320" group-title="ADULTO", BSX (18+)
 
