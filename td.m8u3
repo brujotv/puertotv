@@ -86,7 +86,7 @@ https://api.goltelevision.com/api/v1/stream/live/stream.m3u8
 
 
 #EXTINF:-1 tvg-id="Betis TV HD" tvg-logo="http://graph.facebook.com/realbetisbalompie/picture?width=320&height=320" group-title="Deportivos",Betis TV HD
-https://photocall.tv/od1g/l1?ch=betis
+
 
 #EXTINF:-1 tvg-id="SEVILLAFC TV" tvg-logo="https://i.imgur.com/FTLjroU.png" group-title="DEPORTES", Sevilla FC
 
@@ -239,7 +239,7 @@ http://59ec5453559f0.streamlock.net:1935/mexicotv/smil:miamitvmexicoROKU/chunkli
 https://59ec5453559f0.streamlock.net/miamitv/smil:miamitv/chunklist_w1796638301_b2592000.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WlrcyMe.png" group-title="ADULTO", Miami TV Jenny Live (18+)
-https://photocall.tv/od1g/l1?ch=miami_jl
+
 
 #EXTINF:-1 tvg-logo="http://lh6.ggpht.com/_9PDHPy5tdyU/S70enxyhZ9I/AAAAAAAAAH4/MHpKKNOd6Ts/classificacao_indicativa_18_anos_thumb%5B1%5D.gif?width=320&height=320" group-title="ADULTO", Playboy TV (18+)
 http://s850023221.mialojamiento.es/mp2485.php/http://50.7.220.130:8081/playboy/index.m3u8?wmsAuthSign=07e997f560626dde4e182dc3119a731d-1606094002-32i58i561i28
