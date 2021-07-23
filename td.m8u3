@@ -17,7 +17,7 @@ https://cdnlive.shooowit.net/rtvalive/smil:83CRxkDnV6DVR.smil/playlist.m3u8
 http://91.126.141.13:1935/live/51/4000-def.m3u8
 
 #EXTINF:-1 tvg-id="Telecinco HD" tvg-logo="https://graph.facebook.com/tele5/picture?width=320&height=320" group-title="TDT España",Telecinco HD
-https://photocall.tv/od4g/mt?ch=telecinco
+https://photocall.tv/od1g/mt?ch=telecinco
 
 #EXTINF:-1 tvg-id="LA SEXTA HD" tvg-logo="https://graph.facebook.com/laSexta/picture?width=320&height=320" group-title="TDT España",laSexta HD
 
@@ -35,16 +35,16 @@ https://photocall.tv/od4g/mt?ch=telecinco
 
 
 #EXTINF:-1 tvg-id="FDF" tvg-logo="https://graph.facebook.com/factoriadeficcion/picture?width=320&height=320" group-title="TDT España",FDF HD
-https://photocall.tv/od4g/mt?ch=fdf
+https://photocall.tv/od1g/mt?ch=fdf
 
 #EXTINF:-1 tvg-id="ENERGY" tvg-logo="https://graph.facebook.com/E.EnergyTV/picture?width=320&height=320" group-title="TDT España",Energy HD	
-https://photocall.tv/od4g/mt?ch=energy
+https://photocall.tv/od1g/mt?ch=energy
 
 #EXTINF:-1 tvg-id="DIVINITY" tvg-logo="https://graph.facebook.com/divinityes/picture?width=320&height=320" group-title="TDT España",Divinity HD
-https://photocall.tv/od4g/mt?ch=divinity
+https://photocall.tv/od1g/mt?ch=divinity
 
 #EXTINF:-1 tvg-id="BE MAD" tvg-logo="https://graph.facebook.com/BeMadTV/picture?width=320&height=320" group-title="TDT España",Be Mad HD
-https://photocall.tv/od4g/mt?ch=bemad
+https://photocall.tv/od1g/mt?ch=bemad
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/lIq80bM.jpg?width=320&height=320" group-title="TDT España",mt mad
 https://mdssplive-lh.akamaihd.net/i/mtmad_1@744785/index_2500_av-b.m3u8
@@ -65,10 +65,10 @@ http://91.126.141.201:1935/live/cosmoHD/chunklist_w210990477.m3u8
 http://flus1.sanpedrowifi.com/live/discoverymax.sd.ird/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="PARAMOUNT" tvg-logo="https://i.imgur.com/GwoWMlF.jpg/picture?width=320&height=320" group-title="TDT España",Paramount Channel
-http://photocall.xyz/od4g/l2?ch=paramount_es
+http://photocall.xyz/od1g/l2?ch=paramount_es
 
 #EXTINF:-1 tvg-id="BOING" tvg-logo="https://i.imgur.com/ux2SEpi.jpg/picture?width=320&height=320" group-title="TDT España",Boing	
-https://photocall.tv/od4g/mt?ch=boing
+https://photocall.tv/od1g/mt?ch=boing
 
 #EXTINF:-1 tvg-id="CLAN  TVE" tvg-logo="https://i.imgur.com/ZrlQyAL.jpg/picture?width=320&height=320" group-title="TDT España",clan
 https://rtvelivestreamv3.akamaized.net/clan_main_dvr_1080.m3u8
