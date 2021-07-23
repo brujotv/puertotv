@@ -92,16 +92,16 @@ https://api.goltelevision.com/api/v1/stream/live/stream.m3u8
 
 
 #EXTINF:-1 tvg-id="0.es" tvg-logo="https://i.imgur.com/VCJKsMa.jpg/picture?width=320&height=320" group-title="TDT España",#0 
-https://gyf2kx7w2g.azcdn381.net:8443/hls/12fxk.m3u8?s=ROCLjX6wgVOkK_jeWTNfTw&e=1626021294
+
 
 #EXTINF:-1 tvg-id="M.ESTRENOS HD" tvg-logo="https://raw.githubusercontent.com/pakito71/Logos/master/estrenos.png?width=320&height=320" group-title="TDT España",M.Estrenos HD
-https://gyf2kx7w2g.azcdn381.net:8443/hls/yahigmfat.m3u8?s=XI0V8DKzzPM2k4-qJR-FfQ&e=1626021130
+
 
 #EXTINF:-1 tvg-id="M. ACCION HD" tvg-logo="https://raw.githubusercontent.com/pakito71/Logos/master/accion.png?width=320&height=320" group-title="TDT España",M. Accion 
-https://gyf2kx7w2g.azcdn381.net:8443/hls/12fxk.m3u8?s=ROCLjX6wgVOkK_jeWTNfTw&e=1626021294
+
 
 #EXTINF:-1 tvg-id="M.COMEDIA HD" tvg-logo="https://raw.githubusercontent.com/pakito71/Logos/master/comedia.png?width=320&height=320" group-title="TDT España",M. Comedia
-https://gyf2kx7w2g.azcdn381.net:8443/hls/m9psjyy4b7p.m3u8?s=aqLVBAVKxP4ooqilH38dtA&e=1626021566
+
 
 #EXTINF:-1 tvg-ID="M. DRAMA HD" tvg-name="ES: M. DRAMA HD" tvg-logo="http://www.movistarplus.es/recorte/m-NEO/canal/CPCOLE.png" group-title="M. Espana",M. DRAMA 
 
