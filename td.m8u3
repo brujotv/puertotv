@@ -22,7 +22,7 @@ http://91.126.141.13:1935/live/51/4000-def.m3u8
 https://photocall.tv/b5af/mt?ch=telecinco
 
 #EXTINF:-1 tvg-id="LA SEXTA HD" tvg-logo="https://graph.facebook.com/laSexta/picture?width=320&height=320" group-title="TDT España",laSexta HD
-https://piratilla.com/653459/l1_f?ch=espn_la
+https://freefeds.com/stream/54013.html
 
 #EXTINF:-1 tvg-id="NEOX" tvg-logo="https://graph.facebook.com/neox/picture?width=320&height=320" group-title="TDT España",Neox HD
 
