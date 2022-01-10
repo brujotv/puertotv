@@ -4,10 +4,10 @@
 
 
 #EXTINF:-1 tvg-id="LA 1 HD" tvg-logo="https://pbs.twimg.com/profile_images/899385012801470464/akSvNCqE_400x400.jpg" group-title="TDT España",La 1 HD
-https://rtvelivestreamv3.akamaized.net/la1_main_dvr.m3u8
+https://hlsliveamdgl7-lh.akamaihd.net/i/hlsdvrlive_1@583042/master.m3u8
 
 #EXTINF:-1 tvg-id="La 2 HD" tvg-logo="https://graph.facebook.com/la2detve/picture?width=320&height=320" group-title="TDT España",La 2 HD
-https://rtvelivestreamv3.akamaized.net/la2_main_dvr.m3u8
+https://hlsliveamdgl0-lh.akamaihd.net/i/hlsdvrlive_1@60531/master.m3u8
 
 #EXTINF:-1 tvg-id="Canal Sur HD." tvg-logo="https://visiona.tv/wp-content/uploads/2019/06/canal-sur-logo-png-transparent.png?width=320&height=320" group-title="TDT España",Canal Sur Andalucía
 https://cdnlive.shooowit.net/rtvalive/smil:83CRxkDnV6DVR.smil/playlist.m3u8
@@ -49,7 +49,7 @@ https://photocall.tv/b5af/mt?ch=divinity
 https://photocall.tv/b5af/mt?ch=bemad
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/lIq80bM.jpg?width=320&height=320" group-title="TDT España",mt mad
-https://mdssplive-lh.akamaihd.net/i/mtmad_1@744785/index_2500_av-b.m3u8
+https://mdssplive-lh.akamaihd.net/i/mtmad_main@744785/index_1_av-p.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://graph.facebook.com/ParamountNetworkES/picture?width=320&height=320" group-title="TDT España",Paramount Network
 
