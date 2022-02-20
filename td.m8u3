@@ -13,16 +13,16 @@ https://hlsliveamdgl0-lh.akamaihd.net/i/hlsdvrlive_1@60531/master.m3u8
 https://cdnlive.shooowit.net/rtvalive/smil:83CRxkDnV6DVR.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ANTENA 3 HD" tvg-logo="https://graph.facebook.com/antena3/picture?width=320&height=320" group-title="TDT España",Antena 3 HD
-
+http://91.126.141.13:1935/live/11/1400-def.m3u8
 
 #EXTINF:-1 tvg-id="CUATRO HD" tvg-logo="https://graph.facebook.com/cuatro/picture?width=320&height=320" group-title="TDT España",Cuatro HD
 http://91.126.141.13:1935/live/51/4000-def.m3u8
 
 #EXTINF:-1 tvg-id="Telecinco HD" tvg-logo="https://graph.facebook.com/tele5/picture?width=320&height=320" group-title="TDT España",Telecinco HD
-https://photocall.tv/b5af/mt?ch=telecinco
+http://91.126.141.13:1935/live/61/1800-def.m3u8
 
 #EXTINF:-1 tvg-id="LA SEXTA HD" tvg-logo="https://graph.facebook.com/laSexta/picture?width=320&height=320" group-title="TDT España",laSexta HD
-
+http://91.126.141.13:1935/live/21/1800-def.m3u8
 
 #EXTINF:-1 tvg-id="NEOX" tvg-logo="https://graph.facebook.com/neox/picture?width=320&height=320" group-title="TDT España",Neox HD
 
@@ -31,13 +31,13 @@ https://photocall.tv/b5af/mt?ch=telecinco
 
 
 #EXTINF:-1 tvg-id="Mega HD" tvg-logo="https://graph.facebook.com/megaTDT/picture?width=320&height=320" group-title="TDT España",Mega HD
-
+http://91.126.141.12:1935/live/smil:mega.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Atreseries HD" tvg-logo="https://graph.facebook.com/atreseries/picture?width=320&height=320" group-title="TDT España",Atreseries HD
 
 
 #EXTINF:-1 tvg-id="FDF" tvg-logo="https://graph.facebook.com/factoriadeficcion/picture?width=320&height=320" group-title="TDT España",FDF HD
-https://photocall.tv/b5af/mt?ch=fdf
+http://154.62.74.12:1935/live/smil:fdf.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ENERGY" tvg-logo="https://graph.facebook.com/E.EnergyTV/picture?width=320&height=320" group-title="TDT España",Energy HD	
 https://photocall.tv/b5af/mt?ch=energy
