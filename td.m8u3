@@ -2,10 +2,10 @@
 
 
 #EXTINF:-1 tvg-id="LA 1 HD" tvg-logo="https://pbs.twimg.com/profile_images/899385012801470464/akSvNCqE_400x400.jpg" group-title="TDT España",La 1 HD
-https://hlsliveamdgl7-lh.akamaihd.net/i/hlsdvrlive_1@583042/master.m3u8
+https://rtvelivestream.akamaized.net/la1_dvr.m3u8
 
 #EXTINF:-1 tvg-id="La 2 HD" tvg-logo="https://graph.facebook.com/la2detve/picture?width=320&height=320" group-title="TDT España",La 2 HD
-https://hlsliveamdgl0-lh.akamaihd.net/i/hlsdvrlive_1@60531/master.m3u8
+https://rtvelivestream.akamaized.net/la2_dvr.m3u8
 
 #EXTINF:-1 tvg-id="Canal Sur HD." tvg-logo="https://visiona.tv/wp-content/uploads/2019/06/canal-sur-logo-png-transparent.png?width=320&height=320" group-title="TDT España",Canal Sur Andalucía
 https://cdnlive.shooowit.net/rtvalive/smil:83CRxkDnV6DVR.smil/playlist.m3u8
@@ -32,7 +32,7 @@ http://91.126.141.13:1935/live/21/1800-def.m3u8
 http://91.126.141.12:1935/live/smil:mega.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Atreseries HD" tvg-logo="https://graph.facebook.com/atreseries/picture?width=320&height=320" group-title="TDT España",Atreseries HD
-
+http://91.126.141.13:1935/live/101/1800-def.m3u8
 
 #EXTINF:-1 tvg-id="FDF" tvg-logo="https://graph.facebook.com/factoriadeficcion/picture?width=320&height=320" group-title="TDT España",FDF HD
 http://154.62.74.12:1935/live/smil:fdf.smil/playlist.m3u8
