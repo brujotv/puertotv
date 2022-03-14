@@ -17,7 +17,7 @@ http://91.126.141.13:1935/live/11/1400-def.m3u8
 http://91.126.141.13:1935/live/51/4000-def.m3u8
 
 #EXTINF:-1 tvg-id="Telecinco HD" tvg-logo="https://graph.facebook.com/tele5/picture?width=320&height=320" group-title="TDT España",Telecinco HD
-https://photocall.tv/b6rk/mt?ch=telecinco_ini
+https://v2.sportsonline.to/channels/hd/hd6.php
 
 #EXTINF:-1 tvg-id="LA SEXTA HD" tvg-logo="https://graph.facebook.com/laSexta/picture?width=320&height=320" group-title="TDT España",laSexta HD
 http://91.126.141.13:1935/live/21/1800-def.m3u8
