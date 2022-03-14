@@ -11,10 +11,11 @@ https://ztnr.rtve.es/ztnr/1688885.m3u8
 https://cdnlive.shooowit.net/rtvalive/smil:channel1.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ANTENA 3 HD" tvg-logo="https://graph.facebook.com/antena3/picture?width=320&height=320" group-title="TDT España",Antena 3 HD
-http://91.126.141.13:1935/live/11/1400-def.m3u8
+https://piratilla.com/624837/ak?ch=antena3
 
 #EXTINF:-1 tvg-id="CUATRO HD" tvg-logo="https://graph.facebook.com/cuatro/picture?width=320&height=320" group-title="TDT España",Cuatro HD
 http://91.126.141.13:1935/live/51/4000-def.m3u8
+https://photocall.tv/b6rk/mt?ch=cuatro_ini
 
 #EXTINF:-1 tvg-id="Telecinco HD" tvg-logo="https://graph.facebook.com/tele5/picture?width=320&height=320" group-title="TDT España",Telecinco HD
 https://photocall.tv/b6rk/mt?ch=telecinco_ini
@@ -44,7 +45,7 @@ https://photocall.tv/b5af/mt?ch=energy
 https://photocall.tv/b5af/mt?ch=divinity
 
 #EXTINF:-1 tvg-id="BE MAD" tvg-logo="https://graph.facebook.com/BeMadTV/picture?width=320&height=320" group-title="TDT España",Be Mad HD
-https://photocall.tv/b5af/mt?ch=bemad
+https://photocall.tv/b6rk/mt?ch=bemad_ini
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/lIq80bM.jpg?width=320&height=320" group-title="TDT España",mt mad
 https://mdssplive-lh.akamaihd.net/i/mtmad_main@744785/index_1_av-p.m3u8
