@@ -1,23 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
 	
-
-
-<item>
-<title> M.Liga HD </title> 
-<link>http://ignoreme</link>
-<externallink>https://raw.githubusercontent.com/brujotv/puertotv/master/td.m8u3</externallink>
-<thumbnail>https://assets.laliga.com/assets/logos/laliga-v/laliga-v-1200x1200.jpg</thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title>[COLOR lime]•[/COLOR] Rauw Alejandro - Todo de Ti (Video Oficial) </title>        
-<link>https://v2.sportsonline.to/channels/hd/hd6.php</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-
 <item>
 <title>[COLOR lime]alternativa[/COLOR] sportzonline [COLOR red]Necesita vpn[/COLOR]</title>
 <thumbnail></thumbnail>
@@ -35,24 +18,6 @@
 </item>
 
 
-<item>
-<title>Bein Espanyol</title>
-<link>plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=http://totalsport.me/zona21.html</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
 
-<item>
-<title>LIGA CAMPEONES</title>
-<link>plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=http://totalsport.me/zona18.html</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
 
-<item>
-<title>LA LIGA TV</title>
-<link>plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=http://totalsport.me/zona17.html</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
 
