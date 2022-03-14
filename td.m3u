@@ -80,7 +80,7 @@ https://ztnr.rtve.es/ztnr/1694255.m3u8
 https://ztnr.rtve.es/ztnr/1712295.m3u8
 
 #EXTINF:-1 tvg-id="GOL" tvg-logo="https://graph.facebook.com/goltv.es/picture?width=320&height=320" group-title="TDT España",GOL TV
-https://api.goltelevision.com/api/v1/stream/live/stream.m3u8
+http://photocall.xyz/b6rk/l2?ch=gol
 
 #EXTINF:-1 tvg-id="R. MADRID TV" tvg-logo="https://i.imgur.com/EQAvfdp.jpg?width=320&height=320" group-title="DEPORTES",Real Madrid TV
 
