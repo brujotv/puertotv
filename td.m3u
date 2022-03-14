@@ -20,8 +20,7 @@ https://photocall.tv/b6rk/mt?ch=cuatro_ini
 https://photocall.tv/b6rk/mt?ch=telecinco_ini
 
 #EXTINF:-1 tvg-id="LA SEXTA HD" tvg-logo="https://graph.facebook.com/laSexta/picture?width=320&height=320" group-title="TDT España",laSexta HD
-http://91.126.141.13:1935/live/21/1800-def.m3u8
-http://91.126.141.13:1935/live/51/4000-def.m3u8
+
 
 #EXTINF:-1 tvg-id="NEOX" tvg-logo="https://graph.facebook.com/neox/picture?width=320&height=320" group-title="TDT España",Neox HD
 
@@ -42,10 +41,10 @@ http://154.62.74.12:1935/live/smil:fdf.smil/playlist.m3u8
 https://photocall.tv/b5af/mt?ch=energy
 
 #EXTINF:-1 tvg-id="DIVINITY" tvg-logo="https://graph.facebook.com/divinityes/picture?width=320&height=320" group-title="TDT España",Divinity HD
-https://photocall.tv/b5af/mt?ch=divinity
+https://photocall.tv/b6rk/mt?ch=divinity
 
 #EXTINF:-1 tvg-id="BE MAD" tvg-logo="https://graph.facebook.com/BeMadTV/picture?width=320&height=320" group-title="TDT España",Be Mad HD
-https://photocall.tv/b6rk/mt?ch=bemad_ini
+https://photocall.tv/b6rk/mt?ch=bemad
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/lIq80bM.jpg?width=320&height=320" group-title="TDT España",mt mad
 https://mdssplive-lh.akamaihd.net/i/mtmad_main@744785/index_1_av-p.m3u8
@@ -57,19 +56,19 @@ https://mdssplive-lh.akamaihd.net/i/mtmad_main@744785/index_1_av-p.m3u8
 http://91.126.141.201:1935/live/ten/chunklist_w506965236.m3u8
 
 #EXTINF:-1 tvg-id="DKISS" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DKISS.png?width=320&height=320" group-title="TDT España",Dkiss
-http://91.126.141.201:1935/live/kiss/chunklist_w831239812.m3u8
+http://photocall.xyz/b6rk/l2?ch=dkiss
 
 #EXTINF:-1 tvg-id="COSMO HD" tvg-logo="https://i.imgur.com/yQutZ2o.gif?width=320&height=320" group-title="TDT España",COSMO HD
 http://91.126.141.201:1935/live/cosmoHD/chunklist_w210990477.m3u8
 
 #EXTINF:-1 tvg-id="DMax.TDTChannelsEPG" tvg-logo="https://i.imgur.com/x4fGu91.png/picture?width=320&height=320" group-title="TDT España",DMax
-http://flus1.sanpedrowifi.com/live/discoverymax.sd.ird/tracks-v1a1/mono.m3u8
+http://photocall.xyz/b6rk/l2?ch=dmax
 
 #EXTINF:-1 tvg-id="PARAMOUNT" tvg-logo="https://i.imgur.com/GwoWMlF.jpg/picture?width=320&height=320" group-title="TDT España",Paramount Channel
 http://photocall.xyz/b5af/l2?ch=paramount_es
 
 #EXTINF:-1 tvg-id="BOING" tvg-logo="https://i.imgur.com/ux2SEpi.jpg/picture?width=320&height=320" group-title="TDT España",Boing	
-https://photocall.tv/b5af/mt?ch=boing
+https://photocall.tv/b6rk/mt?ch=boing
 
 #EXTINF:-1 tvg-id="CLAN  TVE" tvg-logo="https://i.imgur.com/ZrlQyAL.jpg/picture?width=320&height=320" group-title="TDT España",clan
 https://ztnr.rtve.es/ztnr/5466990.m3u8
@@ -2075,3 +2074,5 @@ https://streams.cbnradio.com/christmas-128K
 #EXTINF:-1 tvg-logo="https://www1.cbn.com/sites/all/libraries/radio/img/cross-countrychristmas300x300.jpg" group-title="Radio_Internacional" tvg-name="CBN Cross Country Christmas",CBN Cross Country Christmas
 https://streams.cbnradio.com/country-christmas-128K
 
+http://91.126.141.13:1935/live/21/1800-def.m3u8
+http://91.126.141.13:1935/live/51/4000-def.m3u8
