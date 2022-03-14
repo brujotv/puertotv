@@ -2,7 +2,9 @@
 
 
 #EXTINF:-1 tvg-id="LA 1 HD" tvg-logo="https://pbs.twimg.com/profile_images/899385012801470464/akSvNCqE_400x400.jpg" group-title="TDT España",La 1 HD
-https://rtvelivestream.akamaized.net/la1_dvr.m3u8
+https://ztnr.rtve.es/ztnr/1688877.m3u8
+https://rtvelivestreamv3.akamaized.net/rtvesec/la1/la1_main_dvr.m3u8
+https://rtvelivestreamv3.akamaized.net/rtvesec/la1_bkp_dvr.m3u8
 
 #EXTINF:-1 tvg-id="La 2 HD" tvg-logo="https://graph.facebook.com/la2detve/picture?width=320&height=320" group-title="TDT España",La 2 HD
 https://rtvelivestream.akamaized.net/la2_dvr.m3u8
