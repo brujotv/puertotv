@@ -15,9 +15,6 @@ http://91.126.141.13:1935/live/11/1400-def.m3u8
 
 #EXTINF:-1 tvg-id="CUATRO HD" tvg-logo="https://graph.facebook.com/cuatro/picture?width=320&height=320" group-title="TDT España",Cuatro HD
 http://91.126.141.13:1935/live/51/4000-def.m3u8
-http://iptvsp.xyz/live/cuatro/index.m3u8
-http://s2.iptvsp.xyz/live/cuatro/index.m3u8
-https://www.mitele.es/directo/cuatro
 
 #EXTINF:-1 tvg-id="Telecinco HD" tvg-logo="https://graph.facebook.com/tele5/picture?width=320&height=320" group-title="TDT España",Telecinco HD
 https://photocall.tv/b6rk/mt?ch=telecinco_ini
