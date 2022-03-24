@@ -11,7 +11,7 @@ https://ztnr.rtve.es/ztnr/1688885.m3u8
 https://cdnlive.shooowit.net/rtvalive/smil:channel1.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ANTENA 3 HD" tvg-logo="https://graph.facebook.com/antena3/picture?width=320&height=320" group-title="TDT España",Antena 3 HD
-https://piratilla.com/624837/ak?ch=antena3
+
 
 #EXTINF:-1 tvg-id="CUATRO HD" tvg-logo="https://graph.facebook.com/cuatro/picture?width=320&height=320" group-title="TDT España",Cuatro HD
 https://photocall.tv/i3jy/mt?ch=cuatro
