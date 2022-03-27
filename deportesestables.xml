@@ -2,6 +2,40 @@
 
 
 <item>
+  <title> la liga 1234</title>
+  <fanart></fanart>
+  <thumbnail>https://assets.laliga.com/assets/logos/laliga-v/laliga-v-1200x1200.jpg</thumbnail>
+  <link>$doregex[m5]|User-Agent=Mozilla/5.0&amp;Accept=*/*&amp;Origin=https://62e92xw6fe7pwx.worlwidestream.net&amp;Referer=https://62e92xw6fe7pwx.worlwidestream.net/</link>
+  <regex>
+    <name>m5</name>
+    <expres>var\s*src\s*=\s*"([^"]+)</expres>
+    <page>$doregex[m4]</page>
+    <connection>keep-alive</connection>
+    <agent>Mozilla/5.0</agent>
+    <accept>text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9</accept>
+    <referer>https://futbolfullenvivo.com/ver-channel-laliga-online-en-directo/</referer>
+  </regex>
+  <regex>
+    <name>m4</name>
+    <expres>$pyFunction:get_unpacked(page_data,'(eval.*m3u8.*)')</expres>
+    <page>$doregex[m3]</page>
+    <connection>keep-alive</connection>
+    <agent>Mozilla/5.0</agent>
+    <accept>text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9</accept>
+    <referer>https://futbolfullenvivo.com/ver-channel-laliga-online-en-directo/</referer>
+  </regex>
+  <regex>
+    <name>m3</name>
+    <expres><![CDATA[-><iframe\s*src="([^"]+)]]></expres>
+    <page>https://sportsonline.to/channels/hd/hd6.php|Upgrade-Insecure-Requests=1</page>
+    <connection>keep-alive</connection>
+    <agent>Mozilla/5.0</agent>
+    <accept>text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9</accept>
+    <referer>https://futbolfullenvivo.com/ver-channel-laliga-online-en-directo/</referer>
+  </regex>
+</item>  
+
+<item>
   <title>la liga</title>
   <fanart></fanart>
   <thumbnail>https://assets.laliga.com/assets/logos/laliga-v/laliga-v-1200x1200.jpg</thumbnail>
