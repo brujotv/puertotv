@@ -11,7 +11,7 @@ https://ztnr.rtve.es/ztnr/1688885.m3u8
 https://cdnlive.shooowit.net/rtvalive/smil:channel1.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ANTENA 3 HD" tvg-logo="https://graph.facebook.com/antena3/picture?width=320&height=320" group-title="TDT España",Antena 3 HD
-
+https://mdstrm.com/live-stream-playlist/5cae574f875a4e1adebe5c39.m3u8?access_token=DST4b676d7da5a2a92ee15f8efcbcd00606
 
 #EXTINF:-1 tvg-id="CUATRO HD" tvg-logo="https://graph.facebook.com/cuatro/picture?width=320&height=320" group-title="TDT España",Cuatro HD
 https://photocall.tv/k4wf/mt?ch=cuatro
@@ -32,7 +32,7 @@ https://photocall.tv/k4wf/mt?ch=telecinco
 
 
 #EXTINF:-1 tvg-id="Atreseries HD" tvg-logo="https://graph.facebook.com/atreseries/picture?width=320&height=320" group-title="TDT España",Atreseries HD
-
+https://mdstrm.com/live-stream-playlist/5cae562e0ca2f30815231c0f.m3u8?access_token=DST4b676d7da5a2a92ee15f8efcbcd00606
 
 #EXTINF:-1 tvg-id="FDF" tvg-logo="https://graph.facebook.com/factoriadeficcion/picture?width=320&height=320" group-title="TDT España",FDF HD
 https://photocall.tv/k4wf/mt?ch=fdf
@@ -59,7 +59,7 @@ https://photocall.xyz/k4wf/l2?ch=paramount
 http://photocall.xyz/k4wf/l2?ch=dkiss
 
 #EXTINF:-1 tvg-id="COSMO HD" tvg-logo="https://i.imgur.com/yQutZ2o.gif?width=320&height=320" group-title="TDT España",COSMO HD
-
+http://154.62.74.12:1935/live/smil:cosmoHD/playlist.m3u8
 
 #EXTINF:-1 tvg-id="DMax.TDTChannelsEPG" tvg-logo="https://i.imgur.com/x4fGu91.png/picture?width=320&height=320" group-title="TDT España",DMax
 https://photocall.xyz/k4wf/l2?ch=dmax
@@ -98,7 +98,7 @@ https://photocall.tv/k4wf/l1?ch=sfc
 
 
 #EXTINF:-1 tvg-id="M. ACCION HD" tvg-logo="https://raw.githubusercontent.com/pakito71/Logos/master/accion.png?width=320&height=320" group-title="TDT España",M. Accion 
-
+http://user.tvcluboficial.com/stream/free_EVYANGELCR_COSTARICA/zjx/364.m3u8
 
 #EXTINF:-1 tvg-id="M.COMEDIA HD" tvg-logo="https://raw.githubusercontent.com/pakito71/Logos/master/comedia.png?width=320&height=320" group-title="TDT España",M. Comedia
 
@@ -182,7 +182,7 @@ https://photocall.tv/k4wf/l1?ch=sfc
 
 
 #EXTINF:-1 tvg-id="M. LaLiga FHD" tvg-logo="https://assets.laliga.com/assets/logos/laliga-v/laliga-v-1200x1200.jpg?width=320&height=320" group-title="DEPORTES",M.liga 
-http://127.0.0.1:6878/ace/m/2815db825ba73cdb1d8ff74fdfda630d409a1352/f528764d624db129b32c21fbca0cb8d6.m3u8
+http://loga.ultratotal.ml/xls/ligota/index.m3u8
 
 #EXTINF:-1 tvg-id="M. LaLiga FHD" tvg-logo="https://assets.laliga.com/assets/logos/laliga-v/laliga-v-1200x1200.jpg?width=320&height=320" group-title="DEPORTES",M.liga 
 
