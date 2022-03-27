@@ -86,10 +86,10 @@ http://photocall.xyz/k4wf/l2?ch=gol
 https://photocall.tv/k4wf/l1?ch=rm_es
 
 #EXTINF:-1 tvg-id="Betis TV HD" tvg-logo="http://graph.facebook.com/realbetisbalompie/picture?width=320&height=320" group-title="Deportivos",Betis TV HD
-
+https://photocall.tv/k4wf/l1?ch=betis
 
 #EXTINF:-1 tvg-id="SEVILLAFC TV" tvg-logo="https://i.imgur.com/FTLjroU.png" group-title="DEPORTES", Sevilla FC
-
+https://photocall.tv/k4wf/l1?ch=sfc
 
 #EXTINF:-1 tvg-id="0.es" tvg-logo="https://i.imgur.com/VCJKsMa.jpg/picture?width=320&height=320" group-title="TDT España",#0 
 
@@ -236,7 +236,7 @@ https://vcnbikininetwork.teleosmedia.com/stream/bikininetwork/a3bikini/seglist_7
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WlrcyMe.png" group-title="ADULTO", Miami TV (18+)
-https://photocall.tv/b6rk/l1?ch=miami_la
+https://photocall.tv/k4wf/l1?ch=miami_la
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WlrcyMe.png" group-title="ADULTO", Miami TV español (18+)
 https://59ec5453559f0.streamlock.net/miamitv/smil:WEB/chunklist_w75993015_b1896000.m3u8
@@ -245,19 +245,19 @@ https://59ec5453559f0.streamlock.net/miamitv/smil:WEB/chunklist_w75993015_b18960
 https://59ec5453559f0.streamlock.net/JennyLive/smil:WEB/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://lh6.ggpht.com/_9PDHPy5tdyU/S70enxyhZ9I/AAAAAAAAAH4/MHpKKNOd6Ts/classificacao_indicativa_18_anos_thumb%5B1%5D.gif?width=320&height=320" group-title="ADULTO", Playboy TV (18+)
-https://photocall.tv/b6rk/x?ch=playboy
+https://photocall.tv/k4wf/x?ch=playboy
 
 #EXTINF:-1 tvg-logo="http://lh6.ggpht.com/_9PDHPy5tdyU/S70enxyhZ9I/AAAAAAAAAH4/MHpKKNOd6Ts/classificacao_indicativa_18_anos_thumb%5B1%5D.gif?width=320&height=320" group-title="ADULTO", Brazzers TV Europe (18+)
-https://photocall.tv/b6rk/x?ch=brazzers
+https://photocall.tv/k4wf/x?ch=brazzers
 
 #EXTINF:-1 tvg-logo="https://files.company.fashiontv.com/wp-content/uploads/2017/03/fashiontv_logo_blue_horizontal.png" group-title="ADULTO",FTV Midnight Secrets (HD)
 https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/chunklist_b2800000_t64NzIwcA==.m3u8
 
 #EXTINF:-1 tvg-logo="https://terapiasexo.com/wp-content/uploads/2016/09/logo-miami-tv.png" group-title="24/7 ADULT IPTV",Miami TV Live
-https://photocall.tv/b6rk/l1?ch=miami_live
+https://photocall.tv/k4wf/l1?ch=miami_live
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/D62Pi3e.png" group-title="ADULTO",NYX Media 1 (Opt-1)
 
 #EXTINF:-1 tvg-logo="" group-title="VIVID RED
-https://photocall.tv/b6rk/x?ch=vividred
+https://photocall.tv/k4wf/x?ch=vividred
 
