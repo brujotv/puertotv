@@ -14,10 +14,10 @@ https://cdnlive.shooowit.net/rtvalive/smil:channel1.smil/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="CUATRO HD" tvg-logo="https://graph.facebook.com/cuatro/picture?width=320&height=320" group-title="TDT España",Cuatro HD
-https://photocall.tv/i3jy/mt?ch=cuatro
+https://photocall.tv/k4wf/mt?ch=cuatro
 
 #EXTINF:-1 tvg-id="Telecinco HD" tvg-logo="https://graph.facebook.com/tele5/picture?width=320&height=320" group-title="TDT España",Telecinco HD
-https://photocall.tv/i3jy/mt?ch=telecinco
+https://photocall.tv/k4wf/mt?ch=telecinco
 
 #EXTINF:-1 tvg-id="LA SEXTA HD" tvg-logo="https://graph.facebook.com/laSexta/picture?width=320&height=320" group-title="TDT España",laSexta HD
 
@@ -35,40 +35,40 @@ https://photocall.tv/i3jy/mt?ch=telecinco
 
 
 #EXTINF:-1 tvg-id="FDF" tvg-logo="https://graph.facebook.com/factoriadeficcion/picture?width=320&height=320" group-title="TDT España",FDF HD
-https://photocall.tv/i3jy/mt?ch=fdf
+https://photocall.tv/k4wf/mt?ch=fdf
 
 #EXTINF:-1 tvg-id="ENERGY" tvg-logo="https://graph.facebook.com/E.EnergyTV/picture?width=320&height=320" group-title="TDT España",Energy HD	
-https://photocall.tv/i3jy/mt?ch=energy
+https://photocall.tv/k4wf/mt?ch=energy
 
 #EXTINF:-1 tvg-id="DIVINITY" tvg-logo="https://graph.facebook.com/divinityes/picture?width=320&height=320" group-title="TDT España",Divinity HD
-https://photocall.tv/i3jy/mt?ch=divinity
+https://photocall.tv/k4wf/mt?ch=divinity
 
 #EXTINF:-1 tvg-id="BE MAD" tvg-logo="https://graph.facebook.com/BeMadTV/picture?width=320&height=320" group-title="TDT España",Be Mad HD
-https://photocall.tv/i3jy/mt?ch=bemad
+https://photocall.tv/k4wf/mt?ch=bemad
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/lIq80bM.jpg?width=320&height=320" group-title="TDT España",mt mad
 https://mdssplive-lh.akamaihd.net/i/mtmad_main@744785/index_1_av-p.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://graph.facebook.com/ParamountNetworkES/picture?width=320&height=320" group-title="TDT España",Paramount Network
-https://photocall.xyz/i3jy/l2?ch=paramount
+https://photocall.xyz/k4wf/l2?ch=paramount
 
 #EXTINF:-1 tvg-id="Ten" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/TEN.png?width=320&height=320" group-title="TDT España",Ten
 
 
 #EXTINF:-1 tvg-id="DKISS" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DKISS.png?width=320&height=320" group-title="TDT España",Dkiss
-http://photocall.xyz/i3jy/l2?ch=dkiss
+http://photocall.xyz/k4wf/l2?ch=dkiss
 
 #EXTINF:-1 tvg-id="COSMO HD" tvg-logo="https://i.imgur.com/yQutZ2o.gif?width=320&height=320" group-title="TDT España",COSMO HD
 
 
 #EXTINF:-1 tvg-id="DMax.TDTChannelsEPG" tvg-logo="https://i.imgur.com/x4fGu91.png/picture?width=320&height=320" group-title="TDT España",DMax
-https://photocall.xyz/i3jy/l2?ch=dmax
+https://photocall.xyz/k4wf/l2?ch=dmax
 
 #EXTINF:-1 tvg-id="PARAMOUNT" tvg-logo="https://i.imgur.com/GwoWMlF.jpg/picture?width=320&height=320" group-title="TDT España",Paramount Channel
 
 
 #EXTINF:-1 tvg-id="BOING" tvg-logo="https://i.imgur.com/ux2SEpi.jpg/picture?width=320&height=320" group-title="TDT España",Boing	
-https://photocall.tv/i3jy/mt?ch=boing
+https://photocall.tv/k4wf/mt?ch=boing
 
 #EXTINF:-1 tvg-id="CLAN  TVE" tvg-logo="https://i.imgur.com/ZrlQyAL.jpg/picture?width=320&height=320" group-title="TDT España",clan
 https://ztnr.rtve.es/ztnr/5466990.m3u8
@@ -80,10 +80,10 @@ https://ztnr.rtve.es/ztnr/1694255.m3u8
 https://ztnr.rtve.es/ztnr/1712295.m3u8
 
 #EXTINF:-1 tvg-id="GOL" tvg-logo="https://graph.facebook.com/goltv.es/picture?width=320&height=320" group-title="TDT España",GOL TV
-http://photocall.xyz/i3jy/l2?ch=gol
+http://photocall.xyz/k4wf/l2?ch=gol
 
 #EXTINF:-1 tvg-id="R. MADRID TV" tvg-logo="https://i.imgur.com/EQAvfdp.jpg?width=320&height=320" group-title="DEPORTES",Real Madrid TV
-https://photocall.tv/i3jy/l1?ch=rm_es
+https://photocall.tv/k4wf/l1?ch=rm_es
 
 #EXTINF:-1 tvg-id="Betis TV HD" tvg-logo="http://graph.facebook.com/realbetisbalompie/picture?width=320&height=320" group-title="Deportivos",Betis TV HD
 
