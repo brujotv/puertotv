@@ -21,6 +21,9 @@ plugin://script.module.horus?action=play&id=a3bca895c58d3fc7d5e4259d3d5e3cf0291d
 #EXTINF:-1 tvg-id="LaLiga TV BAR" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/LaLiga%20TV%20BAR.png" group-title="deporte" tvg-name="LaLiga TV BAR",LaLiga TV BAR 1080 HD
 plugin://script.module.horus?action=play&id=aa82e7d4f03061f2144a2f4be22f2e2210d42280
 
+#EXTINF:-1 tvg-id="LaLiga TV BAR" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/LaLiga%20TV%20BAR.png" group-title="deporte" tvg-name="LaLiga TV BAR",LaLiga TV BAR 1080 HD
+plugin://script.module.horus?action=play&id=512aeadf50d91603d15b32f1e408166536ec4ac9
+
 #EXTINF:-1 tvg-id="LaLiga TV Hypermotion HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/LaLiga%20TV%20Hypermotion%20HD.png" group-title="deporte" tvg-name="LaLiga TV Hypermotion HD",LaLiga TV Hypermotion 1080 HD
 plugin://script.module.horus?action=play&id=4c46585214b23b1d802ef2168060c7649a3894cf
 
@@ -34,22 +37,22 @@ plugin://script.module.horus?action=play&id=cf6249379184d88a61f9db617341c6b6e6ab
 plugin://script.module.horus?action=play&id=d9cf1776ec4443e88aab3ca4b57647b00b4e439e
 
 #EXTINF:-1 tvg-id="M+ Liga de Campeones HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%20HD.png" group-title="deporte" tvg-name="M+ Liga de Campeones HD",M+ Liga de Campeones 1080 HD
-plugin://script.module.horus?action=play&id=a4ee6f9590351d2c88c416f9962af82c7e1ce816
+plugin://script.module.horus?action=play&id=931b1984badcb821df7b47a66ac0835ac871b51c
 
 #EXTINF:-1 tvg-id="M+ Liga de Campeones HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%20HD.png" group-title="deporte" tvg-name="M+ Liga de Campeones HD",M+ Liga de Campeones 1080 HD
-plugin://script.module.horus?action=play&id=045718bad2ddb4f03b1a420754a97a23ad8b493b
+plugin://script.module.horus?action=play&id=f096a64dd756a6d549aa7b12ee9acf7eee27e833
 
 #EXTINF:-1 tvg-id="M+ Liga de Campeones HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%20HD.png" group-title="deporte" tvg-name="M+ Liga de Campeones HD",M+ Liga de Campeones 720 HD
-plugin://script.module.horus?action=play&id=90beb42e9e276854348bc91a9ff3c3e46c617495
+plugin://script.module.horus?action=play&id=1d79a7543d691666135669f89f3541f54e2dd0a9
 
 #EXTINF:-1 tvg-id="M+ Liga de Campeones 2 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%202%20HD.png" group-title="deporte" tvg-name="M+ Liga de Campeones 2 HD",M+ Liga de Campeones 2 1080 HD
-plugin://script.module.horus?action=play&id=dfffbcdd9c7e32d5dc88d268dee830ff2a0d3ab6
+plugin://script.module.horus?action=play&id=fc2fe31b0bce25e2dc7ab4d262bf645e2be5a393
 
 #EXTINF:-1 tvg-id="M+ Liga de Campeones 2 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%202%20HD.png" group-title="deporte" tvg-name="M+ Liga de Campeones 2 HD",M+ Liga de Campeones 2 720 HD
-plugin://script.module.horus?action=play&id=dfffbcdd9c7e32d5dc88d268dee830ff2a0d3ab6
+plugin://script.module.horus?action=play&id=6753492c1908274c268a1b28e2a054a0ff8f86f9
 
 #EXTINF:-1 tvg-id="M+ Liga de Campeones 3 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%203%20HD.png" group-title="deporte" tvg-name="M+ Liga de Campeones 3 HD",M+ Liga de Campeones 3 1080 HD
-plugin://script.module.horus?action=play&id=ecf4ec41200785812c140e3d1050b412f1519fa7
+plugin://script.module.horus?action=play&id=ad372cba73aa0ece207a79532b3e30b731136bb2
 
 #EXTINF:-1 tvg-id="M+ Liga de Campeones 3 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%203%20HD.png" group-title="deporte" tvg-name="M+ Liga de Campeones 3 HD",M+ Liga de Campeones 3 720 HD
 plugin://script.module.horus?action=play&id=d59fe9978eed49f256b312a60671b5bce43d3f24
