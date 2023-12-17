@@ -6,6 +6,12 @@ plugin://script.module.horus?action=play&id=02b9307c5c97c86914cc5939d6bbeb5b4ec6
 #EXTINF:-1 tvg-id="La 1 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/La%201%20HD.png" group-title="deporte" tvg-name="La 1 HD",La1 UHD
 plugin://script.module.horus?action=play&id=6636a5c1055b5913ddcd0e87a5523f7d935350af
 
+#EXTINF:-1 tvg-id="La 2" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/La%202.png" group-title="deporte" tvg-name="La 2",La 2
+plugin://script.module.horus?action=play&id=60106275d34f995e26bb2cc4a21a42f586c6c555
+
+#EXTINF:-1 tvg-id="Cuatro HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Cuatro%20HD.png" group-title="deporte" tvg-name="Cuatro HD",CUATRO HD 1080
+plugin://script.module.horus?action=play&id=e8eec35f4662be1af96963245bfa88fb7d0242c4
+
 #EXTINF:-1 tvg-id="M+ LaLiga TV HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20LaLiga%20TV%20HD.png" group-title="deporte" tvg-name="M+ LaLiga TV HD",M+ LaLiga TV 1080 UHD
 plugin://script.module.horus?action=play&id=dce1579e3a2e5bd29071fca8eae364f1eb3205cf
 
