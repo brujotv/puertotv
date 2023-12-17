@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-id="La 1 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/La%201%20HD.png" group-title="deporte" tvg-name="La 1 HD",La1 UHD
-https://ztnr.rtve.es/ztnr/1688877.m3u8
+https://i.mjh.nz/SamsungTVPlus/ESBC4100001NZ.m3u8
 
 #EXTINF:-1 tvg-id="La 2" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/La%202.png" group-title="deporte" tvg-name="La 2",La 2
 https://ztnr.rtve.es/ztnr/1688885.m3u8
