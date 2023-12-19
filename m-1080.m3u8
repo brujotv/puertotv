@@ -165,3 +165,16 @@ plugin://script.module.horus?action=play&id=859bb6295b8d0f224224d3063d9db7cdeca0
 #EXTINF:-1 tvg-id="M+ Vamos HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Vamos%20HD.png" group-title="deporte" tvg-name="M+ Vamos HD",M+ Vamos 720 HD
 plugin://script.module.horus?action=play&id=3bba7c95857c2502c7e03ced1a6a9b00eb567fa0
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://scontent.fgrx2-1.fna.fbcdn.net/v/t39.30808-1/299192074_592627902436367_2417929778845075407_n.jpg?stp=c8.0.200.200a_dst-jpg_p200x200&_nc_cat=100&ccb=1-7&_nc_sid=9e7101&_nc_ohc=jG6llucy4tMAX9HeVfe&_nc_ht=scontent.fgrx2-1.fna&edm=AKsJ254EAAAA&oh=00_AfDgDYp0uH0t-kaqzurw1aFgwmHTjQsR8BIeg33UG2o-HA&oe=6586AE5C" group-title="deporte" tvg-name="Miami TV",Miami TV HD
+https://59ec5453559f0.streamlock.net/miamitv/smil:WEB3131/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://scontent.fgrx2-1.fna.fbcdn.net/v/t39.30808-1/299192074_592627902436367_2417929778845075407_n.jpg?stp=c8.0.200.200a_dst-jpg_p200x200&_nc_cat=100&ccb=1-7&_nc_sid=9e7101&_nc_ohc=jG6llucy4tMAX9HeVfe&_nc_ht=scontent.fgrx2-1.fna&edm=AKsJ254EAAAA&oh=00_AfDgDYp0uH0t-kaqzurw1aFgwmHTjQsR8BIeg33UG2o-HA&oe=6586AE5C" group-title="deporte" tvg-name="Miami TV",Miami TV HD
+https://59ec5453559f0.streamlock.net/Latino/smil:WEB3131/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://scontent.fgrx2-1.fna.fbcdn.net/v/t39.30808-1/299192074_592627902436367_2417929778845075407_n.jpg?stp=c8.0.200.200a_dst-jpg_p200x200&_nc_cat=100&ccb=1-7&_nc_sid=9e7101&_nc_ohc=jG6llucy4tMAX9HeVfe&_nc_ht=scontent.fgrx2-1.fna&edm=AKsJ254EAAAA&oh=00_AfDgDYp0uH0t-kaqzurw1aFgwmHTjQsR8BIeg33UG2o-HA&oe=6586AE5C" group-title="deporte" tvg-name="Miami TV",Miami TV HD
+https://59ec5453559f0.streamlock.net/JennyLiveMembers/smil:WEB3131/.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://graph.facebook.com/solmusica/picture?width=200&height=200" group-title="deporte" tvg-name="Sol Música España",Sol Música España
+https://d2glyu450vvghm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-21u4g5cjglv02/sm.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="deporte" tvg-name="",
