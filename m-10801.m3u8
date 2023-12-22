@@ -1,4 +1,5 @@
-#EXTM3U x-tvg-url="https://i.mjh.nz/PlutoTV/es.xml"
+#EXTM3U 
+
 #EXTINF:-1 channel-id="pluto-6554bd45aa9ffb00088e5589" tvg-id="6554bd45aa9ffb00088e5589" tvg-logo="https://images.pluto.tv/channels/6554bd45aa9ffb00088e5589/colorLogoPNG.png" tvg-chno="40" group-title="Nuevo en Pluto TV" , COPS
 https://i.mjh.nz/PlutoTV/16554bd45aa9ffb00088e5589-alt.m3u8
 
