@@ -40,7 +40,7 @@ plugin://script.module.horus?action=play&id=535394f62a810bc5aeb25be75ea5ff7d03e0
 plugin://script.module.horus?action=play&id=c896d37778f9e43549a788fc22206a655895b51b
 
 #EXTINF:-1 tvg-id="DAZN LaLiga HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20LaLiga%20HD.png" group-title="Deporte" tvg-name="DAZN LaLiga HD",DAZN LaLiga 1080 HD
-plugin://script.module.horus?action=play&id=1960a9be8ae9e8c755330218eac4c5805466290a
+1960a9be8ae9e8c755330218eac4c5805466290a
 
 #EXTINF:-1 tvg-id="DAZN LaLiga HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20LaLiga%20HD.png" group-title="Deporte" tvg-name="DAZN LaLiga HD",DAZN LaLiga 1080 HD
 plugin://script.module.horus?action=play&id=75251ba975132ec9a202806ba5bf606e87280c96
