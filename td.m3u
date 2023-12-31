@@ -1,263 +1,180 @@
 #EXTM3U 
 
+#EXTINF:-1 tvg-id="La 1 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/La%201%20HD.png" group-title="TDT" tvg-name="La 1 HD",La1 UHD
+https://i.mjh.nz/SamsungTVPlus/ESBC4100001NZ.m3u8
 
-#EXTINF:-1 tvg-id="LA 1 HD" tvg-logo="https://pbs.twimg.com/profile_images/899385012801470464/akSvNCqE_400x400.jpg" group-title="TDT España",La 1 HD
-https://ztnr.rtve.es/ztnr/1688877.m3u8
+#EXTINF:-1 tvg-id="La 2" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/La%202.png" group-title="TDT" tvg-name="La 2",La 2
+https://i.mjh.nz/SamsungTVPlus/ESBC4100002AG.m3u8
 
-#EXTINF:-1 tvg-id="La 2 HD" tvg-logo="https://graph.facebook.com/la2detve/picture?width=320&height=320" group-title="TDT España",La 2 HD
-https://ztnr.rtve.es/ztnr/1688885.m3u8
+#EXTINF:-1 tvg-id="Andalucía TV" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Andaluc%C3%ADa%20TV.png" group-title="TDT" tvg-name="Canal Sur",Canal Sur
+https://cdnlive.codev8.net/rtvalive/smil:channel1.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Canal Sur HD." tvg-logo="https://visiona.tv/wp-content/uploads/2019/06/canal-sur-logo-png-transparent.png?width=320&height=320" group-title="TDT España",Canal Sur Andalucía
-https://cdnlive.shooowit.net/rtvalive/smil:channel1.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="M+ LaLiga TV HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20LaLiga%20TV%20HD.png" group-title="Deporte" tvg-name="M+ LaLiga TV HD",M+ LaLiga TV 1080 UHD
+plugin://script.module.horus?action=play&id=dce1579e3a2e5bd29071fca8eae364f1eb3205cf
 
-#EXTINF:-1 tvg-id="ANTENA 3 HD" tvg-logo="https://graph.facebook.com/antena3/picture?width=320&height=320" group-title="TDT España",Antena 3 HD
-https://mdstrm.com/live-stream-playlist/5cae574f875a4e1adebe5c39.m3u8?access_token=DST4b676d7da5a2a92ee15f8efcbcd00606
+#EXTINF:-1 tvg-id="M+ LaLiga TV HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20LaLiga%20TV%20HD.png" group-title="Deporte" tvg-name="M+ LaLiga TV HD",M+ LaLiga TV 1080 HD
+plugin://script.module.horus?action=play&id=7d8c87e057be98f00f22e23b23fbf08999e4b02f
 
-#EXTINF:-1 tvg-id="CUATRO HD" tvg-logo="https://graph.facebook.com/cuatro/picture?width=320&height=320" group-title="TDT España",Cuatro HD
-https://photocall.tv/m2wz/mt?ch=cuatro
+#EXTINF:-1 tvg-id="M+ LaLiga TV HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20LaLiga%20TV%20HD.png" group-title="Deporte" tvg-name="M+ LaLiga TV HD",M+ LaLiga TV 1080 HD
+plugin://script.module.horus?action=play&id=1969c27658d4c8333ab2c0670802546121a774a5
 
-#EXTINF:-1 tvg-id="Telecinco HD" tvg-logo="https://graph.facebook.com/tele5/picture?width=320&height=320" group-title="TDT España",Telecinco HD
-https://photocall.tv/m2wz/mt?ch=telecinco
+#EXTINF:-1 tvg-id="M+ LaLiga TV HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20LaLiga%20TV%20HD.png" group-title="Deporte" tvg-name="M+ LaLiga TV HD",M+ LaLiga TV 720 HD
+plugin://script.module.horus?action=play&id=f031f5728b32f6089dda28edebe990cf198108d8
 
-#EXTINF:-1 tvg-id="LA SEXTA HD" tvg-logo="https://graph.facebook.com/laSexta/picture?width=320&height=320" group-title="TDT España",laSexta HD
+#EXTINF:-1 tvg-id="M+ LaLiga TV 2 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20LaLiga%20TV%202%20HD.png" group-title="Deporte" tvg-name="M+ LaLiga TV 2 HD",M+ LaLiga TV 2 1080 HD
+plugin://script.module.horus?action=play&id=26029f72a4ca831d09deefe89534818db1d105bc
 
+#EXTINF:-1 tvg-id="M+ LaLiga TV 2 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20LaLiga%20TV%202%20HD.png" group-title="Deporte" tvg-name="M+ LaLiga TV 2 HD",M+ LaLiga TV 2 720 HD
+plugin://script.module.horus?action=play&id=80126b240f3e4e004754fd8f8103e857ab2556a0
 
-#EXTINF:-1 tvg-id="NEOX" tvg-logo="https://graph.facebook.com/neox/picture?width=320&height=320" group-title="TDT España",Neox HD
+#EXTINF:-1 tvg-id="M+ LaLiga TV 3 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20LaLiga%20TV%203%20HD.png" group-title="Deporte" tvg-name="M+ LaLiga TV HD",M+ LaLiga TV 3 1080 HD
+plugin://script.module.horus?action=play&id=4c4844564313e39a888f593511f299f5ba3cf929
 
+#EXTINF:-1 tvg-id="M+ LaLiga TV 4" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20LaLiga%20TV%204.png" group-title="Deporte" tvg-name="M+ LaLiga TV 4",M+ LaLiga TV 4 1080 HD
+plugin://script.module.horus?action=play&id=aa8f826da70e27a26b29c7b32402f17e8a67a8b0
 
-#EXTINF:-1 tvg-id="NOVA" tvg-logo="https://graph.facebook.com/novatdt/picture?width=320&height=320" group-title="TDT España",Nova HD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Deporte" tvg-name="",M+ LaLiga TV 5 1080 HD
+plugin://script.module.horus?action=play&id=535394f62a810bc5aeb25be75ea5ff7d03e070b2
 
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Deporte" tvg-name="",M+ LaLiga TV 6 1080 HD
+plugin://script.module.horus?action=play&id=c896d37778f9e43549a788fc22206a655895b51b
 
-#EXTINF:-1 tvg-id="Mega HD" tvg-logo="https://graph.facebook.com/megaTDT/picture?width=320&height=320" group-title="TDT España",Mega HD
+#EXTINF:-1 tvg-id="DAZN LaLiga HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20LaLiga%20HD.png" group-title="Deporte" tvg-name="DAZN LaLiga HD",DAZN LaLiga 1080 HD
+plugin://script.module.horus?action=play&id=1960a9be8ae9e8c755330218eac4c5805466290a
 
+#EXTINF:-1 tvg-id="DAZN LaLiga HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20LaLiga%20HD.png" group-title="Deporte" tvg-name="DAZN LaLiga HD",DAZN LaLiga 1080 HD
+plugin://script.module.horus?action=play&id=75251ba975132ec9a202806ba5bf606e87280c96
 
-#EXTINF:-1 tvg-id="Atreseries HD" tvg-logo="https://graph.facebook.com/atreseries/picture?width=320&height=320" group-title="TDT España",Atreseries HD
-https://mdstrm.com/live-stream-playlist/5cae562e0ca2f30815231c0f.m3u8?access_token=DST4b676d7da5a2a92ee15f8efcbcd00606
+#EXTINF:-1 tvg-id="DAZN LaLiga HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20LaLiga%20HD.png" group-title="Deporte" tvg-name="DAZN LaLiga HD",DAZN LaLiga 720 HD
+plugin://script.module.horus?action=play&id=a3bca895c58d3fc7d5e4259d3d5e3cf0291d1914
 
-#EXTINF:-1 tvg-id="FDF" tvg-logo="https://graph.facebook.com/factoriadeficcion/picture?width=320&height=320" group-title="TDT España",FDF HD
-https://photocall.tv/m2wz/mt?ch=fdf
+#EXTINF:-1 tvg-id="DAZN LaLiga 2 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20LaLiga%202%20HD.png" group-title="Deporte" tvg-name="DAZN LaLiga HD",DAZN LaLiga 2 1080 HD
+plugin://script.module.horus?action=play&id=e33e666c393ef04ebe99a9b92135d2e0b48c4d10
 
-#EXTINF:-1 tvg-id="ENERGY" tvg-logo="https://graph.facebook.com/E.EnergyTV/picture?width=320&height=320" group-title="TDT España",Energy HD	
-https://photocall.tv/m2wz/mt?ch=energy
+#EXTINF:-1 tvg-id="DAZN LaLiga 2 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20LaLiga%202%20HD.png" group-title="Deporte" tvg-name="DAZN LaLiga HD",DAZN LaLiga 2 720 HD
+plugin://script.module.horus?action=play&id=0950c37fe1ea817fc561c611ae943d58505f7a79
 
-#EXTINF:-1 tvg-id="DIVINITY" tvg-logo="https://graph.facebook.com/divinityes/picture?width=320&height=320" group-title="TDT España",Divinity HD
-https://photocall.tv/m2wz/mt?ch=divinity
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Deporte" tvg-name="DAZN LaLiga HD",DAZN LaLiga 3 1080 HD
+plugin://script.module.horus?action=play&id=8c71f0e0a5476e10950fc827f9d2a507340aba74
 
-#EXTINF:-1 tvg-id="BE MAD" tvg-logo="https://graph.facebook.com/BeMadTV/picture?width=320&height=320" group-title="TDT España",Be Mad HD
-https://photocall.tv/m2wz/mt?ch=bemad
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Deporte" tvg-name="DAZN LaLiga HD",DAZN LaLiga 4 1080 HD
+plugin://script.module.horus?action=play&id=2792a8a5f4a3f53cd72dec377a2639cd12a6973e
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/lIq80bM.jpg?width=320&height=320" group-title="TDT España",mt mad
-https://mdssplive-lh.akamaihd.net/i/mtmad_main@744785/index_1_av-p.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Deporte" tvg-name="DAZN LaLiga HD",DAZN LaLiga 5 1080 HD
+plugin://script.module.horus?action=play&id=99e544cddbee13798e854c1009ee7d1a93fdedf7
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://graph.facebook.com/ParamountNetworkES/picture?width=320&height=320" group-title="TDT España",Paramount Network
-https://photocall.xyz/m2wz/l2?ch=paramount
+#EXTINF:-1 tvg-id="LaLiga TV BAR" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/LaLiga%20TV%20BAR.png" group-title="Deporte" tvg-name="LaLiga TV BAR",LaLiga TV BAR 1080 HD
+plugin://script.module.horus?action=play&id=aa82e7d4f03061f2144a2f4be22f2e2210d42280
 
-#EXTINF:-1 tvg-id="Ten" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/TEN.png?width=320&height=320" group-title="TDT España",Ten
+#EXTINF:-1 tvg-id="LaLiga TV BAR" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/LaLiga%20TV%20BAR.png" group-title="Deporte" tvg-name="LaLiga TV BAR",LaLiga TV BAR 1080 HD
+plugin://script.module.horus?action=play&id=512aeadf50d91603d15b32f1e408166536ec4ac9
 
+#EXTINF:-1 tvg-id="LaLiga TV Hypermotion HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/LaLiga%20TV%20Hypermotion%20HD.png" group-title="Deporte" tvg-name="LaLiga TV Hypermotion HD",LaLiga TV Hypermotion 1080 HD
+plugin://script.module.horus?action=play&id=4c46585214b23b1d802ef2168060c7649a3894cf
 
-#EXTINF:-1 tvg-id="DKISS" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DKISS.png?width=320&height=320" group-title="TDT España",Dkiss
-http://photocall.xyz/k4wf/l2?ch=dkiss
+#EXTINF:-1 tvg-id="LaLiga TV Hypermotion HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/LaLiga%20TV%20Hypermotion%20HD.png" group-title="Deporte" tvg-name="LaLiga TV Hypermotion HD",LaLiga TV Hypermotion 720 HD
+plugin://script.module.horus?action=play&id=06b367c22394a1358c9cefa0cb5d0b64b9b2b3f4
 
-#EXTINF:-1 tvg-id="COSMO HD" tvg-logo="https://i.imgur.com/yQutZ2o.gif?width=320&height=320" group-title="TDT España",COSMO HD
-http://154.62.74.12:1935/live/smil:cosmoHD/playlist.m3u8
+#EXTINF:-1 tvg-id="LaLiga TV Hypermotion 2" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/LaLiga%20TV%20Hypermotion%202.png" group-title="Deporte" tvg-name="LaLiga TV Hypermotion 2",LaLiga TV Hypermotion 2 1080 HD
+plugin://script.module.horus?action=play&id=d81b4f2f3fde433539c097b2edc9b587ca47b087
 
-#EXTINF:-1 tvg-id="DMax.TDTChannelsEPG" tvg-logo="https://i.imgur.com/x4fGu91.png/picture?width=320&height=320" group-title="TDT España",DMax
-https://photocall.xyz/m2wz/l2?ch=dmax
+#EXTINF:-1 tvg-id="LaLiga TV Hypermotion 2" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/LaLiga%20TV%20Hypermotion%202.png" group-title="Deporte" tvg-name="LaLiga TV Hypermotion 2",LaLiga TV Hypermotion 2 720 HD
+plugin://script.module.horus?action=play&id=2709d0ab86cb6ce7ba4d3ad188d7fa80668f2924
 
-#EXTINF:-1 tvg-id="PARAMOUNT" tvg-logo="https://i.imgur.com/GwoWMlF.jpg/picture?width=320&height=320" group-title="TDT España",Paramount Channel
+#EXTINF:-1 tvg-id="LaLiga TV Hypermotion 3" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/LaLiga%20TV%20Hypermotion%203.png" group-title="Deporte" tvg-name="LaLiga TV Hypermotion 2",LaLiga TV Hypermotion 3 1080 HD
+plugin://script.module.horus?action=play&id=b4a076c1f67a5c1f1ba899ac61b9401b1dc30f41
 
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Deporte" tvg-name="LaLiga TV Hypermotion 2",LaLiga TV Hypermotion 4 1080 HD
+plugin://script.module.horus?action=play&id=2cacf21476b036e319bcb7c7e747766e6ccc082e
 
-#EXTINF:-1 tvg-id="BOING" tvg-logo="https://i.imgur.com/ux2SEpi.jpg/picture?width=320&height=320" group-title="TDT España",Boing	
-https://photocall.tv/m2wz/mt?ch=boing
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Deporte" tvg-name="LaLiga TV Hypermotion 2",LaLiga TV Hypermotion 5 1080 HD
+plugin://script.module.horus?action=play&id=a1146358aa50c99c887108b17f62f9264186a16a
 
-#EXTINF:-1 tvg-id="CLAN  TVE" tvg-logo="https://i.imgur.com/ZrlQyAL.jpg/picture?width=320&height=320" group-title="TDT España",clan
-https://ztnr.rtve.es/ztnr/5466990.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Deporte" tvg-name="LaLiga TV Hypermotion 2",LaLiga TV Hypermotion 6 1080 HD
+plugin://script.module.horus?action=play&id=7a9bb1b9cccb759c44ed84f3c1283922e6854670
 
-#EXTINF:-1 tvg-id="24 HORAS" tvg-logo="https://i.imgur.com/rYO7n4s.png/picture?width=320&height=320" group-title="TDT España",24h
-https://ztnr.rtve.es/ztnr/1694255.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Deporte" tvg-name="LaLiga TV Hypermotion 2",LaLiga TV Hypermotion 7 1080 HD
+plugin://script.module.horus?action=play&id=446e73a22582921393b020ed08b768ad8e14d754
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/wY5WCAi.jpg/picture?width=320&height=320" group-title="TDT España",Teledeporte
-https://ztnr.rtve.es/ztnr/1712295.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Deporte" tvg-name="LaLiga TV Hypermotion 2",LaLiga TV Hypermotion 8 1080 HD
+plugin://script.module.horus?action=play&id=4d52fc1994fe927702aeb7bc8778e2f23b1260e2
 
-#EXTINF:-1 tvg-id="GOL" tvg-logo="https://graph.facebook.com/goltv.es/picture?width=320&height=320" group-title="TDT España",GOL TV
-http://photocall.xyz/m2wz/l2?ch=gol
+#EXTINF:-1 tvg-id="M+ Liga de Campeones HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%20HD.png" group-title="Deporte" tvg-name="M+ Liga de Campeones HD",M+ Liga de Campeones 1080 HD
+plugin://script.module.horus?action=play&id=931b1984badcb821df7b47a66ac0835ac871b51c
 
-#EXTINF:-1 tvg-id="R. MADRID TV" tvg-logo="https://i.imgur.com/EQAvfdp.jpg?width=320&height=320" group-title="DEPORTES",Real Madrid TV
-https://photocall.tv/m2wz/l1?ch=rm_es
+#EXTINF:-1 tvg-id="M+ Liga de Campeones HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%20HD.png" group-title="Deporte" tvg-name="M+ Liga de Campeones HD",M+ Liga de Campeones 1080 HD
+plugin://script.module.horus?action=play&id=f096a64dd756a6d549aa7b12ee9acf7eee27e833
 
-#EXTINF:-1 tvg-id="Betis TV HD" tvg-logo="http://graph.facebook.com/realbetisbalompie/picture?width=320&height=320" group-title="Deportivos",Betis TV HD
-https://photocall.tv/m2wz/l1?ch=betis
+#EXTINF:-1 tvg-id="M+ Liga de Campeones HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%20HD.png" group-title="Deporte" tvg-name="M+ Liga de Campeones HD",M+ Liga de Campeones 720 HD
+plugin://script.module.horus?action=play&id=1d79a7543d691666135669f89f3541f54e2dd0a9
 
-#EXTINF:-1 tvg-id="SEVILLAFC TV" tvg-logo="https://i.imgur.com/FTLjroU.png" group-title="DEPORTES", Sevilla FC
-https://photocall.tv/m2wz/l1?ch=sfc
+#EXTINF:-1 tvg-id="M+ Liga de Campeones 2 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%202%20HD.png" group-title="Deporte" tvg-name="M+ Liga de Campeones 2 HD",M+ Liga de Campeones 2 1080 HD
+plugin://script.module.horus?action=play&id=fc2fe31b0bce25e2dc7ab4d262bf645e2be5a393
 
-#EXTINF:-1 tvg-id="0.es" tvg-logo="https://i.imgur.com/VCJKsMa.jpg/picture?width=320&height=320" group-title="TDT España",#0 
+#EXTINF:-1 tvg-id="M+ Liga de Campeones 2 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%202%20HD.png" group-title="Deporte" tvg-name="M+ Liga de Campeones 2 HD",M+ Liga de Campeones 2 720 HD
+plugin://script.module.horus?action=play&id=6753492c1908274c268a1b28e2a054a0ff8f86f9
 
+#EXTINF:-1 tvg-id="M+ Liga de Campeones 3 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%203%20HD.png" group-title="Deporte" tvg-name="M+ Liga de Campeones 3 HD",M+ Liga de Campeones 3 1080 HD
+plugin://script.module.horus?action=play&id=ad372cba73aa0ece207a79532b3e30b731136bb2
 
-#EXTINF:-1 tvg-id="M.ESTRENOS HD" tvg-logo="https://raw.githubusercontent.com/pakito71/Logos/master/estrenos.png?width=320&height=320" group-title="TDT España",M.Estrenos HD
+#EXTINF:-1 tvg-id="M+ Liga de Campeones 3 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%203%20HD.png" group-title="Deporte" tvg-name="M+ Liga de Campeones 3 HD",M+ Liga de Campeones 3 720 HD
+plugin://script.module.horus?action=play&id=d59fe9978eed49f256b312a60671b5bce43d3f24
 
+#EXTINF:-1 tvg-id="M+ Deportes HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Deportes%20HD.png" group-title="Deporte" tvg-name="M+ Deportes HD",M+ Deportes 1080 HD
+plugin://script.module.horus?action=play&id=d00223931b1854163e24c5c22475015d7d45c112
 
-#EXTINF:-1 tvg-id="M. ACCION HD" tvg-logo="https://raw.githubusercontent.com/pakito71/Logos/master/accion.png?width=320&height=320" group-title="TDT España",M. Accion 
-http://user.tvcluboficial.com/stream/free_EVYANGELCR_COSTARICA/zjx/364.m3u8
+#EXTINF:-1 tvg-id="M+ Deportes HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Deportes%20HD.png" group-title="Deporte" tvg-name="M+ Deportes HD",M+ Deportes 720 HD
+plugin://script.module.horus?action=play&id=e5fa927d9a017f4523fdb62774a0aec457985bfa
 
-#EXTINF:-1 tvg-id="M.COMEDIA HD" tvg-logo="https://raw.githubusercontent.com/pakito71/Logos/master/comedia.png?width=320&height=320" group-title="TDT España",M. Comedia
+#EXTINF:-1 tvg-id="M+ Deportes 2 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Deportes%202%20HD.png" group-title="Deporte" tvg-name="M+ Deportes 2 HD",M+ Deportes 2 1080 HD
+plugin://script.module.horus?action=play&id=e6f06d697f66a8fa606c4d61236c24b0d604d917
 
+#EXTINF:-1 tvg-id="DAZN F1 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20F1%20HD.png" group-title="Deporte" tvg-name="DAZN F1 HD",DAZN F1 1080 HD
+plugin://script.module.horus?action=play&id=5789ca155323664edd293b848606688edf803f4d
 
-#EXTINF:-1 tvg-id="M.COMEDIA HD" tvg-logo="https://raw.githubusercontent.com/pakito71/Logos/master/comedia.png?width=320&height=320" group-title="TDT España",M. Comedia
+#EXTINF:-1 tvg-id="DAZN F1 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20F1%20HD.png" group-title="Deporte" tvg-name="DAZN F1 HD",DAZN F1 1080 HD
+plugin://script.module.horus?action=play&id=9dad717d99b29a05672166258a77c25b57713dd5
 
+#EXTINF:-1 tvg-id="DAZN F1 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20F1%20HD.png" group-title="Deporte" tvg-name="DAZN F1 HD",DAZN F1 720 HD
+plugin://script.module.horus?action=play&id=e1fcad9de0c782c157fde6377805c58297ab65c2
 
-#EXTINF:-1 tvg-ID="M. DRAMA HD" tvg-name="ES: M. DRAMA HD" tvg-logo="http://www.movistarplus.es/recorte/m-NEO/canal/CPCOLE.png" group-title="M. Espana",M. DRAMA 
+#EXTINF:-1 tvg-id="M+ Ellas Vamos HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Ellas%20Vamos%20HD.png" group-title="Deporte" tvg-name="M+ Ellas Vamos HD",M+ Ellas Vamos 1080 HD
+plugin://script.module.horus?action=play&id=67654e63b5065cdaa6c8e8d41bb5428b42b32830
 
+#EXTINF:-1 tvg-id="DAZN 1 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%201%20HD.png" group-title="Deporte" tvg-name="DAZN 1 HD",DAZN 1 1080 HD
+plugin://script.module.horus?action=play&id=8ca07071b39185431f8e940ec98d1add9e561639
 
-#EXTINF:-1 tvg-ID="M.CineDocRoll" tvg-name="ES: M.CINEDOC&ROLL HD" tvg-logo="https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-original/1_0_19_74D8_3F8_1_C00000_0_0_0.png" group-title="M. Espana",M.CINEDOC&ROLL HD
+#EXTINF:-1 tvg-id="DAZN 1 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%201%20HD.png" group-title="Deporte" tvg-name="DAZN 1 HD",DAZN 1 720 HD
+plugin://script.module.horus?action=play&id=eaff9293c76a324c750ef5094c2a4e2c96518d1f
 
+#EXTINF:-1 tvg-id="DAZN 2 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%202%20HD.png" group-title="Deporte" tvg-name="DAZN 2 HD",DAZN 2 1080 HD
+plugin://script.module.horus?action=play&id=60dbeeb299ec04bf02bc7426d827547599d3d9fc
 
-#EXTINF:-1 tvg-ID="M. Cine Español" tvg-name="ES: M. Cine Espanol" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DCESP.png" group-title="M. Espana",M. Cine Espanol
+#EXTINF:-1 tvg-id="DAZN 2 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%202%20HD.png" group-title="Deporte" tvg-name="DAZN 2 HD",DAZN 2 720 HD
+plugin://script.module.horus?action=play&id=7aa402bab9fff43258fbcf401881a39475f30aaf
 
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Deporte" tvg-name="DAZN 3 HD",DAZN 3 1080 HD
+plugin://script.module.horus?action=play&id=a8ffddef56f082d4bb5c0be0d3d2fdd8c16dbd97
 
-#EXTINF:-1 tvg-id="M. SERIES HD" tvg-logo="https://i.imgur.com/QZcZvRO.png/picture?width=320&height=320" group-title="TDT España",M.SERIES
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Deporte" tvg-name="DAZN 4 HD",DAZN 4 1080 HD
+plugin://script.module.horus?action=play&id=2fcdf7a19c0858f686efdfabd3c8c2b92bf6bcfd
 
+#EXTINF:-1 tvg-id="M+ Vamos HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Vamos%20HD.png" group-title="Deporte" tvg-name="M+ Vamos HD",M+ Vamos 1080 HD
+plugin://script.module.horus?action=play&id=859bb6295b8d0f224224d3063d9db7cdeca03122
 
-#EXTINF:-1 tvg-ID="M.Seriesmania HD" tvg-name="ES: M. SERIESMANIA HD" tvg-logo="http://www.movistarplus.es/recorte/m-NEO/canal/MV2.png" group-title="M. Espana",M. SERIESMANIA 
+#EXTINF:-1 tvg-id="M+ Vamos HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Vamos%20HD.png" group-title="Deporte" tvg-name="M+ Vamos HD",M+ Vamos 720 HD
+plugin://script.module.horus?action=play&id=3bba7c95857c2502c7e03ced1a6a9b00eb567fa0
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://scontent.fgrx2-1.fna.fbcdn.net/v/t39.30808-1/299192074_592627902436367_2417929778845075407_n.jpg?stp=c8.0.200.200a_dst-jpg_p200x200&_nc_cat=100&ccb=1-7&_nc_sid=9e7101&_nc_ohc=jG6llucy4tMAX9HeVfe&_nc_ht=scontent.fgrx2-1.fna&edm=AKsJ254EAAAA&oh=00_AfDgDYp0uH0t-kaqzurw1aFgwmHTjQsR8BIeg33UG2o-HA&oe=6586AE5C" group-title="+18" tvg-name="Miami TV",Miami TV HD
+https://59ec5453559f0.streamlock.net/miamitv/smil:WEB3131/playlist.m3u8
 
-#EXTINF:-1 tvg-ID="HOLLYWOOD HD" tvg-name="ES: HOLLYWOOD HD" tvg-logo="https://raw.githubusercontent.com/dracohe/picon/master/HOLLYW.png" group-title="M. Espana",HOLLYWOOD 
+#EXTINF:-1 tvg-id="" tvg-logo="https://scontent.fgrx2-1.fna.fbcdn.net/v/t39.30808-1/299192074_592627902436367_2417929778845075407_n.jpg?stp=c8.0.200.200a_dst-jpg_p200x200&_nc_cat=100&ccb=1-7&_nc_sid=9e7101&_nc_ohc=jG6llucy4tMAX9HeVfe&_nc_ht=scontent.fgrx2-1.fna&edm=AKsJ254EAAAA&oh=00_AfDgDYp0uH0t-kaqzurw1aFgwmHTjQsR8BIeg33UG2o-HA&oe=6586AE5C" group-title="+18" tvg-name="Miami TV",Miami TV HD
+https://59ec5453559f0.streamlock.net/Latino/smil:WEB3131/playlist.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://scontent.fgrx2-1.fna.fbcdn.net/v/t39.30808-1/299192074_592627902436367_2417929778845075407_n.jpg?stp=c8.0.200.200a_dst-jpg_p200x200&_nc_cat=100&ccb=1-7&_nc_sid=9e7101&_nc_ohc=jG6llucy4tMAX9HeVfe&_nc_ht=scontent.fgrx2-1.fna&edm=AKsJ254EAAAA&oh=00_AfDgDYp0uH0t-kaqzurw1aFgwmHTjQsR8BIeg33UG2o-HA&oe=6586AE5C" group-title="+18" tvg-name="Miami TV",Miami TV HD
+https://59ec5453559f0.streamlock.net/JennyLiveMembers/smil:WEB3131/.m3u8
 
-#EXTINF:-1 tvg-ID="CALLE 13 HD" tvg-name="ES: CALLE 13" tvg-logo="https://raw.githubusercontent.com/dracohe/picon/master/CL13.png" group-title="M. Espana",CALLE 13
+#EXTINF:-1 tvg-id="" tvg-logo="https://graph.facebook.com/solmusica/picture?width=200&height=200" group-title="Musica" tvg-name="Sol Música España",Sol Música España
+https://d2glyu450vvghm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-21u4g5cjglv02/sm.m3u8
 
-
-#EXTINF:-1 tvg-ID="TNT HD" tvg-name="ES: TNT HD" tvg-logo="https://raw.githubusercontent.com/dracohe/picon/master/TNT.png" group-title="M. Espana",TNT 
-
-
-#EXTINF:-1 tvg-ID="TCM HD" tvg-name="ES: TCM" tvg-logo="https://raw.githubusercontent.com/dracohe/picon/master/TCM.png" group-title="M. Espana",TCM
-
-
-#EXTINF:-1 tvg-ID="SYFY HD" tvg-name="ES: SYFY" tvg-logo="https://raw.githubusercontent.com/dracohe/picon/master/SCI-FI.png" group-title="M. Espana",SYFY
-
-
-#EXTINF:-1 tvg-ID="AMC HD" tvg-name="ES: AMC" tvg-logo="https://raw.githubusercontent.com/dracohe/picon/master/AMC.png" group-title="M. Espana",AMC
-
-
-#EXTINF:-1 tvg-ID="FOX HD" tvg-name="ES: FOX HD" tvg-logo="https://raw.githubusercontent.com/dracohe/picon/master/FOXGE.png" group-title="M. Espana",FOX 
-
-
-#EXTINF:-1 tvg-ID="FOX LIFE FHD" tvg-name="ES: FOX LIFE HD" tvg-logo="https://raw.githubusercontent.com/dracohe/picon/master/FOXCR.png" group-title="M. Espana",FOX LIFE 
-
-
-#EXTINF:-1 tvg-ID="AXN HD" tvg-name="ES: AXN HD" tvg-logo="https://raw.githubusercontent.com/dracohe/picon/master/AXN.png" group-title="M. Espana",AXN 
-
-
-#EXTINF:-1 tvg-ID="AXN WHITE HD" tvg-name="ES: AXN WHITE" tvg-logo="https://raw.githubusercontent.com/dracohe/picon/master/SET.png" group-title="M. Espana",AXN WHITE
-
-
-#EXTINF:-1 tvg-ID="NAT GEO WILD HD" tvg-name="ES: NG WILD HD" tvg-logo="https://raw.githubusercontent.com/dracohe/picon/master/NATGW.png" group-title="M. Espana",NG WILD 
-
-
-#EXTINF:-1 tvg-ID="NAT GEO HD" tvg-name="ES: NAT GEO HD" tvg-logo="https://raw.githubusercontent.com/dracohe/picon/master/NATGEO.png" group-title="M. Espana",NAT GEO 
-
-
-#EXTINF:-1 tvg-ID="DISCOVERY" tvg-name="ES: DISCOVERY" tvg-logo="https://raw.githubusercontent.com/dracohe/picon/master/DCR.png" group-title="M. Espana",DISCOVERY
-
-
-#EXTINF:-1 tvg-ID="HISTORIA" tvg-name="[ES] HISTORIA HD **" tvg-logo="https://raw.githubusercontent.com/dracohe/picon/master/HIST.png" group-title="M. Espana",HISTORIA 
-
-
-#EXTINF:-1 tvg-ID="CANAL COCINA" tvg-name="[ES] CANAL COCINA HD **" tvg-logo="https://raw.githubusercontent.com/dracohe/picon/master/CACOC.png" group-title="M. Espana",CANAL COCINA 
-
-
-#EXTINF:-1 tvg-ID="BLAZE" tvg-name="[ES] BLAZE HD **" tvg-logo="https://raw.githubusercontent.com/dracohe/picon/master/BIOGRA.png" group-title="M. Espana",BLAZE
-
-
-#EXTINF:-1 tvg-ID="XTRM" tvg-name="[ES] XTREM HD **" tvg-logo="https://raw.githubusercontent.com/pakito71/Logos/master/xtrm.png" group-title="M. Espana",XTREM 
-
-
-#EXTINF:-1 tvg-ID="CAZAyPESCA HD" tvg-name="ES: CAZA Y PESCA" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CAZPES.png" group-title="M. Espana",CAZA Y PESCA
-
-
-#EXTINF:-1 tvg-id="LALIGATV BAR HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/LIGBAR.png?width=320&height=320" group-title="DEPORTES",M.liga bar 
-
-
-#EXTINF:-1 tvg-id="LALIGATV BAR HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/LIGBAR.png?width=320&height=320" group-title="DEPORTES",M.liga bar FHD
-
-
-#EXTINF:-1 tvg-id="M. LaLiga FHD" tvg-logo="https://assets.laliga.com/assets/logos/laliga-v/laliga-v-1200x1200.jpg?width=320&height=320" group-title="DEPORTES",M.liga 
-http://loga.ultratotal.ml/xls/ligota/index.m3u8
-
-#EXTINF:-1 tvg-id="M. LaLiga FHD" tvg-logo="https://assets.laliga.com/assets/logos/laliga-v/laliga-v-1200x1200.jpg?width=320&height=320" group-title="DEPORTES",M.liga 
-
-
-#EXTINF:-1 tvg-id="M. LaLiga FHD" tvg-logo="https://assets.laliga.com/assets/logos/laliga-v/laliga-v-1200x1200.jpg?width=320&height=320" group-title="DEPORTES",M.liga 
-
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/MPfpjze.png?width=320&height=320" group-title="DEPORTES",M.liga SmartBank
-
-
-#EXTINF:-1 tvg-id="M.LCAMPEONES HD#" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAPIO.png?width=320&height=320" group-title="DEPORTES",M.Liga de Campeones Estable
-
-
-#EXTINF:-1 tvg-id="M.LCAMPEONES HD#" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAPIO.png?width=320&height=320" group-title="DEPORTES",M.Liga de Campeones
-
-
-#EXTINF:-1 tvg-id="M. DEPORTE HD" tvg-logo="https://i.imgur.com/JUwNUhT.png?width=320&height=320" group-title="DEPORTES",M.Deportes
-
-
-#EXTINF:-1 tvg-id="M. DEPORTE HD" tvg-logo="https://i.imgur.com/JUwNUhT.png?width=320&height=320" group-title="DEPORTES",247 sport
-
-
-#EXTINF:-1 tvg-id="#VAMOS" tvg-logo="https://i.imgur.com/tas7PmQ.png?width=320&height=320" group-title="DEPORTES",M.Vamos
-
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://d1sgwhnao7452x.cloudfront.net/dazn-og.jpg?width=320&height=320" group-title="DEPORTES",dazn
-
-
-#EXTINF:-1 tvg-id="M.FORMULA1 HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MVF1.png?width=320&height=320" group-title="DEPORTES",M.formula 1 
-
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://photocall.tv/images/fighttime.png" group-title="DEPORTES", Fight Time
-
-
-#EXTINF:-1 tvg-id="." tvg-logo="https://i.imgur.com/dCI1w14.jpg?width=320&height=320" group-title="ADULTO", BSX (18+)
-
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://lh6.ggpht.com/_9PDHPy5tdyU/S70enxyhZ9I/AAAAAAAAAH4/MHpKKNOd6Ts/classificacao_indicativa_18_anos_thumb%5B1%5D.gif?width=320&height=320" group-title="ADULTO",Visit-X (18+)
-http://stream.visit-x.tv:1935/vxtv/live/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://lh6.ggpht.com/_9PDHPy5tdyU/S70enxyhZ9I/AAAAAAAAAH4/MHpKKNOd6Ts/classificacao_indicativa_18_anos_thumb%5B1%5D.gif?width=320&height=320" group-title="ADULTO", Jasmin Channel (18+)
-http://109.71.162.112/live/sd.jasminchannel.stream/chunklist_w233748568.m3u8?MWINFO
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9J5o9rt.png" group-title="ADULTO", Passion XXX (18+)
-
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ikorRe8.png" group-title="ADULTO", A3BIKINI TV (18+)
-https://vcnbikininetwork.teleosmedia.com/stream/bikininetwork/a3bikini/seglist_720p.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/JgcUO21.jpg" group-title="ADULTO", Super One HD (18+)
-
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/WlrcyMe.png" group-title="ADULTO", Miami TV (18+)
-https://photocall.tv/k4wf/l1?ch=miami_la
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/WlrcyMe.png" group-title="ADULTO", Miami TV español (18+)
-https://59ec5453559f0.streamlock.net/miamitv/smil:WEB/chunklist_w75993015_b1896000.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/WlrcyMe.png" group-title="ADULTO", Miami TV Jenny Live (18+)
-https://59ec5453559f0.streamlock.net/JennyLive/smil:WEB/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://lh6.ggpht.com/_9PDHPy5tdyU/S70enxyhZ9I/AAAAAAAAAH4/MHpKKNOd6Ts/classificacao_indicativa_18_anos_thumb%5B1%5D.gif?width=320&height=320" group-title="ADULTO", Playboy TV (18+)
-https://photocall.tv/k4wf/x?ch=playboy
-
-#EXTINF:-1 tvg-logo="http://lh6.ggpht.com/_9PDHPy5tdyU/S70enxyhZ9I/AAAAAAAAAH4/MHpKKNOd6Ts/classificacao_indicativa_18_anos_thumb%5B1%5D.gif?width=320&height=320" group-title="ADULTO", Brazzers TV Europe (18+)
-https://photocall.tv/k4wf/x?ch=brazzers
-
-#EXTINF:-1 tvg-logo="https://files.company.fashiontv.com/wp-content/uploads/2017/03/fashiontv_logo_blue_horizontal.png" group-title="ADULTO",FTV Midnight Secrets (HD)
-https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/chunklist_b2800000_t64NzIwcA==.m3u8
-
-#EXTINF:-1 tvg-logo="https://terapiasexo.com/wp-content/uploads/2016/09/logo-miami-tv.png" group-title="24/7 ADULT IPTV",Miami TV Live
-https://photocall.tv/k4wf/l1?ch=miami_live
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/D62Pi3e.png" group-title="ADULTO",NYX Media 1 (Opt-1)
-
-#EXTINF:-1 tvg-logo="" group-title="VIVID RED
-https://photocall.tv/k4wf/x?ch=vividred
-
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="deporte" tvg-name="",
