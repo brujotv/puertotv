@@ -15,8 +15,44 @@
 </item>
 
 <item>
+<title>[COLOR lime]•[/COLOR] Canal Sur HD </title>
+<link>https://cdnlive.codev8.net/rtvalive/smil:channel1.smil/playlist.m3u8</link>
+<thumbnail>https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Andaluc%C3%ADa%20TV.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR lime]•[/COLOR] M+ LaLiga TV HD OP1 </title>
+<link>plugin://script.module.horus?action=play&id=dce1579e3a2e5bd29071fca8eae364f1eb3205cf</link>
+<thumbnail>https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20LaLiga%20TV%20HD.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR lime]•[/COLOR] M+ LaLiga TV HD OP2 </title>
+<link>plugin://script.module.horus?action=play&id=7d8c87e057be98f00f22e23b23fbf08999e4b02f</link>
+<thumbnail>https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20LaLiga%20TV%20HD.png</thumbnail>
+</item>
+
+<item>
 <title>[COLOR lime]•[/COLOR]  </title>
-<link></link>
+<link>plugin://script.module.horus?action=play&id=</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>[COLOR lime]•[/COLOR]  </title>
+<link>plugin://script.module.horus?action=play&id=</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>[COLOR lime]•[/COLOR]  </title>
+<link>plugin://script.module.horus?action=play&id=</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>[COLOR lime]•[/COLOR]  </title>
+<link>plugin://script.module.horus?action=play&id=</link>
 <thumbnail></thumbnail>
 </item>
 
