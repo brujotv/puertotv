@@ -9,7 +9,31 @@
 </item>
 
 <item>
-<title>[COLOR lime]•[/COLOR] Hay algo en el granero </title>
+<title>[COLOR lime]•[/COLOR] La 2 HD </title>
+<link>https://i.mjh.nz/SamsungTVPlus/ESBC4100002AG.m3u8</link>
+<thumbnail>https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/La%202.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR lime]•[/COLOR]  </title>
+<link></link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>[COLOR lime]•[/COLOR]  </title>
+<link>plugin://script.module.horus?action=play&id=</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>[COLOR lime]•[/COLOR]  </title>
+<link>plugin://script.module.horus?action=play&id=</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>[COLOR lime]•[/COLOR]  </title>
 <link>plugin://script.module.horus?action=play&id=</link>
 <thumbnail></thumbnail>
 </item>
