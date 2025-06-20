@@ -1,13 +1,13 @@
 #EXTM3U 
 
 #EXTINF:-1 tvg-id="La 1 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/La%201%20HD.png" group-title="TDT" tvg-name="La 1 HD",La1 UHD
-https://i.mjh.nz/SamsungTVPlus/ESBC4100001NZ.m3u8
+https://ztnr.rtve.es/ztnr/1688877.m3u8
 
 #EXTINF:-1 tvg-id="La 2" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/La%202.png" group-title="TDT" tvg-name="La 2",La 2
-https://i.mjh.nz/SamsungTVPlus/ESBC4100002AG.m3u8
+http://185.189.225.150:85/TV2/index.m3u8
 
 #EXTINF:-1 tvg-id="Andalucía TV" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Andaluc%C3%ADa%20TV.png" group-title="TDT" tvg-name="Canal Sur",Canal Sur
-https://cdnlive.codev8.net/rtvalive/smil:channel1.smil/playlist.m3u8
+https://ss9.domint.net:3030/sur_str/surtv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="M+ LaLiga TV HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20LaLiga%20TV%20HD.png" group-title="Deporte" tvg-name="M+ LaLiga TV HD",M+ LaLiga TV 1080 UHD
 plugin://script.module.horus?action=play&id=dce1579e3a2e5bd29071fca8eae364f1eb3205cf
