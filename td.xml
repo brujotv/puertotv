@@ -4,19 +4,19 @@
 
 <item>
 <title>[COLOR lime]•[/COLOR] La 1 HD </title>
-<link>https://i.mjh.nz/SamsungTVPlus/ESBC4100001NZ.m3u8</link>
+<link>https://ztnr.rtve.es/ztnr/1688877.m3u8</link>
 <thumbnail>https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/La%201%20HD.png</thumbnail>
 </item>
 
 <item>
 <title>[COLOR lime]•[/COLOR] La 2 HD </title>
-<link>https://i.mjh.nz/SamsungTVPlus/ESBC4100002AG.m3u8</link>
+<link>http://185.189.225.150:85/TV2/index.m3u8</link>
 <thumbnail>https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/La%202.png</thumbnail>
 </item>
 
 <item>
 <title>[COLOR lime]•[/COLOR] Canal Sur HD </title>
-<link>https://cdnlive.codev8.net/rtvalive/smil:channel1.smil/playlist.m3u8</link>
+<link>https://ss9.domint.net:3030/sur_str/surtv/playlist.m3u8</link>
 <thumbnail>https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Andaluc%C3%ADa%20TV.png</thumbnail>
 </item>
 
