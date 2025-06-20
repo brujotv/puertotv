@@ -1,7 +1,18 @@
-#EXTM3U
-#EXTINF:-1 tvg-name="Camela – Cuando zarpa el amor",Camela – Cuando zarpa el amor
-plugin://plugin.video.youtube/?action=play_video&videoid=pumV6-s9OWk
-#EXTINF:-1 tvg-name="Video de YouTube 2",Video de YouTube 2
-plugin://plugin.video.youtube/?action=play_video&videoid=pumV6-s9OWk
-#EXTINF:-1 tvg-name="Mark Ronson - Uptown Funk ft. Bruno Mars",Mark Ronson - Uptown Funk ft. Bruno Mars
-plugin://plugin.video.youtube/?action=play_video&videoid=OPf0YbXqDm0
+<?xml version="1.0" encoding="UTF-8"?>
+<items>
+  <item>
+    <title>Rick Astley - Never Gonna Give You Up</title>
+    <link>plugin://plugin.video.youtube/?action=play_video&videoid=dQw4w9WgXcQ</link>
+    <thumbnail>https://i.ytimg.com/vi/dQw4w9WgXcQ/hqdefault.jpg</thumbnail>
+  </item>
+  <item>
+    <title>Camela – Cuando zarpa el amor</title>
+    <link>plugin://plugin.video.youtube/?action=play_video&videoid=pumV6-s9OWk</link>
+    <thumbnail>https://i.ytimg.com/vi/pumV6-s9OWk/hqdefault.jpg</thumbnail>
+  </item>
+  <item>
+    <title>Mark Ronson - Uptown Funk ft. Bruno Mars</title>
+    <link>plugin://plugin.video.youtube/?action=play_video&videoid=OPf0YbXqDm0</link>
+    <thumbnail>https://i.ytimg.com/vi/OPf0YbXqDm0/hqdefault.jpg</thumbnail>
+  </item>
+</items>
