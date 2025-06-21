@@ -21,6 +21,18 @@
 </item>
 
 <item>
+<title>[COLOR lime]•[/COLOR] Cuatro </title>
+<link>plugin://script.module.horus?action=play&id=8670df538a11c6ec97b3f634981ddc4409ca0333</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>[COLOR lime]•[/COLOR] Telecinco </title>
+<link>plugin://script.module.horus?action=play&id=3d376333ee90d6db3d413fc5764ef635882076f5</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
 <title>[COLOR lime]•[/COLOR] M+ LaLiga TV HD OP1 </title>
 <link>plugin://script.module.horus?action=play&id=00c9bc9c5d7d87680a5a6bed349edfa775a89947</link>
 <thumbnail>https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20LaLiga%20TV%20HD.png</thumbnail>
